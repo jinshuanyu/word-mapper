@@ -342,7 +342,8 @@
           <article class="word-card" data-word="${(w.word||'').toLowerCase()}" data-tags="${tags.join(',')}">
             <header class="card-header">
               <div class="card-title"><span class="word-number">${w.number ?? ''}</span><span class="word-text">${w.word}</span></div>
-              <button class="audio-button" aria-label="播放 ${w.word} 聲音" onclick="speak('${w.word}')">🔊</button>
+              <button class="audio-button" onclick="speak('${(w.speak || w.word).replace(/'/g,"\\'")}')">🔊</button>
+
             </header>
             <div class="card-body">
               ${badges}
@@ -513,3 +514,4 @@
   </script>
 </body>
 </html>
+
