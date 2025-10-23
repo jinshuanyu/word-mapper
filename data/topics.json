@@ -1,0 +1,13 @@
+{
+  "topics": [
+    {
+      "slug": "numbers_1_20",
+      "zh": "數字 Numbers 1–20",
+      "en": "Numbers 1–20",
+      "levels": [
+        { "label": "-1", "src": "data/numbers-1.json" },
+        { "label": "-2", "src": "data/numbers-2.json" }
+      ]
+    }
+  ]
+}

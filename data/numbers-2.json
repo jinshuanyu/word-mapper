@@ -1,0 +1,64 @@
+{
+  "items": [
+    { "number":11, "word":"eleven", "ipa":"/ɪˈlɛv.ən/",
+      "graphemes":["e","l","e","v","en"],
+      "phonemes":["/ɪ","l","ɛ","v","ən/"], "phonics":["/ĭ","l","ĕ","v","ən/"],
+      "tags":["irregular","closed","suffix"], "hearts":[true,false,false,false,false],
+      "hint":"第一個 e /ɪ/（❤）；第二個 e /ĕ/；en 弱化 /ən/。"
+    },
+    { "number":12, "word":"twelve", "ipa":"/twɛlv/",
+      "graphemes":["tw","e","l","v","e"],
+      "phonemes":["/t w","ɛ","l","v","-/"], "phonics":["/tw","ĕ","l","v","-/"],
+      "tags":["cluster","irregular"], "hearts":[false,true,false,false,false],
+      "hint":"tw 子音群；尾 e 靜音。"
+    },
+    { "number":13, "word":"thirteen", "ipa":"/ˈθɜr.tin/",
+      "graphemes":["th","ir","t","een"],
+      "phonemes":["/θ","ɜr","t","in/"], "phonics":["/th","er","t","ēn/"],
+      "tags":["digraph","rcontrolled","vowel_team"], "hearts":[false,false,false,true],
+      "hint":"th 無聲；ir 為 r 控制；teen → /t in/。"
+    },
+    { "number":14, "word":"fourteen", "ipa":"/ˈfɔr.tin/",
+      "graphemes":["f","ou","r","t","een"],
+      "phonemes":["/f","ɔ","-","t","in/"], "phonics":["/f","ō","-","t","ēn/"],
+      "tags":["irregular","vowel_team"], "hearts":[false,true,false,false,true],
+      "hint":"ou → /ɔ/；teen → /t in/。"
+    },
+    { "number":15, "word":"fifteen", "ipa":"/fɪfˈtin/",
+      "graphemes":["f","i","f","t","een"],
+      "phonemes":["/f","ɪ","f","t","in/"], "phonics":["/f","ĭ","f","t","ēn/"],
+      "tags":["closed","vowel_team"], "hearts":[false,false,false,false,true],
+      "hint":"閉音節 + teen 尾（/t in/）。"
+    },
+    { "number":16, "word":"sixteen", "ipa":"/sɪkˈstin/",
+      "graphemes":["s","i","x","t","een"],
+      "phonemes":["/s","ɪ","k s","t","in/"], "phonics":["/s","ĭ","ks","t","ēn/"],
+      "tags":["closed","vowel_team"], "hearts":[false,false,false,false,true],
+      "hint":"x → /k s/；teen → /t in/。"
+    },
+    { "number":17, "word":"seventeen", "ipa":"/ˌsɛv.ənˈtin/",
+      "graphemes":["s","e","v","e","n","t","een"],
+      "phonemes":["/s","ɛ","v","ə","n","t","in/"], "phonics":["/s","ĕ","v","ə","n","t","ēn/"],
+      "tags":["closed","vowel_team"], "hearts":[false,false,false,false,false,false,true],
+      "hint":"第一音節短母音；teen → /t in/。"
+    },
+    { "number":18, "word":"eighteen", "ipa":"/eɪˈtin/",
+      "graphemes":["eigh","t","een"],
+      "phonemes":["/eɪ","t","in/"], "phonics":["/ā","t","ēn/"],
+      "tags":["irregular","vowel_team"], "hearts":[true,false,true],
+      "hint":"eigh → /eɪ/；teen → /t in/。"
+    },
+    { "number":19, "word":"nineteen", "ipa":"/ˌnaɪnˈtin/",
+      "graphemes":["n","i","n","e","t","een"],
+      "phonemes":["/n","aɪ","n","-","t","in/"], "phonics":["/n","ī","n","-","t","ēn/"],
+      "tags":["magic_e","vowel_team"], "hearts":[false,false,false,false,false,true],
+      "hint":"靜音 e；teen → /t in/。"
+    },
+    { "number":20, "word":"twenty", "ipa":"/ˈtwɛn.ti/",
+      "graphemes":["tw","e","n","t","y"],
+      "phonemes":["/t w","ɛ","n","t","i/"], "phonics":["/tw","ĕ","n","t","ē/"],
+      "tags":["cluster","closed","suffix"], "hearts":[false,false,false,false,false],
+      "hint":"tw 子音群；字尾 y → /i/。"
+    }
+  ]
+}

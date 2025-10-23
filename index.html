@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no"/>
+  <title>英文拼字 × 聲音對照</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Noto+Sans+TC:wght@400;700;800&family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <style>
+    :root{
+      --c-primary:#7c3aed; --c-secondary:#10b981;
+      --c-text:#1f2937; --c-bg:#f8fafc; --c-border:#e2e8f0;
+
+      .tag-irregular{background:#fee2e2;border-color:#ef4444;color:#991b1b;}
+      .tag-closed{background:#d1fae5;border-color:#10b981;color:#065f46;}
+      .tag-floss{background:#ffe4e6;border-color:#fb7185;color:#9f1239;}
+      .tag-digraph{background:#e0f2fe;border-color:#38bdf8;color:#075985;}
+      .tag-cluster{background:#ede9fe;border-color:#8b5cf6;color:#4c1d95;}
+      .tag-suffix{background:#ccfbf1;border-color:#14b8a6;color:#0f766e;}
+      .tag-rcontrolled{background:#e9d5ff;border-color:#a855f7;color:#581c87;}
+      .tag-open{background:#dcfce7;border-color:#22c55e;color:#14532d;}
+      .tag-cle{background:#f5f5f4;border-color:#a8a29e;color:#3f3f46;}
+      .tag-magic_e{background:#dbeafe;border-color:#3b82f6;color:#1e40af;}
+      .tag-vowel_team{background:#ffedd5;border-color:#f97316;color:#9a3412;}
+      .tag-diphthong{background:#dbeafe;border-color:#60a5fa;color:#1e3a8a;}
+      .tag-silent_consonant{background:#f1f5f9;border-color:#94a3b8;color:#334155;}
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;overflow-x:hidden}
+    body{font-family:"Inter",system-ui,-apple-system,"Noto Sans TC",sans-serif;background:var(--c-bg);color:var(--c-text);padding:1rem 0;line-height:1.6;font-size:18px}
+    .container{max-width:1200px;margin:0 auto;padding:1.5rem 1rem;background:#fff;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.05);min-height:90vh}
+    h1{font-family:'Noto Sans TC',sans-serif;font-size:2rem;font-weight:800;color:#0f172a;text-align:center;margin-bottom:2rem}
+
+    /* Page switch */
+    .page-section{display:none;min-height:50vh}
+    .page-section.active{display:block}
+
+    /* Home list */
+    #homePage{flex-direction:column;align-items:center;justify-content:flex-start}
+    #homePage.active{display:flex}
+    #homePage:not(.active){display:none!important}
+
+    .topic-list{list-style:none;padding:0;width:min(100%,700px);margin-top:2.5rem}
+    .topic-list-item{background:#fff;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);padding:20px 25px;cursor:pointer;transition:.2s;border-left:5px solid var(--c-secondary);font-size:1.25rem;font-weight:700;color:#1f2937;margin-bottom:1rem;user-select:none;display:block}
+    .topic-list-item:hover{background:#f0fdf4;transform:translateX(5px);box-shadow:0 4px 12px rgba(16,185,129,.2);border-color:var(--c-primary)}
+
+    .back-button{background:#eef2ff;color:#4f46e5;border:none;border-radius:12px;padding:10px 18px;font-weight:700;cursor:pointer;font-size:1rem;margin-bottom:2rem;transition:.2s;display:flex;align-items:center;gap:8px}
+    .back-button:hover{background:#e0e7ff}
+
+    /* Filters & Cards */
+    .legend{
+      display:flex;
+      flex-wrap:wrap;          /* 自動換行 */
+      gap:.5rem;               /* 間距改用 gap */
+      padding:0 .25rem .25rem;
+      margin:0 0 2rem 0;
+      list-style:none;
+    }
+    .legend .legend-item{
+      display:inline-flex;
+      flex:0 0 auto;
+      padding:.3rem .75rem;
+      border-radius:999px;
+      font-size:.9rem;
+      font-weight:700;
+      border:2px solid;
+      white-space:nowrap;
+      cursor:pointer;
+      user-select:none;
+      transition:transform .1s ease,opacity .2s ease
+    }
+    .legend .legend-item:hover{transform:scale(1.05)}
+    .legend .legend-item.selected{outline:3px solid rgba(14,165,233,.25)}
+    .tag-all{background:#e5e7eb;border-color:#94a3b8;color:#334155}
+    .category-tag{padding:.3rem .75rem;border-radius:999px;font-size:.9rem;font-weight:700;border:2px solid;white-space:nowrap;user-select:none}
+
+    /* 卡片群 */
+    .topic-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.5rem}
+    .word-card{border:2px solid #cbd5e1;border-radius:12px;background:#fff;box-shadow:0 4px 6px rgba(0,0,0,.03);overflow:hidden;transition:transform .2s,box-shadow .2s}
+    .word-card.hidden{display:none}
+    .word-card:hover{transform:translateY(-5px);box-shadow:0 8px 15px rgba(0,0,0,.07)}
+
+    .card-header{display:flex;justify-content:space-between;align-items:center;padding:1rem 1.5rem;background:#f1f5f9;border-bottom:2px solid #e2e8f0}
+    .card-title{display:flex;align-items:baseline;gap:.75rem}
+    .word-number{font-size:1.2rem;font-weight:700;color:#64748b}
+    .word-text{font-size:2rem;font-weight:800;color:#0f172a}
+    .audio-button{font-size:2rem;cursor:pointer;background:none;border:none;padding:0;line-height:1}
+
+    .card-body{padding:1.5rem; display:flex; flex-direction:column; align-items:center;}
+
+    .badges{display:flex;gap:.5rem;flex-wrap:nowrap;overflow:auto;white-space:nowrap;padding-bottom:.25rem;margin-bottom:.25rem;-webkit-overflow-scrolling:touch}
+    .badges .category-tag{flex:0 0 auto}
+
+    .boxes-grid{
+      display:grid;
+      grid-auto-rows:auto;
+      border:2px solid #94a3b8;
+      border-radius:8px;
+      overflow:auto;
+      grid-auto-columns:max-content;
+      justify-content:start;
+      align-content:start;
+      width:max-content;
+      max-width:100%;
+    }
+    .box{display:flex;align-items:center;justify-content:center;min-height:54px;padding:.35rem .5rem;text-align:center;font-size:1.4rem;font-weight:700;border-right:2px solid #cbd5e1}
+    .box:last-child{border-right:none}
+    .grapheme-box{background:#f1f5f9;color:#1e293b;position:relative;font-family:'Inter','Noto Sans TC',sans-serif;border-bottom:2px solid #cbd5e1;grid-row:1}
+    .phoneme-box{background:#fff;color:#475569;font-family:'Noto Sans',sans-serif;font-size:1.2rem;font-weight:400;grid-row:2;transition:.2s}
+    .phoneme-box.is-phonics{font-family:'Inter','Noto Sans TC',sans-serif;font-size:1.35rem;color:#0f172a;font-weight:500}
+    .heart-symbol{position:absolute;bottom:-2px;left:0;right:0;text-align:center;color:#ef4444;font-size:1rem;line-height:1}
+    .word-tips{background:#fef3c7;border:1px solid #fbbf24;border-radius:6px;padding:.5rem .75rem;margin-top:1rem;font-family:'Noto Sans TC',sans-serif;color:#78350f;font-size:.95rem;line-height:1.4;display:flex;gap:.5rem;align-items:flex-start}
+    .tips-icon{color:#f59e0b;font-size:1.1rem}
+
+    .toggle-container{display:flex;justify-content:center;align-items:center;gap:1rem;margin-bottom:.5rem;font-weight:700;color:#334155;user-select:none;font-size:1rem}
+    .attribution-note{text-align:center;font-size:.85rem;color:#64748b;margin-top:0;margin-bottom:1.5rem;line-height:1.5}
+    .attribution-note a{color:#3b82f6;text-decoration:underline}
+    .attribution-note a:hover{color:#1d4ed8}
+    .toggle-label-ipa,.toggle-label-phonics{color:#64748b;transition:color .2s}
+    input:checked ~ .toggle-label-phonics{color:#0f172a}
+    input:not(:checked) ~ .toggle-label-ipa{color:#0f172a}
+    .switch{position:relative;display:inline-block;width:60px;height:34px;visibility:hidden}
+    .switch input{opacity:0;width:0;height:0}
+    .slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background:#cbd5e1;transition:.4s;border-radius:34px;visibility:visible}
+    .slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background:white;transition:.4s;border-radius:50%}
+    input:checked + .slider{background:#3b82f6}
+    input:checked + .slider:before{transform:translateX(26px)}
+
+    .credits{margin-top:3rem;padding-top:1.5rem;border-top:2px solid var(--c-border);text-align:center;font-size:.875rem;color:#475569;line-height:1.6}
+    .credits a{color:#64748b;margin:0 .5rem;transition:color .2s;text-decoration:none}
+    .credits a:hover{color:#3b82f6}
+
+    .searchbar{display:flex;gap:.5rem;align-items:center;justify-content:center;margin:-.5rem auto 1rem;max-width:700px}
+    .searchbar input{flex:1;padding:10px 12px;border:2px solid var(--c-border);border-radius:10px;font-size:1rem}
+    .searchbar button{background:#111827;color:#fff;border:none;border-radius:10px;padding:10px 14px;font-weight:700;cursor:pointer}
+    .searchbar button:hover{opacity:.9}
+    .search-msg{margin:.25rem 0 1rem;text-align:center;font-size:.9rem;color:#64748b}
+    .word-card.search-hit{outline:3px solid #7c3aed;box-shadow:0 0 0 4px rgba(124,58,237,.15);animation:hitflash 1.6s ease}
+    @keyframes hitflash{0%{background:#faf5ff}100%{background:#fff}}
+
+    @media (max-width:768px){
+      .container{padding:1rem .5rem}
+      h1{font-size:1.6rem}
+      .topic-list{width:100%}
+      .topic-list-item{font-size:1.1rem;padding:14px 18px}
+      .topic-grid{grid-template-columns:1fr}
+      .word-text{font-size:1.8rem}
+      .box{font-size:1.2rem;min-height:48px}
+      .phoneme-box{font-size:1.1rem}
+      .phoneme-box.is-phonics{font-size:1.2rem}
+      .attribution-note{font-size:.75rem}
+      .back-button{margin-bottom:1.2rem;padding:8px 14px}
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <main>
+      <!-- Search -->
+      <div class="searchbar" role="search">
+        <input id="globalSearchInput" type="text" placeholder="輸入單字（例如：one）" aria-label="搜尋單字">
+        <button id="globalSearchBtn">搜尋</button>
+      </div>
+      <p id="searchMsg" class="search-msg" aria-live="polite"></p>
+
+      <!-- Home -->
+      <section id="homePage" class="page-section active">
+        <h1>英文拼字 × 聲音對照</h1>
+        <ul class="topic-list" id="topicList">
+          <!-- 由 topics.json 動態產生 -->
+        </ul>
+      </section>
+
+      <!-- 動態：主題 sections 會在 JS 內插入 -->
+    </main>
+
+    <footer class="credits">
+      © 2025 Christina Yu. All rights reserved.<br /><br />
+      <a href="mailto:mamahowma@gmail.com" aria-label="Email mamahowma"><i class="fa-solid fa-envelope fa-xl fa-fw"></i></a>　
+      <a href="https://www.facebook.com/mamahowma" target="_blank" aria-label="mamahowma Facebook Page"><i class="fa-brands fa-facebook fa-xl fa-fw"></i></a>　
+      <a href="https://portaly.cc/mamahowma/support" target="_blank" aria-label="Support mamahowma"><i class="fa-solid fa-mug-hot fa-xl fa-fw"></i></a>
+    </footer>
+  </div>
+
+  <script>
+    // ========= 設定 =========
+    const TOPICS_URL = 'data/topics.json';   // 主題清單
+    const CACHE = { topics: null, data: {} }; // 快取：topics 與每支 JSON
+
+    // ========= 語音 =========
+    const synth = window.speechSynthesis; let voices = [];
+    let speechRate = 0.7; // 你喜歡的慢速
+    function getUSEnglishVoice(){
+      if(voices.length===0 && synth.getVoices().length>0){ voices = synth.getVoices().filter(v=>v.lang.startsWith('en')); }
+      return voices.find(v=>v.lang==='en-US') || voices[0] || null;
+    }
+    if(synth.onvoiceschanged!==undefined){ synth.onvoiceschanged = ()=>{ voices = synth.getVoices(); }; }
+    window.speak = function(word){
+      if(synth.speaking) synth.cancel();
+      if(!word) return;
+      const u = new SpeechSynthesisUtterance(word);
+      const v = getUSEnglishVoice(); if(v) u.voice = v;
+      u.lang='en-US'; u.rate=speechRate; u.pitch=1;
+      synth.speak(u);
+    }
+
+    // ========= 共用狀態 =========
+    let currentTopicData = [];   // 目前主題的 items
+    let selectedFilter = 'all';
+    let displayMode = 'ipa';     // 'ipa' or 'phonics'
+
+    // ========= 介面：共用工具 =========
+    function tagInfo(key){
+      switch(key){
+        case 'irregular':        return { className:'tag-irregular',     name:'不規則拼寫' };
+        case 'closed':           return { className:'tag-closed',        name:'閉音節-短母音' };
+        case 'floss':            return { className:'tag-floss',         name:'重複子音字尾 (FLOSS-Z)' };
+        case 'digraph':          return { className:'tag-digraph',       name:'雙字母子音' };
+        case 'cluster':          return { className:'tag-cluster',       name:'子音群' };
+        case 'suffix':           return { className:'tag-suffix',        name:'字尾後綴' };
+        case 'rcontrolled':      return { className:'tag-rcontrolled',   name:"母音 + 'r'" };
+        case 'open':             return { className:'tag-open',          name:'開音節-長母音' };
+        case 'cle':              return { className:'tag-cle',           name:"子音 '-LE'" };
+        case 'magic_e':          return { className:'tag-magic_e',       name:"長母音 + 靜音 'e'" };
+        case 'vowel_team':       return { className:'tag-vowel_team',    name:'母音組合' };
+        case 'diphthong':        return { className:'tag-diphthong',     name:'雙母音' };
+        case 'silent_consonant': return { className:'tag-silent_consonant', name:'不發音子音字母' };
+        default:                 return { className:'tag-all',           name:'未分類' };
+      }
+    }
+    function countByFilter(data){
+      const counts = {};
+      data.forEach(word=>{ (word.tags||[]).forEach(tag=>{ counts[tag] = (counts[tag]||0)+1; }); });
+      return counts;
+    }
+
+    // ========= 主題頁初始化 =========
+    function initTopicPage(contentId){
+      selectedFilter = 'all';
+      const container = document.getElementById(contentId);
+      if(container.children.length === 0){
+        container.innerHTML = `
+          <div class="toggle-container">
+            <span class="toggle-label toggle-label-ipa">IPA 音標</span>
+            <label class="switch"><input type="checkbox" id="modeToggle-${contentId}"><span class="slider"></span></label>
+            <span class="toggle-label toggle-label-phonics">Phonics 拼音</span>
+          </div>
+          <p class="attribution-note">
+            IPA 根據<a href="https://christinayu_english.rakosell.com/zh/page/american-ipa-guide" target="_blank">美式英語 IPA 國際音標指南</a><br>
+            Phonics 根據 
+            <a href="https://ufli.education.ufl.edu/wp-content/uploads/2023/09/UFLI-Sound-Wall-rev.pdf" target="_blank">UFLI phonemes</a>
+          </p>
+          <ul class="legend" id="category-filters-${contentId}" aria-label="分類篩選"></ul>
+          <div id="teaching-grid-${contentId}" class="topic-grid" role="region" aria-label="教學卡片清單"></div>
+        `;
+        const toggle=document.getElementById(`modeToggle-${contentId}`);
+        if(toggle){
+          toggle.addEventListener('change', e=>{
+            displayMode = e.target.checked ? 'phonics' : 'ipa';
+            renderTeachingPage(contentId);
+            applyFilters(contentId);
+          });
+          toggle.checked = (displayMode === 'phonics');
+        }
+      }
+      setupCategoryFilters(contentId);
+      renderTeachingPage(contentId);
+      applyFilters(contentId);
+      highlightIfPending(contentId);
+    }
+
+    function setupCategoryFilters(contentId){
+      const filterList = document.getElementById(`category-filters-${contentId}`);
+      if(!filterList) return;
+      filterList.innerHTML = '';
+
+      const counts = countByFilter(currentTopicData);
+
+      const allButton = document.createElement('li');
+      allButton.className = 'legend-item tag-all';
+      allButton.dataset.category = 'all';
+      allButton.textContent = '全部';
+      filterList.appendChild(allButton);
+
+      const allPossibleTags = ['irregular','closed','floss','digraph','cluster','suffix','rcontrolled','open','cle','magic_e','vowel_team','diphthong','silent_consonant'];
+      allPossibleTags.forEach(tagKey=>{
+        const info=tagInfo(tagKey), count=counts[tagKey]||0;
+        if(count===0) return;
+        const li=document.createElement('li');
+        li.className=`legend-item ${info.className}`;
+        li.dataset.category=tagKey;
+        li.textContent=info.name; // 不顯示數量
+        filterList.appendChild(li);
+      });
+
+      filterList.querySelectorAll('.legend-item').forEach(btn=>{
+        btn.addEventListener('click',(e)=>{
+          selectedFilter = e.target.dataset.category || 'all';
+          updateButtons(filterList);
+          applyFilters(contentId);
+        });
+      });
+      updateButtons(filterList);
+    }
+    function updateButtons(filterList){
+      filterList.querySelectorAll('.legend-item').forEach(b=>{
+        b.classList.toggle('selected', (b.dataset.category||'all') === selectedFilter);
+      });
+    }
+
+    function renderTeachingPage(contentId){
+      const grid = document.getElementById(`teaching-grid-${contentId}`); 
+      if(!grid) return;
+      grid.innerHTML='';
+
+      const phonemeKey = displayMode === 'phonics' ? 'phonics' : 'phonemes';
+      const phonemeClass = displayMode === 'phonics' ? 'is-phonics' : '';
+
+      currentTopicData.forEach(w=>{
+        const tags=w.tags||[];
+        const badgeHTML = tags.map(t=>{ const info=tagInfo(t); return `<span class="category-tag ${info.className}">${info.name}</span>`; }).join(' ');
+        const badges = `<div class="badges">${badgeHTML}</div>`;
+
+        const tracks=w.graphemes.map(g=>{
+          const len=String(g).length||1;
+          const minCh = g==='-' ? 1 : Math.max(2, Math.min(8, len));
+          return `minmax(${minCh}ch, max-content)`;
+        }).join(' ');
+
+        const gCells = w.graphemes.map((g,i)=>`
+          <div class="grapheme-box box" role="gridcell">
+            ${g}${w.hearts?.[i]?'<span class="heart-symbol">❤</span>':''}
+          </div>
+        `).join('');
+
+        const pCells = w[phonemeKey].map((p)=>`
+          <div class="phoneme-box box ${phonemeClass}" role="gridcell">${String(p||'')}</div>
+        `).join('');
+
+        const card=`
+          <article class="word-card" data-word="${(w.word||'').toLowerCase()}" data-tags="${tags.join(',')}">
+            <header class="card-header">
+              <div class="card-title"><span class="word-number">${w.number ?? ''}</span><span class="word-text">${w.word}</span></div>
+              <button class="audio-button" aria-label="播放 ${w.word} 聲音" onclick="speak('${w.word}')">🔊</button>
+            </header>
+            <div class="card-body">
+              ${badges}
+              <div class="boxes-grid" role="grid" style="grid-template-columns:${tracks};grid-template-rows:repeat(2,auto);">
+                ${gCells}
+                ${pCells}
+              </div>
+              <div class="word-tips"><span class="tips-icon">💡</span><span>${w.hint||''}</span></div>
+            </div>
+          </article>
+        `;
+        grid.insertAdjacentHTML('beforeend',card);
+      });
+    }
+
+    function applyFilters(contentId){
+      const grid = document.getElementById(`teaching-grid-${contentId}`);
+      if(!grid) return;
+      const cards = grid.querySelectorAll('.word-card');
+      if(selectedFilter === 'all'){ cards.forEach(c=>c.classList.remove('hidden')); return; }
+      cards.forEach(c=>{
+        const tags = (c.getAttribute('data-tags')||'').split(',').filter(Boolean);
+        c.classList.toggle('hidden', !tags.includes(selectedFilter));
+      });
+    }
+
+    // ========= 搜尋（會用 topics.json 預先載入所有 JSON 並建立索引）=========
+    let WORD_INDEX = {}; // { wordLower: { pageId, slug, levelIndex } }
+    function buildWordIndexFromAll(){
+      WORD_INDEX = {};
+      (CACHE.topics?.topics||[]).forEach(t=>{
+        t.levels.forEach((lv, idx)=>{
+          const items = CACHE.data[lv.src]?.items || [];
+          items.forEach(w=>{
+            const key = String(w.word||'').trim().toLowerCase();
+            if(key && !WORD_INDEX[key]) WORD_INDEX[key] = { slug: t.slug, levelIndex: idx };
+          });
+        });
+      });
+    }
+    function goToWord(wordRaw){
+      const input = String(wordRaw||'').trim().toLowerCase();
+      const msgEl = document.getElementById('searchMsg');
+      if(!input){ msgEl.textContent='請輸入單字'; return; }
+      const hit = WORD_INDEX[input];
+      if(!hit){ msgEl.textContent=`找不到：${wordRaw}`; return; }
+      msgEl.textContent='';
+      const pageId = `${hit.slug}_${hit.levelIndex+1}_Page`;
+      window._pendingHighlight = input;
+      showPage(pageId);
+    }
+    function initSearchBar(){
+      const inp=document.getElementById('globalSearchInput');
+      const btn=document.getElementById('globalSearchBtn');
+      if(!inp||!btn) return;
+      btn.addEventListener('click',()=>goToWord(inp.value));
+      inp.addEventListener('keydown',(e)=>{ if(e.key==='Enter') goToWord(inp.value); });
+    }
+    function highlightIfPending(contentId){
+      const target=(window._pendingHighlight||'').toLowerCase();
+      if(!target) return;
+      const grid=document.getElementById(`teaching-grid-${contentId}`);
+      if(!grid) return;
+      const card=grid.querySelector(`.word-card[data-word="${CSS.escape(target)}"]`);
+      if(card){
+        card.classList.add('search-hit');
+        card.scrollIntoView({behavior:'smooth',block:'center'});
+        setTimeout(()=>card.classList.remove('search-hit'),1600);
+      }
+      window._pendingHighlight='';
+    }
+
+    // ========= 導航：動態建立首頁項目與內容頁 =========
+    function showPage(pageId){
+      document.querySelectorAll('.page-section').forEach(p=>p.classList.remove('active'));
+      const active = document.getElementById(pageId);
+      if(!active) return;
+      active.classList.add('active');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+
+      const m = pageId.match(/^(.+)_([12])_Page$/);
+      if(!m) return; // 可能是 home
+      const slug = m[1], levelIndex = Number(m[2])-1;
+      const contentId = `${slug}_${levelIndex+1}_Content`;
+
+      // 決定要載哪支 JSON
+      const topic = (CACHE.topics?.topics||[]).find(x=>x.slug===slug);
+      const lv = topic?.levels?.[levelIndex];
+      if(!lv) return;
+
+      // 抓資料（快取）
+      if(!CACHE.data[lv.src]){
+        fetch(lv.src).then(r=>r.json()).then(json=>{
+          CACHE.data[lv.src]=json;
+          currentTopicData = json.items||[];
+          initTopicPage(contentId);
+        }).catch(e=>{
+          console.error(e);
+          document.getElementById(contentId).innerHTML = `<p style="color:#b91c1c">載入失敗：${lv.src}</p>`;
+        });
+      }else{
+        currentTopicData = CACHE.data[lv.src].items||[];
+        initTopicPage(contentId);
+      }
+    }
+    window.showPage = showPage;
+
+    function buildHomeAndSections(){
+      const list = document.getElementById('topicList');
+      const main = document.querySelector('main');
+      (CACHE.topics?.topics||[]).forEach(t=>{
+        // 首頁兩行
+        t.levels.forEach((lv, idx)=>{
+          const label = idx===0 ? '（-1）' : '（-2）';
+          list.insertAdjacentHTML('beforeend', `
+            <li class="topic-list-item" onclick="showPage('${t.slug}_${idx+1}_Page')">
+              ${t.zh} ${label} | ${t.en} (-${idx+1})
+            </li>
+          `);
+        });
+        // 兩個空的 section（之後點進去才 fetch & render）
+        main.insertAdjacentHTML('beforeend', `
+          <section id="${t.slug}_1_Page" class="page-section">
+            <button class="back-button" onclick="showPage('homePage')"><i class="fa-solid fa-arrow-left"></i>返回目錄</button>
+            <h1>${t.zh}（-1） | ${t.en} (-1) 聲音對照表</h1>
+            <div id="${t.slug}_1_Content"></div>
+          </section>
+          <section id="${t.slug}_2_Page" class="page-section">
+            <button class="back-button" onclick="showPage('homePage')"><i class="fa-solid fa-arrow-left"></i>返回目錄</button>
+            <h1>${t.zh}（-2） | ${t.en} (-2) 聲音對照表</h1>
+            <div id="${t.slug}_2_Content"></div>
+          </section>
+        `);
+      });
+    }
+
+    // ========= 啟動：載入 topics.json → 預抓所有資料 → 建索引 =========
+    document.addEventListener('DOMContentLoaded', async ()=>{
+      initSearchBar();
+      // 1) 讀主題清單
+      try{
+        const resp = await fetch(TOPICS_URL);
+        CACHE.topics = await resp.json();
+      }catch(e){
+        console.error(e);
+        document.getElementById('topicList').innerHTML = '<li class="topic-list-item" style="color:#b91c1c">讀取 topics.json 失敗</li>';
+        return;
+      }
+      // 2) 建首頁 & 空節點
+      buildHomeAndSections();
+      // 3) 預抓所有 level json（方便搜尋），失敗不擋畫面
+      await Promise.allSettled(
+        (CACHE.topics.topics||[]).flatMap(t => t.levels.map(lv =>
+          fetch(lv.src).then(r=>r.json()).then(j=>{ CACHE.data[lv.src]=j; })
+        ))
+      );
+      // 4) 建立搜尋索引
+      buildWordIndexFromAll();
+      // 顯示首頁
+      showPage('homePage');
+    });
+  </script>
+</body>
+</html>
