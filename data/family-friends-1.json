@@ -139,7 +139,7 @@
       "graphemes": ["g","r","a","n","d","f","a","th","er"],
       "phonemes": ["/ˈɡ","r","æ","n","-","ˌf","ɑ","ð","ɚ/"],
       "phonics":  ["/'g","r","ă","n","-","f","ŏ","<u>th</u>","er/"],
-      "tags": ["compound","digraph","rcontrolled"],
+      "tags": ["digraph","rcontrolled"],
       "hearts": [false,false,false,false,true,false,true,false,false],
       "hint": "複合名詞 grand + father；d 不發音。"
     },
@@ -150,7 +150,7 @@
       "graphemes": ["g","r","a","n","d","m","a"],
       "phonemes": ["/ˈɡ","r","æ","n","-","m","ɑ/"],
       "phonics":  ["/g","r","ă","n","-","m","ä/"],
-      "tags": ["compound"],
+      "tags": [],
       "hearts": [false,false,false,false,true,false,false],
       "hint": "口語；d 不發音。"
     },
@@ -161,7 +161,7 @@
       "graphemes": ["g","r","a","n","d","m","o","th","er"],
       "phonemes": ["/ˈɡ","r","æ","n","-","ˌm","ʌ","ð","ɚ/"],
       "phonics":  ["/'g","r","ă","n","-","m","ŭ","<u>th</u>","er/"],
-      "tags": ["compound","digraph","rcontrolled"],
+      "tags": ["digraph","rcontrolled"],
       "hearts": [false,false,false,false,true,false,true,false,false],
       "hint": "複合名詞 grand + mother；d 不發音。"
     },
@@ -172,7 +172,7 @@
       "graphemes": ["g","r","a","n","d","p","a"],
       "phonemes": ["/ˈɡ","r","æ","n","-","p","ɑ/"],
       "phonics":  ["/'g","r","ă","n","-","p","ŏ/"],
-      "tags": ["compound"],
+      "tags": [],
       "hearts": [false,false,false,false,true,false,false],
       "hint": "口語；d 不發音。"
     },
@@ -196,6 +196,7 @@
       "phonics":  ["/l","ĭ","v","-/"],
       "tags": ["irregular"],
       "hearts": [false,false,false,true],
+      "speak": "to live"
       "hint": "v 字尾後面補靜音 e。"
     },
     {
@@ -321,3 +322,4 @@
     }
   ]
 }
+
