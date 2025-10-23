@@ -64,7 +64,7 @@
       "phonics":  ["/s","ĭ","ks","'t","ē","n/"],
       "tags": ["closed","vowel_team"],
       "hearts": [false,false,false,false,false,false],
-      "hint": "six + teen"
+      "hint": "six + teen。"
     },
     {
       "number": 17,
@@ -112,3 +112,4 @@
     }
   ]
 }
+
