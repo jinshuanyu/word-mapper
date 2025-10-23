@@ -196,7 +196,7 @@
       "phonics":  ["/l","ĭ","v","-/"],
       "tags": ["irregular"],
       "hearts": [false,false,false,true],
-      "speak": "to live"
+      "speak": "to live",
       "hint": "v 字尾後面補靜音 e。"
     },
     {
@@ -322,4 +322,5 @@
     }
   ]
 }
+
 
