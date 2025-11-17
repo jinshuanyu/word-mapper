@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "number": "第一",
+      "number": "1st 第一",
       "word": "first",
       "ipa": "/fɝst/",
       "graphemes": ["f","ir","s","t"],
@@ -12,7 +12,7 @@
       "hint": "重音在 /ɝ/；ir 發 er /ɝ/。"
     },
     {
-      "number": "第二",
+      "number": "2nd 第二",
       "word": "second",
       "ipa": "/ˈsɛkənd/",
       "graphemes": ["s","e","c","o","n","d"],
@@ -23,7 +23,7 @@
       "hint": "重音在第一音節 /ˈsɛ-/；e 發短母音 e /ɛ/，o 弱讀為 /ə/。"
     },
     {
-      "number": "第三",
+      "number": "3rd 第三",
       "word": "third",
       "ipa": "/θɝd/",
       "graphemes": ["th","ir","d"],
@@ -34,7 +34,7 @@
       "hint": "重音在 /ɝ/；ir 發 er /ɝ/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第四",
+      "number": "4th 第四",
       "word": "fourth",
       "ipa": "/fɔrθ/",
       "graphemes": ["f","our","th"],
@@ -45,7 +45,7 @@
       "hint": "重音在 /ɔr/；our 在此發 or /ɔr/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第五",
+      "number": "5th 第五",
       "word": "fifth",
       "ipa": "/fɪfθ/",
       "graphemes": ["f","i","f","th"],
@@ -56,7 +56,7 @@
       "hint": "重音在 /ɪ/；i 發短母音 i /ɪ/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第六",
+      "number": "6th 第六",
       "word": "sixth",
       "ipa": "/sɪksθ/",
       "graphemes": ["s","i","x","th"],
@@ -67,7 +67,7 @@
       "hint": "重音在 /ɪ/；i 發短母音 i /ɪ/；x 發 /ks/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第七",
+      "number": "7th 第七",
       "word": "seventh",
       "ipa": "/ˈsɛvənθ/",
       "graphemes": ["s","e","v","e","n","th"],
@@ -78,7 +78,7 @@
       "hint": "重音在第一音節 /ˈsɛ-/；第一個 e 發短母音 e /ɛ/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第八",
+      "number": "8th 第八",
       "word": "eighth",
       "ipa": "/eɪtθ/",
       "graphemes": ["eigh","th"],
@@ -89,7 +89,7 @@
       "hint": "重音在 /eɪ/；eigh 發長母音 a /eɪ/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第九",
+      "number": "9th 第九",
       "word": "ninth",
       "ipa": "/naɪnθ/",
       "graphemes": ["n","i","n","th"],
@@ -100,7 +100,7 @@
       "hint": "重音在 /aɪ/；i 發長母音 i /aɪ/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第十",
+      "number": "10th 第十",
       "word": "tenth",
       "ipa": "/tɛnθ/",
       "graphemes": ["t","e","n","th"],
@@ -111,7 +111,7 @@
       "hint": "重音在 /ɛ/；e 發短母音 e /ɛ/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第十一",
+      "number": "11th 第十一",
       "word": "eleventh",
       "ipa": "/ɪˈlɛvənθ/",
       "graphemes": ["e","l","e","v","e","n","th"],
@@ -122,7 +122,7 @@
       "hint": "重音在第二音節 /ˈlɛv-/；中間 e 發短母音 e /ɛ/；字首 e 發 /ɪ/。"
     },
     {
-      "number": "第十二",
+      "number": "12th 第十二",
       "word": "twelfth",
       "ipa": "/twɛlfθ/",
       "graphemes": ["t","w","e","l","f","th"],
@@ -133,7 +133,7 @@
       "hint": "重音在 /ɛ/；e 發短母音 e /ɛ/；結尾 lfth 為子音連音。"
     },
     {
-      "number": "第十三",
+      "number": "13th 第十三",
       "word": "thirteenth",
       "ipa": "/θɝˈtin/",
       "graphemes": ["th","ir","t","ee","n","th"],
@@ -144,7 +144,7 @@
       "hint": "重音在第二音節 -teen /ˈtin/；ir 發 er /ɝ/，ee 發長母音 e /i/。"
     },
     {
-      "number": "第二十",
+      "number": "20th 第二十",
       "word": "twentieth",
       "ipa": "/ˈtwɛniəθ/",
       "graphemes": ["t","w","e","n","t","i","e","th"],
@@ -155,7 +155,7 @@
       "hint": "重音在第一音節 /ˈtwɛn-/；ie 在此讀 /iə/；th 發無聲吐舌音 /θ/。"
     },
     {
-      "number": "第二十一",
+      "number": "21st 第二十一",
       "word": "twenty-first",
       "ipa": "/ˌtwɛntiˈfɝst/",
       "graphemes": ["t","w","e","n","t","y","-","f","ir","s","t"],
