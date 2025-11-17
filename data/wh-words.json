@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "number": "怎麼；如何",
+      "word": "how",
+      "ipa": "/haʊ/",
+      "graphemes": ["h","ow"],
+      "phonemes": ["/h","aʊ/"],
+      "phonics": ["/h","ow/"],
+      "tags": ["vowel_team"],
+      "hearts": [false,false],
+      "hint": "ow 發 /aʊ/。"
+    },
+    {
+      "number": "什麼；哪些",
+      "word": "what",
+      "ipa": "/wɑt/",
+      "graphemes": ["wh","a","t"],
+      "phonemes": ["/w","ɑ","t/"],
+      "phonics": ["/w","ŏ","t/"],
+      "tags": ["digraph","irregular"],
+      "hearts": [false,true,false],
+      "hint": "wh 發 /w/；a 發短母音 o /ɑ/ 。"
+    },
+    {
+      "number": "哪一個",
+      "word": "which",
+      "ipa": "/wɪtʃ/",
+      "graphemes": ["wh","i","ch"],
+      "phonemes": ["/w","ɪ","tʃ/"],
+      "phonics": ["/w","ĭ","ch/"],
+      "tags": ["digraph","cvc"],
+      "hearts": [false,false,false],
+      "hint": "wh 發 /w/；ch 發 /tʃ/。"
+    },
+    {
+      "number": "誰",
+      "word": "who",
+      "ipa": "/hu/",
+      "graphemes": ["wh","o"],
+      "phonemes": ["/h","u/"],
+      "phonics": ["/h","ū/"],
+      "tags": ["irregular"],
+      "hearts": [true,true],
+      "hint": "wh 發 /h/；o 發長母音 u /u/。"
+    },
+    {
+      "number": "誰的",
+      "word": "whose",
+      "ipa": "/huz/",
+      "graphemes": ["wh","o","s","e"],
+      "phonemes": ["/h","u","z","-/"],
+      "phonics": ["/h","ū","z","-/"],
+      "tags": ["irregular"],
+      "hearts": [true,true,false,false],
+      "hint": "wh 發 /h/；o 發長母音 u /u/；s 讀 /z/；e 靜音。"
+    },
+    {
+      "number": "何時；什麼時候",
+      "word": "when",
+      "ipa": "/wɛn/",
+      "graphemes": ["wh","e","n"],
+      "phonemes": ["/w","ɛ","n/"],
+      "phonics": ["/w","ĕ","n/"],
+      "tags": ["digraph","cvc"],
+      "hearts": [false,false,false],
+      "hint": "wh 發 /w/；e 發短母音 e /ɛ/。"
+    },
+    {
+      "number": "哪裡",
+      "word": "where",
+      "ipa": "/wɛr/",
+      "graphemes": ["wh","e","r","e"],
+      "phonemes": ["/w","ɛ","r","-/"],
+      "phonics": ["/w","ĕ","r","-/"],
+      "tags": ["digraph","irregular"],
+      "hearts": [false,true,false,true],
+      "hint": "wh 發 /w/；第一個 e 發短母音 e /ɛ/；第二個 e 靜音。"
+    },
+    {
+      "number": "是否",
+      "word": "whether",
+      "ipa": "/ˈwɛðɚ/",
+      "graphemes": ["wh","e","th","er"],
+      "phonemes": ["/'w","ɛ","ð","ɚ/"],
+      "phonics": ["/'w","ĕ","<u>th</u>","er/"],
+      "tags": ["digraph","irregular"],
+      "hearts": [false,true,false,false],
+      "hint": "wh 發 /w/；第一個 e 發短母音 e /ɛ/；th 發有聲吐舌音 /ð/。"
+    },
+    {
+      "number": "當...的時候；而",
+      "word": "while",
+      "ipa": "/waɪl/",
+      "graphemes": ["wh","i","l","e"],
+      "phonemes": ["/w","aɪ","l","-/"],
+      "phonics": ["/w","ī","l","-/"],
+      "tags": ["digraph","magic_e"],
+      "hearts": [false,false,false,false],
+      "hint": "wh 發 /w/；i_e：i 發 /aɪ/；e 靜音。"
+    },
+    {
+      "number": "為什麼",
+      "word": "why",
+      "ipa": "/waɪ/",
+      "graphemes": ["wh","y"],
+      "phonemes": ["/w","aɪ/"],
+      "phonics": ["/w","ī/"],
+      "tags": ["digraph","open"],
+      "hearts": [false,false],
+      "hint": "wh 發 /w/；y 發長母音 i /aɪ/。"
+    }
+  ]
+}

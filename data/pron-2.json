@@ -1,0 +1,138 @@
+{
+"items": [
+ {
+"number": "他（主格）",
+"word": "he",
+"ipa": "/hi/",
+"graphemes": ["h","e"],
+"phonemes": ["/h","i/"],
+"phonics": ["/h","ē/"],
+"tags": ["open"],
+"hearts": [false,false],
+"hint": "e 發長母音 e /i/。"
+},
+ {
+"number": "他的（所有格/所有格代名詞）",
+"word": "his",
+"ipa": "/hɪz/",
+"graphemes": ["h","i","s"],
+"phonemes": ["/h","ɪ","z/"],
+"phonics": ["/h","ĭ","z/"],
+"tags": ["irregular"],
+"hearts": [false,false,true],
+"hint": "i 發短母音 i /ɪ/；字尾 s 發 /z/。"
+},
+{
+"number": "他（受格）",
+"word": "him",
+"ipa": "/hɪm/",
+"graphemes": ["h","i","m"],
+"phonemes": ["/h","ɪ","m/"],
+"phonics": ["/h","ĭ","m/"],
+"tags": ["cvc"],
+"hearts": [false,false,false],
+"hint": "i 發短母音 i /ɪ/。"
+},
+
+{
+"number": "她（主格）",
+"word": "she",
+"ipa": "/ʃi/",
+"graphemes": ["sh","e"],
+"phonemes": ["/ʃ","i/"],
+"phonics": ["/sh","ē/"],
+"tags": ["digraph","open"],
+"hearts": [false,false],
+"hint": "sh 發 /ʃ/；e 發 長母音 e /i/。"
+},
+{
+"number": "她（受格）/ 她的（所有格）",
+"word": "her",
+"ipa": "/hɝ/",
+"graphemes": ["h","er"],
+"phonemes": ["/h","ɝ/"],
+"phonics": ["/h","er/"],
+"tags": ["rcontrolled"],
+"hearts": [false,false],
+"hint": "er 發 /ɝ/。"
+},
+{
+"number": "她的（所有格代名詞）",
+"word": "hers",
+"ipa": "/hɝz/",
+"graphemes": ["h","er","s"],
+"phonemes": ["/h","ɝ","z/"],
+"phonics": ["/h","er","z/"],
+"tags": ["rcontrolled"],
+"hearts": [false,false,true],
+"hint": "er 發 /ɝ/；字尾 s 發 /z/。"
+},
+     {
+      "number": "它；這件事（主格/受格）",
+      "word": "it",
+      "ipa": "/ɪt/",
+      "graphemes": ["i", "t"],
+      "phonemes": ["/ɪ", "t/"],
+      "phonics": ["/ĭ", "t/"],
+      "tags": ["cvc"],
+      "hearts": [false, false],
+      "hint": "i 發短母音 i /ɪ/。"
+    },
+{
+"number": "它的（所有格/所有格代名詞）",
+"word": "its",
+"ipa": "/ɪts/",
+"graphemes": ["i","ts"],
+"phonemes": ["/ɪ","ts/"],
+"phonics": ["/ĭ","ts/"],
+"tags": ["cvc","cluster"],
+"hearts": [false,false,false],
+"hint": "i 發短母音 i /ɪ/；t+s 音如 ㄘ；與 it's（it is）同音。"
+},
+  {
+"number": "他們（主格）",
+"word": "they",
+"ipa": "/ðeɪ/",
+"graphemes": ["th","ey"],
+"phonemes": ["/ð","eɪ/"],
+"phonics": ["/<u>th</u>","ā/"],
+"tags": ["digraph","vowel_team"],
+"hearts": [false,true],
+"hint": "th 發有聲吐舌音 /ð/；ey 發長母音 a /eɪ/。"
+},
+ {
+"number": "他們的（所有格）",
+"word": "their",
+"ipa": "/ðɛr/",
+"graphemes": ["th","ei","r"],
+"phonemes": ["/ð","ɛ","r/"],
+"phonics": ["/<u>th</u>","ĕ","r/"],
+"tags": ["digraph","irregular"],
+"hearts": [false,true,false],
+"hint": "ei 發短母音 e /ɛ/；與 they're（they are）、there 同音。"
+},
+{
+"number": "他們（受格）",
+"word": "them",
+"ipa": "/ðɛm/",
+"graphemes": ["th","e","m"],
+"phonemes": ["/ð","ɛ","m/"],
+"phonics": ["/<u>th</u>","ĕ","m/"],
+"tags": ["digraph","cvc"],
+"hearts": [false,false,false],
+"hint": "th 發有聲吐舌音 /ð/；e 發短母音 e /ɛ/。"
+},
+
+{
+"number": "他們的（所有格代名詞）",
+"word": "theirs",
+"ipa": "/ðɛrz/",
+"graphemes": ["th","ei","r","s"],
+"phonemes": ["/ð","ɛ","r","z/"],
+"phonics": ["/<u>th</u>","ĕ","r","z/"],
+"tags": ["digraph","irregular"],
+"hearts": [false,true,false,true],
+"hint": "ei 發短母音 e /ɛ/；字尾 s 讀 /z/；與 there's（there is）同音。"
+}
+]
+}

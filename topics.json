@@ -1,0 +1,131 @@
+{
+  "topics": [
+    {
+  "slug": "letters",
+  "title": "Alphabet 字母",
+  "levels": [{ "label": "A–Z", "src": "data/letters.json" }]
+},
+
+    {
+  "slug": "first-words",
+  "title": "Function Words 功能詞",
+  "levels": [
+    {
+      "label": "冠詞/限定詞",       "src": "data/first-words-1.json"
+    },
+    { "label": "第一/二人稱代名詞", "src": "data/pron-1.json" },
+      { "label": "第三人稱代名詞", "src": "data/pron-2.json" },
+    { "label": "反身代名詞", "src": "data/refl.json" },
+ { "label": "不定代名詞", "src": "data/indef-pron.json" },
+    { "label": "疑問詞", "src": "data/wh-words.json" },
+   { "label": "Be動詞", "src": "data/be.json" },
+      { "label": "助動詞", "src": "data/auxi.json" },
+       { "label": "語氣詞", "src": "data/interj.json" },
+      { "label": "連接詞", "src": "data/conj.json" },
+     { "label": "介系詞-1", "src": "data/prep-1.json" },
+         { "label": "介系詞-2", "src": "data/prep-2.json" },
+         { "label": "介系詞-3", "src": "data/prep-3.json" }
+  ]
+},
+
+    {
+      "slug": "numbers_1_20",
+      "title": "Numbers 數字",
+      "levels": [
+        { "label": "0–10",  "src": "data/numbers-1.json" },
+        { "label": "11–19", "src": "data/numbers-2.json" },
+         { "label": "20-1T", "src": "data/numbers-3.json" },
+         { "label": "序數", "src": "data/numbers-5.json" },
+        { "label": "數量詞", "src": "data/numbers-4.json" }
+ 
+      ]
+    },
+    {
+      "slug": "animals",
+      "title": "Animals 動物",
+      "levels": [
+        { "label": "1",  "src": "data/animals-1.json" },
+        { "label": "2", "src": "data/animals-2.json" },
+        { "label": "3", "src": "data/animals-3.json" }
+      ]
+    },
+    {
+      "slug": "body_face",
+      "title": "Body & Face 臉和身體",
+      "levels": [
+        { "label": "1",  "src": "data/body-and-face-1.json" },
+        { "label": "2", "src": "data/body-and-face-2.json" }
+      ]
+    },
+        {
+      "slug": "clothes",
+      "title": "Clothes 服裝",
+      "levels": [
+        { "label": "1",  "src": "data/clothes-1.json" },
+        { "label": "2", "src": "data/clothes-2.json" }
+      ]
+    },
+    {
+  "slug": "colors",
+  "title": "Colors 顏色",
+  "levels": [
+    {
+      "label": "All",
+      "src": "data/colors.json"
+    }
+  ]
+},
+    {
+      "slug": "family_friends",
+      "title": "Family & Friends 親友",
+      "levels": [
+        { "label": "1", "src": "data/family-friends-1.json" },
+        { "label": "2", "src": "data/family-friends-2.json" }
+      ]
+    },
+        {
+  "slug": "food",
+  "title": "Food and Drink 飲食",
+  "levels": [
+        { "label": "1", "src": "data/food-1.json" },
+        { "label": "2", "src": "data/food-2.json" },
+            { "label": "3", "src": "data/food-3.json" },
+        { "label": "4", "src": "data/food-4.json" }
+  ]
+},
+        {
+      "slug": "health",
+      "title": "Health 健康",
+      "levels": [
+        { "label": "1", "src": "data/health-1.json" },
+        { "label": "2", "src": "data/health-2.json" }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

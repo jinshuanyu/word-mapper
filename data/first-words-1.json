@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "number": "一（個）",
+      "word": "a",
+      "ipa": "/ə/ (重讀 /eɪ/)",
+      "graphemes": ["a"],
+      "phonemes": ["/ə/"],
+      "phonics": ["/ə/"],
+      "tags": ["irregular"],
+      "hearts": [true],
+      "hint": "通常唸 /ə/；強調時可唸長母音 a /eɪ/。"
+    },
+    {
+      "number": "一（個）（母音前）",
+      "word": "an",
+      "ipa": "/ən/",
+      "graphemes": ["a", "n"],
+      "phonemes": ["/ə", "n/"],
+      "phonics": ["/ə", "n/"],
+      "tags": ["irregular"],
+      "hearts": [true, false],
+      "hint": "母音開頭單字前，a 改為 an。"
+    },
+
+
+    {
+"number": "每個；所有",
+"word": "every",
+"ipa": "/ˈɛvri/",
+"graphemes": ["e","v","e","r","y"],
+"phonemes": ["/'ɛ","v","-","r","i/"],
+"phonics": ["/'ĕ","v","-","r","ē/"],
+"tags": ["closed"],
+"hearts": [false,false,true,false,false],
+"hint": "第一個 e 發短母音 e /ɛ/；第二個 e 不發音；y 發長母音 e /i/。"
+},
+
+    {
+      "number": "那（定冠詞）",
+      "word": "the",
+      "ipa": "/ðə/ (母音前常 /ði/)",
+      "graphemes": ["th", "e"],
+      "phonemes": ["/ð", "ə/"],
+      "phonics": ["/<u>th</u>", "ə/"],
+      "tags": ["digraph", "irregular"],
+      "hearts": [false, true],
+      "hint": "通常 e 弱化為 /ə/；強調時或在母音開頭字前 e 發長母音 e /i/。"
+    },
+    {
+"number": "這個",
+"word": "this",
+"ipa": "/ðɪs/",
+"graphemes": ["th","i","s"],
+"phonemes": ["/ð","ɪ","s/"],
+"phonics": ["/<u>th</u>","ĭ","s/"],
+"tags": ["digraph","cvc"],
+"hearts": [false,false,false],
+"hint": "th 發有聲吐舌音 /ð/；i 發短母音 i /ɪ/。"
+},
+        {
+      "number": "那個；連接詞",
+      "word": "that",
+      "ipa": "/ðæt/",
+      "graphemes": ["th", "a", "t"],
+      "phonemes": ["/ð", "æ", "t/"],
+      "phonics": ["/<u>th</u>", "ă", "t/"],
+      "tags": ["digraph", "cvc"],
+      "hearts": [false, false, false],
+      "hint": "th 發有聲吐舌音 /ð/；a 發短母音 a /æ/。"
+    },
+    {
+"number": "這些",
+"word": "these",
+"ipa": "/ðiz/",
+"graphemes": ["th","e","s","e"],
+"phonemes": ["/ð","i","z","-/"],
+"phonics": ["/<u>th</u>","ē","z","-/"],
+"tags": ["digraph","magic_e"],
+"hearts": [false,false,true,false],
+"hint": "e_e：e 發長母音 e /i/；s 發 /z/；字尾 e 靜音。"
+},
+    {
+"number": "那些",
+"word": "those",
+"ipa": "/ðoʊz/",
+"graphemes": ["th","o","s","e"],
+"phonemes": ["/ð","oʊ","z","-/"],
+"phonics": ["/<u>th</u>","ō","z","-/"],
+"tags": ["digraph","magic_e"],
+"hearts": [false,false,true,false],
+"hint": "o_e：o 發長母音 o /oʊ/；s 發 /z/；字尾 e 靜音。"
+}
+
+
+  ]
+}

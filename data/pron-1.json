@@ -1,0 +1,131 @@
+{
+"items": [
+      {
+      "number": "我",
+      "word": "I",
+      "ipa": "/aɪ/",
+      "graphemes": ["I"],
+      "phonemes": ["/aɪ/"],
+      "phonics": ["/ī/"],
+      "tags": ["open"],
+      "hearts": [false],
+      "audio": "audio/letters/I.mp3", 
+      "hint": "第一人稱單數代名詞，要大寫；讀 i 字母名 /aɪ/。"
+    },
+  {
+"number": "我的（所有格）",
+"word": "my",
+"ipa": "/maɪ/",
+"graphemes": ["m","y"],
+"phonemes": ["/m","aɪ/"],
+"phonics": ["/m","ī/"],
+"tags": ["open"],
+"hearts": [false,false],
+"hint": "y 發長母音 i /aɪ/。"
+},
+{
+"number": "我（受格）",
+"word": "me",
+"ipa": "/mi/",
+"graphemes": ["m","e"],
+"phonemes": ["/m","i/"],
+"phonics": ["/m","ē/"],
+"tags": ["open"],
+"hearts": [false,false],
+"hint": "e 發長母音 e /i/。"
+},
+
+{
+"number": "我的（所有格代名詞）",
+"word": "mine",
+"ipa": "/maɪn/",
+"graphemes": ["m","i","n","e"],
+"phonemes": ["/m","aɪ","n","-/"],
+"phonics": ["/m","ī","n","-/"],
+"tags": ["magic_e"],
+"hearts": [false,false,false,false],
+"hint": "i_e：i 發 /aɪ/；尾 e 靜音。"
+},
+
+  
+{
+"number": "我們（主格）",
+"word": "we",
+"ipa": "/wi/",
+"graphemes": ["w","e"],
+"phonemes": ["/w","i/"],
+"phonics": ["/w","ē/"],
+"tags": ["open"],
+"hearts": [false,false],
+"hint": "e 發長母音 e /i/。"
+},
+  {
+"number": "我們的（所有格）",
+"word": "our",
+"ipa": "/aʊr/",
+"graphemes": ["ou","r"],
+"phonemes": ["/aʊ","r/"],
+"phonics": ["/ow","r/"],
+"tags": ["vowel_team"],
+"hearts": [false,false],
+"hint": "ou 發 ow /aʊ/。"
+},
+{
+"number": "我們（受格）",
+"word": "us",
+"ipa": "/ʌs/",
+"graphemes": ["u","s"],
+"phonemes": ["/ʌ","s/"],
+"phonics": ["/ŭ","s/"],
+"tags": ["cvc"],
+"hearts": [false,false],
+"hint": "u 發短母音 u /ʌ/。"
+},
+
+{
+"number": "我們的（所有格代名詞）",
+"word": "ours",
+"ipa": "/aʊrz/",
+"graphemes": ["ou","r","s"],
+"phonemes": ["/aʊ","r","z/"],
+"phonics": ["/ow","r","z/"],
+"tags": ["vowel_team"],
+"hearts": [false,false,true],
+"hint": "ou 發 ow /aʊ/；字尾 s 發 /z/。"
+},
+      {
+      "number": "你/你們（主格/受格）",
+      "word": "you",
+      "ipa": "/juː/",
+      "graphemes": ["y", "ou"],
+      "phonemes": ["/j", "u/"],
+      "phonics": ["/y", "ū/"],
+      "tags": ["irregular"],
+      "hearts": [false, true],
+      "hint": "ou 發長母音 u /u/。"
+    },
+  {
+"number": "你的/你們的（所有格）",
+"word": "your",
+"ipa": "/jʊr/",
+"graphemes": ["y","ou","r"],
+"phonemes": ["/j","ʊ","r/"],
+"phonics": ["/y","oo","r/"],
+"tags": ["irregular"],
+"hearts": [false,true,false],
+"hint": "ou 發 oo /ʊ/；與 you're（you are）同音。"
+},
+{
+"number": "你的/你們的（所有格代名詞）",
+"word": "yours",
+"ipa": "/jʊrz/",
+"graphemes": ["y","ou","r","s"],
+"phonemes": ["/j","ʊ","r","z/"],
+"phonics": ["/y","oo","r","z/"],
+"tags": ["irregular"],
+"hearts": [false,true,false,true],
+"hint": "ou 發 oo /ʊ/；字尾 s 發 /z/。"
+}
+
+]
+}
