@@ -52,7 +52,7 @@
       "phonemes": ["/ɡ","oʊ","l","d/"],
       "phonics": ["/ɡ","ō","l","d/"],
       "tags": ["irregular","cluster"],
-      "hearts": [false,false,false,false],
+      "hearts": [false,true,false,false],
       "hint": "-old 中 o 常發長母音 o /oʊ/。"
     },
         {
@@ -63,7 +63,7 @@
       "phonemes": ["/ɡ","oʊ","l","d","ə","n/"],
       "phonics": ["/ɡ","ō","l","d","ə","n/"],
       "tags": ["irregular","cluster"],
-      "hearts": [false,false,false,false],
+      "hearts": [false,true,false,false],
       "hint": "-old 中 o 常發長母音 o /oʊ/。"
     },
     {
@@ -162,7 +162,7 @@
       "phonemes": ["/'j","ɛ","l","oʊ/"],
       "phonics": ["/'y","ĕ","l","ō/"],
       "tags": ["closed"],
-      "hearts": [false,false,true,false],
+      "hearts": [false,false,false,false],
       "hint": "e 發短母音 e /ɛ/；ll 重複字母；ow 發長母音 o /oʊ/。"
     }
   ]
