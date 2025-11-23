@@ -50,7 +50,7 @@
     #homePage.active{display:flex}
     #homePage:not(.active){display:none!important}
 
-       /* 首頁四步驟橫向條（桌機＋手機共用） */
+    /* 首頁四步驟橫向條（桌機＋手機共用） */
     .home-progress-bar{
       display:flex;
       align-items:flex-start;
@@ -99,11 +99,10 @@
       top:50%;
       transform:translateY(-50%);
       /* 小三角形箭頭 */
-     border-width: 6px 0 6px 10px;
+      border-width: 6px 0 6px 10px;
       border-style:solid;
       border-color:transparent transparent transparent #e5e7eb;
     }
-
 
     @media (max-width:640px){
       .home-progress-bar{
@@ -118,50 +117,68 @@
       }
     }
 
-    /* 2-line dropdown UI */
+    /* 把首頁主題區塊（ul）預設縮排拿掉，整體靠左 */
+    #topicList {
+      list-style:none;
+      margin:0;
+      padding:0;
+      width:100%;
+    }
+
+    /* 2-line dropdown UI（主題／級別） */
     .dropdown-container {
-      display: flex;
-      flex-direction: column;
-      align-items: flex-start; 
-      gap: .9rem;
-      margin-bottom: 2.5rem;
-      font-size: 1rem;
+      display:flex;
+      flex-direction:column;
+      align-items:flex-start;       /* 整組靠左 */
+      gap:.9rem;
+      margin-bottom:2.5rem;
+      font-size:1rem;
+      width:100%;
     }
     .dropdown-row {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: center;
-      gap: .9rem;
+      display:flex;
+      flex-wrap:nowrap;             /* 不換行，label + select 一定在同一行 */
+      align-items:center;
+      justify-content:flex-start;   /* 靠左 */
+      gap:.6rem;                    /* 間距縮小一點，手機比較裝得下 */
     }
     .dropdown-select {
-      min-width: 160px;
-      padding: .7rem 1rem;
-      border: 2px solid #cbd5e1;
-      border-radius: 12px;
-      font-size: 1.1rem;
-      font-weight: 600;
-      background: #f8fafc;
-      transition: all .2s;
+      min-width:160px;
+      padding:.7rem 1rem;
+      border:2px solid #cbd5e1;
+      border-radius:12px;
+      font-size:1.1rem;
+      font-weight:600;
+      background:#f8fafc;
+      transition:all .2s;
     }
     .dropdown-select:focus {
-      outline: none;
-      border-color: var(--c-primary);
-      box-shadow: 0 0 0 3px rgba(124,58,237,0.15);
+      outline:none;
+      border-color:var(--c-primary);
+      box-shadow:0 0 0 3px rgba(124,58,237,0.15);
     }
     .dropdown-btn {
-      background: #9b94b0;
-      color: #fff;
-      border: none;
-      border-radius: 12px;
-      padding: .7rem 1.4rem;
-      font-size: 1.1rem;
-      font-weight: 700;
-      cursor: pointer;
-      transition: background .2s, transform .1s;
+      background:#9b94b0;
+      color:#fff;
+      border:none;
+      border-radius:12px;
+      padding:.7rem 1.4rem;
+      font-size:1.1rem;
+      font-weight:700;
+      cursor:pointer;
+      transition:background .2s, transform .1s;
     }
-    .dropdown-btn:hover { background: #887ea6; transform: translateY(-2px); }
-    .dropdown-btn:active { transform: translateY(0); }
+    .dropdown-btn:hover { background:#887ea6; transform:translateY(-2px); }
+    .dropdown-btn:active { transform:translateY(0); }
+
+    /* 手機再稍微縮一點 select 寬度，避免撐爆 */
+    @media (max-width:640px){
+      .dropdown-select{
+        min-width:140px;
+        padding:.6rem .9rem;
+        font-size:.95rem;
+      }
+    }
 
     /* Legend / tags */
     .legend{display:flex;flex-wrap:wrap;gap:.5rem;padding:0 .25rem .25rem;margin:0 0 1.25rem 0;list-style:none;}
@@ -197,7 +214,7 @@
 
     .card-header{display:flex;justify-content:space-between;align-items:center;padding:1rem 1.25rem;background:#f1f5f9;border-bottom:2px solid #e2e8f0}
     .card-title{display:flex;align-items:baseline;gap:.6rem}
-    .word-number{font-size:1.15rem;font-weight:700;color:#475569} /* 縮小一點 */
+    .word-number{font-size:1.15rem;font-weight:700;color:#475569}
     .word-text{font-size:1.9rem;font-weight:800;color:#0f172a}
 
     .audio-button{font-size:2rem;cursor:pointer;background:none;border:none;padding:0;line-height:1;transition:transform .1s}
@@ -287,8 +304,8 @@
     .credits a:hover{color:#3b82f6}
 
     .searchbar{display:flex;gap:.5rem;align-items:center;justify-content:center;margin:-.3rem auto 1rem;max-width:700px}
-    .searchbar input{width:300px;padding:12px 14px;border:2px solid var(--c-border);border-radius:10px;font-size:1.15rem}
-    .searchbar button{background:#e1effa;color:#0f172a;border:none;border-radius:10px;padding: 12px 18px; font-size: 1.15rem; font-weight:500;cursor:pointer}
+    .searchbar input{width:260px;padding:10px 12px;border:2px solid var(--c-border);border-radius:10px;font-size:1rem}
+    .searchbar button{background:#e1effa;color:#0f172a;border:none;border-radius:10px;padding: 10px 14px; font-size: 0.95rem; font-weight:500;cursor:pointer}
     .searchbar button:hover{opacity:.9}
     .search-msg{margin:.25rem 0 1rem;text-align:center;font-size:.9rem;color:#64748b}
 
@@ -362,7 +379,7 @@
       color:#ffffff;
       font-weight:600;
       font-size:0.95rem;
-      padding:.7rem 1.4rem;
+      padding:.55rem 1.2rem;
 
       border-radius:9999px;
       box-shadow:0 6px 14px rgba(0,0,0,.08);
@@ -370,7 +387,6 @@
       transition:transform .15s ease, box-shadow .2s ease, background .2s ease;
     }
     .support-btn:hover{
-     
       background: linear-gradient(90deg, #CCD2EC, #B1BFE1);
     }
     .support-btn:focus{
@@ -433,7 +449,7 @@
 
       <section id="homePage" class="page-section active">
         <h1>英文拼字 × 聲音對照<br>Word Mapper</h1>
-                <!-- 首頁四步驟說明列 -->
+        <!-- 首頁四步驟說明列 -->
         <div class="home-progress-bar" aria-label="學習步驟">
           <div class="home-step">
             <p class="home-step-label">
@@ -463,7 +479,6 @@
             </p>
           </div>
         </div>
-
 
         <ul id="topicList" class="topic-list"></ul>
       </section>
@@ -828,7 +843,7 @@
             grid.querySelectorAll('.phoneme-box').forEach(cell=>{
               const raw = cell.textContent;
               const url = phonemeUrl(raw);
-             if (url) urls.add(url);
+              if (url) urls.add(url);
             });
             await batchPrefetch(urls, PREFETCH_CONCURRENCY);
           }catch(e){ console.warn('Prefetch error:', e); }
@@ -877,7 +892,7 @@
             <div class="card-body">
               <div class="badges">${badges}</div>
               <div class="boxes-grid" style="grid-template-columns:repeat(${cols},max-content)">${cells}</div>
-                         </div>
+            </div>
           </article>
         `;
         grid.insertAdjacentHTML('beforeend',card);
