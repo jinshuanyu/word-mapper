@@ -1,923 +1,1595 @@
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no"/>
-  <title>英文拼字 × 聲音對照</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Noto+Sans:wght@400;700&family=Noto+Sans+TC:wght@400;700;800&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+ <meta charset="UTF-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no"/>
+ <title>英文拼字 × 聲音對照</title>
+ <link rel="preconnect" href="https://fonts.googleapis.com" />
+ <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+ <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Noto+Sans:wght@400;700&family=Noto+Sans+TC:wght@400;700;800&display=swap" rel="stylesheet" />
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
-  <style>
-    :root{ --c-primary:#887ea6; --c-secondary:#10b981; --c-text:#1f2937; --c-bg:#f8fafc; --c-border:#e2e8f0; }
+ <style>
+  :root{ --c-primary:#887ea6; --c-secondary:#10b981; --c-text:#1f2937; --c-bg:#f8fafc; --c-border:#e2e8f0; }
 
-    /* tag 類別色 */
-    .tag-irregular{background:#fee2e2;border-color:#ef4444;color:#991b1b;}
-    .tag-cvc{ background:#fff; color:#065f46; border-color:#065f46; }
-    .tag-closed{background:#d1fae5;border-color:#10b981;color:#065f46;}
-    .tag-floss{background:#ffe4e6;border-color:#fb7185;color:#9f1239;}
-    .tag-digraph{background:#e0f2fe;border-color:#38bdf8;color:#075985;}
-    .tag-cluster{background:#ede9fe;border-color:#8b5cf6;color:#4c1d95;}
-    .tag-suffix{background:#ccfbf1;border-color:#14b8a6;color:#0f766e;}
-    .tag-rcontrolled{background:#e9d5ff;border-color:#a855f7;color:#581c87;}
-    .tag-open{background:#dcfce7;border-color:#22c55e;color:#14532d;}
-    .tag-cle{background:#f5f5f4;border-color:#a8a29e;color:#3f3f46;}
-    .tag-magic_e{background:#dbeafe;border-color:#3b82f6;color:#1e40af;}
-    .tag-vowel_team{background:#ffedd5;border-color:#f97316;color:#9a3412;}
-    .tag-silent_consonant{background:#f1f5f9;border-color:#94a3b8;color:#334155;}
-    .tag-vowel{
-      background:#ffffff;
-      border-color:#dc2626;   /* 跟母音紅一樣系 */
-      color:#dc2626;
+  /* tag 類別色 */
+  .tag-irregular{background:#fee2e2;border-color:#ef4444;color:#991b1b;}
+  .tag-cvc{ background:#fff; color:#065f46; border-color:#065f46; }
+  .tag-closed{background:#d1fae5;border-color:#10b981;color:#065f46;}
+  .tag-floss{background:#ffe4e6;border-color:#fb7185;color:#9f1239;}
+  .tag-digraph{background:#e0f2fe;border-color:#38bdf8;color:#075985;}
+  .tag-cluster{background:#ede9fe;border-color:#8b5cf6;color:#4c1d95;}
+  .tag-suffix{background:#ccfbf1;border-color:#14b8a6;color:#0f766e;}
+  .tag-rcontrolled{background:#e9d5ff;border-color:#a855f7;color:#581c87;}
+  .tag-open{background:#dcfce7;border-color:#22c55e;color:#14532d;}
+  .tag-cle{background:#f5f5f4;border-color:#a8a29e;color:#3f3f46;}
+  .tag-magic_e{background:#dbeafe;border-color:#3b82f6;color:#1e40af;}
+  .tag-vowel_team{background:#ffedd5;border-color:#f97316;color:#9a3412;}
+  .tag-silent_consonant{background:#f1f5f9;border-color:#94a3b8;color:#334155;}
+  .tag-vowel{ background:#ffffff; border-color:#dc2626; color:#dc2626; }
+  .tag-consonant{ background:#ffffff; border-color:#2563eb; color:#2563eb; }
+
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0;overflow-x:hidden}
+  /* 基底字體 16px */
+  body{font-family:"Inter",system-ui,-apple-system,"Noto Sans TC",sans-serif;background:var(--c-bg);color:var(--c-text);padding:1rem 0;line-height:1.6;font-size:16px}
+  .container{max-width:1200px;margin:0 auto;padding:1.5rem 1rem;background:#fff;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.05);min-height:90vh}
+  
+  h1{font-family:'Noto Sans TC',sans-serif;font-size:1.8rem;font-weight:800;color:#0f172a;text-align:center;margin-bottom:1.8rem}
+
+  /* Page switch */
+  .page-section{display:none;min-height:50vh}
+  .page-section.active{display:block}
+  #homePage{flex-direction:column;align-items:center;justify-content:flex-start}
+  #homePage.active{display:flex}
+  #homePage:not(.active){display:none!important}
+
+  /* 首頁四步驟橫向條 */
+  .home-progress-bar{display:flex;align-items:flex-start;justify-content:space-between;gap:.75rem;margin:.5rem 0 1.8rem;padding:0 .5rem;}
+  .home-step{flex:1;text-align:center;}
+  .home-step-label{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:.1rem;font-size:1.2rem;font-weight:700;line-height:1.1;}
+  .home-step-top{color:var(--c-primary);}
+  .home-step-bottom{color:#111827;}
+  .home-step-line{flex:0 0 2.5rem;height:2px;background:#e5e7eb;align-self:center;position:relative;}
+  .home-step-line::after{content:"";position:absolute;right:0;top:50%;transform:translateY(-50%);border-width:6px 0 6px 10px;border-style:solid;border-color:transparent transparent transparent #e5e7eb;}
+
+  @media (max-width:640px){
+   .home-progress-bar{gap:.5rem;padding:0 .25rem;}
+   .home-step-label{font-size:1.1rem;}
+   .home-step-line{flex-basis:2rem;}
+  }
+
+  /* 選單置中 */
+  #topicList {list-style:none;margin:0;padding:0;width:100%;}
+
+  .dropdown-container { display:flex; flex-direction:column; align-items:center; text-align:center; gap:.9rem; margin-bottom:2.5rem; font-size:1rem; width:100%; }
+  .dropdown-row { display:flex; flex-wrap:nowrap; align-items:center; justify-content:center; gap:.6rem; }
+
+  .dropdown-row label { font-weight: 800; font-size: 1.15rem; color: #1e293b; }
+
+  .dropdown-select { min-width:160px; padding:.4rem 1rem; border:2px solid #cbd5e1; border-radius:12px; font-size:1.1rem; font-weight:600; background:#f8fafc; transition:all .2s; }
+  .dropdown-select:focus { outline:none; border-color:var(--c-primary); box-shadow:0 0 0 3px rgba(124,58,237,0.15); }
+  
+  .dropdown-btn { background:#9b94b0;color:#fff;border:none;border-radius:12px;padding:.4rem 1.4rem;font-size:1.1rem;font-weight:700;cursor:pointer;transition:background .2s, transform .1s; }
+  .dropdown-btn:hover { background:#887ea6; transform:translateY(-2px); }
+  .dropdown-btn:active { transform:translateY(0); }
+  
+  @media (max-width:640px){ 
+      .dropdown-select{min-width:140px;padding:.4rem .9rem;font-size:.95rem;}
+      .dropdown-row label { font-size: 1rem; }
+  }
+
+  /* Legend / tags */
+  .legend{display:flex;flex-wrap:wrap;gap:.5rem;padding:0 .25rem .25rem;margin:0 0 1.25rem 0;list-style:none;}
+  .legend .legend-item{display:inline-flex;flex:0 0 auto;padding:.3rem .75rem;border-radius:999px;font-size:.9rem;font-weight:700;border:2px solid;white-space:nowrap;cursor:pointer;user-select:none;transition:transform .1s ease,opacity .2s ease}
+  .legend .legend-item:hover{transform:scale(1.05)}
+  .legend .legend-item.selected{outline:3px solid rgba(14,165,233,.25)}
+  .tag-all{background:#e5e7eb;border-color:#94a3b8;color:#334155}
+  .category-tag{padding:.3rem .75rem;border-radius:999px;font-size:.9rem;font-weight:700;border:2px solid;white-space:nowrap;user-select:none}
+
+  /* Filter */
+  .filter-bar{display:flex;align-items:center;justify-content:space-between;gap:.5rem;margin:.25rem 0 0.5rem;}
+  
+  /* 手機版：字體調小(0.9rem)，padding縮小 */
+  .filter-toggle{display:inline-flex;align-items:center;gap:.4rem;padding:.45rem .7rem;border-radius:10px;border:2px solid var(--c-border);background:#f8fafc;font-weight:800;cursor:pointer;transition:transform .1s ease, box-shadow .2s ease, border-color .2s ease; font-size: 0.9rem;}
+  .filter-toggle:hover{transform:translateY(-1px);box-shadow:0 6px 14px rgba(2,6,23,.08);border-color:#cbd5e1}
+  
+  .filter-state{font-size:0.85rem;opacity:.7}
+  
+  .filter-panel{display:none;border:2px dashed #e2e8f0;border-radius:12px;padding:.6rem .6rem .4rem;margin:.4rem 0 1rem;background:#fbfbfd;}
+  .filter-panel.open{display:block}
+
+  /* 分享按鈕 RWD 文字切換 */
+  .share-text-mobile { display: inline; font-weight: 600; margin-left: 3px; }
+  .share-text-desktop { display: none; }
+
+  /* 電腦版樣式覆蓋 */
+  @media (min-width: 769px) {
+    .filter-toggle {
+      font-size: 1.15rem; 
+      padding: .55rem 1.1rem;
+      gap: .5rem;
     }
-    .tag-consonant{
-      background:#ffffff;
-      border-color:#2563eb;   /* 跟子音藍一樣系 */
-      color:#2563eb;
+    .filter-state {
+      font-size: 1.05rem;
     }
+    .share-text-mobile { display: none; }
+    .share-text-desktop { display: inline; margin-left: 6px; }
+  }
 
-    *{box-sizing:border-box}
-    html,body{margin:0;padding:0;overflow-x:hidden}
-    body{font-family:"Inter",system-ui,-apple-system,"Noto Sans TC",sans-serif;background:var(--c-bg);color:var(--c-text);padding:1rem 0;line-height:1.6;font-size:18px}
-    .container{max-width:1200px;margin:0 auto;padding:1.5rem 1rem;background:#fff;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.05);min-height:90vh}
-    h1{font-family:'Noto Sans TC',sans-serif;font-size:2rem;font-weight:800;color:#0f172a;text-align:center;margin-bottom:2rem}
+  .topic-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.25rem}
+  .word-card{border:2px solid #cbd5e1;border-radius:12px;background:#fff;box-shadow:0 4px 6px rgba(0,0,0,.03);overflow:hidden;transition:transform .2s,box-shadow .2s; position: relative;}
+  .word-card.hidden{display:none}
+  .word-card:hover{transform:translateY(-5px);box-shadow:0 8px 15px rgba(0,0,0,.07)}
 
-    /* Page switch */
-    .page-section{display:none;min-height:50vh}
-    .page-section.active{display:block}
-    #homePage{flex-direction:column;align-items:center;justify-content:flex-start}
-    #homePage.active{display:flex}
-    #homePage:not(.active){display:none!important}
+  /* === ADDED: Star Button & List Styles === */
+  .star-btn {
+   position: absolute; top: 10px; right: 10px;
+   background: none; border: none; font-size: 1.8rem; cursor: pointer;
+   color: #e2e8f0; transition: color .2s, transform .1s; z-index: 10;
+   line-height: 1; padding: 0;
+  }
+  .star-btn:hover { transform: scale(1.1); }
+  .star-btn.active { color: #fbbf24; text-shadow: 0 2px 4px rgba(251,191,36,0.3); }
 
-    /* 首頁四步驟橫向條 */
-    .home-progress-bar{display:flex;align-items:flex-start;justify-content:space-between;gap:.75rem;margin:.5rem 0 1.8rem;padding:0 .5rem;}
-    .home-step{flex:1;text-align:center;}
-    .home-step-label{display:flex;flex-direction:column;align-items:center;justify-content:flex-start;gap:.1rem;font-size:1.2rem;font-weight:700;line-height:1.1;}
-    .home-step-top{color:var(--c-primary);}
-    .home-step-bottom{color:#111827;}
-    .home-step-line{flex:0 0 2.5rem;height:2px;background:#e5e7eb;align-self:center;position:relative;}
-    .home-step-line::after{content:"";position:absolute;right:0;top:50%;transform:translateY(-50%);border-width:6px 0 6px 10px;border-style:solid;border-color:transparent transparent transparent #e5e7eb;}
+  .my-list-btn-home {
+   background: #fff; border: 2px solid #fbbf24; color: #b45309;
+   font-weight: 700; font-size: 1.1rem; padding: .6rem 1.6rem; border-radius: 99px;
+   margin-top: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: .5rem;
+   transition: all .2s; box-shadow: 0 4px 6px rgba(251,191,36,0.15);
+  }
+  .my-list-btn-home:hover { background: #fffbeb; transform: translateY(-2px); box-shadow: 0 6px 12px rgba(251,191,36,0.25); }
 
-    @media (max-width:640px){
-      .home-progress-bar{gap:.5rem;padding:0 .25rem;}
-      .home-step-label{font-size:1.1rem;}
-      .home-step-line{flex-basis:2rem;}
-    }
+  .mylist-actions { display: flex; gap: 10px; justify-content: center; margin-bottom: 1.5rem; flex-wrap: wrap; }
+  .action-btn { background: #fff; border: 1px solid #cbd5e1; padding: .5rem 1rem; border-radius: 8px; font-size: 0.9rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #475569; font-weight: 600; }
+  .action-btn:hover { background: #f1f5f9; color: #1e293b; }
 
-    /* --- 修正：選單置中 --- */
-    #topicList {list-style:none;margin:0;padding:0;width:100%;}
+  .card-header{display:flex;justify-content:space-between;align-items:center;padding:0.8rem 1rem;background:#f1f5f9;border-bottom:2px solid #e2e8f0; padding-right: 3rem;}
+  .card-title{display:flex;align-items:baseline;gap:.6rem}
+  .word-number{font-size:1.15rem;font-weight:700;color:#475569}
+  .word-text{font-size:1.6rem;font-weight:800;color:#0f172a}
+   
+  .source-link-btn { display: block; margin-top: 0px; font-size: 0.8rem; color: #3b82f6; background: none; border: none; padding: 0; cursor: pointer; text-decoration: underline; text-align: left; font-weight: 600; }
+  .source-link-btn:hover { color: #1d4ed8; }
 
-    .dropdown-container {
-      display:flex;
-      flex-direction:column;
-      align-items:center;    /* 改為置中 */
-      text-align:center;     /* 文字置中 */
-      gap:.9rem;
-      margin-bottom:2.5rem;
-      font-size:1rem;
-      width:100%;
-    }
-    .dropdown-row {
-      display:flex;
-      flex-wrap:nowrap;
-      align-items:center;
-      justify-content:center;  /* 改為置中 */
-      gap:.6rem;
-    }
-    .dropdown-select {
-      min-width:160px;
-      padding:.7rem 1rem;
-      border:2px solid #cbd5e1;
-      border-radius:12px;
-      font-size:1.1rem;
-      font-weight:600;
-      background:#f8fafc;
-      transition:all .2s;
-    }
-    .dropdown-select:focus { outline:none; border-color:var(--c-primary); box-shadow:0 0 0 3px rgba(124,58,237,0.15); }
-    .dropdown-btn {
-      background:#9b94b0;color:#fff;border:none;border-radius:12px;padding:.7rem 1.4rem;font-size:1.1rem;font-weight:700;cursor:pointer;transition:background .2s, transform .1s;
-    }
-    .dropdown-btn:hover { background:#887ea6; transform:translateY(-2px); }
-    .dropdown-btn:active { transform:translateY(0); }
+  .audio-button{font-size:2rem;cursor:pointer;background:none;border:none;padding:0;line-height:1;transition:transform .1s}
+  .audio-button:hover{transform:scale(1.1)}
+  .audio-button:active{transform:scale(0.95)}
 
-    @media (max-width:640px){
-      .dropdown-select{min-width:140px;padding:.6rem .9rem;font-size:.95rem;}
-    }
+  .card-body{padding:0.85rem; display:flex; flex-direction:column; align-items:center;}
+  @media (max-width:768px){ .card-body { padding: 0.8rem; } }
+  
+  .badges{display:flex;gap:.5rem;flex-wrap:nowrap;overflow:auto;white-space:nowrap;padding-bottom:.25rem;margin-bottom:.25rem;-webkit-overflow-scrolling:touch}
+  .badges .category-tag{flex:0 0 auto}
 
-    /* Legend / tags */
-    .legend{display:flex;flex-wrap:wrap;gap:.5rem;padding:0 .25rem .25rem;margin:0 0 1.25rem 0;list-style:none;}
-    .legend .legend-item{display:inline-flex;flex:0 0 auto;padding:.3rem .75rem;border-radius:999px;font-size:.9rem;font-weight:700;border:2px solid;white-space:nowrap;cursor:pointer;user-select:none;transition:transform .1s ease,opacity .2s ease}
-    .legend .legend-item:hover{transform:scale(1.05)}
-    .legend .legend-item.selected{outline:3px solid rgba(14,165,233,.25)}
-    .tag-all{background:#e5e7eb;border-color:#94a3b8;color:#334155}
-    .category-tag{padding:.3rem .75rem;border-radius:999px;font-size:.9rem;font-weight:700;border:2px solid;white-space:nowrap;user-select:none}
+  /* === Flex Container for Boxes === */
+  .boxes-container {
+    display: flex;
+    flex-wrap: nowrap; 
+    overflow-x: auto;
+    border: 2px solid #94a3b8;
+    border-radius: 8px;
+    width: fit-content;
+    max-width: 100%;
+    background: #cbd5e1;
+    gap: 0;
+  }
+  
+  /* === UPDATED: Natural Width (內容撐開) === */
+  .pair-group {
+    display: flex;
+    flex-direction: column;
+    border-right: 2px solid #cbd5e1;
+    background: #fff;
+    /* 關鍵：不設固定寬度，讓字自己撐開 */
+    min-width: auto; 
+    width: max-content;
+  }
+  .pair-group:last-child { border-right: none; }
 
-    /* Filter */
-    .filter-bar{display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin:.25rem 0 0.5rem;}
-    .filter-toggle{display:inline-flex;align-items:center;gap:.5rem;padding:.55rem .9rem;border-radius:10px;border:2px solid var(--c-border);background:#f8fafc;font-weight:800;cursor:pointer;transition:transform .1s ease, box-shadow .2s ease, border-color .2s ease;}
-    .filter-toggle:hover{transform:translateY(-1px);box-shadow:0 6px 14px rgba(2,6,23,.08);border-color:#cbd5e1}
-    .filter-state{font-size:.9rem;opacity:.7}
-    .filter-panel{display:none;border:2px dashed #e2e8f0;border-radius:12px;padding:.6rem .6rem .4rem;margin:.4rem 0 1rem;background:#fbfbfd;}
-    .filter-panel.open{display:block}
+  /* 盒子樣式 */
+  .box {
+    display: flex; align-items: center; justify-content: center;
+    min-height: 44px; 
+    padding: .2rem .4rem; /* 留一點 padding 給空格 */
+    text-align: center; font-size: 1.35rem; font-weight: 700;
+    width: 100%;
+  }
+  
+  .grapheme-box{background:#f1f5f9;color:#1e293b;position:relative;font-family:'Inter','Noto Sans TC',sans-serif; border-bottom: 2px solid #cbd5e1; flex: 1;}
+  .phoneme-box{background:#fff;font-family:'Noto Sans','Noto Sans TC',sans-serif !important;font-size:1.35rem !important;font-weight:400 !important;color:#0f172a;transition:.2s;cursor:pointer;user-select:none;line-height:1.4;position:relative; flex: 1;}
+  
+  .phoneme-box:hover{background:#f0f9ff;transform:none}
+  .phoneme-box:active{background:#dbeafe}
 
-    .topic-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.25rem}
-    .word-card{border:2px solid #cbd5e1;border-radius:12px;background:#fff;box-shadow:0 4px 6px rgba(0,0,0,.03);overflow:hidden;transition:transform .2s,box-shadow .2s}
-    .word-card.hidden{display:none}
-    .word-card:hover{transform:translateY(-5px);box-shadow:0 8px 15px rgba(0,0,0,.07)}
+  .heart-symbol{position:absolute;bottom:-2px;left:0;right:0;text-align:center;color:#ef4444;font-size:1rem;line-height:1}
+   
+  .toggle-container{display:flex;justify-content:center;align-items:center;gap:1rem;margin:.2rem 0 .6rem;font-weight:700;color:#334155;user-select:none;font-size:1rem}
+  .attribution-note{text-align:center;font-size:.85rem;color:#64748b;margin-top:0;margin-bottom:1.1rem;line-height:1.5}
+  .attribution-note a{color:#3b82f6;text-decoration:underline}
+  .attribution-note a:hover{color:#1d4ed8}
+  .toggle-label-ipa,.toggle-label-phonics{color:#64748b;transition:color .2s}
+  input:checked ~ .toggle-label-phonics{color:#0f172a}
+  input:not(:checked) ~ .toggle-label-ipa{color:#0f172a}
+  .switch{position:relative;display:inline-block;width:60px;height:34px;visibility:hidden}
+  .switch input{opacity:0;width:0;height:0}
+  .slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background:#cbd5e1;transition:.4s;border-radius:34px;visibility:visible}
+  .slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background:white;transition:.4s;border-radius:50%}
+  input:checked + .slider{background:#3b82f6}
+  input:checked + .slider:before{transform:translateX(26px)}
 
-    .card-header{display:flex;justify-content:space-between;align-items:center;padding:1rem 1.25rem;background:#f1f5f9;border-bottom:2px solid #e2e8f0}
-    .card-title{display:flex;align-items:baseline;gap:.6rem}
-    .word-number{font-size:1.15rem;font-weight:700;color:#475569}
-    .word-text{font-size:1.9rem;font-weight:800;color:#0f172a}
+  .credits{margin-top:3rem;padding-top:1.2rem;border-top:2px solid var(--c-border);text-align:center;font-size:.875rem;color:#475569;line-height:1.6}
+  .credits a{color:#64748b;margin:0 .5rem;transition:color .2s;text-decoration:none}
+  .credits a:hover{color:#3b82f6}
+
+  .searchbar{display:flex;gap:.5rem;align-items:center;justify-content:center;margin:-.3rem auto 1rem;max-width:700px}
+  .searchbar input{width:200px;padding:10px 12px;border:2px solid var(--c-border);border-radius:10px;font-size:1rem}
+  .searchbar button{background:#e1effa;color:#0f172a;border:none;border-radius:10px;padding: 8px 12px; font-size: 1.15rem; font-weight:700; cursor:pointer}
+  .searchbar button:hover{opacity:.9}
+  .search-msg{margin:.25rem 0 1rem;text-align:center;font-size:.9rem;color:#64748b}
+
+  .word-card.search-hit{outline:3px solid #7c3aed;box-shadow:0 0 0 4px rgba(124,58,237,.15);animation:hitflash 1.6s ease}
+  @keyframes hitflash{0%{background:#faf5ff}100%{background:#fff}}
+
+  @media (max-width:768px){
+   .container{padding:1rem .5rem}
+   h1{font-size:1.4rem}
+   .topic-grid{grid-template-columns:1fr}
+   .word-text{font-size:1.7rem}
+   
+   /* 手機版：字體加大 (1.4rem) */
+   .box{font-size:1.4rem; min-height:40px; padding:.1rem .25rem;}
+   .phoneme-box{font-size:1.4rem !important; font-weight:400 !important; font-family:'Noto Sans','Noto Sans TC',sans-serif !important;}
+   .phoneme-box.is-phonics{font-size:1.4rem !important; font-weight:400 !important; font-family:'Noto Sans','Noto Sans TC',sans-serif !important;}
+   
+   .attribution-note{font-size:.75rem}
+   .back-button{margin-bottom:1rem;font-size: 1.1rem; padding: 0.4rem 1rem;}
+   .audio-button { font-size: 1.5rem; }
+  }
+
+  .box.phoneme-box span.phoneme-vowel { color:#dc2626 !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; }
+  .box.phoneme-box span.phoneme-consonant { color:#2563eb !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; }
+
+  .phoneme-box.loading-audio::after { content: '⏳'; position: absolute; top: 2px; right: 2px; font-size: 0.8rem; opacity: 0.5; }
+  #levelSelect { min-width: 160px; }
+  .back-button{ font-size: 1.1rem; padding: 0.4rem 1rem; }
+  .badges{ flex-wrap: wrap !important; white-space: normal !important; overflow: visible !important; }
+  .badges .category-tag{ white-space: nowrap !important; }
+
+  .support-btn{
+    display:inline-block;
+    background: linear-gradient(to right, #facc15, #fb923c);
+    color:#ffffff;
+    font-weight:600;
+    font-size:1rem;
+    padding:.5rem 1.25rem;
+    border-radius:9999px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    text-decoration:none;
+    transition:transform .2s ease;
+  }
+  .support-btn:hover{
+    transform: scale(1.05);
+  }
+  .support-btn:focus{outline:3px solid rgba(251, 191, 36, .45);outline-offset:2px;}
+
+  /* Back to Top button */
+  .back-to-top{
+   position:fixed;
+   right:1.5rem;
+   bottom:2.5rem;
+   padding:.65rem 1rem;
+   font-size:1.1rem;
+   border-radius:999px;
+   border:none;
+   background:rgba(148,163,184,0.96); /* slate-ish */
+   color:#f9fafb;
+   box-shadow:0 8px 20px rgba(15,23,42,.25);
+   cursor:pointer;
+   opacity:0;
+   pointer-events:none;
+   transform:translateY(8px);
+   transition:opacity .2s,transform .2s,box-shadow .2s,background .2s;
+   z-index:999;
+  }
+  .back-to-top.visible{
+   opacity:1;
+   pointer-events:auto;
+   transform:translateY(0);
+  }
+  .back-to-top:hover{
+   background:rgba(100,116,139,0.98);
+   box-shadow:0 12px 28px rgba(15,23,42,.32);
+  }
+
+  @media (max-width:768px){ .back-to-top{right:1rem;bottom:3rem;font-size:1.05rem;padding:.6rem .9rem;} }
+  @media (max-width:640px){ .support-btn{font-size:0.9rem;font-weight:500;padding:.45rem 1rem;} }
+
+  /* Print Styles */
+  @media print {
+    html, body { height: auto !important; margin: 0 !important; padding: 0 !important; overflow: visible !important; background: #fff !important; font-size: 12pt; }
+    .container { box-shadow: none !important; max-width: 100% !important; width: 100% !important; padding: 0 !important; margin: 0 !important; min-height: 0 !important; border: none !important; }
+    .back-button, .searchbar, .home-progress-bar, .dropdown-container, .filter-bar, .filter-panel, .toggle-container, .attribution-note, .credits, .support-cta, .audio-button, .back-to-top, .star-btn, .mylist-actions, #searchMsg, .source-link-btn, #goMyListBtn, #batchInputBtn, .share-page-btn, #printBtn, #exportListBtn, #importListBtn, #oneClickSaveBtn { display: none !important; }
+    #homePage { display: none !important; } 
+    .page-section.active { display: block !important; }
+    .topic-grid { display: block !important; }
     
-    /* --- 搜尋結果連結樣式 --- */
-    .source-link-btn {
-      display: block;
-      margin-top: 0px;
-      font-size: 0.8rem;
-      color: #3b82f6;
-      background: none;
-      border: none;
-      padding: 0;
-      cursor: pointer;
-      text-decoration: underline;
-      text-align: left;
-      font-weight: 600;
+    /* === 列印專用：強制兩欄 === */
+    .word-card { 
+        display: inline-block; 
+        width: 49%; /* 接近 50% 但留一點縫隙 */
+        margin-right: 0.5%; 
+        margin-bottom: 0.8rem; 
+        vertical-align: top; 
+        break-inside: avoid; /* 防止卡片被切斷 */
+        page-break-inside: avoid; 
+        box-shadow: none; 
+        border: 1px solid #ccc !important; /* 改成細灰線 */
+        border-radius: 0 !important;       /* ★去掉圓角 */
+        box-shadow: none !important;
+   /* ★★★ 加入這一行，解決格線被切掉的問題 ★★★ */
+      overflow: visible !important;
     }
-    .source-link-btn:hover { color: #1d4ed8; }
-
-    .audio-button{font-size:2rem;cursor:pointer;background:none;border:none;padding:0;line-height:1;transition:transform .1s}
-    .audio-button:hover{transform:scale(1.1)}
-    .audio-button:active{transform:scale(0.95)}
-
-    .card-body{padding:1.1rem; display:flex; flex-direction:column; align-items:center;}
-    .badges{display:flex;gap:.5rem;flex-wrap:nowrap;overflow:auto;white-space:nowrap;padding-bottom:.25rem;margin-bottom:.25rem;-webkit-overflow-scrolling:touch}
-    .badges .category-tag{flex:0 0 auto}
-
-    .boxes-grid{display:grid;grid-auto-rows:auto;border:2px solid #94a3b8;border-radius:8px;overflow:auto;grid-auto-columns:max-content;justify-content:start;align-content:start;width:max-content;max-width:100%;}
-    .box{display:flex;align-items:center;justify-content:center;min-height:56px;padding:.35rem .5rem;text-align:center;font-size:1.6rem;font-weight:700;border-right:2px solid #cbd5e1;}
-    .box:last-child{border-right:none}
-    .grapheme-box{background:#f1f5f9;color:#1e293b;position:relative;font-family:'Inter','Noto Sans TC',sans-serif;border-bottom:2px solid #cbd5e1;grid-row:1}
-
-    .phoneme-box{background:#fff;font-family:'Noto Sans','Noto Sans TC',sans-serif !important;font-size:1.6rem !important;font-weight:400 !important;color:#0f172a;grid-row:2;transition:.2s;cursor:pointer;user-select:none;line-height:1.4;position:relative;}
-    .phoneme-box:hover{background:#f0f9ff;transform:none}
-    .phoneme-box:active{background:#dbeafe}
-
-    .heart-symbol{position:absolute;bottom:-2px;left:0;right:0;text-align:center;color:#ef4444;font-size:1rem;line-height:1}
     
-    .toggle-container{display:flex;justify-content:center;align-items:center;gap:1rem;margin:.2rem 0 .6rem;font-weight:700;color:#334155;user-select:none;font-size:1rem}
-    .attribution-note{text-align:center;font-size:.85rem;color:#64748b;margin-top:0;margin-bottom:1.1rem;line-height:1.5}
-    .attribution-note a{color:#3b82f6;text-decoration:underline}
-    .attribution-note a:hover{color:#1d4ed8}
-    .toggle-label-ipa,.toggle-label-phonics{color:#64748b;transition:color .2s}
-    input:checked ~ .toggle-label-phonics{color:#0f172a}
-    input:not(:checked) ~ .toggle-label-ipa{color:#0f172a}
-    .switch{position:relative;display:inline-block;width:60px;height:34px;visibility:hidden}
-    .switch input{opacity:0;width:0;height:0}
-    .slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background:#cbd5e1;transition:.4s;border-radius:34px;visibility:visible}
-    .slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background:white;transition:.4s;border-radius:50%}
-    input:checked + .slider{background:#3b82f6}
-    input:checked + .slider:before{transform:translateX(26px)}
-
-    .credits{margin-top:3rem;padding-top:1.2rem;border-top:2px solid var(--c-border);text-align:center;font-size:.875rem;color:#475569;line-height:1.6}
-    .credits a{color:#64748b;margin:0 .5rem;transition:color .2s;text-decoration:none}
-    .credits a:hover{color:#3b82f6}
-
-    .searchbar{display:flex;gap:.5rem;align-items:center;justify-content:center;margin:-.3rem auto 1rem;max-width:700px}
-    .searchbar input{width:200px;padding:10px 12px;border:2px solid var(--c-border);border-radius:10px;font-size:1rem}
-    .searchbar button{background:#e1effa;color:#0f172a;border:none;border-radius:10px;padding: 8px 12px; font-size: 0.9rem; font-weight:500;cursor:pointer}
-    .searchbar button:hover{opacity:.9}
-    .search-msg{margin:.25rem 0 1rem;text-align:center;font-size:.9rem;color:#64748b}
-
-    .word-card.search-hit{outline:3px solid #7c3aed;box-shadow:0 0 0 4px rgba(124,58,237,.15);animation:hitflash 1.6s ease}
-    @keyframes hitflash{0%{background:#faf5ff}100%{background:#fff}}
-
-    @media (max-width:768px){
-      .container{padding:1rem .5rem}
-      h1{font-size:1.6rem}
-      .topic-grid{grid-template-columns:1fr}
-      .word-text{font-size:1.7rem}
-      .box{font-size:1.5rem;min-height:52px}
-      .phoneme-box{font-size:1.5rem !important;font-weight:400 !important;font-family:'Noto Sans','Noto Sans TC',sans-serif !important;}
-      .phoneme-box.is-phonics{font-size:1.5rem !important;font-weight:400 !important;font-family:'Noto Sans','Noto Sans TC',sans-serif !important;}
-      .attribution-note{font-size:.75rem}
-      .back-button{margin-bottom:1rem;font-size: 1.1rem; padding:10px 16px}
+    .card-header { background: #fff; border-bottom: 1px solid #ccc; padding: 0.1rem 0.3rem; }
+    .word-text { color: #000; font-size: 1.2rem; }
+    .phoneme-box { color: #000 !important;  font-weight: normal !important; border: none !important; /* ★拿掉格子原本的黑框 */ }
+    .grapheme-box { background: #fff; color: #000; border: none !important; /* ★拿掉格子原本的黑框 */
+        border-bottom: 1px solid #ccc !important; /* 只留底線 (分隔拼字和音標) */　position: relative;
+    padding-bottom: 0.8rem !important; /* ★關鍵：下方撐開空間給愛心 */　}
+    .badges { display: none; } 
+    .box.phoneme-box span.phoneme-vowel, .box.phoneme-box span.phoneme-consonant { color: #000 !important; }
+    
+    /* === 列印設定：自動換行 & 去除多餘 Padding === */
+    .card-body { padding: 0 !important; } /* 卡片內距最小化 */
+    .box { padding: 0.1rem 0.4rem !important; min-height: auto !important; } /* 格子內距最小化 */
+    
+    .boxes-container {
+        flex-wrap: wrap !important; /* 允許換行 */
+        overflow: visible !important; 
+    border: 1px solid #ccc !important; /* ★改成細灰線 */
+        border-radius: 0 !important;       /* ★去掉圓角 */
+        display: inline-flex; 
     }
-
-    .box.phoneme-box span.phoneme-vowel { color:#dc2626 !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; }
-    .box.phoneme-box span.phoneme-consonant { color:#2563eb !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; }
-
-    .phoneme-box.loading-audio::after { content: '⏳'; position: absolute; top: 2px; right: 2px; font-size: 0.8rem; opacity: 0.5; }
-    #levelSelect { min-width: 160px; }
-    .back-button{ font-size: 1.1rem; padding: 10px 16px; }
-    .badges{ flex-wrap: wrap !important; white-space: normal !important; overflow: visible !important; }
-    .badges .category-tag{ white-space: nowrap !important; }
-
-    .support-btn{display:inline-block;background: linear-gradient(90deg, #D9DDF0, #BFCBE6);color:#ffffff;font-weight:600;font-size:0.95rem;padding:.55rem 1.2rem;border-radius:9999px;box-shadow:0 6px 14px rgba(0,0,0,.08);text-decoration:none;transition:transform .15s ease, box-shadow .2s ease, background .2s ease;}
-    .support-btn:hover{background: linear-gradient(90deg, #CCD2EC, #B1BFE1);}
-    .support-btn:focus{outline:3px solid rgba(160, 175, 215, .45);outline-offset:2px;}
-
-    .back-to-top{position:fixed;right:1.4rem;bottom:3rem;z-index:50;padding:.7rem 1.05rem;border-radius:999px;border:none;background:#887ea6;color:#fff;font-size:1.1rem;font-weight:700;cursor:pointer;box-shadow:0 6px 14px rgba(15,23,42,.18);opacity:0;pointer-events:none;transform:translateY(6px);transition:opacity .2s ease, transform .15s ease, box-shadow .2s ease, background .2s ease;}
-    .back-to-top.visible{opacity:1;pointer-events:auto;transform:translateY(0);}
-    .back-to-top:hover{background:#6f668f;box-shadow:0 10px 20px rgba(15,23,42,.22);}
-    .back-to-top:focus{outline:3px solid rgba(136,126,166,.45);outline-offset:2px;}
-    @media (max-width:768px){ .back-to-top{right:1rem;bottom:3rem;font-size:1.05rem;padding:.6rem .9rem;} }
-    @media (max-width:640px){ .support-btn{font-size:0.85rem;padding:.45rem 1rem;} }
-  </style>
+    .pair-group {
+        border-right: 1px solid #ccc;
+        margin-bottom: 0; 
+        page-break-inside: avoid;
+    }
+   .heart-symbol {
+    position: absolute !important;
+    bottom: 0px !important;      /* 固定在最底部 */
+    left: 0; right: 0;
+    font-size: 0.6rem !important; /* ★縮小愛心 */
+    line-height: 1;
+    
+  }
+    .grapheme-box { border-bottom: 1px solid #ccc; }
+  }
+  @media print and (orientation: landscape) {
+      /* 橫向列印也維持兩欄 */
+      .word-card { width: 49%; margin-right: 0.5%; }
+  }
+ </style>
 </head>
 
 <body>
-  <div class="container">
-    <main>
-      <div class="searchbar" role="search">
-        <input id="globalSearchInput" type="text" placeholder="輸入單字（例如：one）" aria-label="搜尋單字">
-        <button id="globalSearchBtn">🔍 搜尋</button>
-      </div>
-      <p id="searchMsg" class="search-msg" aria-live="polite"></p>
+ <div class="container">
+  <main>
+   <div class="searchbar" role="search">
+    <input id="globalSearchInput" type="text" placeholder="輸入單字（例如：one）" aria-label="搜尋單字">
+    <button id="globalSearchBtn">🔍 搜尋</button>
+   </div>
+   <p id="searchMsg" class="search-msg" aria-live="polite"></p>
 
-      <section id="homePage" class="page-section active">
-        <h1>英文拼字 × 聲音對照<br>Word Mapper</h1>
-        
-        <!-- 首頁四步驟說明列 -->
-        <div class="home-progress-bar" aria-label="學習步驟">
-          <div class="home-step">
-            <p class="home-step-label">
-              <span class="home-step-top">整體</span>
-              <span class="home-step-bottom">發音</span>
-            </p>
-          </div>
-          <div class="home-step-line"></div>
-          <div class="home-step">
-            <p class="home-step-label">
-              <span class="home-step-top">音素</span>
-              <span class="home-step-bottom">切割</span>
-            </p>
-          </div>
-          <div class="home-step-line"></div>
-          <div class="home-step">
-            <p class="home-step-label">
-              <span class="home-step-top">字素</span>
-              <span class="home-step-bottom">對應</span>
-            </p>
-          </div>
-          <div class="home-step-line"></div>
-          <div class="home-step">
-            <p class="home-step-label">
-              <span class="home-step-top">拼寫</span>
-              <span class="home-step-bottom">記牢</span>
-            </p>
-          </div>
-        </div>
+   <section id="homePage" class="page-section active">
+    <h1>英文拼字 × 聲音對照<br>Word Mapper</h1>
+     
+    <div class="home-progress-bar" aria-label="學習步驟">
+     <div class="home-step"><p class="home-step-label"><span class="home-step-top">整體</span><span class="home-step-bottom">發音</span></p></div>
+     <div class="home-step-line"></div>
+     <div class="home-step"><p class="home-step-label"><span class="home-step-top">音素</span><span class="home-step-bottom">切割</span></p></div>
+     <div class="home-step-line"></div>
+     <div class="home-step"><p class="home-step-label"><span class="home-step-top">字素</span><span class="home-step-bottom">對應</span></p></div>
+     <div class="home-step-line"></div>
+     <div class="home-step"><p class="home-step-label"><span class="home-step-top">拼寫</span><span class="home-step-bottom">記牢</span></p></div>
+    </div>
 
-        <ul id="topicList" class="topic-list"></ul>
-      </section>
+    <ul id="topicList" class="topic-list"></ul>
 
-      <!-- Search Results Section -->
-      <section id="searchResultPage" class="page-section">
-        <button class="back-button" data-page-target="homePage"><i class="fa-solid fa-arrow-left"></i> 返回目錄</button>
-        <h1>🔍 搜尋結果</h1>
-        <p id="searchResultCount" style="text-align:center; color:#64748b; margin-bottom:1.5rem;"></p>
-        <div id="searchResult_Content"></div>
-      </section>
+    <button id="goMyListBtn" class="my-list-btn-home">⭐ 我的自選字表</button>
+   </section>
+
+   <section id="searchResultPage" class="page-section">
+    <button class="back-button" data-page-target="homePage"><i class="fa-solid fa-arrow-left"></i> 返回目錄</button>
+    <h1>🔍 搜尋結果</h1>
+    <p id="searchResultCount" style="text-align:center; color:#64748b; margin-bottom:1.5rem;"></p>
+    <div id="searchResult_Content"></div>
+   </section>
+
+   <section id="myListPage" class="page-section">
+    <button class="back-button" data-page-target="homePage"><i class="fa-solid fa-arrow-left"></i> 返回目錄</button>
+    <h1>⭐ 我的自選字表</h1>
+    <div class="mylist-actions">
+     <button class="action-btn" id="batchInputBtn"><i class="fa-solid fa-pen-to-square"></i> 快速選字</button>
+     <button class="action-btn print-btn" id="printListBtn"><i class="fa-solid fa-print"></i> 列印</button>
+     <button class="action-btn" id="exportListBtn"><i class="fa-solid fa-share-nodes"></i> 分享字表</button>
+     <input type="file" id="importInput" style="display:none" accept=".json">
+    </div>
+    <p id="myListMsg" style="text-align:center; color:#64748b; margin-bottom:1rem;"></p>
+    <div id="myList_Content"></div>
+   </section>
+    
+   </main>
+
+  <footer class="credits">
+   <a href="mailto:mamahowma@gmail.com" aria-label="Email mamahowma"><i class="fa-solid fa-envelope fa-xl fa-fw" aria-hidden="true"></i></a>&emsp;
+   <a href="https://www.facebook.com/mamahowma" target="_blank" rel="noopener noreferrer" aria-label="mamahowma Facebook Page"><i class="fa-brands fa-facebook fa-xl fa-fw" aria-hidden="true"></i></a>&emsp;
+   <a href="https://portaly.cc/mamahowma/support" target="_blank" rel="noopener noreferrer" aria-label="Support mamahowma"><i class="fa-solid fa-mug-hot fa-xl fa-fw" aria-hidden="true"></i></a>
+   <br /><br />
+<div class="support-cta">
+    <a href="https://portaly.cc/mamahowma/support" target="_blank" rel="noopener noreferrer" class="support-btn">
+     喜歡這個免費工具嗎？☕ 請杯咖啡鼓勵我
+    </a>
+   </div><br />
+   © 2025 Christina Yu. All rights reserved.
+  </footer>
+ </div>
+
+ <button id="backToTop" class="back-to-top" type="button" aria-label="返回頂部">↑ TOP</button>
+
+ <script>
+  // ================== 全域開關 & 自動調整 ==================
+  const DISABLE_PREFETCH = false;
+  const conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+  const IS_SAVE_DATA = !!(conn && conn.saveData);
+  const EFFECTIVE_TYPE = (conn && conn.effectiveType) || '';
+  const IS_SLOW_NET = /^(2g|slow-2g)$/i.test(EFFECTIVE_TYPE);
+  const IS_TOUCH = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+  const IS_IOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
+  const PREFETCH_PHONEMES = (IS_SAVE_DATA || IS_SLOW_NET) ? 12 : (IS_IOS ? 30 : 40);
+  const PREFETCH_WORDS  = (IS_SAVE_DATA || IS_SLOW_NET) ? 3 : (IS_IOS ? 5 : 8);
+  const PREFETCH_CONCURRENCY = IS_IOS ? 4 : 6;
+
+  window.PhonicsApp = window.PhonicsApp || { pendingHighlight: null };
+
+  // ================== DATA STORAGE (My List) ==================
+  let MY_LIST = [];
+  try {
+    const saved = localStorage.getItem('phonics_mylist');
+    if (saved) MY_LIST = JSON.parse(saved);
+  } catch(e){
+    console.warn('Load list failed', e);
+  }
+
+  function saveMyList(){
+    try{
+      localStorage.setItem('phonics_mylist', JSON.stringify(MY_LIST));
+    }catch(e){
+      console.warn('Save list failed', e);
+    }
+  }
+
+  function toggleMyList(wordItem, folder){
+    const key = String(wordItem.word).toLowerCase();
+    const idx = MY_LIST.findIndex(x => String(x.word).toLowerCase() === key);
+    if (idx >= 0){
+      MY_LIST.splice(idx, 1);
+      saveMyList();
+      return false;
+    } else {
+      MY_LIST.push({ ...wordItem, _folder: folder });
+      saveMyList();
+      return true;
+    }
+  }
+
+  function isWordInList(word){
+    return MY_LIST.some(x => String(x.word).toLowerCase() === String(word).toLowerCase());
+  }
+  
+  // === 新增：合併清單邏輯 ===
+  function mergeIntoMyList(newList){
+    if (!Array.isArray(newList)) return 0;
+    let addedCount = 0;
+    newList.forEach(newItem => {
+      // 確保 newItem 有 word 屬性
+      if(!newItem.word) return;
       
-      <!-- 內容頁會動態加入 -->
-    </main>
-
-    <footer class="credits">
-      <a href="mailto:mamahowma@gmail.com" aria-label="Email mamahowma">
-        <i class="fa-solid fa-envelope fa-xl fa-fw" aria-hidden="true"></i>
-      </a>&emsp;
-      <a href="https://www.facebook.com/mamahowma" target="_blank" rel="noopener noreferrer" aria-label="mamahowma Facebook Page">
-        <i class="fa-brands fa-facebook fa-xl fa-fw" aria-hidden="true"></i>
-      </a>&emsp;
-      <a href="https://portaly.cc/mamahowma/support" target="_blank" rel="noopener noreferrer" aria-label="Support mamahowma">
-        <i class="fa-solid fa-mug-hot fa-xl fa-fw" aria-hidden="true"></i>
-      </a>
-      <br /><br />
-      <div class="support-cta">
-        <a href="https://portaly.cc/mamahowma/support" target="_blank" rel="noopener noreferrer" class="support-btn">
-          支持我繼續創作分享，請我喝杯咖啡吧 ☕
-        </a>
-      </div><br />
-      © 2025 Christina Yu. All rights reserved.
-    </footer>
-  </div>
-
-  <button id="backToTop" class="back-to-top" type="button" aria-label="返回頂部">↑ TOP</button>
-
-  <script>
-    // ================== 全域開關 & 自動調整 ==================
-    const DISABLE_PREFETCH = false;
-
-    const conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
-    const IS_SAVE_DATA = !!(conn && conn.saveData);
-    const EFFECTIVE_TYPE = (conn && conn.effectiveType) || '';
-    const IS_SLOW_NET = /^(2g|slow-2g)$/i.test(EFFECTIVE_TYPE);
-    const IS_TOUCH = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
-    const IS_IOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || 
-                   (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-
-    const PREFETCH_PHONEMES = (IS_SAVE_DATA || IS_SLOW_NET) ? 12 : (IS_IOS ? 30 : 40);
-    const PREFETCH_WORDS   = (IS_SAVE_DATA || IS_SLOW_NET) ? 3  : (IS_IOS ? 5 : 8);
-    const PREFETCH_CONCURRENCY = IS_IOS ? 4 : 6;
-
-    window.PhonicsApp = window.PhonicsApp || { pendingHighlight: null };
-
-    function escapeHtml(text) {
-      const div = document.createElement('div');
-      div.textContent = text == null ? '' : String(text);
-      return div.innerHTML;
-    }
-    function sanitizePhonemeHtml(text, allowU = true){
-      const escaped = escapeHtml(text);
-      return allowU
-        ? escaped.replace(/&lt;u&gt;/g,'<u>').replace(/&lt;\/u&gt;/g,'</u>')
-        : escaped;
-    }
-    function escapeAttr(val){ return String(val).replace(/&/g,'&amp;').replace(/"/g,'&quot;'); }
-
-    const VOWEL_CHARS = new Set(['i','ɪ','ɛ','æ','ʌ','ɑ','ɔ','ʊ','u','ə','ɚ','ɝ','e','a','o','ē','ī','ō','ā','ū','ĕ','ĭ','ŏ','ŭ','ă']);
-    const CONSONANT_CHARS = new Set(['p','b','t','d','k','ɡ','f','v','θ','ð','s','z','ʃ','ʒ','h','m','n','ŋ','l','r','w','j','c','y','x']);
-    const NEUTRAL_CHARS = new Set(['/',' ', "'", 'ˌ','.', 'ː','-']);
-
-    function stripColorSpans(html){
-      return html.replace(/<span[^>]*class="[^"]*\bphoneme-(?:vowel|consonant)\b[^"]*"[^>]*>/gi,'').replace(/<\/span>/gi,'');
-    }
-    function colorizePhonemes(html){
-      if(!html) return '';
-      const src = stripColorSpans(html);
-      let out = '', i = 0;
-      while(i < src.length){
-        const ch = src[i];
-        if(ch === '<'){
-          const j = src.indexOf('>', i);
-          if(j === -1){ out += ch; i++; continue; }
-          out += src.slice(i, j+1);
-          i = j + 1;
-          continue;
-        }
-        if(NEUTRAL_CHARS.has(ch)){ out += ch; i++; continue; }
-        if(VOWEL_CHARS.has(ch)){ out += `<span class="phoneme-vowel">${ch}</span>`; }
-        else if(CONSONANT_CHARS.has(ch)){ out += `<span class="phoneme-consonant">${ch}</span>`; }
-        else{ out += ch; }
-        i++;
+      const exists = MY_LIST.some(oldItem => 
+        String(oldItem.word).toLowerCase() === String(newItem.word).toLowerCase()
+      );
+      if (!exists) {
+        MY_LIST.push(newItem);
+        addedCount++;
       }
-      return out;
-    }
+    });
+    if (addedCount > 0) saveMyList();
+    return addedCount;
+  }
 
-    const tagNames = {
-      all: "全部", vowel: "母音", consonant :"子音", irregular: "不規則拼寫", closed: "閉音節（短母音）", floss: "重複子音字尾 (FLOSS-Z)",
-      digraph: "雙字母子音", cluster: "子音群", suffix: "字尾後綴", rcontrolled: "母音 + 'r'", open: "開音節（長母音）", cle: "子音 + 'le'",
-      magic_e: "長母音 + 靜音 'e'", vowel_team: "母音組合", silent_consonant: "不發音子音字母", cvc: "單一閉音節（短母音）"  
-    };
-
-    const TOPICS_URL = 'topics.json';
-    const CACHE = { topics: null, data: {} };
-    const loadingState = new Set();
-
-    function fetchWithTimeout(url, opts={}, timeout=8000){
-      return Promise.race([
-        fetch(url, opts),
-        new Promise((_, rej)=> setTimeout(()=>rej(new Error('Timeout')), timeout))
-      ]);
-    }
-
-    const AUDIO_BASE = './audio/';
-    let levelFolder = '';
-
-    function audioUrlForWord(item){
-      if (item.audio) return item.audio;
-      const folder = item._folder || levelFolder; 
-      const safeName = String(item.word||'').toLowerCase().replace(/\s+/g, "_");
-      return `${AUDIO_BASE}${folder}/${safeName}.mp3`;
-    }
-
-    const AUDIO_CACHE = new Map();
-    const CACHE_MAX = 300;
-    function cachePut(url, blobUrl){
-      AUDIO_CACHE.set(url, { blobUrl, t: Date.now() });
-      if (AUDIO_CACHE.size > CACHE_MAX){
-        let oldestKey=null, oldestT=Infinity;
-        for (const [k,v] of AUDIO_CACHE){ if (v.t < oldestT){ oldestT=v.t; oldestKey=k; } }
-        if (oldestKey){ try{ URL.revokeObjectURL(AUDIO_CACHE.get(oldestKey).blobUrl); }catch{} AUDIO_CACHE.delete(oldestKey); }
+  // === 工具：編碼分享資料 (Lite: 只傳單字字串) ===
+  function encodeShareData(dataObj) {
+      // 如果 dataObj.list 是物件陣列，轉為純字串陣列
+      if(dataObj.list && dataObj.list.length > 0 && typeof dataObj.list[0] === 'object') {
+          dataObj.list = dataObj.list.map(item => item.word);
       }
-    }
-    function cacheGet(url){
-      const hit = AUDIO_CACHE.get(url);
-      if (hit){ hit.t = Date.now(); return hit.blobUrl; }
+      
+      const json = JSON.stringify(dataObj);
+      return btoa(
+        encodeURIComponent(json).replace(/%([0-9A-F]{2})/g, (_, p1) =>
+          String.fromCharCode('0x' + p1)
+        )
+      );
+  }
+
+  // === 工具：解碼 URL 字串 ===
+  function decodeBase64List(b64){
+    try {
+      let cleanB64 = b64.trim();
+      if (cleanB64.includes('list=')) {
+         cleanB64 = cleanB64.split('list=')[1].split('&')[0];
+      }
+      
+      const jsonStr = decodeURIComponent(
+        Array.prototype.map.call(atob(cleanB64), c =>
+          '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2)
+        ).join('')
+      );
+      const data = JSON.parse(jsonStr);
+      // 相容舊版陣列 或 新版物件
+      if (Array.isArray(data)) return { title: '', list: data };
+      if (data && Array.isArray(data.list)) return data;
+      return null;
+    } catch (e) {
+      console.error('Decode failed', e);
       return null;
     }
-    async function ensureAudio(url){
-      if (!url) return null;
-      const hit = cacheGet(url);
-      if (hit) return hit;
-      const r = await fetchWithTimeout(url, {}, 12000);
-      if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      const blob = await r.blob();
-      const blobUrl = URL.createObjectURL(blob);
-      cachePut(url, blobUrl);
-      return blobUrl;
+  }
+
+  // === 工具：複製並提示 ===
+  function copyAndAlert(url, titleStr) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url)
+        .then(() => alert(`✅ 已複製「${titleStr}」的分享連結！\n\n您可以將此連結傳送給學生或朋友。`))
+        .catch(() => prompt('請手動複製連結：', url));
+    } else {
+      prompt('請手動複製連結：', url);
     }
-    async function batchPrefetch(urls, concurrency = 6) {
-      const urlArray = Array.from(urls);
-      for (let i = 0; i < urlArray.length; i += concurrency) {
-        const batch = urlArray.slice(i, i + concurrency);
-        await Promise.all(batch.map(url => ensureAudio(url).catch(()=>null)));
+  }
+
+  // === 工具：還原詳細資料 (Rehydrate) ===
+  function hydrateList(simpleList) {
+      if(!simpleList || !Array.isArray(simpleList)) return [];
+      const hydrated = [];
+      simpleList.forEach(wordStr => {
+          // 如果傳入的已經是物件(舊版相容)，直接用
+          if(typeof wordStr === 'object' && wordStr.word) {
+              hydrated.push(wordStr);
+              return;
+          }
+          // 字串處理
+          const key = String(wordStr).toLowerCase().trim();
+          const hits = WORD_INDEX[key];
+          if(hits && hits.length > 0) {
+              // 抓第一個符合的
+              const item = hits[0].item;
+              const folder = hits[0].folder;
+              hydrated.push({ ...item, _folder: folder });
+          }
+      });
+      return hydrated;
+  }
+
+  // ================== UTILS ==================
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text == null ? '' : String(text);
+    return div.innerHTML;
+  }
+  function sanitizePhonemeHtml(text, allowU = true){
+    const escaped = escapeHtml(text);
+    return allowU
+      ? escaped.replace(/&lt;u&gt;/g,'<u>').replace(/&lt;\/u&gt;/g,'</u>')
+      : escaped;
+  }
+  function escapeAttr(val){
+    return String(val)
+      .replace(/&/g,'&amp;')
+      .replace(/"/g,'&quot;');
+  }
+
+  const VOWEL_CHARS = new Set(['i','ɪ','ɛ','æ','ʌ','ɑ','ɔ','ʊ','u','ə','ɚ','ɝ','e','a','o','ē','ī','ō','ā','ū','ĕ','ĭ','ŏ','ŭ','ă']);
+  const CONSONANT_CHARS = new Set(['p','b','t','d','k','ɡ','f','v','θ','ð','s','z','ʃ','ʒ','h','m','n','ŋ','l','r','w','j','c','y','x']);
+  const NEUTRAL_CHARS = new Set(['/',' ', "'", 'ˌ','.', 'ː','-']);
+
+  function stripColorSpans(html){
+    return html
+      .replace(/<span[^>]*class="[^"]*\bphoneme-(?:vowel|consonant)\b[^"]*"[^>]*>/gi,'')
+      .replace(/<\/span>/gi,'');
+  }
+
+  function colorizePhonemes(html){
+    if (!html) return '';
+    const src = stripColorSpans(html);
+    let out = '';
+    let i = 0;
+    while (i < src.length){
+      const ch = src[i];
+      if (ch === '<'){
+        const j = src.indexOf('>', i);
+        if (j === -1){ out += ch; i++; continue; }
+        out += src.slice(i, j + 1);
+        i = j + 1;
+        continue;
       }
+      if (NEUTRAL_CHARS.has(ch)){ out += ch; i++; continue; }
+      if (VOWEL_CHARS.has(ch)){
+        out += '<span class="phoneme-vowel">' + ch + '</span>';
+      } else if (CONSONANT_CHARS.has(ch)){
+        out += '<span class="phoneme-consonant">' + ch + '</span>';
+      } else {
+        out += ch;
+      }
+      i++;
     }
-    async function playAudioSmart(url, btn){
-      try{
-        const src = await ensureAudio(url);
-        if (!src) return;
-        const p = new Audio();
-        p.preload = 'auto';
-        p.src = src;
-        p.load();
-        const playPromise = p.play();
-        if (playPromise !== undefined) await playPromise;
-      }catch(e){
-        if(btn){ 
-          const o=btn.textContent || btn.innerHTML; 
-          btn.textContent='❌'; 
-          setTimeout(()=>{ if(typeof o === 'string') btn.textContent=o; else btn.innerHTML=o; },800); 
+    return out;
+  }
+
+  const tagNames = {
+    all: "全部",
+    vowel: "母音",
+    consonant :"子音",
+    irregular: "不規則拼寫",
+    closed: "閉音節（短母音）",
+    floss: "重複子音字尾 (FLOSS-Z)",
+    digraph: "雙字母子音",
+    cluster: "子音群",
+    suffix: "字尾後綴",
+    rcontrolled: "母音 + 'r'",
+    open: "開音節（長母音）",
+    cle: "子音 + 'le'",
+    magic_e: "長母音 + 靜音 'e'",
+    vowel_team: "母音組合",
+    silent_consonant: "不發音子音字母",
+    cvc: "單一閉音節（短母音）"
+  };
+
+  const TOPICS_URL = 'topics.json';
+  const CACHE = { topics: null, data: {} };
+  const loadingState = new Set();
+
+  const AUDIO_BASE = './audio/';
+  let levelFolder = '';
+
+  function audioUrlForWord(item){
+    if (item.audio) return item.audio;
+    const folder = item._folder || levelFolder || '';
+    const safeName = String(item.word || '').toLowerCase().replace(/\s+/g, '_');
+    if (!folder){
+      return AUDIO_BASE + safeName + '.mp3';
+    }
+    return AUDIO_BASE + folder + '/' + safeName + '.mp3';
+  }
+
+  const AUDIO_CACHE = new Map();
+  const CACHE_MAX = 300;
+  function cachePut(url, blobUrl){
+    AUDIO_CACHE.set(url, { blobUrl, t: Date.now() });
+    if (AUDIO_CACHE.size > CACHE_MAX){
+      let oldestKey = null;
+      let oldestT = Infinity;
+      for (const [k, v] of AUDIO_CACHE){
+        if (v.t < oldestT){
+          oldestT = v.t;
+          oldestKey = k;
         }
-        console.warn('播放失敗：', url, e);
+      }
+      if (oldestKey){
+        try{
+          URL.revokeObjectURL(AUDIO_CACHE.get(oldestKey).blobUrl);
+        }catch(e){}
+        AUDIO_CACHE.delete(oldestKey);
       }
     }
+  }
+  function cacheGet(url){
+    const hit = AUDIO_CACHE.get(url);
+    if (hit){
+      hit.t = Date.now();
+      return hit.blobUrl;
+    }
+    return null;
+  }
 
-    let PHONEME = { files: {} };
-    fetchWithTimeout('data/phoneme-audio.json').then(r => r.ok ? r.json() : {files:{}}).then(j => { PHONEME = j || {files:{}}; }).catch(()=>{});
+  function fetchWithTimeout(url, opts = {}, timeout = 8000){
+    return Promise.race([
+      fetch(url, opts),
+      new Promise((_, rej) => setTimeout(() => rej(new Error('Timeout')), timeout))
+    ]);
+  }
 
-    function phonemeUrl(raw){
-      if (PHONEME.files && PHONEME.files[raw]) return PHONEME.files[raw];
-      const key = String(raw).replace(/<[^>]+>/g,'').replace(/'/g,'').trim().replace(/^\/|\/$/g,'').replace(/\s+/g,'');
-      return (PHONEME.files && PHONEME.files[key]) ? PHONEME.files[key] : null;
+  async function ensureAudio(url){
+    if (!url) return null;
+    const hit = cacheGet(url);
+    if (hit) return hit;
+    const r = await fetchWithTimeout(url, {}, 12000);
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const blob = await r.blob();
+    const blobUrl = URL.createObjectURL(blob);
+    cachePut(url, blobUrl);
+    return blobUrl;
+  }
+
+  async function batchPrefetch(urls, concurrency = 6){
+    const urlArray = Array.from(urls);
+    for (let i = 0; i < urlArray.length; i += concurrency){
+      const batch = urlArray.slice(i, i + concurrency);
+      await Promise.all(batch.map(url => ensureAudio(url).catch(() => null)));
+    }
+  }
+
+  async function playAudioSmart(url, btn){
+    try{
+      const src = await ensureAudio(url);
+      if (!src) return;
+      const p = new Audio();
+      p.preload = 'auto';
+      p.src = src;
+      p.load();
+      const playPromise = p.play();
+      if (playPromise !== undefined) await playPromise;
+    }catch(e){
+      if (btn){
+        const original = btn.textContent || btn.innerHTML;
+        btn.textContent = '❌';
+        setTimeout(() => {
+          if (typeof original === 'string') btn.textContent = original;
+          else btn.innerHTML = original;
+        }, 800);
+      }
+      console.warn('播放失敗：', url, e);
+    }
+  }
+
+  // ========= Phoneme audio mapping =========
+  let PHONEME = { files: {} };
+  fetchWithTimeout('data/phoneme-audio.json')
+    .then(r => r.ok ? r.json() : { files: {} })
+    .then(j => { PHONEME = j || { files: {} }; })
+    .catch(() => {});
+
+  function phonemeUrl(raw){
+    if (!PHONEME.files) return null;
+    if (PHONEME.files[raw]) return PHONEME.files[raw];
+    const key = String(raw)
+      .replace(/<[^>]+>/g,'')
+      .replace(/'/g,'')
+      .trim()
+      .replace(/^\/|\/$/g,'')
+      .replace(/\s+/g,'');
+    if (PHONEME.files[key]) return PHONEME.files[key];
+    return null;
+  }
+
+  // ========== Global state for pages ==========
+  let selectedFilter = 'all';
+  let currentTopicData = [];
+  let isPhonicsMode = false;
+  let WORD_INDEX = {};
+
+  // ====== 事件委派 ======
+  document.addEventListener('click', (e) => {
+    // 1. Word Audio
+    const btn = e.target.closest('.audio-button');
+    if (btn){
+      const url = btn.getAttribute('data-audio-url');
+      if (url) playAudioSmart(url, btn);
+      return;
     }
 
-    // ====== 事件委派 (包含搜尋結果的連結點擊) ======
-    document.addEventListener('click', (e) => {
-      const btn = e.target.closest('.audio-button');
-      if(btn){
-        const url = btn.getAttribute('data-audio-url');
-        if(url) playAudioSmart(url, btn);
+    // 2. Link Navigation
+    const sourceLink = e.target.closest('.source-link-btn');
+    if (sourceLink){
+      const targetPage = sourceLink.getAttribute('data-page-target');
+      if (targetPage) showPage(targetPage);
+      return;
+    }
+
+    // 3. Phoneme/phonics cell audio
+    const cell = e.target.closest('.phoneme-box');
+    if (cell){
+      const raw = cell.getAttribute('data-phoneme-key') || cell.textContent;
+      const url = phonemeUrl(raw);
+      if (!url){
+        cell.style.background = '#fee2e2';
+        setTimeout(() => { cell.style.background = ''; }, 400);
         return;
       }
-      // 處理跳轉連結
-      const sourceLink = e.target.closest('.source-link-btn');
-      if(sourceLink){
-        const targetPage = sourceLink.getAttribute('data-page-target');
-        if(targetPage) showPage(targetPage);
+      playAudioSmart(url, cell);
+      return;
+    }
+
+    // 4. Star Button (My List)
+    const starBtn = e.target.closest('.star-btn');
+    if (starBtn){
+      const card = starBtn.closest('.word-card');
+      if (!card) return;
+      const word = card.getAttribute('data-word');
+      let itemData = currentTopicData.find(x => String(x.word).toLowerCase() === word);
+      if (!itemData && isWordInList(word)){
+        itemData = MY_LIST.find(x => String(x.word).toLowerCase() === word);
+      }
+      if (itemData){
+        const folder = itemData._folder || levelFolder;
+        const isAdded = toggleMyList(itemData, folder);
+        starBtn.textContent = isAdded ? '★' : '☆';
+        starBtn.classList.toggle('active', isAdded);
+        if (document.getElementById('myListPage').classList.contains('active')){
+          showMyListPage();
+        }
+      }
+      return;
+    }
+
+    // 5. My List actions
+    if (e.target.id === 'goMyListBtn'){ showMyListPage(); return; }
+    if (e.target.id === 'printListBtn'){ window.print(); return; }
+    if (e.target.id === 'exportListBtn'){ exportMyList(); return; }
+    if (e.target.id === 'batchInputBtn'){ batchInput(); return; }
+
+    // 6. Share This Page Button (動態產生的)
+    const shareBtn = e.target.closest('.share-page-btn');
+    if (shareBtn) { shareCurrentPage(); return; }
+
+    // 7. Back / page navigation buttons
+    const nav = e.target.closest('[data-page-target]');
+    if (nav){
+      const target = nav.getAttribute('data-page-target');
+      if (target) showPage(target);
+      return;
+    }
+
+    // 8. Reload button on error
+    const retry = e.target.closest('[data-action="reload"]');
+    if (retry){
+      location.reload();
+      return;
+    }
+
+    // 9. Filter toggle open/close
+    const ft = e.target.closest('.filter-toggle');
+    if (ft){
+      const panel = ft.parentElement.nextElementSibling;
+      if (!panel) return;
+      const open = panel.classList.toggle('open');
+      ft.setAttribute('aria-expanded', open ? 'true' : 'false');
+      return;
+    }
+  });
+
+  // ======= Prefetch listeners =======
+  function setupAudioPrefetchListeners(){
+    if (DISABLE_PREFETCH) return;
+    if (!IS_TOUCH){
+      document.addEventListener('mouseenter', (e) => {
+        const btn = e.target.closest('.audio-button');
+        if (btn){
+          const url = btn.getAttribute('data-audio-url');
+          if (url) ensureAudio(url).catch(() => {});
+          return;
+        }
+        const cell = e.target.closest('.phoneme-box');
+        if (cell){
+          const raw = cell.getAttribute('data-phoneme-key') || cell.textContent;
+          const url = phonemeUrl(raw);
+          if (url) ensureAudio(url).catch(() => {});
+        }
+      }, true);
+    }
+    document.addEventListener('touchstart', (e) => {
+      const btn = e.target.closest('.audio-button');
+      if (btn){
+        const url = btn.getAttribute('data-audio-url');
+        if (url) ensureAudio(url).catch(() => {});
         return;
       }
       const cell = e.target.closest('.phoneme-box');
-      if(cell){
-        const raw = cell.textContent;
+      if (cell){
+        const raw = cell.getAttribute('data-phoneme-key') || cell.textContent;
         const url = phonemeUrl(raw);
-        if(!url){ cell.style.background='#fee2e2'; setTimeout(()=>cell.style.background='',400); return; }
-        playAudioSmart(url, cell);
-        return;
+        if (url) ensureAudio(url).catch(() => {});
       }
-      const nav = e.target.closest('[data-page-target]');
-      if(nav){ showPage(nav.getAttribute('data-page-target')); return; }
-      const retry = e.target.closest('[data-action="reload"]');
-      if(retry){ location.reload(); }
-      const ft = e.target.closest('.filter-toggle');
-      if(ft){
-        const panel = ft.parentElement.nextElementSibling;
-        const open = panel.classList.toggle('open');
-        ft.setAttribute('aria-expanded', open ? 'true' : 'false');
-      }
+    }, { passive: true });
+  }
+  setupAudioPrefetchListeners();
+
+  // ============ Topic page rendering ============
+  function initTopicPage(contentId){
+    const cnt = document.getElementById(contentId);
+    if (!cnt) return;
+
+    const allTags = ['all','vowel','consonant','cvc','closed','open','magic_e','vowel_team','rcontrolled','cle','floss','digraph','cluster','suffix','silent_consonant','irregular'];
+    const usedTags = new Set(['all']);
+    currentTopicData.forEach(w => {
+      (w.tags || []).forEach(t => usedTags.add(t));
+    });
+    const existing = allTags.filter(t => usedTags.has(t));
+
+    // 新增：右側功能按鈕組（包含列印與分享），手機版只顯示圖標
+    let rightActionsHTML = '';
+    if (contentId !== 'myList_Content') {
+        // 列印按鈕 (Icon Only)
+        const printBtn = '<button class="action-btn" onclick="window.print()" title="列印" style="border-radius:10px; padding:.55rem .9rem; border:2px solid #e2e8f0;"><i class="fa-solid fa-print"></i></button>';
+        
+        // 分享按鈕 (手機Icon+文字[semi-bold], 電腦Icon+文字)
+        const shareBtn = 
+        '<button class="action-btn share-page-btn" style="border-radius:10px; padding:.55rem .9rem; border:2px solid #e2e8f0; font-weight:600;">' +
+           '<i class="fa-solid fa-share-nodes"></i>' +
+           '<span class="share-text-desktop"> 分享此頁</span>' + 
+           '<span class="share-text-mobile"> 分享</span>' + 
+        '</button>';
+
+        // 包裝在一起 (列印在左，分享在右)
+        rightActionsHTML = `<div style="display:flex; gap:.5rem;">${printBtn}${shareBtn}</div>`;
+    }
+
+    const filterBarHTML =
+      '<div class="filter-bar">' +
+        '<button class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel-' + contentId + '">' +
+          '<i class="fa-solid fa-filter"></i><span>篩選</span>' +
+          '<span class="filter-state" id="filter-state-' + contentId + '">（目前：全部）</span>' +
+        '</button>' +
+        rightActionsHTML +
+      '</div>';
+
+    let legendHTML = '<ul class="legend">';
+    existing.forEach(t => {
+      const name = tagNames[t] || t;
+      const cls = (t === 'all') ? 'tag-all' : ('tag-' + t);
+      const sel = (t === selectedFilter) ? 'selected' : '';
+      legendHTML +=
+        '<li class="legend-item ' + cls + ' ' + sel + '" data-filter="' + t + '">' +
+          escapeHtml(name) +
+        '</li>';
+    });
+    legendHTML += '</ul>';
+
+    const toggleHTML =
+      '<div class="toggle-container">' +
+        '<span class="toggle-label-ipa">IPA 音標</span>' +
+        '<label class="switch">' +
+          '<input type="checkbox" id="toggle_' + contentId + '" ' + (isPhonicsMode ? 'checked' : '') + '>' +
+          '<span class="slider"></span>' +
+        '</label>' +
+        '<span class="toggle-label-phonics">Phonics 拼音</span>' +
+      '</div>' +
+      '<p class="attribution-note">' +
+        'IPA 根據<a href="https://christinayu_english.rakosell.com/zh/page/american-ipa-guide" target="_blank">美式英語 IPA 國際音標指南</a><br>' +
+        'Phonics 根據 <a href="https://ufli.education.ufl.edu/wp-content/uploads/2023/09/UFLI-Sound-Wall-rev.pdf" target="_blank">UFLI phonemes</a>' +
+      '</p>';
+
+    const panelHTML =
+      '<div id="filter-panel-' + contentId + '" class="filter-panel" role="region" aria-label="標籤篩選面板">' +
+        legendHTML +
+      '</div>';
+
+    cnt.innerHTML =
+      filterBarHTML +
+      panelHTML +
+      toggleHTML +
+      '<div class="topic-grid" id="teaching-grid-' + contentId + '"></div>';
+
+    // Legend click
+    cnt.querySelectorAll('.legend-item').forEach(li => {
+      li.addEventListener('click', () => {
+        selectedFilter = li.getAttribute('data-filter') || 'all';
+        cnt.querySelectorAll('.legend-item').forEach(x => x.classList.remove('selected'));
+        li.classList.add('selected');
+        const stateEl = document.getElementById('filter-state-' + contentId);
+        if (stateEl){
+          stateEl.textContent = '（目前：' + (tagNames[selectedFilter] || selectedFilter) + '）';
+        }
+        applyFilters(contentId);
+        const panel = document.getElementById('filter-panel-' + contentId);
+        const toggleBtn = cnt.querySelector('.filter-toggle');
+        if (panel && toggleBtn){
+          panel.classList.remove('open');
+          toggleBtn.setAttribute('aria-expanded', 'false');
+        }
+      });
     });
 
-    function setupAudioPrefetchListeners(){
-      if (DISABLE_PREFETCH) return;
-      if (!IS_TOUCH) {
-        document.addEventListener('mouseenter', (e)=>{
-          const btn = e.target.closest('.audio-button'); 
-          if(btn){ const url = btn.getAttribute('data-audio-url'); if(url) ensureAudio(url).catch(()=>{}); return; }
-          const cell = e.target.closest('.phoneme-box');
-          if(cell){ const raw = cell.textContent; const url = phonemeUrl(raw); if(url) ensureAudio(url).catch(()=>{}); }
-        }, true);
-      }
-      document.addEventListener('touchstart', (e)=>{
-        const btn = e.target.closest('.audio-button'); 
-        if(btn){ const url = btn.getAttribute('data-audio-url'); if(url) ensureAudio(url).catch(()=>{}); return; }
-        const cell = e.target.closest('.phoneme-box');
-        if(cell){ const raw = cell.textContent; const url = phonemeUrl(raw); if(url) ensureAudio(url).catch(()=>{}); }
-      }, { passive:true });
-    }
-    setupAudioPrefetchListeners();
-
-    let selectedFilter = 'all'; 
-    let currentTopicData=[];
-    let isPhonicsMode=false;
-
-    function initTopicPage(contentId){
-      const cnt=document.getElementById(contentId);
-      if(!cnt) return;
-
-      const allTags=['all','vowel','consonant','cvc','closed','open','magic_e','vowel_team','rcontrolled','cle','floss','digraph','cluster','suffix','silent_consonant','irregular'];
-      const usedTags=new Set(['all']);
-      currentTopicData.forEach(w=>{ (w.tags||[]).forEach(t=>usedTags.add(t)); });
-      const existing=allTags.filter(t=>usedTags.has(t));
-
-      const filterBarHTML = `
-        <div class="filter-bar">
-          <button class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel-${contentId}">
-            <i class="fa-solid fa-filter"></i><span>篩選</span>
-            <span class="filter-state" id="filter-state-${contentId}">（目前：全部）</span>
-          </button>
-        </div>
-      `;
-
-      let legendHTML = '<ul class="legend">';
-      existing.forEach(t=>{
-        const name = tagNames[t] || t;
-        const cls=(t==='all')?'tag-all':`tag-${t}`;
-        const sel=(t===selectedFilter)?'selected':'';
-        legendHTML+=`<li class="legend-item ${cls} ${sel}" data-filter="${t}">${name}</li>`;
+    // Toggle IPA/Phonics
+    const tog = cnt.querySelector('#toggle_' + contentId);
+    if (tog){
+      tog.addEventListener('change', () => {
+        isPhonicsMode = tog.checked;
+        renderCards(contentId);
       });
-      legendHTML+='</ul>';
-
-      const toggleHTML=`
-        <div class="toggle-container">
-          <span class="toggle-label-ipa">IPA 音標</span>
-          <label class="switch">
-            <input type="checkbox" id="toggle_${contentId}" ${isPhonicsMode?'checked':''}>
-            <span class="slider"></span>
-          </label>
-          <span class="toggle-label-phonics">Phonics 拼音</span>
-        </div>
-        <p class="attribution-note">
-          IPA 根據<a href="https://christinayu_english.rakosell.com/zh/page/american-ipa-guide" target="_blank">美式英語 IPA 國際音標指南</a><br>
-          Phonics 根據 <a href="https://ufli.education.ufl.edu/wp-content/uploads/2023/09/UFLI-Sound-Wall-rev.pdf" target="_blank">UFLI phonemes</a>
-        </p>
-      `;
-
-      const panelHTML = `<div id="filter-panel-${contentId}" class="filter-panel" role="region" aria-label="標籤篩選面板">${legendHTML}</div>`;
-      cnt.innerHTML = filterBarHTML + panelHTML + toggleHTML + `<div class="topic-grid" id="teaching-grid-${contentId}"></div>`;
-
-      cnt.querySelectorAll('.legend-item').forEach(li=>{
-        li.addEventListener('click',()=>{
-          selectedFilter = li.getAttribute('data-filter')||'all';
-          cnt.querySelectorAll('.legend-item').forEach(x=>x.classList.remove('selected'));
-          li.classList.add('selected');
-          const stateEl = document.getElementById(`filter-state-${contentId}`);
-          if(stateEl){ stateEl.textContent = `（目前：${tagNames[selectedFilter] || selectedFilter}）`; }
-          applyFilters(contentId);
-          const panel = document.getElementById(`filter-panel-${contentId}`);
-          const toggleBtn = cnt.querySelector('.filter-toggle');
-          if(panel && toggleBtn){ panel.classList.remove('open'); toggleBtn.setAttribute('aria-expanded','false'); }
-        });
-      });
-
-      const tog=cnt.querySelector(`#toggle_${contentId}`);
-      if(tog){ tog.addEventListener('change',()=>{ isPhonicsMode=tog.checked; renderCards(contentId); }); }
-
-      renderCards(contentId);
-      highlightIfPending(contentId);
-
-      if (!DISABLE_PREFETCH){
-        setTimeout(async ()=>{ 
-          try{
-            const grid = document.getElementById(`teaching-grid-${contentId}`);
-            if(!grid) return;
-            const urls = new Set();
-            grid.querySelectorAll('.phoneme-box').forEach(cell=>{
-              const raw = cell.textContent;
-              const url = phonemeUrl(raw);
-              if (url) urls.add(url);
-            });
-            await batchPrefetch(urls, PREFETCH_CONCURRENCY);
-          }catch(e){ console.warn('Prefetch error:', e); }
-        }, 100);
-      }
     }
 
-    function renderCards(contentId){
-      const grid = document.getElementById(`teaching-grid-${contentId}`);
-      if(!grid) return;
-      grid.innerHTML='';
-      currentTopicData.forEach(w=>{
-        const tagsAttr = (w.tags||[]).join(',');
-        const badges = (w.tags||[]).map(t => `<span class="category-tag tag-${t}">${escapeHtml(tagNames[t] || t)}</span>`).join('');
+    renderCards(contentId);
+    highlightIfPending(contentId);
 
-        const modeKey = isPhonicsMode?'phonics':'phonemes';
-        const useArr = (w[modeKey]||w.phonemes||[]);
-        const labelArr = (w.graphemes||[]);
-        const heartArr = (w.hearts||[]);
-
-        const cols = Math.max(labelArr.length, useArr.length);
-        let cells='';
-        for(let i=0;i<cols;i++){
-          const g = labelArr[i]||'';
-          const p = useArr[i]||'';
-          const heart = heartArr[i]?'<span class="heart-symbol">❤</span>':'';
-          const phClass = (isPhonicsMode)?'is-phonics':'';
-          const pHtmlRaw = isPhonicsMode ? sanitizePhonemeHtml(p, true) : escapeHtml(p);
-          const pHtml = colorizePhonemes(pHtmlRaw);
-          cells+=`
-            <div class="grapheme-box box">${escapeHtml(g)}${heart}</div>
-            <div class="phoneme-box box ${phClass}">${pHtml}</div>
-          `;
-        }
-
-        const audioURL = audioUrlForWord(w);
-
-        // 判斷是否有來源連結 (用於搜尋結果)
-        let titleExtraHtml = '';
-        if(w._sourcePageId && w._sourceTitle){
-          titleExtraHtml = `
-            <div style="display:flex; flex-direction:column; align-items:flex-start; margin-left: 8px;">
-               <span class="word-number" style="line-height:1.2;">${escapeHtml(w.number ?? '')}</span>
-               <button class="source-link-btn" data-page-target="${w._sourcePageId}">
-                 ↪ 前往 ${escapeHtml(w._sourceTitle)}
-               </button>
-            </div>
-          `;
-        } else {
-           // 正常情況
-           titleExtraHtml = `<span class="word-number">${escapeHtml(w.number ?? '')}</span>`;
-        }
-
-        const card=`
-          <article class="word-card" data-tags="${escapeAttr(tagsAttr)}" data-word="${escapeAttr(String(w.word||'').toLowerCase())}">
-            <div class="card-header">
-              <div class="card-title">
-                <span class="word-text">${escapeHtml(w.word||'')}</span>
-                ${titleExtraHtml}
-              </div>
-              <button class="audio-button" data-audio-url="${escapeAttr(audioURL)}" aria-label="播放單字發音">🔊</button>
-            </div>
-            <div class="card-body">
-              <div class="badges">${badges}</div>
-              <div class="boxes-grid" style="grid-template-columns:repeat(${cols},max-content)">${cells}</div>
-            </div>
-          </article>
-        `;
-        grid.insertAdjacentHTML('beforeend',card);
-      });
-      applyFilters(contentId);
-
-      if (!DISABLE_PREFETCH){
+    if (!DISABLE_PREFETCH){
+      setTimeout(async () => {
         try{
-          const warm = (currentTopicData||[]).slice(0, PREFETCH_WORDS).map(w => audioUrlForWord(w)).filter(Boolean);
-          warm.forEach(u=>{ ensureAudio(u).catch(()=>{}); });
-        }catch(e){}
-      }
-    }
-
-    function applyFilters(contentId){
-      const grid = document.getElementById(`teaching-grid-${contentId}`);
-      if(!grid) return;
-      const cards = grid.querySelectorAll('.word-card');
-      if(selectedFilter === 'all'){ cards.forEach(c=>c.classList.remove('hidden')); return; }
-      cards.forEach(c=>{
-        const tags = (c.getAttribute('data-tags')||'').split(',').filter(Boolean);
-        c.classList.toggle('hidden', !tags.includes(selectedFilter));
-      });
-    }
-
-    let WORD_INDEX = {};
-    function buildWordIndexFromAll(){
-      WORD_INDEX = {};
-      (CACHE.topics?.topics||[]).forEach(t=>{
-        t.levels.forEach((lv, idx)=>{
-          const thisFolder = (lv.src||'').replace(/^data\//,'').replace(/\.json$/,'').replace(/^\//,'');
-          // 紀錄此課程的 Page ID，供搜尋結果跳轉使用
-          const thisPageId = `${t.slug}_${idx+1}_Page`;
-
-          const items = CACHE.data[lv.src]?.items || [];
-          items.forEach(w=>{
-            const key = String(w.word||'').trim().toLowerCase();
-            if(!key) return;
-            
-            if(!WORD_INDEX[key]) WORD_INDEX[key] = [];
-            
-            WORD_INDEX[key].push({ 
-              slug: t.slug, 
-              levelIndex: idx,
-              folder: thisFolder,
-              topicTitle: t.title,
-              levelLabel: lv.label,
-              pageId: thisPageId,  // 存入 Page ID
-              item: w
-            });
+          const grid = document.getElementById('teaching-grid-' + contentId);
+          if (!grid) return;
+          const urls = new Set();
+          grid.querySelectorAll('.phoneme-box').forEach(cell => {
+            const raw = cell.getAttribute('data-phoneme-key') || cell.textContent;
+            const url = phonemeUrl(raw);
+            if (url) urls.add(url);
           });
-        });
-      });
-    }
-
-    function goToWord(wordRaw){
-      const input = String(wordRaw||'').trim().toLowerCase();
-      const msgEl = document.getElementById('searchMsg');
-      
-      if(!input){ msgEl.textContent='請輸入單字'; return; }
-      const hits = WORD_INDEX[input];
-      if(!hits || hits.length === 0){ msgEl.textContent=`找不到：${wordRaw}`; return; }
-      msgEl.textContent='';
-
-      if(hits.length === 1){
-        const hit = hits[0];
-        const pageId = `${hit.slug}_${hit.levelIndex+1}_Page`;
-        window.PhonicsApp.pendingHighlight = input;
-        showPage(pageId);
-        return;
-      }
-      showSearchResults(input, hits);
-    }
-
-    function showSearchResults(query, hits){
-      currentTopicData = hits.map(hit => {
-        const newItem = { ...hit.item };
-        newItem._folder = hit.folder; 
-        // 注入來源資訊，供 renderCards 產生按鈕
-        newItem._sourcePageId = hit.pageId;
-        newItem._sourceTitle = `${hit.topicTitle} ${hit.levelLabel || ''}`;
-        return newItem;
-      });
-
-      document.querySelectorAll('.page-section').forEach(p=>p.classList.remove('active'));
-      const searchPage = document.getElementById('searchResultPage');
-      searchPage.classList.add('active');
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-      document.getElementById('searchResultCount').textContent = `"${query}" 共有 ${hits.length} 筆結果`;
-      initTopicPage('searchResult_Content');
-    }
-
-    function initSearchBar(){
-      const inp=document.getElementById('globalSearchInput');
-      const btn=document.getElementById('globalSearchBtn');
-      if(!inp||!btn) return;
-      btn.addEventListener('click',()=>goToWord(inp.value));
-      inp.addEventListener('keydown',(e)=>{ if(e.key==='Enter') goToWord(inp.value); });
-    }
-    function highlightIfPending(contentId){
-      const target=(window.PhonicsApp.pendingHighlight||'').toLowerCase();
-      if(!target) return;
-      const grid=document.getElementById(`teaching-grid-${contentId}`);
-      if(!grid) return;
-      const escaped = (window.CSS && CSS.escape) ? CSS.escape(target)
-        : target.replace(/[!"#$%&'()*+,.\/:;<=>?@[\\\]^`{|}~]/g, "\\$&");
-      const card=grid.querySelector(`.word-card[data-word="${escaped}"]`);
-      if(card){
-        card.classList.add('search-hit');
-        card.scrollIntoView({behavior:'smooth',block:'center'});
-        setTimeout(()=>card.classList.remove('search-hit'),1600);
-      }
-      window.PhonicsApp.pendingHighlight='';
-    }
-
-    function showPage(pageId){
-      selectedFilter = 'all'; 
-      document.querySelectorAll('.page-section').forEach(p=>p.classList.remove('active'));
-      const active = document.getElementById(pageId);
-      if(!active) return;
-      active.classList.add('active');
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-
-      const m = pageId.match(/^(.+?)_(\d+)_Page$/);
-      if(!m) return; 
-      const slug = m[1], levelIndex = Number(m[2])-1;
-      const contentId = `${slug}_${levelIndex+1}_Content`;
-
-      const topic = (CACHE.topics?.topics||[]).find(x=>x.slug===slug);
-      const lv = topic?.levels?.[levelIndex];
-      if(!lv) return;
-
-      levelFolder = (lv.src||'').replace(/^data\//,'').replace(/\.json$/,'').replace(/^\//,'');
-
-      if(!CACHE.data[lv.src] && !loadingState.has(lv.src)){
-        const t = document.getElementById(contentId);
-        if (t) t.innerHTML = '<p style="color:#666">載入中…</p>';
-        loadingState.add(lv.src);
-        fetchWithTimeout(lv.src)
-          .then(r=>{ if(!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
-          .then(json=>{
-            CACHE.data[lv.src]=json; loadingState.delete(lv.src);
-            if(document.getElementById(pageId)?.classList.contains('active')){
-              currentTopicData = json.items||[];
-              initTopicPage(contentId);
-            }
-          })
-          .catch(e=>{
-            loadingState.delete(lv.src);
-            const t=document.getElementById(contentId);
-            if(t) t.innerHTML = `<p style="color:#b91c1c">載入失敗：${escapeHtml(lv.src)}（${escapeHtml(e.message)}） <button data-action="reload">重試</button></p>`;
-          });
-      }else if(CACHE.data[lv.src]){
-        currentTopicData = CACHE.data[lv.src].items||[];
-        initTopicPage(contentId);
-      }
-    }
-    window.PhonicsApp.showPage = showPage;
-
-    function buildHomeAndSections(){
-      const list = document.getElementById('topicList');
-      const main = document.querySelector('main');
-
-      list.innerHTML = `
-        <div class="dropdown-container">
-          <div class="dropdown-row">
-            <label for="topicSelect">主題：</label>
-            <select id="topicSelect" class="dropdown-select">
-              <option value="">請選擇主題</option>
-            </select>
-          </div>
-          <div class="dropdown-row">
-            <label for="levelSelect">級別：</label>
-            <select id="levelSelect" class="dropdown-select" disabled>
-              <option value="">請先選主題</option>
-            </select>
-            <button id="enterBtn" class="dropdown-btn">選擇</button>
-          </div>
-        </div>
-      `;
-
-      const topicSelect = document.getElementById('topicSelect');
-      const levelSelect = document.getElementById('levelSelect');
-      const enterBtn = document.getElementById('enterBtn');
-
-      (CACHE.topics?.topics||[]).forEach(t=>{
-        const opt=document.createElement('option');
-        opt.value=t.slug;
-        opt.textContent=t.title;
-        topicSelect.appendChild(opt);
-
-        t.levels.forEach((lv, idx)=>{
-          const label = lv.label || `-${idx+1}`;
-          main.insertAdjacentHTML('beforeend', `
-            <section id="${t.slug}_${idx+1}_Page" class="page-section">
-              <button class="back-button" data-page-target="homePage"><i class="fa-solid fa-arrow-left"></i>返回目錄</button>
-              <h1>${escapeHtml(t.title)}（${escapeHtml(label)}）</h1>
-              <div id="${t.slug}_${idx+1}_Content"></div>
-            </section>
-          `);
-        });
-      });
-
-      topicSelect.addEventListener('change',()=>{
-        const slug=topicSelect.value;
-        levelSelect.innerHTML='';
-        if(!slug){
-          levelSelect.disabled=true;
-          levelSelect.innerHTML='<option value="">請先選主題</option>';
-          return;
+          await batchPrefetch(urls, PREFETCH_CONCURRENCY);
+        }catch(e){
+          console.warn('Prefetch error:', e);
         }
-        const topic=(CACHE.topics?.topics||[]).find(t=>t.slug===slug);
-        if(!topic){return;}
-        topic.levels.forEach((lv,idx)=>{
-          const opt=document.createElement('option');
-          opt.value=`${slug}_${idx+1}_Page`;
-          opt.textContent=lv.label || `Level ${idx+1}`;
-          levelSelect.appendChild(opt);
-        });
-        levelSelect.disabled=false;
-      });
-
-      enterBtn.addEventListener('click',()=>{
-        const val=levelSelect.value;
-        if(!val){alert('請選擇級別');return;}
-        showPage(val);
-      });
+      }, 100);
     }
+  }
 
-    document.addEventListener('DOMContentLoaded', async ()=>{
-      initSearchBar();
-      try{
-        const resp = await fetchWithTimeout(TOPICS_URL);
-        if(!resp.ok) throw new Error(`HTTP ${resp.status}`);
-        CACHE.topics = await resp.json();
-      }catch(e){
-        console.error(e);
-        document.getElementById('topicList').innerHTML = `<li class="topic-list-item" style="color:#b91c1c">讀取 topics.json 失敗（${escapeHtml(e.message)}）<button data-action="reload" style="margin-left:.5rem">重試</button></li>`;
-        return;
+  // === renderCards：自然寬度 (不強制 min-width)，空格維持普通格子 ===
+  function renderCards(contentId){
+    const grid = document.getElementById('teaching-grid-' + contentId);
+    if (!grid) return;
+    grid.innerHTML = '';
+    currentTopicData.forEach((w) => {
+      const tagsAttr = (w.tags || []).join(',');
+      const badges = (w.tags || [])
+        .map(t => '<span class="category-tag tag-' + t + '">' + escapeHtml(tagNames[t] || t) + '</span>')
+        .join('');
+
+      const modeKey = isPhonicsMode ? 'phonics' : 'phonemes';
+      const useArr = (w[modeKey] || w.phonemes || []);
+      const labelArr = (w.graphemes || []);
+      const heartArr = (w.hearts || []);
+
+      const cols = Math.max(labelArr.length, useArr.length);
+      let cells = '';
+      for (let i = 0; i < cols; i++){
+        const g = labelArr[i] || '';
+        const p = useArr[i] || '';
+        const heart = heartArr[i] ? '<span class="heart-symbol">❤</span>' : '';
+        const phClass = isPhonicsMode ? 'is-phonics' : '';
+        const pHtmlRaw = isPhonicsMode ? sanitizePhonemeHtml(p, true) : escapeHtml(p);
+        const pHtml = colorizePhonemes(pHtmlRaw);
+        const cleanKey = String(p).replace(/<[^>]+>/g,'').trim();
+        
+        // 普通格子 (包含空格)，讓內容撐開，空格因為 padding 會有寬度
+        cells +=
+          '<div class="pair-group">' +
+            '<div class="grapheme-box box">' + escapeHtml(g) + heart + '</div>' +
+            '<div class="phoneme-box box ' + phClass + '" data-phoneme-key="' + escapeAttr(cleanKey) + '">' + pHtml + '</div>' +
+          '</div>';
       }
-      buildHomeAndSections();
 
-      await Promise.allSettled(
-        (CACHE.topics.topics||[]).flatMap(t => t.levels.map(lv =>
-          fetchWithTimeout(lv.src).then(r=>r.ok?r.json():null).then(j=>{ if(j) CACHE.data[lv.src]=j; })
-        ))
-      );
-      buildWordIndexFromAll();
+      const audioURL = audioUrlForWord(w);
+      const inList = isWordInList(w.word);
 
-      document.querySelectorAll('.page-section').forEach(p=>p.classList.remove('active'));
-      document.getElementById('homePage').classList.add('active');
+      let titleExtraHtml = '';
+      if (w._sourcePageId && w._sourceTitle){
+        titleExtraHtml =
+          '<div style="display:flex; flex-direction:column; align-items:flex-start; margin-left: 8px;">' +
+            '<span class="word-number" style="line-height:1.2;">' + escapeHtml(w.number || '') + '</span>' +
+            '<button class="source-link-btn" data-page-target="' + escapeAttr(w._sourcePageId) + '">' +
+              '↪ ' + escapeHtml(w._sourceTitle) +
+            '</button>' +
+          '</div>';
+      } else {
+        const num = w.number ? escapeHtml(w.number) : '';
+        titleExtraHtml = '<span class="word-number">' + num + '</span>';
+      }
 
-      const backToTopBtn = document.getElementById('backToTop');
-      if(backToTopBtn){
-        backToTopBtn.addEventListener('click', () => { window.scrollTo({ top: 0, behavior: 'smooth' }); });
-        const toggleBackToTop = () => {
-          if (window.scrollY > 400) backToTopBtn.classList.add('visible');
-          else backToTopBtn.classList.remove('visible');
-        };
-        window.addEventListener('scroll', toggleBackToTop, { passive:true });
-        toggleBackToTop();
+      const cardHtml =
+        '<article class="word-card" data-tags="' + escapeAttr(tagsAttr) + '" data-word="' + escapeAttr(String(w.word || '').toLowerCase()) + '">' +
+          '<button class="star-btn ' + (inList ? 'active' : '') + '" aria-label="收藏">' + (inList ? '★' : '☆') + '</button>' +
+          '<div class="card-header">' +
+            '<div class="card-title">' +
+              '<span class="word-text">' + escapeHtml(w.word || '') + '</span>' +
+              titleExtraHtml +
+            '</div>' +
+            '<button class="audio-button" data-audio-url="' + escapeAttr(audioURL) + '" aria-label="播放單字發音">🔊</button>' +
+          '</div>' +
+          '<div class="card-body">' +
+            '<div class="badges">' + badges + '</div>' +
+            // boxes-container (Flex)
+            '<div class="boxes-container">' +
+              cells +
+            '</div>' +
+          '</div>' +
+        '</article>';
+
+      grid.insertAdjacentHTML('beforeend', cardHtml);
+    });
+
+    applyFilters(contentId);
+
+    if (!DISABLE_PREFETCH){
+      try{
+        const warm = (currentTopicData || []).slice(0, PREFETCH_WORDS).map(w => audioUrlForWord(w)).filter(Boolean);
+        warm.forEach(u => { ensureAudio(u).catch(() => {}); });
+      }catch(e){}
+    }
+  }
+
+  function applyFilters(contentId){
+    const grid = document.getElementById('teaching-grid-' + contentId);
+    if (!grid) return;
+    const cards = grid.querySelectorAll('.word-card');
+    if (selectedFilter === 'all'){
+      cards.forEach(c => c.classList.remove('hidden'));
+      return;
+    }
+    cards.forEach(c => {
+      const tags = (c.getAttribute('data-tags') || '').split(',').filter(Boolean);
+      c.classList.toggle('hidden', !tags.includes(selectedFilter));
+    });
+  }
+
+  function showMyListPage(){
+    showPage('myListPage');
+    const msg = document.getElementById('myListMsg');
+    if (MY_LIST.length === 0){
+      msg.textContent = '目前沒有加入任何單字。';
+      const container = document.getElementById('myList_Content');
+      if (container) container.innerHTML = '';
+      return;
+    }
+    msg.textContent = '共 ' + MY_LIST.length + ' 個單字';
+    currentTopicData = MY_LIST.slice();
+    initTopicPage('myList_Content');
+  }
+
+  // === 新增：批量輸入功能 ===
+  function batchInput() {
+    const input = prompt("請輸入單字（用逗號或空格分隔）：\n例如: cat, dog, fish");
+    if (!input) return;
+    
+    // 分割字串，移除空白
+    const words = input.split(/[\s,]+/).map(w => w.trim().toLowerCase()).filter(Boolean);
+    if (words.length === 0) return;
+
+    let addedCount = 0;
+    let notFound = [];
+
+    words.forEach(wordKey => {
+      // 在 WORD_INDEX 中搜尋
+      const hits = WORD_INDEX[wordKey];
+      if (hits && hits.length > 0) {
+        // 找到第一個符合的
+        const item = hits[0].item;
+        const folder = hits[0].folder;
+        // 加入列表（如果不存在）
+        const exists = MY_LIST.some(x => String(x.word).toLowerCase() === wordKey);
+        if (!exists) {
+            MY_LIST.push({ ...item, _folder: folder });
+            addedCount++;
+        }
+      } else {
+        notFound.push(wordKey);
       }
     });
-  </script>
+
+    if (addedCount > 0) saveMyList();
+    showMyListPage();
+
+    let msg = `已批量加入 ${addedCount} 個單字。`;
+    if (notFound.length > 0) {
+        msg += `\n\n找不到以下單字（可能拼寫錯誤或不在資料庫中）：\n` + notFound.join(', ');
+    }
+    alert(msg);
+  }
+
+  // === 修改後：匯出 My List (支援穩定長網址 + URL安全編碼) ===
+  function exportMyList(){
+    if (MY_LIST.length === 0) {
+      alert('列表為空');
+      return;
+    }
+
+    let title = prompt("請為這份字表命名（將顯示在分享頁面上）：", "我的自選字表");
+    if (title === null) return; 
+    if (!title.trim()) title = "我的自選字表";
+
+    let listToShare = MY_LIST;
+    if (MY_LIST.length > 30) {
+        alert(`注意：分享連結最多只能包含前 30 個字，系統將自動截取。`);
+        listToShare = MY_LIST.slice(0, 30);
+    }
+
+    const dataObj = { title: title.trim(), list: listToShare };
+    const base64 = encodeShareData(dataObj);
+    // 重要：使用 encodeURIComponent 避免 + 號被瀏覽器吃掉
+    const safeBase64 = encodeURIComponent(base64);
+    
+    const baseUrl = window.location.origin + window.location.pathname;
+    const longUrl = baseUrl + '?list=' + safeBase64;
+
+    copyAndAlert(longUrl, title);
+  }
+
+  // === 修改後：分享當前頁面 (支援穩定長網址) ===
+  function shareCurrentPage() {
+    if (!currentTopicData || currentTopicData.length === 0) {
+        alert("此頁面沒有內容可分享。");
+        return;
+    }
+
+    let title = document.querySelector('section.active h1') ? document.querySelector('section.active h1').innerText.replace(/\n/g, ' ') : "分享頁面";
+    if (title.includes("Word Mapper")) title = "單字練習";
+
+    let listToShare = currentTopicData;
+    if (listToShare.length > 30) {
+        listToShare = listToShare.slice(0, 30);
+    }
+
+    const dataObj = { title: title, list: listToShare };
+    const base64 = encodeShareData(dataObj);
+    const safeBase64 = encodeURIComponent(base64);
+    
+    const baseUrl = window.location.origin + window.location.pathname;
+    const longUrl = baseUrl + '?list=' + safeBase64;
+
+    copyAndAlert(longUrl, title);
+  }
+
+  function initSearchBar(){
+    const inp = document.getElementById('globalSearchInput');
+    const btn = document.getElementById('globalSearchBtn');
+    if (!inp || !btn) return;
+    btn.addEventListener('click', () => goToWord(inp.value));
+    inp.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') goToWord(inp.value);
+    });
+  }
+
+  function highlightIfPending(contentId){
+    const target = (window.PhonicsApp.pendingHighlight || '').toLowerCase();
+    if (!target) return;
+    const grid = document.getElementById('teaching-grid-' + contentId);
+    if (!grid) return;
+    const escaped = (window.CSS && CSS.escape)
+      ? CSS.escape(target)
+      : target.replace(/[!"#$%&'()*+,./:;<=>?@[\\]^`{|}~]/g, '\\$&');
+    const card = grid.querySelector('.word-card[data-word="' + escaped + '"]');
+    if (card){
+      card.classList.add('search-hit');
+      card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      setTimeout(() => card.classList.remove('search-hit'), 1600);
+    }
+    window.PhonicsApp.pendingHighlight = '';
+  }
+
+  function goToWord(wordRaw){
+    const input = String(wordRaw || '').trim().toLowerCase();
+    const msgEl = document.getElementById('searchMsg');
+    if (!input){
+      msgEl.textContent = '請輸入單字';
+      return;
+    }
+    const hits = WORD_INDEX[input];
+    if (!hits || hits.length === 0){
+      msgEl.textContent = '找不到：' + wordRaw;
+      return;
+    }
+    msgEl.textContent = '';
+    if (hits.length === 1){
+      const hit = hits[0];
+      const pageId = hit.slug + '_' + (hit.levelIndex + 1) + '_Page';
+      window.PhonicsApp.pendingHighlight = input;
+      showPage(pageId);
+      return;
+    }
+    showSearchResults(input, hits);
+  }
+
+  function showSearchResults(query, hits){
+    currentTopicData = hits.map(hit => {
+      const newItem = { ...hit.item };
+      newItem._folder = hit.folder;
+      newItem._sourcePageId = hit.pageId;
+      newItem._sourceTitle = hit.topicTitle + ' ' + (hit.levelLabel || '');
+      return newItem;
+    });
+
+    document.querySelectorAll('.page-section').forEach(p => p.classList.remove('active'));
+    const searchPage = document.getElementById('searchResultPage');
+    if (searchPage) searchPage.classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    const countEl = document.getElementById('searchResultCount');
+    if (countEl){
+      countEl.textContent = '"' + query + '" 共有 ' + hits.length + ' 筆結果';
+    }
+    initTopicPage('searchResult_Content');
+  }
+
+  function showPage(pageId){
+    if (pageId === 'homePage' || pageId === 'myListPage' || pageId === 'searchResultPage'){
+      document.querySelectorAll('.page-section').forEach(p => p.classList.remove('active'));
+      const pg = document.getElementById(pageId);
+      if (pg) pg.classList.add('active');
+      window.scrollTo(0, 0);
+      return;
+    }
+
+    selectedFilter = 'all';
+    document.querySelectorAll('.page-section').forEach(p => p.classList.remove('active'));
+    const active = document.getElementById(pageId);
+    if (!active) return;
+    active.classList.add('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+
+    const m = pageId.match(/^(.+?)_(\d+)_Page$/);
+    if (!m) return;
+    const slug = m[1];
+    const levelIndex = Number(m[2]) - 1;
+    const contentId = slug + '_' + (levelIndex + 1) + '_Content';
+
+    const topic = (CACHE.topics && CACHE.topics.topics || []).find(x => x.slug === slug);
+    const lv = topic && topic.levels ? topic.levels[levelIndex] : null;
+    if (!lv) return;
+
+    levelFolder = (lv.src || '')
+      .replace(/^data\//,'')
+      .replace(/\.json$/,'')
+      .replace(/^\//,'');
+
+    if (!CACHE.data[lv.src] && !loadingState.has(lv.src)){
+      const t = document.getElementById(contentId);
+      if (t) t.innerHTML = '<p style="color:#666">載入中…</p>';
+      loadingState.add(lv.src);
+      fetchWithTimeout(lv.src)
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(json => {
+          CACHE.data[lv.src] = json;
+          loadingState.delete(lv.src);
+          if (document.getElementById(pageId) && document.getElementById(pageId).classList.contains('active')){
+            currentTopicData = (json.items || []).map(i => ({ ...i, _folder: levelFolder }));
+            initTopicPage(contentId);
+          }
+        })
+        .catch(e => {
+          loadingState.delete(lv.src);
+          const t = document.getElementById(contentId);
+          if (t){
+            t.innerHTML =
+              '<p style="color:#b91c1c">載入失敗：' + escapeHtml(lv.src) +
+              '（' + escapeHtml(e.message) + '） ' +
+              '<button data-action="reload">重試</button></p>';
+          }
+        });
+    } else if (CACHE.data[lv.src]){
+      currentTopicData = (CACHE.data[lv.src].items || []).map(i => ({ ...i, _folder: levelFolder }));
+      initTopicPage(contentId);
+    }
+  }
+  window.PhonicsApp.showPage = showPage;
+
+  function buildHomeAndSections(){
+    const list = document.getElementById('topicList');
+    const main = document.querySelector('main');
+    if (!list || !main) return;
+
+    list.innerHTML =
+      '<div class="dropdown-container">' +
+        '<div class="dropdown-row">' +
+          '<label for="topicSelect">主題：</label>' +
+          '<select id="topicSelect" class="dropdown-select">' +
+            '<option value="">請選擇主題</option>' +
+          '</select>' +
+        '</div>' +
+        '<div class="dropdown-row">' +
+          '<label for="levelSelect">分頁：</label>' +
+          '<select id="levelSelect" class="dropdown-select" disabled>' +
+            '<option value="">請先選主題</option>' +
+          '</select>' +
+          '<button id="enterBtn" class="dropdown-btn">選擇</button>' +
+        '</div>' +
+      '</div>';
+
+    const topicSelect = document.getElementById('topicSelect');
+    const levelSelect = document.getElementById('levelSelect');
+    const enterBtn = document.getElementById('enterBtn');
+
+    (CACHE.topics && CACHE.topics.topics || []).forEach(t => {
+      const opt = document.createElement('option');
+      opt.value = t.slug;
+      opt.textContent = t.title;
+      topicSelect.appendChild(opt);
+
+      t.levels.forEach((lv, idx) => {
+        const label = lv.label || '-' + (idx + 1);
+        main.insertAdjacentHTML(
+          'beforeend',
+          '<section id="' + t.slug + '_' + (idx + 1) + '_Page" class="page-section">' +
+            '<button class="back-button" data-page-target="homePage"><i class="fa-solid fa-arrow-left"></i>返回目錄</button>' +
+            '<h1>' + escapeHtml(t.title) + '（' + escapeHtml(label) + '）</h1>' +
+            '<div id="' + t.slug + '_' + (idx + 1) + '_Content"></div>' +
+          '</section>'
+        );
+      });
+    });
+
+    topicSelect.addEventListener('change', () => {
+      const slug = topicSelect.value;
+      levelSelect.innerHTML = '';
+      if (!slug){
+        levelSelect.disabled = true;
+        levelSelect.innerHTML = '<option value="">請先選主題</option>';
+        return;
+      }
+      const topic = (CACHE.topics && CACHE.topics.topics || []).find(t => t.slug === slug);
+      if (!topic) return;
+      topic.levels.forEach((lv, idx) => {
+        const opt = document.createElement('option');
+        opt.value = slug + '_' + (idx + 1) + '_Page';
+        opt.textContent = lv.label || ('Level ' + (idx + 1));
+        levelSelect.appendChild(opt);
+      });
+      levelSelect.disabled = false;
+    });
+
+    enterBtn.addEventListener('click', () => {
+      const val = levelSelect.value;
+      if (!val){
+        alert('請選擇分頁');
+        return;
+      }
+      showPage(val);
+    });
+  }
+
+  function buildWordIndexFromAll(){
+    WORD_INDEX = {};
+    if (!CACHE.topics || !CACHE.topics.topics) return;
+    CACHE.topics.topics.forEach(t => {
+      t.levels.forEach((lv, idx) => {
+        const thisFolder = (lv.src || '')
+          .replace(/^data\//,'')
+          .replace(/\.json$/,'')
+          .replace(/^\//,'');
+        const thisPageId = t.slug + '_' + (idx + 1) + '_Page';
+        const items = (CACHE.data[lv.src] && CACHE.data[lv.src].items) || [];
+        items.forEach(w => {
+          const key = String(w.word || '').trim().toLowerCase();
+          if (!key) return;
+          if (!WORD_INDEX[key]) WORD_INDEX[key] = [];
+          WORD_INDEX[key].push({
+            slug: t.slug,
+            levelIndex: idx,
+            folder: thisFolder,
+            topicTitle: t.title,
+            levelLabel: lv.label,
+            pageId: thisPageId,
+            item: w
+          });
+        });
+      });
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', async () => {
+    initSearchBar();
+    
+    try{
+        const resp = await fetchWithTimeout(TOPICS_URL);
+        if (!resp.ok) throw new Error('HTTP ' + resp.status);
+        CACHE.topics = await resp.json();
+    }catch(e){
+        console.error(e);
+        const tl = document.getElementById('topicList');
+        if (tl){
+        tl.innerHTML = '<li class="topic-list-item" style="color:#b91c1c">讀取 topics.json 失敗</li>';
+        }
+        return;
+    }
+
+    buildHomeAndSections();
+
+    // 預先載入 & 建立索引 (必須先做，因為 hydrateList 依賴它)
+    const allLevels = [];
+    (CACHE.topics.topics || []).forEach(t => {
+        t.levels.forEach(lv => { allLevels.push(lv.src); });
+    });
+
+    await Promise.allSettled(
+        allLevels.map(src =>
+        fetchWithTimeout(src).then(r => r.ok ? r.json() : null).then(j => { if (j) CACHE.data[src] = j; })
+        )
+    );
+    buildWordIndexFromAll();
+
+    // === 檢查分享連結 ===
+    const params = new URLSearchParams(window.location.search);
+    let isSharedMode = false;
+
+    if (params.has('list')) {
+      const b64 = params.get('list');
+      const data = decodeBase64List(b64);
+      
+      if (data && data.list && data.list.length > 0) {
+        // Lite版：還原詳細資料
+        const hydratedList = hydrateList(data.list);
+        if(hydratedList.length > 0) {
+            isSharedMode = true;
+            
+            // --- 進入「獨立檢視模式」 ---
+            const searchPage = document.getElementById('searchResultPage');
+            const titleEl = searchPage.querySelector('h1');
+            const countEl = document.getElementById('searchResultCount');
+            const backBtn = searchPage.querySelector('.back-button');
+
+            // 設定資料
+            currentTopicData = hydratedList;
+
+            // 修改介面文字
+            titleEl.innerHTML = `📂 分享：${escapeHtml(data.title)} <span style="font-size:0.6em; color:#64748b; display:block; margin-top:5px;">(唯讀模式)</span>`;
+            
+            // === 動態加入列印按鈕 & 一鍵儲存按鈕 ===
+            const actionsDiv = document.createElement('div');
+            actionsDiv.className = 'mylist-actions'; 
+            actionsDiv.innerHTML = `
+            <button class="action-btn" id="oneClickSaveBtn" style="background:#ecfdf5; border-color:#10b981; color:#047857;">
+                <i class="fa-solid fa-download"></i> 儲存至我的清單
+            </button>
+            <button class="action-btn" onclick="window.print()">
+                <i class="fa-solid fa-print"></i> 列印此字表
+            </button>
+            `;
+            titleEl.after(actionsDiv);
+
+            // 綁定一鍵儲存事件
+            document.getElementById('oneClickSaveBtn').onclick = () => {
+                const added = mergeIntoMyList(hydratedList);
+                alert(`🎉 成功儲存！\n已將 ${added} 個新單字加入您的清單中。`);
+                // 跳轉回 My List 頁面，並清除網址參數
+                window.history.replaceState({}, document.title, window.location.pathname);
+                showMyListPage();
+            };
+
+            countEl.textContent = `共 ${hydratedList.length} 個單字`;
+            
+            // 修改「返回按鈕」行為
+            backBtn.onclick = (e) => {
+                e.preventDefault();
+                window.location.href = window.location.pathname; 
+            };
+
+            // 顯示頁面
+            document.querySelectorAll('.page-section').forEach(p => p.classList.remove('active'));
+            searchPage.classList.add('active');
+            
+            // 渲染卡片
+            initTopicPage('searchResult_Content');
+        }
+      }
+    }
+
+    // === 如果不是分享模式，回首頁 ===
+    if (!isSharedMode) {
+        document.querySelectorAll('.page-section').forEach(p => p.classList.remove('active'));
+        const home = document.getElementById('homePage');
+        if (home) home.classList.add('active');
+    }
+    
+    // Back to top (共用)
+    const backToTopBtn = document.getElementById('backToTop');
+    if (backToTopBtn){
+      backToTopBtn.addEventListener('click', () => {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+      const toggleBackToTop = () => {
+        if (window.scrollY > 400) backToTopBtn.classList.add('visible');
+        else backToTopBtn.classList.remove('visible');
+      };
+      window.addEventListener('scroll', toggleBackToTop, { passive: true });
+      toggleBackToTop();
+    }
+  });
+ </script>
 </body>
 </html>
