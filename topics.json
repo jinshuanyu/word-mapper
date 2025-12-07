@@ -2,8 +2,8 @@
   "topics": [
     {
   "slug": "letters",
-  "title": "Alphabet 字母",
-  "levels": [{ "label": "A–Z", "src": "data/letters.json" }]
+  "title": "Alphabet+ 字母與組合",
+  "levels": [{ "label": "A–Z", "src": "data/letters.json" },{ "label": "字母組合", "src": "data/combo.json" }]
 },
 
     {
@@ -49,7 +49,25 @@
         { "label": "3", "src": "data/animals-3.json" }
       ]
     },
-    
+        {
+      "slug": "body_face",
+      "title": "Body & Face 臉和身體",
+      "levels": [
+        { "label": "1",  "src": "data/body-and-face-1.json" },
+        { "label": "2", "src": "data/body-and-face-2.json" },
+        { "label": "3", "src": "data/body-and-face-3.json" }
+      ]
+    },
+
+                {
+      "slug": "clothes",
+      "title": "Clothes 服裝",
+      "levels": [
+        { "label": "1",  "src": "data/clothes-1.json" },
+        { "label": "2", "src": "data/clothes-2.json" },
+         { "label": "3", "src": "data/clothes-3.json" }
+      ]
+    },
     
     {
   "slug": "colors",
@@ -61,15 +79,7 @@
     }
   ]
 },
-            {
-      "slug": "clothes",
-      "title": "Clothes 服裝",
-      "levels": [
-        { "label": "1",  "src": "data/clothes-1.json" },
-        { "label": "2", "src": "data/clothes-2.json" },
-         { "label": "3", "src": "data/clothes-3.json" }
-      ]
-    },
+
     {
       "slug": "family_friends",
       "title": "Family & Friends 親友",
@@ -78,6 +88,17 @@
         { "label": "2", "src": "data/family-friends-2.json" }
       ]
     },
+            {
+  "slug": "food",
+  "title": "Food and Drink 飲食",
+  "levels": [
+        { "label": "水果與蔬菜", "src": "data/food-1.json" },
+        { "label": "主食與肉類", "src": "data/food-2.json" },
+            { "label": "麵包甜點與乳品", "src": "data/food-3.json" },
+        { "label": "飲料與調味", "src": "data/food-4.json" },
+    { "label": "餐具與用餐", "src": "data/food-5.json" }
+  ]
+},
     {
       "slug": "health",
       "title": "Health 健康",
@@ -85,10 +106,51 @@
         { "label": "1", "src": "data/health-1.json" },
         { "label": "2", "src": "data/health-2.json" }
       ]
+    },
+             {
+      "slug": "holidays",
+      "title": "Holidays 假日",
+      "levels": [
+        { "label": "All", "src": "data/holidays.json" }
+      ]
+    },  
+    {
+      "slug": "people",
+      "title": "People 人",
+      "levels": [
+        { "label": "人", "src": "data/people-1.json" },
+                { "label": "外表", "src": "data/people-2.json" },
+                { "label": "情緒", "src": "data/people-3.json" },
+                { "label": "個性", "src": "data/people-4.json" },
+                { "label": "特點", "src": "data/people-5.json" },
+                { "label": "稱呼", "src": "data/people-6.json" }
+      ]
+    },
+            {
+  "slug": "space",
+  "title": "Space 太空",
+  "levels": [
+    {
+      "label": "All",
+      "src": "data/space.json"
+    }
+  ]
+},
+                   {
+      "slug": "time",
+      "title": "Time 時間",
+      "levels": [
+        { "label": "計時單位工具", "src": "data/time-1.json" },
+                { "label": "一天的時間", "src": "data/time-2.json" },
+                { "label": "星期", "src": "data/time-3.json" },
+                { "label": "月份", "src": "data/time-4.json" },
+                { "label": "季節和時間流逝", "src": "data/time-5.json" }
+      ]
     }
         
   ]
 }
+
 
 
 
