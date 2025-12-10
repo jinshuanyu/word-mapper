@@ -62,7 +62,7 @@
       "graphemes": ["f", "a", "ll"],
       "phonemes": ["/f", "ɔ", "l/"],
       "phonics": ["/f", "aw", "l/"],
-      "tags": ["floss"],
+      "tags": ["irregular","floss"],
       "hearts": [0, 1, 0],
       "hint": "a 在 ll 前發 /aw/。"
     },
