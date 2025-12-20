@@ -113,8 +113,23 @@
       "levels": [
         { "label": "All", "src": "data/holidays.json" }
       ]
-    },  
+    },   {
+      "slug": "house",
+      "title": "House & Living 居家與生活",
+      "levels": [
+        { "label": "居住空間", "src": "data/house-1.json" },
+        { "label": "家具與電器", "src": "data/house-2.json" },
+        { "label": "用具與家事", "src": "data/house-3.json" }
+      ]
+    }, 
     {
+      "slug": "money",
+      "title": "Money 金錢",
+      "levels": [
+        { "label": "All", "src": "data/money.json" }
+      ]
+    },
+           {
       "slug": "people",
       "title": "People 人",
       "levels": [
@@ -126,6 +141,43 @@
                 { "label": "稱呼", "src": "data/people-6.json" }
       ]
     },
+    {
+  "slug": "places",
+  "title": "Places 地點",
+  "levels": [
+    { 
+      "label": "方位與位置", 
+      "src": "data/places-1.json" 
+    },
+    { 
+      "label": "商業與公共建築", 
+      "src": "data/places-2.json" 
+    },
+    { 
+      "label": "區域與一般地點", 
+      "src": "data/places-3.json" 
+    }
+  ]
+},
+            {
+      "slug": "school",
+      "title": "School 學校",
+      "levels": [
+        { "label": "學校場所", "src": "data/school-1.json" },
+        { "label": "文具用品", "src": "data/school-2.json" },
+        { "label": "科目與人物", "src": "data/school-3.json" },
+         { "label": "學習活動", "src": "data/school-4.json" }
+      ]
+    },
+ {
+  "slug": "size",
+  "title": "Sizes & Measurements 測量",
+  "levels": [
+    { "label": "單位與測量", "src": "data/size-1.json" },
+    { "label": "形狀與幾何", "src": "data/size-2.json" },
+    { "label": "尺寸與數量", "src": "data/size-3.json" }
+  ]
+},
             {
   "slug": "space",
   "title": "Space 太空",
@@ -150,3 +202,4 @@
         
   ]
 }
+
