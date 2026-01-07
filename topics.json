@@ -222,24 +222,7 @@
     }
   ]
 },
-       {
-  "slug": "weather",
-  "title": "Weather 天氣",
-  "levels": [
-    { 
-      "label": "氣象概況", 
-      "src": "data/weather-1.json" 
-    },
-      { 
-      "label": "天氣現象", 
-      "src": "data/weather-2.json" 
-    },
-    { 
-      "label": "自然地球", 
-      "src": "data/weather-3.json" 
-    }
-  ]
-},
+       
     {
   "slug": "world",
   "title": "World 世界",
@@ -253,5 +236,6 @@
         
   ]
 }
+
 
 
