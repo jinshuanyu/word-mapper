@@ -73,7 +73,7 @@
       "graphemes": ["c", "a", "b"],
       "phonemes": ["/k", "æ", "b/"],
       "phonics": ["/k", "ă", "b/"],
-      "tags": ["closed", "cvc"],
+      "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "CVC；a 發短母音 /æ/（ă）。"
     },
@@ -200,5 +200,6 @@
     }
   ]
 }
+
 
 
