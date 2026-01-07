@@ -1,0 +1,192 @@
+{
+  "items": [
+    {
+      "number": "✈️ 飛機",
+      "word": "airplane",
+      "ipa": "/ˈɛrˌpleɪn/",
+      "graphemes": ["ai", "r", "p", "l", "a", "n", "e"],
+      "phonemes": ["/'ɛ", "r", "p", "l", "eɪ", "n", "-/"],
+      "phonics": ["/'ĕ", "r", "p", "l", "ā", "n", "-/"],
+      "tags": ["rcontrolled", "cluster"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "hint": "air 必拆 ai+r（ĕ+r）；a_e 發 /ā/（/eɪ/）。"
+    },
+    {
+      "number": "🚑 救護車",
+      "word": "ambulance",
+      "ipa": "/ˈæmbjələns/",
+      "graphemes": ["a", "m", "b", "u", "l", "a", "n", "c","e"],
+      "phonemes": ["/'æ", "m", "b", "jə", "l", "ə", "n", "s","-/"],
+      "phonics": ["/'ă", "m", "b", "yə", "l", "ə", "n", "s","-/"],
+      "tags": ["irregular"],
+      "hearts": [0, 0, 0, 1, 0, 0, 0, 0, 1],
+      "hint": "u 在此對應 /j/（UFLI 寫 /y/）；a 弱化 /ə/；ce 發 /s/。"
+    },
+    {
+      "number": "🚲 腳踏車",
+      "word": "bicycle",
+      "ipa": "/ˈbaɪsɪkəl/",
+      "graphemes": ["b", "i", "c", "y", "c", "le"],
+      "phonemes": ["/'b", "aɪ", "s", "ɪ", "k", "əl/"],
+      "phonics": ["/'b", "ī", "s", "ĭ", "k", "əl/"],
+      "tags": ["open", "cle"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "第一段 i 發 /ī/（/aɪ/）；字尾 le 對應 /əl/。"
+    },
+    {
+      "number": "🚲 腳踏車(簡)",
+      "word": "bike",
+      "ipa": "/baɪk/",
+      "graphemes": ["b", "i", "k", "e"],
+      "phonemes": ["/b", "aɪ", "k", "-/"],
+      "phonics": ["/b", "ī", "k", "-/"],
+      "tags": ["magic_e"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "i_e 發長母音 /ī/（/aɪ/）。"
+    },
+    {
+      "number": "🚤 小船",
+      "word": "boat",
+      "ipa": "/boʊt/",
+      "graphemes": ["b", "oa", "t"],
+      "phonemes": ["/b", "oʊ", "t/"],
+      "phonics": ["/b", "ō", "t/"],
+      "tags": ["vowel_team"],
+      "hearts": [0, 0, 0],
+      "hint": "oa 發長母音 /ō/（/oʊ/）。"
+    },
+    {
+      "number": "🚌 公車",
+      "word": "bus",
+      "ipa": "/bʌs/",
+      "graphemes": ["b", "u", "s"],
+      "phonemes": ["/b", "ʌ", "s/"],
+      "phonics": ["/b", "ŭ", "s/"],
+      "tags": ["cvc"],
+      "hearts": [0, 0, 0],
+      "hint": "u 發短母音 /ŭ/（/ʌ/）。"
+    },
+    {
+      "number": "🚗 汽車",
+      "word": "car",
+      "ipa": "/kɑr/",
+      "graphemes": ["c", "ar"],
+      "phonemes": ["/k", "ɑr/"],
+      "phonics": ["/k", "ɑr/"],
+      "tags": ["rcontrolled"],
+      "hearts": [0, 0],
+      "hint": "ar → UFLI 必寫 /ɑr/。"
+    },
+    {
+      "number": "🚁 直升機",
+      "word": "helicopter",
+      "ipa": "/ˈhɛlɪˌkɑptɚ/",
+      "graphemes": ["h", "e", "l", "i", "c", "o", "p", "t", "er"],
+      "phonemes": ["/'h", "ɛ", "l", "ɪ", "k", "ɑ", "p", "t", "ɚ/"],
+      "phonics": ["/'h", "ĕ", "l", "ĭ", "k", "ŏ", "p", "t", "er/"],
+      "tags": ["closed", "rcontrolled"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "字尾 er：IPA 用 /ɚ/；UFLI 寫 /er/。"
+    },
+    {
+      "number": "🚙 吉普車",
+      "word": "jeep",
+      "ipa": "/dʒip/",
+      "graphemes": ["j", "ee", "p"],
+      "phonemes": ["/dʒ", "i", "p/"],
+      "phonics": ["/-j", "ē", "p/"],
+      "tags": ["vowel_team"],
+      "hearts": [0, 0, 0],
+      "hint": "ee 發長母音 /ē/（/i/）。"
+    },
+    {
+      "number": "🏍️ 摩托車",
+      "word": "motorcycle",
+      "ipa": "/ˈmoʊtɚˌsaɪkəl/",
+      "graphemes": ["m", "o", "t", "or", "c", "y", "c", "le"],
+      "phonemes": ["/'m", "oʊ", "t", "ɚ", "s", "aɪ", "k", "əl/"],
+      "phonics": ["/'m", "ō", "t", "er", "s", "ī", "k", "əl/"],
+      "tags": ["open",  "cle"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "or 在此對應 /ɚ/（弱化 r 音）；y 在此對應 /ī/（/aɪ/）；字尾 le → /əl/。"
+    },
+    {
+      "number": "🛵 輕型機車",
+      "word": "scooter",
+      "ipa": "/ˈskutɚ/",
+      "graphemes": ["s", "c", "oo", "t", "er"],
+      "phonemes": ["/'s", "k", "u", "t", "ɚ/"],
+      "phonics": ["/'s", "k", "oo", "t", "er/"],
+      "tags": ["cluster", "vowel_team"],
+      "hearts": [0, 0, 0, 0, 0],
+      "hint": "oo 發 /u/；字尾 er：IPA /ɚ/，UFLI /er/。"
+    },
+    {
+      "number": "🚢 輪船",
+      "word": "ship",
+      "ipa": "/ʃɪp/",
+      "graphemes": ["sh", "i", "p"],
+      "phonemes": ["/ʃ", "ɪ", "p/"],
+      "phonics": ["/sh", "ĭ", "p/"],
+      "tags": ["digraph", "closed"],
+      "hearts": [0, 0, 0],
+      "hint": "sh 發 /ʃ/，i 發短母音 /ĭ/（/ɪ/）。"
+    },
+    {
+      "number": "🛡️ 坦克",
+      "word": "tank",
+      "ipa": "/tæŋk/",
+      "graphemes": ["t", "a", "n", "k"],
+      "phonemes": ["/t", "æ", "ŋ", "k/"],
+      "phonics": ["/t", "ă", "ŋ", "k/"],
+      "tags": ["closed", "cluster"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "這裡的鼻音用 /ŋ/ 表示（保留符號）。"
+    },
+    {
+      "number": "🚕 計程車",
+      "word": "taxi",
+      "ipa": "/ˈtæksi/",
+      "graphemes": ["t", "a", "x", "i"],
+      "phonemes": ["/'t", "æ", "ks", "i/"],
+      "phonics": ["/'t", "ă", "ks", "ē/"],
+      "tags": ["irregular"],
+      "hearts": [0, 0, 0, 1],
+      "hint": "x → /ks/；字尾 i 發 /ē/（/i/）。"
+    },
+    {
+      "number": "🚆 火車",
+      "word": "train",
+      "ipa": "/treɪn/",
+      "graphemes": ["t", "r", "ai", "n"],
+      "phonemes": ["/t", "r", "eɪ", "n/"],
+      "phonics": ["/t", "r", "ā", "n/"],
+      "tags": ["cluster", "vowel_team"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "ai 發長母音 /ā/（/eɪ/）。"
+    },
+    {
+      "number": "🚚 卡車",
+      "word": "truck",
+      "ipa": "/trʌk/",
+      "graphemes": ["t", "r", "u", "ck"],
+      "phonemes": ["/t", "r", "ʌ", "k/"],
+      "phonics": ["/t", "r", "ŭ", "k/"],
+      "tags": ["cluster", "cvc", "digraph"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "ck 發 /k/；u 發短母音 /ŭ/（/ʌ/）。"
+    },
+    {
+      "number": "🚐 廂型車",
+      "word": "van",
+      "ipa": "/væn/",
+      "graphemes": ["v", "a", "n"],
+      "phonemes": ["/v", "æ", "n/"],
+      "phonics": ["/v", "ă", "n/"],
+      "tags": ["cvc"],
+      "hearts": [0, 0, 0],
+      "hint": "簡單閉音節，a 發短母音 /ă/（/æ/）。"
+    }
+  ]
+}
+
