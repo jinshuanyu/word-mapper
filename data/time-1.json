@@ -173,7 +173,7 @@
       "phonemes": ["/w", "ɑ", "tʃ/"],
       "phonics": ["/w", "ŏ", "ch/"],
       "tags": ["irregular", "digraph"],
-      "hearts": [0, 1, 0],
+      "hearts": [0, 1, 1],
       "hint": "a 在 w 後發 /ŏ/；tch 發 /ch/。"
     }
   ]
