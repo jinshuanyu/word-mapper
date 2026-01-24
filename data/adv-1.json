@@ -1,0 +1,235 @@
+{
+  "items": [
+    {
+      "number": "總是",
+      "word": "always",
+      "ipa": "/ˈɔlweɪz/",
+      "graphemes": ["a", "l", "w", "ay", "s"],
+      "phonemes": ["/'ɔ", "l", "w", "eɪ", "z/"],
+      "phonics": ["/'aw", "l", "w", "ā", "z/"],
+      "tags": ["vowel_team"],
+      "hearts": [0, 0, 0, 0, 0],
+      "hint": "重音在 al；al 對應 /ɔl/；ay 發長音 /ā/；s 發 /z/。"
+    },
+    {
+      "number": "🕰️ 曾經",
+      "word": "ever",
+      "ipa": "/ˈɛvɚ/",
+      "graphemes": ["e", "v", "er"],
+      "phonemes": ["/'ɛ", "v", "ɚ/"],
+      "phonics": ["/'ĕ", "v", "er/"],
+      "tags": ["closed", "suffix"],
+      "hearts": [0, 0, 0],
+      "hint": "重音在 ev-（閉音節）；e 發短音 /ĕ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🚫 從不",
+      "word": "never",
+      "ipa": "/ˈnɛvɚ/",
+      "graphemes": ["n", "e", "v", "er"],
+      "phonemes": ["/'n", "ɛ", "v", "ɚ/"],
+      "phonics": ["/'n", "ĕ", "v", "er/"],
+      "tags": ["closed", "suffix"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 nev-（閉音節）；e 發短音 /ĕ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "經常",
+      "word": "often",
+      "ipa": "/ˈɔfən/",
+      "graphemes": ["o", "f", "t", "e", "n"],
+      "phonemes": ["/'ɔ", "f", "-", "ə", "n/"],
+      "phonics": ["/'aw", "f", "-", "ə", "n/"],
+      "tags": ["silent_consonant"],
+      "hearts": [0, 0, 1, 0, 0],
+      "hint": "重音在 of-；o 發 /ɔ/；t 不發音。"
+    },
+    {
+      "number": "很少",
+      "word": "seldom",
+      "ipa": "/ˈsɛldəm/",
+      "graphemes": ["s", "e", "l", "d", "o", "m"],
+      "phonemes": ["/'s", "ɛ", "l", "d", "ə", "m/"],
+      "phonics": ["/'s", "ĕ", "l", "d", "ə", "m/"],
+      "tags": ["closed"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "重音在 sel-（閉音節）；e 發短音 /ĕ/；o 弱化為 /ə/。"
+    },
+    {
+      "number": "有時",
+      "word": "sometimes",
+      "ipa": "/ˈsʌmtaɪmz/",
+      "graphemes": ["s", "o", "m", "e", "t", "i", "m", "e", "s"],
+      "phonemes": ["/'s", "ʌ", "m", "-", "t", "aɪ", "m", "-", "z/"],
+      "phonics": ["/'s", "ŭ", "m", "-", "t", "ī", "m", "-", "z/"],
+      "tags": ["closed", "open"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 som-（閉音節）；o 發 /ŭ/；第一個 e 不發音；i 發長音 /ī/（開音節）；第二個 e 不發音。"
+    },
+    {
+      "number": "通常",
+      "word": "usually",
+      "ipa": "/ˈjuʒuəli/",
+      "graphemes": ["u", "s", "u", "a", "ll", "y"],
+      "phonemes": ["/'ju", "ʒ", "u", "ə", "l",  "i/"],
+      "phonics": ["/'yū", "zh", "ū", "ə", "l",  "ē/"],
+      "tags": ["floss", "irregular", "open"],
+      "hearts": [0, 1, 0, 0, 0, 0, 0],
+      "hint": "重音在 u-（開音節）；第一個 u 發 /yū/；s 發 /ʒ/（需記）；第二個 u 發 /ū/。"
+    },
+    {
+      "number": "🤏 幾乎",
+      "word": "almost",
+      "ipa": "/ˈɔlmoʊst/",
+      "graphemes": ["a", "l", "m", "o", "s", "t"],
+      "phonemes": ["/'ɔ", "l", "m", "oʊ", "s", "t/"],
+      "phonics": ["/'aw", "l", "m", "ō", "s", "t/"],
+      "tags": ["open"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "重音在 al-；al 對應 /ɔl/；o 發長音 /ō/（開音節）。"
+    },
+    {
+      "number": "完全地",
+      "word": "altogether",
+      "ipa": "/ɔltəˈɡɛðɚ/",
+      "graphemes": ["a", "l", "t", "o", "g", "e", "th", "er"],
+      "phonemes": ["/ɔ", "l", "t", "ə", "'ɡ", "ɛ", "ð", "ɚ/"],
+      "phonics": ["/aw", "l", "t", "ə", "'ɡ", "ĕ", "th", "er/"],
+      "tags": ["closed", "digraph"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 -geth-（閉音節）；al 對應 /ɔl/；o 弱化為 /ə/；th 為 digraph。"
+    },
+    {
+      "number": "甚至",
+      "word": "even",
+      "ipa": "/ˈivən/",
+      "graphemes": ["e", "v", "e", "n"],
+      "phonemes": ["/'i", "v", "ə", "n/"],
+      "phonics": ["/'ē", "v", "ə", "n/"],
+      "tags": ["open"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 e-（開音節）；第一個 e 發長音 /ē/；第二個 e 弱化為 /ə/。"
+    },
+    {
+      "number": "🚫 幾乎不",
+      "word": "hardly",
+      "ipa": "/ˈhɑrdli/",
+      "graphemes": ["h", "ar", "d", "l", "y"],
+      "phonemes": ["/'h", "ɑr", "d", "l", "i/"],
+      "phonics": ["/'h", "ɑr", "d", "l", "ē/"],
+      "tags": ["rcontrolled"],
+      "hearts": [0, 0, 0, 0, 0],
+      "hint": "重音在 har-；ar 為 r-controlled；y 發 /ē/。"
+    },
+    {
+      "number": "👌 剛好",
+      "word": "just",
+      "ipa": "/dʒʌst/",
+      "graphemes": ["j", "u", "s", "t"],
+      "phonemes": ["/'dʒ", "ʌ", "s", "t/"],
+      "phonics": ["/'-j", "ŭ", "s", "t/"],
+      "tags": ["closed"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "單音節閉音節；j 對應 /dʒ/；u 發短音 /ŭ/。"
+    },
+    {
+      "number": "⬇️ 最少",
+      "word": "least",
+      "ipa": "/list/",
+      "graphemes": ["l", "ea", "s", "t"],
+      "phonemes": ["/'l", "i", "s", "t/"],
+      "phonics": ["/'l", "ē", "s", "t/"],
+      "tags": ["vowel_team"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "單音節；ea 發長音 /ē/。"
+    },
+    {
+      "number": "🤏 幾乎",
+      "word": "nearly",
+      "ipa": "/ˈnɪrli/",
+      "graphemes": ["n", "ea","r", "l", "y"],
+      "phonemes": ["/'n", "ɪ","r", "l", "i/"],
+      "phonics": ["/'n", "ĭ","r", "l", "ē/"],
+      "tags": ["rcontrolled"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 near-；ear 為 r-controlled /ɪr/；y 發 /ē/。"
+    },
+    {
+      "number": "只有",
+      "word": "only",
+      "ipa": "/ˈoʊnli/",
+      "graphemes": ["o", "n", "l", "y"],
+      "phonemes": ["/'oʊ", "n", "l", "i/"],
+      "phonics": ["/'ō", "n", "l", "ē/"],
+      "tags": ["open"],
+      "hearts": [1, 0, 0, 0],
+      "hint": "重音在 o-（開音節）；o 發長音 /ō/；y 發 /ē/。"
+    },
+    {
+      "number": "相當",
+      "word": "quite",
+      "ipa": "/kwaɪt/",
+      "graphemes": ["qu", "i", "t", "e"],
+      "phonemes": ["/'kw", "aɪ", "t", "-/"],
+      "phonics": ["/'kw", "ī", "t", "-/"],
+      "tags": ["magic_e"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "單音節；qu 對應 /kw/；i-e 發長音 /ī/；e 不發音。"
+    },
+    {
+      "number": "寧可",
+      "word": "rather",
+      "ipa": "/ˈræðɚ/",
+      "graphemes": ["r", "a", "th", "er"],
+      "phonemes": ["/'r", "æ", "ð", "ɚ/"],
+      "phonics": ["/'r", "ă", "<u>th</u>", "er/"],
+      "tags": ["closed", "digraph", "suffix"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 rath-（閉音節）；a 發短音 /ă/；th 為 digraph。"
+    },
+    {
+      "number": "💯 真的",
+      "word": "really",
+      "ipa": "/ˈrili/",
+      "graphemes": ["r", "ea", "ll", "y"],
+      "phonemes": ["/'r", "i", "l", "i/"],
+      "phonics": ["/'r", "ē", "l",  "ē/"],
+      "tags": ["vowel_team"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "重音在 re-；ea 發長音 /ē/；第二個 l 不發音；y 發 /ē/。"
+    },
+    {
+      "number": "➡️ 所以",
+      "word": "so",
+      "ipa": "/soʊ/",
+      "graphemes": ["s", "o"],
+      "phonemes": ["/'s", "oʊ/"],
+      "phonics": ["/'s", "ō/"],
+      "tags": ["open"],
+      "hearts": [0, 0],
+      "hint": "單音節；o 發長音 /ō/（開音節）。"
+    },
+    {
+      "number": "也",
+      "word": "too",
+      "ipa": "/tu/",
+      "graphemes": ["t", "oo"],
+      "phonemes": ["/'t", "u/"],
+      "phonics": ["/'t", "ū/"],
+      "tags": ["vowel_team"],
+      "hearts": [0, 0],
+      "hint": "單音節；oo 發 /ū/。"
+    },
+    {
+      "number": "非常",
+      "word": "very",
+      "ipa": "/ˈvɛri/",
+      "graphemes": ["v", "e", "r", "y"],
+      "phonemes": ["/'v", "ɛ", "r", "i/"],
+      "phonics": ["/'v", "ĕ", "r", "ē/"],
+      "tags": ["closed"],
+      "hearts": [0, 1, 0, 0],
+      "hint": "重音在 ver-（閉音節）；e 發短音 /ĕ/；y 發 /ē/。"
+    }
+  ]
+}

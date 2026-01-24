@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "number": "🏛️ 古老的",
+      "word": "ancient",
+      "ipa": "/ˈeɪnʃənt/",
+      "graphemes": ["a", "n", "ci", "e", "n", "t"],
+      "phonemes": ["/'eɪ", "n", "ʃ", "ə", "n", "t/"],
+      "phonics": ["/'ā", "n", "sh", "ə", "n", "t/"],
+      "tags": ["irregular"],
+      "hearts": [1, 0, 1, 0, 0, 0],
+      "hint": "重音在 an-（開音節）；a 發長音 /ā/；ci 對應 /ʃ/（需記）。"
+    },
+    {
+      "number": "💡 明亮的",
+      "word": "bright",
+      "ipa": "/braɪt/",
+      "graphemes": ["b", "r", "igh", "t"],
+      "phonemes": ["/'b", "r", "aɪ", "t/"],
+      "phonics": ["/'b", "r", "ī", "t/"],
+      "tags": ["cluster", "vowel_team"],
+      "hearts": [0, 0, 1, 0],
+      "hint": "單音節；br 為 cluster；igh 對應 /aɪ/。"
+    },
+    {
+      "number": "🎻 古典的",
+      "word": "classical",
+      "ipa": "/ˈklæsɪkəl/",
+      "graphemes": ["c", "l", "a", "ss", "i", "c", "a", "l"],
+      "phonemes": ["/'k", "l", "æ", "s", "ɪ", "k", "ə", "l/"],
+      "phonics": ["/'k", "l", "ă", "s", "ĭ", "k", "ə", "l/"],
+      "tags": ["cluster", "closed",  "suffix"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 clas-（閉音節）；cl 為 cluster；ss 為 floss。"
+    },
+    {
+      "number": "🌈 彩色的",
+      "word": "colorful",
+      "ipa": "/ˈkʌlɚfəl/",
+      "graphemes": ["c", "o", "l", "or", "f", "u", "l"],
+      "phonemes": ["/'k", "ʌ", "l", "ɚ", "f", "ə", "l/"],
+      "phonics": ["/'k", "ŭ", "l", "er", "f", "ə", "l/"],
+      "tags": ["irregular", "suffix"],
+      "hearts": [0, 1, 0, 1, 0, 0, 0],
+      "hint": "重音在 col-（閉音節）；o 發短音 /ŭ/；or 對應 /ɚ/。"
+    },
+    {
+      "number": "🌑 黑暗的",
+      "word": "dark",
+      "ipa": "/dɑrk/",
+      "graphemes": ["d", "ar", "k"],
+      "phonemes": ["/'d", "ɑr", "k/"],
+      "phonics": ["/'d", "ɑr", "k/"],
+      "tags": ["rcontrolled"],
+      "hearts": [0, 0, 0],
+      "hint": "單音節；ar 為 r-controlled。"
+    },
+    {
+      "number": "💕 親愛的",
+      "word": "dear",
+      "ipa": "/dɪr/",
+      "graphemes": ["d", "ea","r"],
+      "phonemes": ["/'d", "ɪ","r/"],
+      "phonics": ["/'d", "ĭ","r/"],
+      "tags": ["vowel_team", "rcontrolled"],
+      "hearts": [0, 0],
+      "hint": "單音節；ear 為 r-controlled /ɪr/。"
+    },
+    {
+      "number": "🧹 髒的",
+      "word": "dirty",
+      "ipa": "/ˈdɝti/",
+      "graphemes": ["d", "ir", "t", "y"],
+      "phonemes": ["/'d", "ɝ", "t", "i/"],
+      "phonics": ["/'d", "er", "t", "ē/"],
+      "tags": ["rcontrolled"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 dir-；ir 為 r-controlled；y 發 /ē/。"
+    },
+    {
+      "number": "⚡ 電的",
+      "word": "electric",
+      "ipa": "/ɪˈlɛktrɪk/",
+      "graphemes": ["e", "l", "e", "c", "t", "r", "i", "c"],
+      "phonemes": ["/ɪ", "'l", "ɛ", "k", "t", "r", "ɪ", "k/"],
+      "phonics": ["/ĭ", "'l", "ĕ", "k", "t", "r", "ĭ", "k/"],
+      "tags": ["closed", "cluster"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 -lec-（閉音節）；tr 為 cluster。"
+    },
+    {
+      "number": "👔 正式的",
+      "word": "formal",
+      "ipa": "/ˈfɔrməl/",
+      "graphemes": ["f", "or", "m", "a", "l"],
+      "phonemes": ["/'f", "ɔr", "m", "ə", "l/"],
+      "phonics": ["/'f", "or", "m", "ə", "l/"],
+      "tags": ["rcontrolled"],
+      "hearts": [0, 0, 0, 0, 0],
+      "hint": "重音在 for-；or 為 r-controlled。"
+    },
+    {
+      "number": "🌿 新鮮的",
+      "word": "fresh",
+      "ipa": "/frɛʃ/",
+      "graphemes": ["f", "r", "e", "sh"],
+      "phonemes": ["/'f", "r", "ɛ", "ʃ/"],
+      "phonics": ["/'f", "r", "ĕ", "sh/"],
+      "tags": ["closed", "cluster", "digraph"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "單音節閉音節；fr 為 cluster；sh 為 digraph。"
+    },
+    {
+      "number": "📍 本地的",
+      "word": "local",
+      "ipa": "/ˈloʊkəl/",
+      "graphemes": ["l", "o", "c", "a", "l"],
+      "phonemes": ["/'l", "oʊ", "k", "ə", "l/"],
+      "phonics": ["/'l", "ō", "k", "ə", "l/"],
+      "tags": ["open"],
+      "hearts": [0, 0, 0, 0, 0],
+      "hint": "重音在 lo-（開音節）；o 發長音 /ō/。"
+    },
+    {
+      "number": "🛤️ 狹窄的",
+      "word": "narrow",
+      "ipa": "/ˈnæroʊ/",
+      "graphemes": ["n", "a", "rr", "ow"],
+      "phonemes": ["/'n", "æ", "r", "oʊ/"],
+      "phonics": ["/'n", "ă", "r", "ō/"],
+      "tags": ["closed", "floss", "vowel_team"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 nar-（閉音節）；a 發短音 /ă/；rr 為 floss；ow 對應 /ō/。"
+    },
+    {
+      "number": "🌳 自然的",
+      "word": "natural",
+      "ipa": "/ˈnætʃərəl/",
+      "graphemes": ["n", "a", "t", "u", "r", "a", "l"],
+      "phonemes": ["/'n", "æ", "tʃ", "ə", "r", "ə", "l/"],
+      "phonics": ["/'n", "ă", "ch", "ə", "r", "ə", "l/"],
+      "tags": ["closed", "digraph"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 nat-（閉音節）；a 發短音 /ă/；t+u 變成 /tʃ/。"
+    },
+    {
+      "number": "🔪 銳利的",
+      "word": "sharp",
+      "ipa": "/ʃɑrp/",
+      "graphemes": ["sh", "ar", "p"],
+      "phonemes": ["/'ʃ", "ɑr", "p/"],
+      "phonics": ["/'sh", "ɑr", "p/"],
+      "tags": ["digraph", "rcontrolled"],
+      "hearts": [0, 0, 0],
+      "hint": "單音節；sh 為 digraph；ar 為 r-controlled。"
+    },
+    {
+      "number": "🤫 安靜的",
+      "word": "silent",
+      "ipa": "/ˈsaɪlənt/",
+      "graphemes": ["s", "i", "l", "e", "n", "t"],
+      "phonemes": ["/'s", "aɪ", "l", "ə", "n", "t/"],
+      "phonics": ["/'s", "ī", "l", "ə", "n", "t/"],
+      "tags": ["open"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "重音在 si-（開音節）；i 發長音 /ī/。"
+    },
+    {
+      "number": "📚 厚的",
+      "word": "thick",
+      "ipa": "/θɪk/",
+      "graphemes": ["th", "i", "ck"],
+      "phonemes": ["/'θ", "ɪ", "k/"],
+      "phonics": ["/'th", "ĭ", "k/"],
+      "tags": ["closed", "digraph"],
+      "hearts": [0, 0, 0],
+      "hint": "單音節閉音節；th 為 digraph；ck 為 digraph。"
+    },
+    {
+      "number": "✨ 整潔的",
+      "word": "tidy",
+      "ipa": "/ˈtaɪdi/",
+      "graphemes": ["t", "i", "d", "y"],
+      "phonemes": ["/'t", "aɪ", "d", "i/"],
+      "phonics": ["/'t", "ī", "d", "ē/"],
+      "tags": ["open"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 ti-（開音節）；i 發長音 /ī/；y 發 /ē/。"
+    },
+    {
+      "number": "🐻 野生的",
+      "word": "wild",
+      "ipa": "/waɪld/",
+      "graphemes": ["w", "i", "l", "d"],
+      "phonemes": ["/'w", "aɪ", "l", "d/"],
+      "phonics": ["/'w", "ī", "l", "d/"],
+      "tags": ["open"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "單音節；i 在 ld 前發長音 /ī/（開音節規則）。"
+    }
+  ]
+}

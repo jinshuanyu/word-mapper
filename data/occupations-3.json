@@ -1,0 +1,191 @@
+{
+  "items": [
+    {
+      "number": "👔 老闆",
+      "word": "boss",
+      "ipa": "/bɔs/",
+      "graphemes": ["b", "o", "ss"],
+      "phonemes": ["/'b", "ɔ", "s/"],
+      "phonics": ["/'b", "aw", "s/"],
+      "tags": ["floss"],
+      "hearts": [0, 0, 0],
+      "hint": "單音節；o 對應 /ɔ/；ss 為 floss。"
+    },
+    {
+      "number": "💼 商人",
+      "word": "businessman",
+      "ipa": "/ˈbɪznəsmæn/",
+      "graphemes": ["b", "u", "si", "n", "e", "ss", "m", "a", "n"],
+      "phonemes": ["/'b", "ɪ", "z", "n", "ə", "s", "m", "æ", "n/"],
+      "phonics": ["/'b", "ĭ", "z", "n", "ə", "s", "m", "ă", "n/"],
+      "tags": ["irregular", "floss"],
+      "hearts": [0, 1, 1, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 busi-；u、si 發音不規則（需記）。"
+    },
+    {
+      "number": "💼 女商人",
+      "word": "businesswoman",
+      "ipa": "/ˈbɪznəswʊmən/",
+      "graphemes": ["b", "u", "si", "n", "e", "ss", "w", "o", "m", "a", "n"],
+      "phonemes": ["/'b", "ɪ", "z", "n", "ə", "s", "w", "ʊ", "m", "ə", "n/"],
+      "phonics": ["/'b", "ĭ", "z", "n", "ə", "s", "w", "oo", "m", "ə", "n/"],
+      "tags": ["irregular", "floss"],
+      "hearts": [0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0],
+      "hint": "重音在 busi-；u、si、woman 的 o 不規則。"
+    },
+    {
+      "number": "🧑‍💼 經理",
+      "word": "manager",
+      "ipa": "/ˈmænɪdʒɚ/",
+      "graphemes": ["m", "a", "n", "a", "g", "er"],
+      "phonemes": ["/'m", "æ", "n", "ə", "dʒ", "ɚ/"],
+      "phonics": ["/'m", "ă", "n", "ə", "-j", "er/"],
+      "tags": ["closed",  "suffix"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "重音在 man-；g 發 /dʒ/（需記）；-er 字尾。"
+    },
+    {
+      "number": "🗂 秘書",
+      "word": "secretary",
+      "ipa": "/ˈsɛkrətɛri/",
+      "graphemes": ["s", "e", "c", "r", "e", "t", "a", "r", "y"],
+      "phonemes": ["/'s", "ɛ", "k", "r", "ə", "t", "ɛ", "r", "i/"],
+      "phonics": ["/'s", "ĕ", "k", "r", "ə", "t", "ĕ", "r", "ē/"],
+      "tags": ["closed", "cluster"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 sec-；cr 混合音；-ary 字尾。"
+    },
+    {
+      "number": "🧾 業務",
+      "word": "salesman",
+      "ipa": "/ˈseɪlzmən/",
+      "graphemes": ["s", "a", "l", "e", "s", "m", "a", "n"],
+      "phonemes": ["/'s", "eɪ", "l", "-", "z", "m", "ə", "n/"],
+      "phonics": ["/'s", "ā", "l", "-", "z", "m", "ə", "n/"],
+      "tags": [ "magic_e"],
+      "hearts": [0, 0, 0, 0, 1, 0, 0, 0],
+      "hint": "重音在 sale-；a_e 對應 /eɪ/；s 發 /z/（需記）。"
+    },
+    {
+      "number": "👑 老闆/主人",
+      "word": "owner",
+      "ipa": "/ˈoʊnɚ/",
+      "graphemes": ["ow", "n", "er"],
+      "phonemes": ["/'oʊ", "n", "ɚ/"],
+      "phonics": ["/'ō", "n", "er/"],
+      "tags": [ "vowel_team","suffix"],
+      "hearts": [0, 0, 0],
+      "hint": "重音在 own-；ow 對應 /oʊ/；-er 字尾。"
+    },
+    {
+      "number": "🏢 公司",
+      "word": "company",
+      "ipa": "/ˈkʌmpəni/",
+      "graphemes": ["c", "o", "m", "p", "a", "n", "y"],
+      "phonemes": ["/'k", "ʌ", "m", "p", "ə", "n", "i/"],
+      "phonics": ["/'k", "ŭ", "m", "p", "ə", "n", "ē/"],
+      "tags": ["irregular"],
+      "hearts": [0, 1, 0, 0, 0, 0, 0],
+      "hint": "重音在 com-（閉音節）；y 字尾 /i/。"
+    },
+    {
+      "number": "📈 商業",
+      "word": "business",
+      "ipa": "/ˈbɪznəs/",
+      "graphemes": ["b", "u", "si", "n", "e", "ss"],
+      "phonemes": ["/'b", "ɪ", "z", "n", "ə", "s/"],
+      "phonics": ["/'b", "ĭ", "z", "n", "ə", "s/"],
+      "tags": [ "irregular", "floss"],
+      "hearts": [0, 1, 1, 0, 0, 0],
+      "hint": "重音在 busi-；u、si 發音不規則（需記）。"
+    },
+    {
+      "number": "🧑‍💻 雇用",
+      "word": "employ",
+      "ipa": "/ɪmˈplɔɪ/",
+      "graphemes": ["e", "m", "p", "l", "oy"],
+      "phonemes": ["/ɪ", "m", "'p", "l", "ɔɪ/"],
+      "phonics": ["/ĭ", "m", "'p", "l", "oi/"],
+      "tags": ["cluster", "vowel_team"],
+      "hearts": [0, 0, 0, 0, 0],
+      "hint": "重音在 -ploy；pl 混合音；oy 對應 /ɔɪ/。"
+    },
+    {
+      "number": "📝 雇用(聘)",
+      "word": "hire",
+      "ipa": "/haɪr/",
+      "graphemes": ["h", "i", "r", "e"],
+      "phonemes": ["/'h", "aɪ", "r", "-/"],
+      "phonics": ["/'h", "ī", "r", "-/"],
+      "tags": ["magic_e"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "單音節；i_e 對應 /aɪ/。"
+    },
+    {
+      "number": "💼 工作(名詞)",
+      "word": "job",
+      "ipa": "/dʒɑb/",
+      "graphemes": ["j", "o", "b"],
+      "phonemes": ["/'dʒ", "ɑ", "b/"],
+      "phonics": ["/'-j", "ŏ", "b/"],
+      "tags": ["closed"],
+      "hearts": [0, 0, 0],
+      "hint": "單音節閉音節；j 對應 /dʒ/。"
+    },
+    {
+      "number": "🧑‍🏭 工作(動詞)",
+      "word": "work",
+      "ipa": "/wɝk/",
+      "graphemes": ["w", "or", "k"],
+      "phonemes": ["/'w", "ɝ", "k/"],
+      "phonics": ["/'w", "er", "k/"],
+      "tags": ["irregular"],
+      "hearts": [0, 1, 0],
+      "hint": "單音節；or 在此對應 /ɝ/（需記）。"
+    },
+    {
+      "number": "📅 會議",
+      "word": "meeting",
+      "ipa": "/ˈmitɪŋ/",
+      "graphemes": ["m", "ee", "t", "i", "ng"],
+      "phonemes": ["/'m", "i", "t", "ɪ", "ŋ/"],
+      "phonics": ["/'m", "ē", "t", "ĭ", "ŋ/"],
+      "tags": ["vowel_team","digraph", "suffix"],
+      "hearts": [0, 0, 0, 0, 0],
+      "hint": "重音在 mee-；ee 對應 /i/；ng 對應 /ŋ/。"
+    },
+    {
+      "number": "🏢 辦公室",
+      "word": "office",
+      "ipa": "/ˈɔfɪs/",
+      "graphemes": ["o", "ff", "i", "ce"],
+      "phonemes": ["/'ɔ", "f", "ɪ", "s/"],
+      "phonics": ["/'aw", "f", "ĭ", "s/"],
+      "tags": [],
+      "hearts": [0, 1, 0, 0, 0],
+      "hint": "重音在 of-（閉音節）；c 在 e 前發 /s/。"
+    },
+    {
+      "number": "🏭 工廠",
+      "word": "factory",
+      "ipa": "/ˈfæktɚi/",
+      "graphemes": ["f", "a", "c", "t", "or", "y"],
+      "phonemes": ["/'f", "æ", "k", "t", "ɚ", "i/"],
+      "phonics": ["/'f", "ă", "k", "t", "er", "ē/"],
+      "tags": ["closed"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "重音在 fac-（閉音節）；y 字尾 /i/。"
+    },
+    {
+      "number": "🧑‍🏭 工人",
+      "word": "worker",
+      "ipa": "/ˈwɝkɚ/",
+      "graphemes": ["w", "or", "k", "er"],
+      "phonemes": ["/'w", "ɝ", "k", "ɚ/"],
+      "phonics": ["/'w", "er", "k", "er/"],
+      "tags": ["irregular",  "suffix"],
+      "hearts": [0, 1, 0, 0],
+      "hint": "重音在 wor-；or 對應 /ɝ/（需記）；-er 字尾。"
+    }
+  ]
+}

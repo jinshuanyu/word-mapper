@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "number": "👮 警察",
+      "word": "police officer",
+      "ipa": "/pəˈlis ˈɔfɪsɚ/",
+      "graphemes": ["p", "o", "l", "i", "c", "e", " ", "o", "ff", "i", "c", "er"],
+      "phonemes": ["/p", "ə", "'l", "i", "s", "-", " ", "'ɔ", "f", "ɪ", "s", "ɚ/"],
+      "phonics": ["/p", "ə", "'l", "ē", "s", "-", " ", "'aw", "f", "ĭ", "s", "er/"],
+      "tags": ["irregular"],
+      "hearts": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "兩個主重音；police 重音在 -lice；officer 重音在 of-（閉音節）；ff 為 floss。"
+    },
+    {
+      "number": "🏛 警局",
+      "word": "police station",
+      "ipa": "/pəˈlis ˈsteɪʃən/",
+      "graphemes": ["p", "o", "l", "i", "c", "e", " ", "s", "t", "a", "tion"],
+      "phonemes": ["/p", "ə", "'l", "i", "s", "-", " ", "'s", "t", "eɪ", "ʃən/"],
+      "phonics": ["/p", "ə", "'l", "ē", "s", "-", " ", "'s", "t", "ā", "shən/"],
+      "tags": [ "irregular","cluster"],
+      "hearts": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1],
+      "hint": "兩個主重音；st 混合音；tion 對應 /ʃən/（需記）。"
+    },
+    {
+      "number": "🧑‍🚒 消防員",
+      "word": "firefighter",
+      "ipa": "/ˈfaɪrfaɪtɚ/",
+      "graphemes": ["f", "i", "r", "e", "f", "igh", "t", "er"],
+      "phonemes": ["/'f", "aɪ", "r", "-", "f", "aɪ", "t", "ɚ/"],
+      "phonics": ["/'f", "ī", "r", "-", "f", "ī",  "t", "er/"],
+      "tags": ["magic_e", "silent_consonant", "suffix"],
+      "hearts": [0, 0, 0, 0, 0, 0, 1, 0, 0],
+      "hint": "重音在 fire-；gh 不發音；-er 字尾。"
+    },
+    {
+      "number": "🚒 消防車",
+      "word": "fire truck",
+      "ipa": "/ˈfaɪr trʌk/",
+      "graphemes": ["f", "i", "r", "e", " ", "t", "r", "u", "ck"],
+      "phonemes": ["/'f", "aɪ", "r", "-", " ", "t", "r", "ʌ", "k/"],
+      "phonics": ["/'f", "ī", "r", "-", " ", "t", "r", "ŭ", "k/"],
+      "tags": ["magic_e","cluster", "digraph"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 fire；tr 混合音；ck 為 digraph。"
+    },
+    {
+      "number": "🚑 救護車",
+      "word": "ambulance",
+      "ipa": "/ˈæmbjələns/",
+      "graphemes": ["a", "m", "b", "u", "l", "a", "n", "ce"],
+      "phonemes": ["/'æ", "m", "b", "jə", "l", "ə", "n", "s/"],
+      "phonics": ["/'ă", "m", "b", "yə", "l", "ə", "n", "s/"],
+      "tags": ["closed", "irregular"],
+      "hearts": [0, 0, 0, 1, 0, 0, 0, 0],
+      "hint": "重音在 am-（閉音節）；u 對應 /jə/（需記）。"
+    },
+    {
+      "number": "⚖️ 法官",
+      "word": "judge",
+      "ipa": "/dʒʌdʒ/",
+      "graphemes": ["j", "u", "dge"],
+      "phonemes": ["/'dʒ", "ʌ", "dʒ/"],
+      "phonics": ["/'-j", "ŭ", "-j/"],
+      "tags": ["cvc", "digraph"],
+      "hearts": [0, 0, 0],
+      "hint": "單音節閉音節；dge 對應 /dʒ/。"
+    },
+    {
+      "number": "⚖️ 律師",
+      "word": "lawyer",
+      "ipa": "/ˈlɔjɚ/",
+      "graphemes": ["l", "aw", "y", "er"],
+      "phonemes": ["/'l", "ɔ", "j", "ɚ/"],
+      "phonics": ["/'l", "aw", "y", "er/"],
+      "tags": ["vowel_team","suffix"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 law；aw 對應 /ɔ/；-er 字尾。"
+    },
+    {
+      "number": "🤝 外交官",
+      "word": "diplomat",
+      "ipa": "/ˈdɪpləmæt/",
+      "graphemes": ["d", "i", "p", "l", "o", "m", "a", "t"],
+      "phonemes": ["/'d", "ɪ", "p", "l", "ə", "m", "æ", "t/"],
+      "phonics": ["/'d", "ĭ", "p", "l", "ə", "m", "ă", "t/"],
+      "tags": ["closed", "cluster"],
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 dip-（閉音節）；pl 混合音。"
+    },
+    {
+      "number": "🏛 總統",
+      "word": "president",
+      "ipa": "/ˈprɛzɪdənt/",
+      "graphemes": ["p", "r", "e", "s", "i", "d", "e", "n", "t"],
+      "phonemes": ["/'p", "r", "ɛ", "z", "ɪ", "d", "ə", "n", "t/"],
+      "phonics": ["/'p", "r", "ĕ", "z", "ĭ", "d", "ə", "n", "t/"],
+      "tags": ["cluster","closed"],
+      "hearts": [0, 0, 0, 1, 0, 0, 0, 0, 0],
+      "hint": "重音在 pres-（閉音節）；pr 混合音。"
+    },
+    {
+      "number": "👑 女王",
+      "word": "queen",
+      "ipa": "/kwin/",
+      "graphemes": ["qu", "ee", "n"],
+      "phonemes": ["/'kw", "i", "n/"],
+      "phonics": ["/'kw", "ē", "n/"],
+      "tags": [ "vowel_team"],
+      "hearts": [0, 0, 0],
+      "hint": "單音節閉音節；qu 對應 /kw/；ee 對應 /i/。"
+    },
+    {
+      "number": "⛪ 牧師",
+      "word": "priest",
+      "ipa": "/prist/",
+      "graphemes": ["p", "r", "ie", "s", "t"],
+      "phonemes": ["/'p", "r", "i", "s", "t/"],
+      "phonics": ["/'p", "r", "ē", "s", "t/"],
+      "tags": ["cluster", "vowel_team"],
+      "hearts": [0, 0, 1, 0, 0],
+      "hint": "單音節閉音節；pr 混合音；ie 對應 /i/。"
+    },
+    {
+      "number": "🪖 士兵",
+      "word": "soldier",
+      "ipa": "/ˈsoʊldʒɚ/",
+      "graphemes": ["s", "o", "l", "di", "er"],
+      "phonemes": ["/'s", "oʊ", "l", "dʒ", "ɚ/"],
+      "phonics": ["/'s", "ō", "l", "-j", "er/"],
+      "tags": ["irregular", "open", "suffix"],
+      "hearts": [0, 0, 0, 1, 0],
+      "hint": "重音在 sol-（開音節）；di 對應 /dʒ/（需記）；-er 字尾。"
+    },
+    {
+      "number": "🔬 科學家",
+      "word": "scientist",
+      "ipa": "/ˈsaɪəntɪst/",
+      "graphemes": ["sc", "i", "e", "n", "t", "i", "s", "t"],
+      "phonemes": ["/'s", "aɪ", "ə", "n", "t", "ɪ", "s", "t/"],
+      "phonics": ["/'s", "ī", "ə", "n", "t", "ĭ", "s", "t/"],
+      "tags": ["irregular","suffix"],
+      "hearts": [1, 0, 1, 0, 0, 0, 0, 0, 0],
+      "hint": "重音在 sci-（開音節）；ci 對應 /aɪ/（需記）；-ist 字尾。"
+    },
+    {
+      "number": "👩‍🏫 老師",
+      "word": "teacher",
+      "ipa": "/ˈtitʃɚ/",
+      "graphemes": ["t", "ea", "ch", "er"],
+      "phonemes": ["/'t", "i", "tʃ", "ɚ/"],
+      "phonics": ["/'t", "ē", "ch", "er/"],
+      "tags": ["vowel_team","digraph", "suffix"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 tea-；ea 對應 /i/；ch 為 digraph；-er 字尾。"
+    },
+    {
+      "number": "🗞 記者(職稱)",
+      "word": "reporter",
+      "ipa": "/rɪˈpɔrtɚ/",
+      "graphemes": ["r", "e", "p", "or", "t", "er"],
+      "phonemes": ["/r", "ɪ", "'p", "ɔr", "t", "ɚ/"],
+      "phonics": ["/r", "ĭ", "'p", "or", "t", "er/"],
+      "tags": [ "rcontrolled", "suffix"],
+      "hearts": [0, 0, 0, 0, 0, 0],
+      "hint": "重音在 -port（閉音節）；or 為 r-controlled；-er 字尾。"
+    }
+  ]
+}
