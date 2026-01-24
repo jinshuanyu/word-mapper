@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "number": "廣播（三態相同）",
+      "number": "廣播(三態相同)",
       "word": "broadcast",
       "ipa": "/ˈbrɔdkæst/",
-      "graphemes": ["br", "oa", "d", "c", "a", "s", "t"],
-      "phonemes": ["/'br", "ɔ", "d", "k", "æ", "s", "t/"],
-      "phonics": ["/'br", "aw", "d", "k", "ă", "s", "t/"],
+      "graphemes": ["b", "r", "oa", "d", "c", "a", "s", "t"],
+      "phonemes": ["/'b", "r", "ɔ", "d", "k", "æ", "s", "t/"],
+      "phonics": ["/'b", "r", "aw", "d", "k", "ă", "s", "t/"],
       "tags": ["closed", "cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
-      "hint": "br 是 cluster；oa 發 /aw/；a 發短音 /ă/。"
+      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "hint": "br 是 cluster;oa 發 aw;a 發短音 ă"
     },
     {
-      "number": "爆裂（三態相同）",
+      "number": "爆裂(三態相同)",
       "word": "burst",
       "ipa": "/ˈbɝst/",
       "graphemes": ["b", "ur", "s", "t"],
@@ -20,21 +20,21 @@
       "phonics": ["/'b", "er", "s", "t/"],
       "tags": ["rcontrolled"],
       "hearts": [0, 0, 0, 0],
-      "hint": "ur 發 /er/。"
+      "hint": "ur 發 er"
     },
     {
-      "number": "花費（三態相同）",
+      "number": "花費(三態相同)",
       "word": "cost",
       "ipa": "/ˈkɔst/",
       "graphemes": ["c", "o", "s", "t"],
       "phonemes": ["/'k", "ɔ", "s", "t/"],
       "phonics": ["/'k", "aw", "s", "t/"],
       "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
-      "hint": "o 發 /aw/。"
+      "hearts": [0, 1, 0, 0],
+      "hint": "o 發 aw(不規則)"
     },
     {
-      "number": "切（三態相同）",
+      "number": "切(三態相同)",
       "word": "cut",
       "ipa": "/ˈkʌt/",
       "graphemes": ["c", "u", "t"],
@@ -42,10 +42,10 @@
       "phonics": ["/'k", "ŭ", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0],
-      "hint": "u 發短音 /ŭ/。"
+      "hint": "u 發短音 ŭ"
     },
     {
-      "number": "打（三態相同）",
+      "number": "打(三態相同)",
       "word": "hit",
       "ipa": "/ˈhɪt/",
       "graphemes": ["h", "i", "t"],
@@ -53,10 +53,10 @@
       "phonics": ["/'h", "ĭ", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0],
-      "hint": "i 發短音 /ĭ/。"
+      "hint": "i 發短音 ĭ"
     },
     {
-      "number": "傷害（三態相同）",
+      "number": "傷害(三態相同)",
       "word": "hurt",
       "ipa": "/ˈhɝt/",
       "graphemes": ["h", "ur", "t"],
@@ -64,10 +64,10 @@
       "phonics": ["/'h", "er", "t/"],
       "tags": ["rcontrolled"],
       "hearts": [0, 0, 0],
-      "hint": "ur 發 /er/。"
+      "hint": "ur 發 er"
     },
     {
-      "number": "讓（三態相同）",
+      "number": "讓(三態相同)",
       "word": "let",
       "ipa": "/ˈlɛt/",
       "graphemes": ["l", "e", "t"],
@@ -75,10 +75,10 @@
       "phonics": ["/'l", "ĕ", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0],
-      "hint": "e 發短音 /ĕ/。"
+      "hint": "e 發短音 ĕ"
     },
     {
-      "number": "放（三態相同）",
+      "number": "放(三態相同)",
       "word": "put",
       "ipa": "/ˈpʊt/",
       "graphemes": ["p", "u", "t"],
@@ -86,10 +86,10 @@
       "phonics": ["/'p", "oo", "t/"],
       "tags": ["closed", "irregular"],
       "hearts": [0, 1, 0],
-      "hint": "u 發 /oo/（需記）。"
+      "hint": "u 發 oo(不規則)"
     },
     {
-      "number": "退出（三態相同）",
+      "number": "退出(三態相同)",
       "word": "quit",
       "ipa": "/ˈkwɪt/",
       "graphemes": ["qu", "i", "t"],
@@ -97,10 +97,10 @@
       "phonics": ["/'kw", "ĭ", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0],
-      "hint": "qu 發 /kw/；i 發短音 /ĭ/。"
+      "hint": "qu 發 kw;i 發短音 ĭ"
     },
     {
-      "number": "設定（三態相同）",
+      "number": "設定(三態相同)",
       "word": "set",
       "ipa": "/ˈsɛt/",
       "graphemes": ["s", "e", "t"],
@@ -108,10 +108,10 @@
       "phonics": ["/'s", "ĕ", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0],
-      "hint": "e 發短音 /ĕ/。"
+      "hint": "e 發短音 ĕ"
     },
     {
-      "number": "關閉（三態相同）",
+      "number": "關閉(三態相同)",
       "word": "shut",
       "ipa": "/ˈʃʌt/",
       "graphemes": ["sh", "u", "t"],
@@ -119,18 +119,18 @@
       "phonics": ["/'sh", "ŭ", "t/"],
       "tags": ["closed", "digraph"],
       "hearts": [0, 0, 0],
-      "hint": "sh 是 digraph；u 發短音 /ŭ/。"
+      "hint": "sh 是 digraph;u 發短音 ŭ"
     },
     {
-      "number": "展開（三態相同）",
+      "number": "展開(三態相同)",
       "word": "spread",
       "ipa": "/ˈsprɛd/",
-      "graphemes": ["spr", "ea", "d"],
-      "phonemes": ["/'spr", "ɛ", "d/"],
-      "phonics": ["/'spr", "ĕ", "d/"],
+      "graphemes": ["s", "p", "r", "ea", "d"],
+      "phonemes": ["/'s", "p", "r", "ɛ", "d/"],
+      "phonics": ["/'s", "p", "r", "ĕ", "d/"],
       "tags": ["closed", "cluster", "irregular"],
-      "hearts": [0, 1, 0],
-      "hint": "spr 是 cluster；ea 發短音 /ĕ/（需記）。"
+      "hearts": [0, 0, 0, 1, 0],
+      "hint": "spr 是 cluster;ea 發短音 ĕ(不規則)"
     }
   ]
 }
