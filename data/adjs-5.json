@@ -104,8 +104,8 @@
       "word": "regular",
       "ipa": "/ˈrɛgjələr/",
       "graphemes": ["r", "e", "g", "u", "l", "ar"],
-      "phonemes": ["/'r", "ɛ", "g", "jə", "l", "ɚ/"],
-      "phonics": ["/'r", "ĕ", "g", "yə", "l", "er/"],
+      "phonemes": ["/'r", "ɛ", "ɡ", "jə", "l", "ɚ/"],
+      "phonics": ["/'r", "ĕ", "ɡ", "yə", "l", "er/"],
       "tags": ["closed", "suffix"],
       "hearts": [0, 0, 0, 0, 0, 1],
       "hint": "重音在 reg-；閉音節短母音；-ar 字尾。"
