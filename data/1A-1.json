@@ -59,9 +59,9 @@
       "number": "🙏 欣賞",
       "word": "appreciate",
       "ipa": "/əˈpriʃieɪt/",
-      "graphemes": ["a", "pp", "r", "e", "ci", "ate"],
-      "phonemes": ["/ə", "'p", "r", "i", "ʃ", "ieɪt/"],
-      "phonics": ["/ə", "'p", "r", "ē", "sh", "ēāt/"],
+      "graphemes": ["a", "pp", "r", "e", "c","i", "a","t","e"],
+      "phonemes": ["/ə", "'p", "r", "i", "ʃ", "i","eɪ","t","-/"],
+      "phonics": ["/ə", "'p", "r", "ē", "sh", "ē","ā","t","-/"],
       "tags": ["cluster", "irregular"],
       "hearts": [0, 0, 0, 0, 1, 0],
       "hint": "重音在 -pre-；pr 混合音；ci 對應 /ʃ/（需記）；字尾 t 加 -ed 發 /ɪd/。"
@@ -84,8 +84,8 @@
       "graphemes": ["b","r", "oa", "d", "c", "a", "s", "t"],
       "phonemes": ["'b","r", "ɔ", "d", "k", "æ", "s", "t"],
       "phonics": ["'b","r", "aw", "d", "k", "ă", "s", "t"],
-      "tags": ["cluster", "closed", "irregular"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "tags": ["cluster",  "irregular"],
+      "hearts": [0, 0, 1, 0, 0, 0, 0],
       "hint": "br 是 cluster；oa 在此不發 /ō/，而是 /ɔ/（可當整塊記）。"
     },
     {
@@ -150,7 +150,7 @@
       "graphemes": ["c", "ou", "n", "t"],
       "phonemes": ["'k", "aʊ", "n", "t"],
       "phonics": ["k", "ow", "n", "t"],
-      "tags": ["vowel_team"],
+      "tags": ["vowel_team","cluster"],
       "hearts": [0, 0, 0, 0],
       "hint": "ou 對應 /aʊ/。"
     },
@@ -160,7 +160,7 @@
       "ipa": "/kriˈeɪt/",
       "graphemes": ["c","r", "e", "a", "t", "e"],
       "phonemes": ["k","r", "i", "'eɪ", "t", "-"],
-      "phonics": ["c","r", "ē", "'ā", "t", "-"],
+      "phonics": ["k","r", "ē", "'ā", "t", "-"],
       "tags": ["cluster", "magic_e"],
       "hearts": [0, 0, 0, 0, 0],
       "hint": "cr 是 cluster；第一段 e 對應 /i/（ē）；a_e 對應 /eɪ/（ā）；最後 e 不發音。"
@@ -205,7 +205,7 @@
       "graphemes": ["d", "i", "r", "e", "c", "t"],
       "phonemes": ["d", "ə", "'r", "ɛ", "k", "t"],
       "phonics": ["d", "ə", "'r", "ĕ", "k", "t"],
-      "tags": ["closed"],
+      "tags": ["closed","cluster"],
       "hearts": [0, 0, 0, 0, 0, 0],
       "hint": "第一個 i 在此弱化 /ə/；e 發短音 ĕ；重音在 -rect。"
     },
@@ -250,7 +250,7 @@
       "phonemes": ["ɪ", "k", "'s", "aɪ", "t", "-"],
       "phonics": ["ĭ", "k", "'s", "ī", "t", "-"],
       "tags": [ "magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "hearts": [0, 1, 1, 0, 0, 0],
       "hint": "e 在此發 /ɪ/（ĭ）；c 在此發 /s/；i_e 對應 /aɪ/（ī）；最後 e 不發音。"
     },
     {
@@ -259,7 +259,7 @@
       "ipa": "/ɪɡˈzɪst/",
       "graphemes": ["e", "x", "i", "s", "t"],
       "phonemes": ["ɪ", "ɡ'z", "ɪ", "s", "t"],
-      "phonics": ["ĭ", "gz", "ĭ", "s", "t"],
+      "phonics": ["ĭ", "ɡ'z", "ĭ", "s", "t"],
       "tags": ["closed"],
       "hearts": [0, 1, 0, 0, 0],
       "hint": "x 在此對應 /ɡz/；重音落在 z 那一節（-zist）。"
@@ -282,7 +282,7 @@
       "graphemes": ["f", "i", "t"],
       "phonemes": ["/f", "ɪ", "t/"],
       "phonics": ["/f", "ĭ", "t/"],
-      "tags": ["closed"],
+      "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "單音節閉音節；字尾 t 加 -ed 發 /ɪd/。"
     },
@@ -315,7 +315,7 @@
       "graphemes": ["h", "a", "n", "d"],
       "phonemes": ["h", "æ", "n", "d"],
       "phonics": ["h", "ă", "n", "d"],
-      "tags": ["cvc"],
+      "tags": ["cvc","cluster"],
       "hearts": [0, 0, 0, 0],
       "hint": "a 發短音 ă。"
     },
@@ -327,7 +327,7 @@
       "phonemes": ["h", "eɪ", "t", "-"],
       "phonics": ["h", "ā", "t", "-"],
       "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 1],
+      "hearts": [0, 0, 0 ],
       "hint": "a_e 對應 /eɪ/（ā）；e 不發音。"
     },
     {
@@ -337,7 +337,7 @@
       "graphemes": ["h", "u", "n", "t"],
       "phonemes": ["h", "ʌ", "n", "t"],
       "phonics": ["h", "ŭ", "n", "t"],
-      "tags": ["cvc"],
+      "tags": ["cvc","cluster"],
       "hearts": [0, 0, 0, 0],
       "hint": "u 發短音 ŭ。"
     },
@@ -359,7 +359,7 @@
       "graphemes": ["i", "n", "s", "i", "s", "t"],
       "phonemes": ["/ɪ", "n", "'s", "ɪ", "s", "t/"],
       "phonics": ["/ĭ", "n", "'s", "ĭ", "s", "t/"],
-      "tags": ["closed"],
+      "tags": ["closed","cluster"],
       "hearts": [0, 0, 0, 0, 0, 0],
       "hint": "重音在 -sist（閉音節）；字尾無聲子音加 -ed 發 /t/。"
     },
