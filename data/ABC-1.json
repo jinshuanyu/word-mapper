@@ -85,7 +85,7 @@
       "phonemes": ["/'b", "r", "oʊ", "k", "-/"],
       "phonics": ["/'b", "r", "ō", "k", "-/"],
       "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 1],
+      "hearts": [0, 0, 0, 0, 0],
       "hint": "br 是 cluster;o-e 發長音 ō;e 不發音"
     },
     {
@@ -93,10 +93,10 @@
       "word": "broken",
       "ipa": "/ˈbroʊkən/",
       "graphemes": ["b", "r", "o", "k", "e", "n"],
-      "phonemes": ["/'b", "r", "oʊ", "k", "-", "n/"],
-      "phonics": ["/'b", "r", "ō", "k", "-", "n/"],
+      "phonemes": ["/'b", "r", "oʊ", "k", "ə", "n/"],
+      "phonics": ["/'b", "r", "ō", "k", "ə", "n/"],
       "tags": ["cluster", "open"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "hearts": [0, 0, 0, 0, 0, 0],
       "hint": "br 是 cluster;o 在開音節發長音 ō;e 不發音"
     },
     {
@@ -107,7 +107,7 @@
       "phonemes": ["/'tʃ", "u", "z", "-/"],
       "phonics": ["/'ch", "ū", "z", "-/"],
       "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0, 1],
+      "hearts": [0, 0,  1],
       "hint": "ch 是 digraph;oo 發 ū;e 不發音"
     },
     {
@@ -118,7 +118,7 @@
       "phonemes": ["/'tʃ", "oʊ", "z", "-/"],
       "phonics": ["/'ch", "ō", "z", "-/"],
       "tags": ["digraph", "magic_e"],
-      "hearts": [0, 0, 0, 1],
+      "hearts": [0, 0,  1],
       "hint": "ch 是 digraph;o-e 發長音 ō;e 不發音"
     },
     {
@@ -126,10 +126,10 @@
       "word": "chosen",
       "ipa": "/ˈtʃoʊzən/",
       "graphemes": ["ch", "o", "s", "e", "n"],
-      "phonemes": ["/'tʃ", "oʊ", "z", "-", "n/"],
-      "phonics": ["/'ch", "ō", "z", "-", "n/"],
+      "phonemes": ["/'tʃ", "oʊ", "z", "ə", "n/"],
+      "phonics": ["/'ch", "ō", "z", "ə", "n/"],
       "tags": ["digraph", "open"],
-      "hearts": [0, 0, 0, 1, 0],
+      "hearts": [0, 0,  1, 0],
       "hint": "ch 是 digraph;o 在開音節發長音 ō;e 不發音"
     },
     {
@@ -150,7 +150,7 @@
       "graphemes": ["d", "i", "d"],
       "phonemes": ["/'d", "ɪ", "d/"],
       "phonics": ["/'d", "ĭ", "d/"],
-      "tags": ["closed"],
+      "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "i 發短音 ĭ"
     },
@@ -161,7 +161,7 @@
       "graphemes": ["d", "o", "n", "e"],
       "phonemes": ["/'d", "ʌ", "n", "-/"],
       "phonics": ["/'d", "ŭ", "n", "-/"],
-      "tags": ["closed", "irregular"],
+      "tags": [ "irregular"],
       "hearts": [0, 1, 0, 1],
       "hint": "o 發短音 ŭ(不規則);e 不發音"
     },
@@ -205,7 +205,7 @@
       "graphemes": ["d", "r", "i", "n", "k"],
       "phonemes": ["/'d", "r", "ɪ", "ŋ", "k/"],
       "phonics": ["/'d", "r", "ĭ", "ŋ", "k/"],
-      "tags": ["closed", "cluster"],
+      "tags": ["cluster", "cvc"],
       "hearts": [0, 0, 0, 0, 0],
       "hint": "dr 是 cluster;i 發短音 ĭ;nk 發 ng+k"
     },
@@ -216,7 +216,7 @@
       "graphemes": ["d", "r", "a", "n", "k"],
       "phonemes": ["/'d", "r", "æ", "ŋ", "k/"],
       "phonics": ["/'d", "r", "ă", "ŋ", "k/"],
-      "tags": ["closed", "cluster"],
+ "tags": ["cluster", "cvc"],
       "hearts": [0, 0, 0, 0, 0],
       "hint": "dr 是 cluster;a 發短音 ă;nk 發 ng+k"
     },
@@ -227,7 +227,7 @@
       "graphemes": ["d", "r", "u", "n", "k"],
       "phonemes": ["/'d", "r", "ʌ", "ŋ", "k/"],
       "phonics": ["/'d", "r", "ŭ", "ŋ", "k/"],
-      "tags": ["closed", "cluster"],
+    "tags": ["cluster", "cvc"],
       "hearts": [0, 0, 0, 0, 0],
       "hint": "dr 是 cluster;u 發短音 ŭ;nk 發 ng+k"
     },
@@ -239,7 +239,7 @@
       "phonemes": ["/'d", "r", "aɪ", "v", "-/"],
       "phonics": ["/'d", "r", "ī", "v", "-/"],
       "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 1],
+      "hearts": [0, 0, 0, 0],
       "hint": "dr 是 cluster;i-e 發長音 ī;e 不發音"
     },
     {
@@ -250,7 +250,7 @@
       "phonemes": ["/'d", "r", "oʊ", "v", "-/"],
       "phonics": ["/'d", "r", "ō", "v", "-/"],
       "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 1],
+      "hearts": [0, 0, 0, 0],
       "hint": "dr 是 cluster;o-e 發長音 ō;e 不發音"
     },
     {
@@ -260,7 +260,7 @@
       "graphemes": ["d", "r", "i", "v", "e", "n"],
       "phonemes": ["/'d", "r", "ɪ", "v", "ə", "n/"],
       "phonics": ["/'d", "r", "ĭ", "v", "ə", "n/"],
-      "tags": ["closed", "cluster"],
+      "tags": ["cluster","closed"],
       "hearts": [0, 0, 0, 0, 0, 0],
       "hint": "dr 是 cluster;i 發短音 ĭ;e 發 schwa"
     },
@@ -283,7 +283,7 @@
       "phonemes": ["/'eɪ", "t", "-/"],
       "phonics": ["/'ā", "t", "-/"],
       "tags": ["magic_e"],
-      "hearts": [0, 0, 1],
+      "hearts": [0, 0],
       "hint": "a-e 發長音 ā;e 不發音"
     },
     {
@@ -304,7 +304,7 @@
       "graphemes": ["f", "a", "ll"],
       "phonemes": ["/'f", "ɔ", "l/"],
       "phonics": ["/'f", "aw", "l/"],
-      "tags": ["floss", "vowel_team"],
+      "tags": ["irregular","floss"],
       "hearts": [0, 1, 0],
       "hint": "a 發 aw(不規則);ll 在單音節詞尾"
     },
@@ -315,7 +315,7 @@
       "graphemes": ["f", "e", "ll"],
       "phonemes": ["/'f", "ɛ", "l/"],
       "phonics": ["/'f", "ĕ", "l/"],
-      "tags": ["closed", "floss"],
+      "tags": ["cvc", "floss"],
       "hearts": [0, 0, 0],
       "hint": "e 發短音 ĕ;ll 在單音節詞尾"
     },
@@ -326,7 +326,7 @@
       "graphemes": ["f", "a", "ll", "e", "n"],
       "phonemes": ["/'f", "ɔ", "l", "ə", "n/"],
       "phonics": ["/'f", "aw", "l", "ə", "n/"],
-      "tags": ["vowel_team"],
+      "tags": ["irregular"],
       "hearts": [0, 1, 0, 0, 0],
       "hint": "a 發 aw(不規則);e 發 schwa"
     }
