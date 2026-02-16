@@ -228,8 +228,8 @@
       "graphemes": ["l", "i", "v", "e"],
       "phonemes": ["/l", "ɪ", "v", "-/"],
       "phonics": ["/l", "ĭ", "v", "-/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "tags": ["irregular"],
+      "hearts": [0, 0, 0, 1],
       "hint": "單音節閉音節；e 不發音；字尾有聲子音加 -ed 發 /d/。",
       "audio":"audio/family-friends-1/live.mp3"
     },
