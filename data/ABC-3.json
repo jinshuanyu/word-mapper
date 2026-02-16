@@ -74,7 +74,7 @@
       "phonemes": ["/'r", "aɪ", "z", "-/"],
       "phonics": ["/'r", "ī", "z", "-/"],
       "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "hearts": [0, 0, 1, 0],
       "hint": "i-e 發長音 ī;e 不發音"
     },
     {
@@ -85,7 +85,7 @@
       "phonemes": ["/'r", "oʊ", "z", "-/"],
       "phonics": ["/'r", "ō", "z", "-/"],
       "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "hearts": [0, 0, 1, 0],
       "hint": "o-e 發長音 ō;e 不發音"
     },
     {
@@ -96,7 +96,7 @@
       "phonemes": ["/'r", "ɪ", "z", "ə", "n/"],
       "phonics": ["/'r", "ĭ", "z", "ə", "n/"],
       "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "hearts": [0, 0, 1, 0, 0],
       "hint": "i 發短音 ĭ;e 發 schwa"
     },
     {
