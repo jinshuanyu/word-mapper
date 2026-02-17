@@ -3,10 +3,10 @@
     {
       "number": "握住（原形）",
       "word": "hold",
-      "ipa": "/ˈhoʊld/",
+      "ipa": "/hoʊld/",
       "graphemes": ["h", "o", "l", "d"],
-      "phonemes": ["/'h", "oʊ", "l", "d/"],
-      "phonics": ["/'h", "ō", "l", "d/"],
+      "phonemes": ["/h", "oʊ", "l", "d/"],
+      "phonics": ["/h", "ō", "l", "d/"],
       "tags": ["irregular"],
       "hearts": [0, 1, 0, 0],
       "hint": "o 在 ld 前發長音 /ō/（wild old words 規則）。"
@@ -14,10 +14,10 @@
     {
       "number": "握住（過去式/過去分詞）",
       "word": "held",
-      "ipa": "/ˈhɛld/",
+      "ipa": "/hɛld/",
       "graphemes": ["h", "e", "l", "d"],
-      "phonemes": ["/'h", "ɛ", "l", "d/"],
-      "phonics": ["/'h", "ĕ", "l", "d/"],
+      "phonemes": ["/h", "ɛ", "l", "d/"],
+      "phonics": ["/h", "ĕ", "l", "d/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -25,10 +25,10 @@
     {
       "number": "保持（原形）",
       "word": "keep",
-      "ipa": "/ˈkip/",
+      "ipa": "/kip/",
       "graphemes": ["k", "ee", "p"],
-      "phonemes": ["/'k", "i", "p/"],
-      "phonics": ["/'k", "ē", "p/"],
+      "phonemes": ["/k", "i", "p/"],
+      "phonics": ["/k", "ē", "p/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ee 發長音 /ē/。"
@@ -36,10 +36,10 @@
     {
       "number": "保持（過去式/過去分詞）",
       "word": "kept",
-      "ipa": "/ˈkɛpt/",
+      "ipa": "/kɛpt/",
       "graphemes": ["k", "e", "p", "t"],
-      "phonemes": ["/'k", "ɛ", "p", "t/"],
-      "phonics": ["/'k", "ĕ", "p", "t/"],
+      "phonemes": ["/k", "ɛ", "p", "t/"],
+      "phonics": ["/k", "ĕ", "p", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -47,10 +47,10 @@
     {
       "number": "放置（原形）",
       "word": "lay",
-      "ipa": "/ˈleɪ/",
+      "ipa": "/leɪ/",
       "graphemes": ["l", "ay"],
-      "phonemes": ["/'l", "eɪ/"],
-      "phonics": ["/'l", "ā/"],
+      "phonemes": ["/l", "eɪ/"],
+      "phonics": ["/l", "ā/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0],
       "hint": "ay 發長音 /ā/。"
@@ -58,10 +58,10 @@
     {
       "number": "放置（過去式/過去分詞）",
       "word": "laid",
-      "ipa": "/ˈleɪd/",
+      "ipa": "/leɪd/",
       "graphemes": ["l", "ai", "d"],
-      "phonemes": ["/'l", "eɪ", "d/"],
-      "phonics": ["/'l", "ā", "d/"],
+      "phonemes": ["/l", "eɪ", "d/"],
+      "phonics": ["/l", "ā", "d/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ai 發長音 /ā/。"
@@ -69,10 +69,10 @@
     {
       "number": "領導（原形）",
       "word": "lead",
-      "ipa": "/ˈlid/",
+      "ipa": "/lid/",
       "graphemes": ["l", "ea", "d"],
-      "phonemes": ["/'l", "i", "d/"],
-      "phonics": ["/'l", "ē", "d/"],
+      "phonemes": ["/l", "i", "d/"],
+      "phonics": ["/l", "ē", "d/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ea 發長音 /ē/。"
@@ -80,10 +80,10 @@
     {
       "number": "領導（過去式/過去分詞）",
       "word": "led",
-      "ipa": "/ˈlɛd/",
+      "ipa": "/lɛd/",
       "graphemes": ["l", "e", "d"],
-      "phonemes": ["/'l", "ɛ", "d/"],
-      "phonics": ["/'l", "ĕ", "d/"],
+      "phonemes": ["/l", "ɛ", "d/"],
+      "phonics": ["/l", "ĕ", "d/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -91,10 +91,10 @@
     {
       "number": "離開（原形）",
       "word": "leave",
-      "ipa": "/ˈliv/",
+      "ipa": "/liv/",
       "graphemes": ["l", "ea", "v", "e"],
-      "phonemes": ["/'l", "i", "v", "-/"],
-      "phonics": ["/'l", "ē", "v", "-/"],
+      "phonemes": ["/l", "i", "v", "-/"],
+      "phonics": ["/l", "ē", "v", "-/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0, 0],
       "hint": "ea 發長音 /ē/；字尾 e 不發音（英文不以 v 結尾）。"
@@ -102,10 +102,10 @@
     {
       "number": "離開（過去式/過去分詞）",
       "word": "left",
-      "ipa": "/ˈlɛft/",
+      "ipa": "/lɛft/",
       "graphemes": ["l", "e", "f", "t"],
-      "phonemes": ["/'l", "ɛ", "f", "t/"],
-      "phonics": ["/'l", "ĕ", "f", "t/"],
+      "phonemes": ["/l", "ɛ", "f", "t/"],
+      "phonics": ["/l", "ĕ", "f", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -113,10 +113,10 @@
     {
       "number": "借出（原形）",
       "word": "lend",
-      "ipa": "/ˈlɛnd/",
+      "ipa": "/lɛnd/",
       "graphemes": ["l", "e", "n", "d"],
-      "phonemes": ["/'l", "ɛ", "n", "d/"],
-      "phonics": ["/'l", "ĕ", "n", "d/"],
+      "phonemes": ["/l", "ɛ", "n", "d/"],
+      "phonics": ["/l", "ĕ", "n", "d/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -124,10 +124,10 @@
     {
       "number": "借出（過去式/過去分詞）",
       "word": "lent",
-      "ipa": "/ˈlɛnt/",
+      "ipa": "/lɛnt/",
       "graphemes": ["l", "e", "n", "t"],
-      "phonemes": ["/'l", "ɛ", "n", "t/"],
-      "phonics": ["/'l", "ĕ", "n", "t/"],
+      "phonemes": ["/l", "ɛ", "n", "t/"],
+      "phonics": ["/l", "ĕ", "n", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -135,10 +135,10 @@
     {
       "number": "失去（原形）",
       "word": "lose",
-      "ipa": "/ˈluz/",
+      "ipa": "/luz/",
       "graphemes": ["l", "o", "s", "e"],
-      "phonemes": ["/'l", "u", "z", "-/"],
-      "phonics": ["/'l", "ū", "z", "-/"],
+      "phonemes": ["/l", "u", "z", "-/"],
+      "phonics": ["/l", "ū", "z", "-/"],
       "tags": ["magic_e", "irregular"],
       "hearts": [0, 1, 1, 0],
       "hint": "o_e 發 /ū/（需記）；s 發 /z/（需記）。"
@@ -146,10 +146,10 @@
     {
       "number": "失去（過去式/過去分詞）",
       "word": "lost",
-      "ipa": "/ˈlɔst/",
+      "ipa": "/lɔst/",
       "graphemes": ["l", "o", "s", "t"],
-      "phonemes": ["/'l", "ɔ", "s", "t/"],
-      "phonics": ["/'l", "aw", "s", "t/"],
+      "phonemes": ["/l", "ɔ", "s", "t/"],
+      "phonics": ["/l", "aw", "s", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "o 發 /aw/。"
@@ -157,10 +157,10 @@
     {
       "number": "製作（原形）",
       "word": "make",
-      "ipa": "/ˈmeɪk/",
+      "ipa": "/meɪk/",
       "graphemes": ["m", "a", "k", "e"],
-      "phonemes": ["/'m", "eɪ", "k", "-/"],
-      "phonics": ["/'m", "ā", "k", "-/"],
+      "phonemes": ["/m", "eɪ", "k", "-/"],
+      "phonics": ["/m", "ā", "k", "-/"],
       "tags": ["magic_e"],
       "hearts": [0, 0, 0, 0],
       "hint": "a_e 發長音 /ā/。"
@@ -168,10 +168,10 @@
     {
       "number": "製作（過去式/過去分詞）",
       "word": "made",
-      "ipa": "/ˈmeɪd/",
+      "ipa": "/meɪd/",
       "graphemes": ["m", "a", "d", "e"],
-      "phonemes": ["/'m", "eɪ", "d", "-/"],
-      "phonics": ["/'m", "ā", "d", "-/"],
+      "phonemes": ["/m", "eɪ", "d", "-/"],
+      "phonics": ["/m", "ā", "d", "-/"],
       "tags": ["magic_e"],
       "hearts": [0, 0, 0, 0],
       "hint": "a_e 發長音 /ā/。"
@@ -179,10 +179,10 @@
     {
       "number": "意思是（原形）",
       "word": "mean",
-      "ipa": "/ˈmin/",
+      "ipa": "/min/",
       "graphemes": ["m", "ea", "n"],
-      "phonemes": ["/'m", "i", "n/"],
-      "phonics": ["/'m", "ē", "n/"],
+      "phonemes": ["/m", "i", "n/"],
+      "phonics": ["/m", "ē", "n/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ea 發長音 /ē/。"
@@ -190,10 +190,10 @@
     {
       "number": "意思是（過去式/過去分詞）",
       "word": "meant",
-      "ipa": "/ˈmɛnt/",
+      "ipa": "/mɛnt/",
       "graphemes": ["m", "ea", "n", "t"],
-      "phonemes": ["/'m", "ɛ", "n", "t/"],
-      "phonics": ["/'m", "ĕ", "n", "t/"],
+      "phonemes": ["/m", "ɛ", "n", "t/"],
+      "phonics": ["/m", "ĕ", "n", "t/"],
       "tags": ["closed", "irregular"],
       "hearts": [0, 1, 0, 0],
       "hint": "ea 發短音 /ĕ/（需記）。"
@@ -201,10 +201,10 @@
     {
       "number": "遇見（原形）",
       "word": "meet",
-      "ipa": "/ˈmit/",
+      "ipa": "/mit/",
       "graphemes": ["m", "ee", "t"],
-      "phonemes": ["/'m", "i", "t/"],
-      "phonics": ["/'m", "ē", "t/"],
+      "phonemes": ["/m", "i", "t/"],
+      "phonics": ["/m", "ē", "t/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ee 發長音 /ē/。"
@@ -212,10 +212,10 @@
     {
       "number": "遇見（過去式/過去分詞）",
       "word": "met",
-      "ipa": "/ˈmɛt/",
+      "ipa": "/mɛt/",
       "graphemes": ["m", "e", "t"],
-      "phonemes": ["/'m", "ɛ", "t/"],
-      "phonics": ["/'m", "ĕ", "t/"],
+      "phonemes": ["/m", "ɛ", "t/"],
+      "phonics": ["/m", "ĕ", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -223,10 +223,10 @@
     {
       "number": "支付（原形）",
       "word": "pay",
-      "ipa": "/ˈpeɪ/",
+      "ipa": "/peɪ/",
       "graphemes": ["p", "ay"],
-      "phonemes": ["/'p", "eɪ/"],
-      "phonics": ["/'p", "ā/"],
+      "phonemes": ["/p", "eɪ/"],
+      "phonics": ["/p", "ā/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0],
       "hint": "ay 發長音 /ā/。"
@@ -234,10 +234,10 @@
     {
       "number": "支付（過去式/過去分詞）",
       "word": "paid",
-      "ipa": "/ˈpeɪd/",
+      "ipa": "/peɪd/",
       "graphemes": ["p", "ai", "d"],
-      "phonemes": ["/'p", "eɪ", "d/"],
-      "phonics": ["/'p", "ā", "d/"],
+      "phonemes": ["/p", "eɪ", "d/"],
+      "phonics": ["/p", "ā", "d/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ai 發長音 /ā/。"
@@ -245,10 +245,10 @@
     {
       "number": "讀（原形）",
       "word": "read",
-      "ipa": "/ˈrid/",
+      "ipa": "/rid/",
       "graphemes": ["r", "ea", "d"],
-      "phonemes": ["/'r", "i", "d/"],
-      "phonics": ["/'r", "ē", "d/"],
+      "phonemes": ["/r", "i", "d/"],
+      "phonics": ["/r", "ē", "d/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ea 發長音 /ē/。"
@@ -256,10 +256,10 @@
     {
       "number": "讀（過去式/過去分詞）",
       "word": "read",
-      "ipa": "/ˈrɛd/",
+      "ipa": "/rɛd/",
       "graphemes": ["r", "ea", "d"],
-      "phonemes": ["/'r", "ɛ", "d/"],
-      "phonics": ["/'r", "ĕ", "d/"],
+      "phonemes": ["/r", "ɛ", "d/"],
+      "phonics": ["/r", "ĕ", "d/"],
       "tags": ["irregular"],
       "hearts": [0, 1, 0],
       "hint": "ea 發短音 /ĕ/（需記）；拼法相同但發音不同。"
@@ -267,10 +267,10 @@
     {
       "number": "說（原形）",
       "word": "say",
-      "ipa": "/ˈseɪ/",
+      "ipa": "/seɪ/",
       "graphemes": ["s", "ay"],
-      "phonemes": ["/'s", "eɪ/"],
-      "phonics": ["/'s", "ā/"],
+      "phonemes": ["/s", "eɪ/"],
+      "phonics": ["/s", "ā/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0],
       "hint": "ay 發長音 /ā/。"
@@ -278,10 +278,10 @@
     {
       "number": "說（過去式/過去分詞）",
       "word": "said",
-      "ipa": "/ˈsɛd/",
+      "ipa": "/sɛd/",
       "graphemes": ["s", "ai", "d"],
-      "phonemes": ["/'s", "ɛ", "d/"],
-      "phonics": ["/'s", "ĕ", "d/"],
+      "phonemes": ["/s", "ɛ", "d/"],
+      "phonics": ["/s", "ĕ", "d/"],
       "tags": ["irregular"],
       "hearts": [0, 1, 0],
       "hint": "ai 發短音 /ĕ/（需記）。"
@@ -289,10 +289,10 @@
     {
       "number": "賣（原形）",
       "word": "sell",
-      "ipa": "/ˈsɛl/",
+      "ipa": "/sɛl/",
       "graphemes": ["s", "e", "ll"],
-      "phonemes": ["/'s", "ɛ", "l/"],
-      "phonics": ["/'s", "ĕ", "l/"],
+      "phonemes": ["/s", "ɛ", "l/"],
+      "phonics": ["/s", "ĕ", "l/"],
       "tags": ["closed", "floss"],
       "hearts": [0, 0, 0],
       "hint": "e 發短音 /ĕ/；ll 是 floss rule。"
@@ -300,10 +300,10 @@
     {
       "number": "賣（過去式/過去分詞）",
       "word": "sold",
-      "ipa": "/ˈsoʊld/",
+      "ipa": "/soʊld/",
       "graphemes": ["s", "o", "l", "d"],
-      "phonemes": ["/'s", "oʊ", "l", "d/"],
-      "phonics": ["/'s", "ō", "l", "d/"],
+      "phonemes": ["/s", "oʊ", "l", "d/"],
+      "phonics": ["/s", "ō", "l", "d/"],
       "tags": ["irregular"],
       "hearts": [0, 1, 0, 0],
       "hint": "o 在 ld 前發長音 /ō/（wild old words 規則）。"
@@ -311,10 +311,10 @@
     {
       "number": "寄送（原形）",
       "word": "send",
-      "ipa": "/ˈsɛnd/",
+      "ipa": "/sɛnd/",
       "graphemes": ["s", "e", "n", "d"],
-      "phonemes": ["/'s", "ɛ", "n", "d/"],
-      "phonics": ["/'s", "ĕ", "n", "d/"],
+      "phonemes": ["/s", "ɛ", "n", "d/"],
+      "phonics": ["/s", "ĕ", "n", "d/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
@@ -322,10 +322,10 @@
     {
       "number": "寄送（過去式/過去分詞）",
       "word": "sent",
-      "ipa": "/ˈsɛnt/",
+      "ipa": "/sɛnt/",
       "graphemes": ["s", "e", "n", "t"],
-      "phonemes": ["/'s", "ɛ", "n", "t/"],
-      "phonics": ["/'s", "ĕ", "n", "t/"],
+      "phonemes": ["/s", "ɛ", "n", "t/"],
+      "phonics": ["/s", "ĕ", "n", "t/"],
       "tags": ["closed"],
       "hearts": [0, 0, 0, 0],
       "hint": "e 發短音 /ĕ/。"
