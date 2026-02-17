@@ -3,21 +3,21 @@
     {
       "number": "帶來(原形)",
       "word": "bring",
-      "ipa": "/ˈbrɪŋ/",
+      "ipa": "/brɪŋ/",
       "graphemes": ["b", "r", "i", "ng"],
-      "phonemes": ["/'b", "r", "ɪ", "ŋ/"],
-      "phonics": ["/'b", "r", "ĭ", "ŋ/"],
-      "tags": ["cluster","cvc","digraph" ],
+      "phonemes": ["/b", "r", "ɪ", "ŋ/"],
+      "phonics": ["/b", "r", "ĭ", "ŋ/"],
+      "tags": ["cluster", "cvc", "digraph"],
       "hearts": [0, 0, 0, 0],
       "hint": "br 是 cluster;ng 發 ŋ"
     },
     {
       "number": "帶來(過去式/過去分詞)",
       "word": "brought",
-      "ipa": "/ˈbrɔt/",
+      "ipa": "/brɔt/",
       "graphemes": ["b", "r", "ough", "t"],
-      "phonemes": ["/'b", "r", "ɔ", "t/"],
-      "phonics": ["/'b", "r", "aw", "t/"],
+      "phonemes": ["/b", "r", "ɔ", "t/"],
+      "phonics": ["/b", "r", "aw", "t/"],
       "tags": ["cluster", "vowel_team"],
       "hearts": [0, 0, 1, 0],
       "hint": "br 是 cluster;ough 發 aw(不規則)"
@@ -25,10 +25,10 @@
     {
       "number": "建造(原形)",
       "word": "build",
-      "ipa": "/ˈbɪld/",
+      "ipa": "/bɪld/",
       "graphemes": ["b", "ui", "l", "d"],
-      "phonemes": ["/'b", "ɪ", "l", "d/"],
-      "phonics": ["/'b", "ĭ", "l", "d/"],
+      "phonemes": ["/b", "ɪ", "l", "d/"],
+      "phonics": ["/b", "ĭ", "l", "d/"],
       "tags": ["closed", "irregular"],
       "hearts": [0, 1, 0, 0],
       "hint": "ui 發短音 ĭ(不規則)"
@@ -36,10 +36,10 @@
     {
       "number": "建造(過去式/過去分詞)",
       "word": "built",
-      "ipa": "/ˈbɪlt/",
+      "ipa": "/bɪlt/",
       "graphemes": ["b", "ui", "l", "t"],
-      "phonemes": ["/'b", "ɪ", "l", "t/"],
-      "phonics": ["/'b", "ĭ", "l", "t/"],
+      "phonemes": ["/b", "ɪ", "l", "t/"],
+      "phonics": ["/b", "ĭ", "l", "t/"],
       "tags": ["closed", "irregular"],
       "hearts": [0, 1, 0, 0],
       "hint": "ui 發短音 ĭ(不規則)"
@@ -47,10 +47,10 @@
     {
       "number": "燃燒(原形)",
       "word": "burn",
-      "ipa": "/ˈbɝn/",
+      "ipa": "/bɝn/",
       "graphemes": ["b", "ur", "n"],
-      "phonemes": ["/'b", "ɝ", "n/"],
-      "phonics": ["/'b", "er", "n/"],
+      "phonemes": ["/b", "ɝ", "n/"],
+      "phonics": ["/b", "er", "n/"],
       "tags": ["rcontrolled"],
       "hearts": [0, 0, 0],
       "hint": "ur 發 er"
@@ -58,10 +58,10 @@
     {
       "number": "燃燒(過去式/過去分詞)",
       "word": "burnt",
-      "ipa": "/ˈbɝnt/",
+      "ipa": "/bɝnt/",
       "graphemes": ["b", "ur", "n", "t"],
-      "phonemes": ["/'b", "ɝ", "n", "t/"],
-      "phonics": ["/'b", "er", "n", "t/"],
+      "phonemes": ["/b", "ɝ", "n", "t/"],
+      "phonics": ["/b", "er", "n", "t/"],
       "tags": ["rcontrolled"],
       "hearts": [0, 0, 0, 0],
       "hint": "ur 發 er"
@@ -69,10 +69,10 @@
     {
       "number": "買(原形)",
       "word": "buy",
-      "ipa": "/ˈbaɪ/",
+      "ipa": "/baɪ/",
       "graphemes": ["b", "uy"],
-      "phonemes": ["/'b", "aɪ/"],
-      "phonics": ["/'b", "ī/"],
+      "phonemes": ["/b", "aɪ/"],
+      "phonics": ["/b", "ī/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0],
       "hint": "uy 發長音 ī"
@@ -80,10 +80,10 @@
     {
       "number": "買(過去式/過去分詞)",
       "word": "bought",
-      "ipa": "/ˈbɔt/",
+      "ipa": "/bɔt/",
       "graphemes": ["b", "ough", "t"],
-      "phonemes": ["/'b", "ɔ", "t/"],
-      "phonics": ["/'b", "aw", "t/"],
+      "phonemes": ["/b", "ɔ", "t/"],
+      "phonics": ["/b", "aw", "t/"],
       "tags": ["vowel_team"],
       "hearts": [0, 1, 0],
       "hint": "ough 發 aw(不規則)"
@@ -91,10 +91,10 @@
     {
       "number": "抓住(原形)",
       "word": "catch",
-      "ipa": "/ˈkætʃ/",
+      "ipa": "/kætʃ/",
       "graphemes": ["c", "a", "tch"],
-      "phonemes": ["/'k", "æ", "tʃ/"],
-      "phonics": ["/'k", "ă", "ch/"],
+      "phonemes": ["/k", "æ", "tʃ/"],
+      "phonics": ["/k", "ă", "ch/"],
       "tags": ["closed", "digraph"],
       "hearts": [0, 0, 1],
       "hint": "tch 發 ch;短母音後常用 tch"
@@ -102,10 +102,10 @@
     {
       "number": "抓住(過去式/過去分詞)",
       "word": "caught",
-      "ipa": "/ˈkɔt/",
+      "ipa": "/kɔt/",
       "graphemes": ["c", "augh", "t"],
-      "phonemes": ["/'k", "ɔ", "t/"],
-      "phonics": ["/'k", "aw", "t/"],
+      "phonemes": ["/k", "ɔ", "t/"],
+      "phonics": ["/k", "aw", "t/"],
       "tags": ["vowel_team"],
       "hearts": [0, 1, 0],
       "hint": "augh 發 aw(不規則)"
@@ -113,10 +113,10 @@
     {
       "number": "處理(原形)",
       "word": "deal",
-      "ipa": "/ˈdil/",
+      "ipa": "/dil/",
       "graphemes": ["d", "ea", "l"],
-      "phonemes": ["/'d", "i", "l/"],
-      "phonics": ["/'d", "ē", "l/"],
+      "phonemes": ["/d", "i", "l/"],
+      "phonics": ["/d", "ē", "l/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ea 發長音 ē"
@@ -124,10 +124,10 @@
     {
       "number": "處理(過去式/過去分詞)",
       "word": "dealt",
-      "ipa": "/ˈdɛlt/",
+      "ipa": "/dɛlt/",
       "graphemes": ["d", "ea", "l", "t"],
-      "phonemes": ["/'d", "ɛ", "l", "t/"],
-      "phonics": ["/'d", "ĕ", "l", "t/"],
+      "phonemes": ["/d", "ɛ", "l", "t/"],
+      "phonics": ["/d", "ĕ", "l", "t/"],
       "tags": ["closed", "irregular"],
       "hearts": [0, 1, 0, 0],
       "hint": "ea 發短音 ĕ(不規則)"
@@ -135,10 +135,10 @@
     {
       "number": "挖(原形)",
       "word": "dig",
-      "ipa": "/ˈdɪɡ/",
+      "ipa": "/dɪɡ/",
       "graphemes": ["d", "i", "g"],
-      "phonemes": ["/'d", "ɪ", "ɡ/"],
-      "phonics": ["/'d", "ĭ", "ɡ/"],
+      "phonemes": ["/d", "ɪ", "ɡ/"],
+      "phonics": ["/d", "ĭ", "ɡ/"],
       "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "標準 CVC 閉音節"
@@ -146,10 +146,10 @@
     {
       "number": "挖(過去式/過去分詞)",
       "word": "dug",
-      "ipa": "/ˈdʌɡ/",
+      "ipa": "/dʌɡ/",
       "graphemes": ["d", "u", "g"],
-      "phonemes": ["/'d", "ʌ", "ɡ/"],
-      "phonics": ["/'d", "ŭ", "ɡ/"],
+      "phonemes": ["/d", "ʌ", "ɡ/"],
+      "phonics": ["/d", "ŭ", "ɡ/"],
       "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "標準 CVC 閉音節"
@@ -157,10 +157,10 @@
     {
       "number": "餵養(原形)",
       "word": "feed",
-      "ipa": "/ˈfid/",
+      "ipa": "/fid/",
       "graphemes": ["f", "ee", "d"],
-      "phonemes": ["/'f", "i", "d/"],
-      "phonics": ["/'f", "ē", "d/"],
+      "phonemes": ["/f", "i", "d/"],
+      "phonics": ["/f", "ē", "d/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ee 發長音 ē"
@@ -168,10 +168,10 @@
     {
       "number": "餵養(過去式/過去分詞)",
       "word": "fed",
-      "ipa": "/ˈfɛd/",
+      "ipa": "/fɛd/",
       "graphemes": ["f", "e", "d"],
-      "phonemes": ["/'f", "ɛ", "d/"],
-      "phonics": ["/'f", "ĕ", "d/"],
+      "phonemes": ["/f", "ɛ", "d/"],
+      "phonics": ["/f", "ĕ", "d/"],
       "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "標準 CVC 閉音節"
@@ -179,10 +179,10 @@
     {
       "number": "感覺(原形)",
       "word": "feel",
-      "ipa": "/ˈfil/",
+      "ipa": "/fil/",
       "graphemes": ["f", "ee", "l"],
-      "phonemes": ["/'f", "i", "l/"],
-      "phonics": ["/'f", "ē", "l/"],
+      "phonemes": ["/f", "i", "l/"],
+      "phonics": ["/f", "ē", "l/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ee 發長音 ē"
@@ -190,10 +190,10 @@
     {
       "number": "感覺(過去式/過去分詞)",
       "word": "felt",
-      "ipa": "/ˈfɛlt/",
+      "ipa": "/fɛlt/",
       "graphemes": ["f", "e", "l", "t"],
-      "phonemes": ["/'f", "ɛ", "l", "t/"],
-      "phonics": ["/'f", "ĕ", "l", "t/"],
+      "phonemes": ["/f", "ɛ", "l", "t/"],
+      "phonics": ["/f", "ĕ", "l", "t/"],
       "tags": ["cvc"],
       "hearts": [0, 0, 0, 0],
       "hint": "標準閉音節"
@@ -201,10 +201,10 @@
     {
       "number": "打架(原形)",
       "word": "fight",
-      "ipa": "/ˈfaɪt/",
+      "ipa": "/faɪt/",
       "graphemes": ["f", "igh", "t"],
-      "phonemes": ["/'f", "aɪ", "t/"],
-      "phonics": ["/'f", "ī", "t/"],
+      "phonemes": ["/f", "aɪ", "t/"],
+      "phonics": ["/f", "ī", "t/"],
       "tags": ["vowel_team"],
       "hearts": [0, 1, 0],
       "hint": "igh 發長音 ī"
@@ -212,10 +212,10 @@
     {
       "number": "打架(過去式/過去分詞)",
       "word": "fought",
-      "ipa": "/ˈfɔt/",
+      "ipa": "/fɔt/",
       "graphemes": ["f", "ough", "t"],
-      "phonemes": ["/'f", "ɔ", "t/"],
-      "phonics": ["/'f", "aw", "t/"],
+      "phonemes": ["/f", "ɔ", "t/"],
+      "phonics": ["/f", "aw", "t/"],
       "tags": ["vowel_team"],
       "hearts": [0, 1, 0],
       "hint": "ough 發 aw(不規則)"
@@ -223,10 +223,10 @@
     {
       "number": "找到(原形)",
       "word": "find",
-      "ipa": "/ˈfaɪnd/",
-      "graphemes": ["f", "i", "n","d"],
-      "phonemes": ["/'f", "aɪ", "n","d/"],
-      "phonics": ["/'f", "ī", "n","d/"],
+      "ipa": "/faɪnd/",
+      "graphemes": ["f", "i", "n", "d"],
+      "phonemes": ["/f", "aɪ", "n", "d/"],
+      "phonics": ["/f", "ī", "n", "d/"],
       "tags": ["irregular"],
       "hearts": [0, 1, 0],
       "hint": "i 在 nd 前發長音(wild old words 規則)"
@@ -234,10 +234,10 @@
     {
       "number": "找到(過去式/過去分詞)",
       "word": "found",
-      "ipa": "/ˈfaʊnd/",
-      "graphemes": ["f", "ou", "n","d"],
-      "phonemes": ["/'f", "aʊ", "n","d/"],
-      "phonics": ["/'f", "ow", "n","d/"],
+      "ipa": "/faʊnd/",
+      "graphemes": ["f", "ou", "n", "d"],
+      "phonemes": ["/f", "aʊ", "n", "d/"],
+      "phonics": ["/f", "ow", "n", "d/"],
       "tags": ["vowel_team"],
       "hearts": [0, 0, 0],
       "hint": "ou 發 ow 雙元音"
@@ -245,10 +245,10 @@
     {
       "number": "得到(原形)",
       "word": "get",
-      "ipa": "/ˈɡɛt/",
+      "ipa": "/ɡɛt/",
       "graphemes": ["g", "e", "t"],
-      "phonemes": ["/'ɡ", "ɛ", "t/"],
-      "phonics": ["/'ɡ", "ĕ", "t/"],
+      "phonemes": ["/ɡ", "ɛ", "t/"],
+      "phonics": ["/ɡ", "ĕ", "t/"],
       "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "標準 CVC 閉音節"
@@ -256,10 +256,10 @@
     {
       "number": "得到(過去式/過去分詞)",
       "word": "got",
-      "ipa": "/ˈɡɑt/",
+      "ipa": "/ɡɑt/",
       "graphemes": ["g", "o", "t"],
-      "phonemes": ["/'ɡ", "ɑ", "t/"],
-      "phonics": ["/'ɡ", "ŏ", "t/"],
+      "phonemes": ["/ɡ", "ɑ", "t/"],
+      "phonics": ["/ɡ", "ŏ", "t/"],
       "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "標準 CVC 閉音節"
@@ -267,32 +267,32 @@
     {
       "number": "懸掛(原形)",
       "word": "hang",
-      "ipa": "/ˈhæŋ/",
+      "ipa": "/hæŋ/",
       "graphemes": ["h", "a", "ng"],
-      "phonemes": ["/'h", "æ", "ŋ/"],
-      "phonics": ["/'h", "ă", "ŋ/"],
-      "tags": ["cvc","digraph"],
+      "phonemes": ["/h", "æ", "ŋ/"],
+      "phonics": ["/h", "ă", "ŋ/"],
+      "tags": ["cvc", "digraph"],
       "hearts": [0, 0, 0],
       "hint": "ng 發 ŋ"
     },
     {
       "number": "懸掛(過去式/過去分詞)",
       "word": "hung",
-      "ipa": "/ˈhʌŋ/",
+      "ipa": "/hʌŋ/",
       "graphemes": ["h", "u", "ng"],
-      "phonemes": ["/'h", "ʌ", "ŋ/"],
-      "phonics": ["/'h", "ŭ", "ŋ/"],
-      "tags": ["cvc","digraph"],
+      "phonemes": ["/h", "ʌ", "ŋ/"],
+      "phonics": ["/h", "ŭ", "ŋ/"],
+      "tags": ["cvc", "digraph"],
       "hearts": [0, 0, 0],
       "hint": "ng 發 ŋ"
     },
     {
       "number": "有(原形)",
       "word": "have",
-      "ipa": "/ˈhæv/",
+      "ipa": "/hæv/",
       "graphemes": ["h", "a", "v", "e"],
-      "phonemes": ["/'h", "æ", "v", "-/"],
-      "phonics": ["/'h", "ă", "v", "-/"],
+      "phonemes": ["/h", "æ", "v", "-/"],
+      "phonics": ["/h", "ă", "v", "-/"],
       "tags": ["irregular"],
       "hearts": [0, 0, 0, 1],
       "hint": "英文字尾不以 v 結尾,需加 e"
@@ -300,10 +300,10 @@
     {
       "number": "有(過去式/過去分詞)",
       "word": "had",
-      "ipa": "/ˈhæd/",
+      "ipa": "/hæd/",
       "graphemes": ["h", "a", "d"],
-      "phonemes": ["/'h", "æ", "d/"],
-      "phonics": ["/'h", "ă", "d/"],
+      "phonemes": ["/h", "æ", "d/"],
+      "phonics": ["/h", "ă", "d/"],
       "tags": ["cvc"],
       "hearts": [0, 0, 0],
       "hint": "標準 CVC 閉音節"
@@ -311,10 +311,10 @@
     {
       "number": "聽到(原形)",
       "word": "hear",
-      "ipa": "/ˈhɪr/",
+      "ipa": "/hɪr/",
       "graphemes": ["h", "ear"],
-      "phonemes": ["/'h", "ɪ","r/"],
-      "phonics": ["/'h", "ĭ","r/"],
+      "phonemes": ["/h", "ɪ", "r/"],
+      "phonics": ["/h", "ĭ", "r/"],
       "tags": ["rcontrolled"],
       "hearts": [0, 0],
       "hint": "ear 發 ĭr"
@@ -322,11 +322,11 @@
     {
       "number": "聽到(過去式/過去分詞)",
       "word": "heard",
-      "ipa": "/ˈhɝd/",
+      "ipa": "/hɝd/",
       "graphemes": ["h", "ear", "d"],
-      "phonemes": ["/'h", "ɝ", "d/"],
-      "phonics": ["/'h", "er", "d/"],
-      "tags": ["rcontrolled", "irregular"],
+      "phonemes": ["/h", "ɝ", "d/"],
+      "phonics": ["/h", "er", "d/"],
+      "tags": [ "irregular"],
       "hearts": [0, 1, 0],
       "hint": "ear 發 er(不規則)"
     }
