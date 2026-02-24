@@ -4,209 +4,630 @@
       "number": "⏮ 以前",
       "word": "ago",
       "ipa": "/əˈɡoʊ/",
-      "graphemes": ["a", "g", "o"],
-      "phonemes": ["/ə", "'ɡ", "oʊ/"],
-      "phonics": ["/ə", "'ɡ", "ō/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "a",
+        "g",
+        "o"
+      ],
+      "phonemes": [
+        "/ə",
+        "'ɡ",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/ə",
+        "'ɡ",
+        "ō/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 弱化；o 發長音 /ō/。"
     },
-{
+    {
       "number": "✅ 已經",
       "word": "already",
       "ipa": "/ɔlˈrɛdi/",
-      "graphemes": ["a", "l", "r", "ea", "d", "y"],
-      "phonemes": ["/ɔ", "l", "r", "ɛ", "d", "i/"],
-      "phonics": ["/aw", "l", "r", "ĕ", "d", "ē/"],
-      "tags": ["irregular", "vowel_team"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "r",
+        "ea",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/ɔ",
+        "l",
+        "r",
+        "ɛ",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/aw",
+        "l",
+        "r",
+        "ĕ",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "a 發 /aw/；ea 發 /ĕ/。"
     },
     {
       "number": "🍁 秋天",
       "word": "autumn",
       "ipa": "/ˈɔtəm/",
-      "graphemes": ["au", "t", "u", "m", "n"],
-      "phonemes": ["/'ɔ", "t", "ə", "m", "-/"],
-      "phonics": ["/'aw", "t", "ə", "m", "-/"],
-      "tags": ["vowel_team", "silent_consonant"],
-      "hearts": [0, 0, 0, 0, 1],
+      "graphemes": [
+        "au",
+        "t",
+        "u",
+        "m",
+        "n"
+      ],
+      "phonemes": [
+        "/'ɔ",
+        "t",
+        "ə",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/'aw",
+        "t",
+        "ə",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "au 發 /aw/；n 不發音。"
     },
     {
       "number": "⌛ 目前",
       "word": "current",
       "ipa": "/ˈkɝənt/",
-      "graphemes": ["c", "urr", "e", "n", "t"],
-      "phonemes": ["/'k", "ɝ", "ə", "n", "t/"],
-      "phonics": ["/'k", "er", "ə", "n", "t/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "urr",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɝ",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "er",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "urr 發捲舌音 /er/。"
     },
     {
       "number": "🌅 早的",
       "word": "early",
       "ipa": "/ˈɝli/",
-      "graphemes": ["ear", "l", "y"],
-      "phonemes": ["/'ɝ", "l", "i/"],
-      "phonics": ["/'er", "l", "ē/"],
-      "tags": ["rcontrolled"],
-      "hearts": [1, 0, 0],
+      "graphemes": [
+        "ear",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'ɝ",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'er",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        1,
+        0,
+        0
+      ],
       "hint": "ear 發捲舌音 /er/。"
     },
     {
       "number": "🍁 秋天 (美)",
       "word": "fall",
       "ipa": "/fɔl/",
-      "graphemes": ["f", "a", "ll"],
-      "phonemes": ["/f", "ɔ", "l/"],
-      "phonics": ["/f", "aw", "l/"],
-      "tags": ["irregular","floss"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "f",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/f",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/f",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "a 在 ll 前發 /aw/。"
     },
     {
       "number": "🔮 未來",
       "word": "future",
       "ipa": "/ˈfjutʃɚ/",
-      "graphemes": ["f", "u", "t", "ure"],
-      "phonemes": ["/'f", "ju", "tʃ", "ɚ/"],
-      "phonics": ["/'f", "yū", "ch", "er/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 1, 1],
+      "graphemes": [
+        "f",
+        "u",
+        "t",
+        "ure"
+      ],
+      "phonemes": [
+        "/'f",
+        "ju",
+        "tʃ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'f",
+        "yū",
+        "ch",
+        "er/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        1
+      ],
       "hint": "u 發 /yū/；t 發 /ch/；ure 發 /er/。"
     },
     {
       "number": "⏮ 最後的",
       "word": "last",
       "ipa": "/læst/",
-      "graphemes": ["l", "a", "s", "t"],
-      "phonemes": ["/l", "æ", "s", "t/"],
-      "phonics": ["/l", "ă", "s", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "a",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/l",
+        "æ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/l",
+        "ă",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /ă/。"
     },
     {
       "number": "🐢 晚的",
       "word": "late",
       "ipa": "/leɪt/",
-      "graphemes": ["l", "a", "t", "e"],
-      "phonemes": ["/l", "eɪ", "t", "-/"],
-      "phonics": ["/l", "ā", "t", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/l",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/l",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 發長母音 /ā/。"
     },
     {
       "number": "🐢 稍後",
       "word": "later",
       "ipa": "/ˈleɪtɚ/",
-      "graphemes": ["l", "a", "t", "er"],
-      "phonemes": ["/'l", "eɪ", "t", "ɚ/"],
-      "phonics": ["/'l", "ā", "t", "er/"],
-      "tags": ["open", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "a",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'l",
+        "eɪ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'l",
+        "ā",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發長母音 /ā/。"
     },
     {
       "number": "⏭ 下一個",
       "word": "next",
       "ipa": "/nɛkst/",
-      "graphemes": ["n", "e", "x", "t"],
-      "phonemes": ["/n", "ɛ", "ks", "t/"],
-      "phonics": ["/n", "ĕ", "ks", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "e",
+        "x",
+        "t"
+      ],
+      "phonemes": [
+        "/n",
+        "ɛ",
+        "ks",
+        "t/"
+      ],
+      "phonics": [
+        "/n",
+        "ĕ",
+        "ks",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "x 發 /ks/。"
     },
     {
       "number": "⌚ 現在",
       "word": "now",
       "ipa": "/naʊ/",
-      "graphemes": ["n", "ow"],
-      "phonemes": ["/n", "aʊ/"],
-      "phonics": ["/n", "ow/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "n",
+        "ow"
+      ],
+      "phonemes": [
+        "/n",
+        "aʊ/"
+      ],
+      "phonics": [
+        "/n",
+        "ow/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ow 發 /ow/。"
     },
     {
       "number": "1️⃣ 一次",
       "word": "once",
       "ipa": "/wʌns/",
-      "graphemes": ["o", "n", "c","e"],
-      "phonemes": ["/wʌ", "n", "s","-/"],
-      "phonics": ["/wŭ", "n", "s","-/"],
-      "tags": ["irregular"],
-      "hearts": [1, 0, 0, 1],
+      "graphemes": [
+        "o",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/wʌ",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/wŭ",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0,
+        0
+      ],
       "hint": "o 不規則發 /wŭ/；ce 發 /s/。"
     },
     {
       "number": "🌸 四季",
       "word": "season",
       "ipa": "/ˈsizn/",
-      "graphemes": ["s", "ea", "s", "o", "n"],
-      "phonemes": ["/'s", "i", "z", "ə", "n/"],
-      "phonics": ["/'s", "ē", "z", "ə", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "s",
+        "ea",
+        "s",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'s",
+        "i",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'s",
+        "ē",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "ea 發 /ē/；s 發 /z/。"
     },
     {
       "number": "🔜 很快",
       "word": "soon",
       "ipa": "/sun/",
-      "graphemes": ["s", "oo", "n"],
-      "phonemes": ["/s", "u", "n/"],
-      "phonics": ["/s", "ū", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "oo",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "u",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "ū",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發長音 /ū/。"
     },
     {
       "number": "🌱 春天",
       "word": "spring",
       "ipa": "/sprɪŋ/",
-      "graphemes": ["s", "p", "r", "i", "ng"],
-      "phonemes": ["/s", "p", "r", "ɪ", "ŋ/"],
-      "phonics": ["/s", "p", "r", "ĭ", "ŋ/"],
-      "tags": ["cluster", "cvc", "digraph"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "p",
+        "r",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "r",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "r",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ng 發鼻音 /ŋ/。"
     },
     {
       "number": "🏖 夏天",
       "word": "summer",
       "ipa": "/ˈsʌmɚ/",
-      "graphemes": ["s", "u", "mm", "er"],
-      "phonemes": ["/'s", "ʌ", "m", "ɚ/"],
-      "phonics": ["/'s", "ŭ", "m", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "mm",
+        "er"
+      ],
+      "phonemes": [
+        "/'s",
+        "ʌ",
+        "m",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŭ",
+        "m",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "mm 發單音 /m/。"
     },
     {
       "number": "☃️ 冬天",
       "word": "winter",
       "ipa": "/ˈwɪntɚ/",
-      "graphemes": ["w", "i", "n", "t", "er"],
-      "phonemes": ["/'w", "ɪ", "n", "t", "ɚ/"],
-      "phonics": ["/'w", "ĭ", "n", "t", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "n",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɪ",
+        "n",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĭ",
+        "n",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "er 發 /er/。"
     },
-{
+    {
       "number": "📅 年",
       "word": "year",
       "ipa": "/jɪr/",
-      "graphemes": ["y", "ea", "r"],
-      "phonemes": ["/j", "ɪ", "r/"],
-      "phonics": ["/y", "ĭ", "r/"],
-      "tags": ["vowel_team","rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "y",
+        "ea",
+        "r"
+      ],
+      "phonemes": [
+        "/j",
+        "ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/y",
+        "ĭ",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ear 拆開：ea 發 /i/。"
     }
   ]

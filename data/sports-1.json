@@ -4,176 +4,650 @@
       "number": "🏸 羽毛球",
       "word": "badminton",
       "ipa": "/ˈbædmɪntən/",
-      "graphemes": ["b", "a", "d", "m", "i", "n", "t", "o", "n"],
-      "phonemes": ["/'b", "æ", "d", "m", "ɪ", "n", "t", "ə", "n/"],
-      "phonics": ["/'b", "ă", "d", "m", "ĭ", "n", "t", "ə", "n/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "d",
+        "m",
+        "i",
+        "n",
+        "t",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'b",
+        "æ",
+        "d",
+        "m",
+        "ɪ",
+        "n",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'b",
+        "ă",
+        "d",
+        "m",
+        "ĭ",
+        "n",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化發 /ə/。"
     },
     {
       "number": "🏀 球",
       "word": "ball",
       "ipa": "/bɔl/",
-      "graphemes": ["b", "a", "ll"],
-      "phonemes": ["/b", "ɔ", "l/"],
-      "phonics": ["/b", "aw", "l/"],
-      "tags": ["irregular","floss"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "a 在 ll 前多發 /ɔ/。"
     },
     {
       "number": "⚾ 棒球",
       "word": "baseball",
       "ipa": "/ˈbeɪsbɔl/",
-      "graphemes": ["b", "a", "s", "e", "b", "a", "ll"],
-      "phonemes": ["/'b", "eɪ", "s", "-", "b", "ɔ", "l/"],
-      "phonics": ["/'b", "ā", "s", "-", "b", "aw", "l/"],
-      "tags": ["magic_e", "floss"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "s",
+        "e",
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/'b",
+        "eɪ",
+        "s",
+        "-",
+        "b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/'b",
+        "ā",
+        "s",
+        "-",
+        "b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "magic_e",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "a_e 發 /ā/；ball 的 a 多發 /ɔ/。"
     },
     {
       "number": "🏀 籃球",
       "word": "basketball",
       "ipa": "/ˈbæskɪtbɔl/",
-      "graphemes": ["b", "a", "s", "k", "e", "t", "b", "a", "ll"],
-      "phonemes": ["/'b", "æ", "s", "k", "ɪ", "t", "b", "ɔ", "l/"],
-      "phonics": ["/'b", "ă", "s", "k", "ĭ", "t", "b", "aw", "l/"],
-      "tags": [ "closed", "floss"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "s",
+        "k",
+        "e",
+        "t",
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/'b",
+        "æ",
+        "s",
+        "k",
+        "ɪ",
+        "t",
+        "b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/'b",
+        "ă",
+        "s",
+        "k",
+        "ĭ",
+        "t",
+        "b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ball 的 a 多發 /ɔ/。"
     },
     {
       "number": "🤾 躲避球",
       "word": "dodgeball",
       "ipa": "/ˈdɑdʒbɔl/",
-      "graphemes": ["d", "o", "dge", "b", "a", "ll"],
-      "phonemes": ["/'d", "ɑ", "dʒ", "b", "ɔ", "l/"],
-      "phonics": ["/'d", "ŏ", "-j", "b", "aw", "l/"],
-      "tags": [ "closed","digraph", "floss"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "d",
+        "o",
+        "dge",
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɑ",
+        "dʒ",
+        "b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŏ",
+        "-j",
+        "b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "dge 發 /dʒ/（UFLI 記為 -j）；ball 的 a 多發 /ɔ/。"
     },
     {
       "number": "🏈 美式足球",
       "word": "football",
       "ipa": "/ˈfʊtbɔl/",
-      "graphemes": ["f", "oo", "t", "b", "a", "ll"],
-      "phonemes": ["/'f", "ʊ", "t", "b", "ɔ", "l/"],
-      "phonics": ["/'f", "oo", "t", "b", "aw", "l/"],
-      "tags": ["vowel_team", "floss"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "f",
+        "oo",
+        "t",
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/'f",
+        "ʊ",
+        "t",
+        "b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/'f",
+        "oo",
+        "t",
+        "b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "oo 在此發 /ʊ/（book 音）。"
     },
     {
       "number": "🥏 飛盤",
       "word": "frisbee",
       "ipa": "/ˈfrɪzbi/",
-      "graphemes": ["f", "r", "i", "s", "b", "ee"],
-      "phonemes": ["/'f", "r", "ɪ", "z", "b", "i/"],
-      "phonics": ["/'f", "r", "ĭ", "z", "b", "ē/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "f",
+        "r",
+        "i",
+        "s",
+        "b",
+        "ee"
+      ],
+      "phonemes": [
+        "/'f",
+        "r",
+        "ɪ",
+        "z",
+        "b",
+        "i/"
+      ],
+      "phonics": [
+        "/'f",
+        "r",
+        "ĭ",
+        "z",
+        "b",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "s 在此發 /z/；字尾 ee 發 /ē/。"
     },
     {
       "number": "⛳ 高爾夫",
       "word": "golf",
       "ipa": "/ɡɑlf/",
-      "graphemes": ["g", "o", "l", "f"],
-      "phonemes": ["/ɡ", "ɑ", "l", "f/"],
-      "phonics": ["/ɡ", "ŏ", "l", "f/"],
-      "tags": ["cvc","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "o",
+        "l",
+        "f"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɑ",
+        "l",
+        "f/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ŏ",
+        "l",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🏁 賽跑",
       "word": "race",
-      "ipa": "/ˈreɪs/",
-      "graphemes": ["r", "a", "c", "e"],
-      "phonemes": ["/'r", "eɪ", "s", "-/"],
-      "phonics": ["/'r", "ā", "s", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/reɪs/",
+      "graphemes": [
+        "r",
+        "a",
+        "ce"
+      ],
+      "phonemes": [
+        "/r",
+        "eɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/r",
+        "ā",
+        "s/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "c 在 e 前發 /s/。"
     },
     {
       "number": "⚽ 足球",
       "word": "soccer",
       "ipa": "/ˈsɑkɚ/",
-      "graphemes": ["s", "o", "cc", "er"],
-      "phonemes": ["/'s", "ɑ", "k", "ɚ/"],
-      "phonics": ["/'s", "ŏ", "k", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "s",
+        "o",
+        "cc",
+        "er"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɑ",
+        "k",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŏ",
+        "k",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "cc 發 /k/。"
     },
     {
       "number": "🏅 運動",
       "word": "sports",
-      "ipa": "/ˈspɔrts/",
-      "graphemes": ["s", "p", "or", "ts"],
-      "phonemes": ["/'s", "p", "ɔr", "ts/"],
-      "phonics": ["/'s", "p", "or", "ts/"],
-      "tags": ["cluster", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0],
+      "ipa": "/spɔrts/",
+      "graphemes": [
+        "s",
+        "p",
+        "or",
+        "ts"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ɔr",
+        "ts/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "or",
+        "ts/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "or 發 /ɔr/。"
     },
     {
       "number": "🏓 桌球",
       "word": "table tennis",
       "ipa": "/ˈteɪbəl tɛnɪs/",
-      "graphemes": ["t", "a", "b", "le", " ", "t", "e", "nn", "i", "s"],
-      "phonemes": ["/'t", "eɪ", "b", "əl", " ", "t", "ɛ", "n", "ɪ", "s/"],
-      "phonics": ["/'t", "ā", "b", "əl", " ", "t", "ĕ", "n", "ĭ", "s/"],
-      "tags": ["open","cle"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "a",
+        "b",
+        "le",
+        " ",
+        "t",
+        "e",
+        "nn",
+        "i",
+        "s"
+      ],
+      "phonemes": [
+        "/'t",
+        "eɪ",
+        "b",
+        "əl",
+        " ",
+        "t",
+        "ɛ",
+        "n",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/'t",
+        "ā",
+        "b",
+        "əl",
+        " ",
+        "t",
+        "ĕ",
+        "n",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "open",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "只保留第一個重音；le 發 /əl/。"
     },
     {
       "number": "🎾 網球",
       "word": "tennis",
       "ipa": "/ˈtɛnɪs/",
-      "graphemes": ["t", "e", "nn", "i", "s"],
-      "phonemes": ["/'t", "ɛ", "n", "ɪ", "s/"],
-      "phonics": ["/'t", "ĕ", "n", "ĭ", "s/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "e",
+        "nn",
+        "i",
+        "s"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɛ",
+        "n",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/'t",
+        "ĕ",
+        "n",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🏐 排球",
       "word": "volleyball",
       "ipa": "/ˈvɑlibɔl/",
-      "graphemes": ["v", "o", "ll", "ey", "b", "a", "ll"],
-      "phonemes": ["/'v", "ɑ", "l", "i", "b", "ɔ", "l/"],
-      "phonics": ["/'v", "ŏ", "l", "ē", "b", "aw", "l/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "v",
+        "o",
+        "ll",
+        "ey",
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/'v",
+        "ɑ",
+        "l",
+        "i",
+        "b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/'v",
+        "ŏ",
+        "l",
+        "ē",
+        "b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "移除次重音；ey 多發 /ē/；ball 的 a 多發 /ɔ/。"
     },
     {
       "number": "🏆 贏家",
       "word": "winner",
       "ipa": "/ˈwɪnɚ/",
-      "graphemes": ["w", "i", "nn", "er"],
-      "phonemes": ["/'w", "ɪ", "n", "ɚ/"],
-      "phonics": ["/'w", "ĭ", "n", "er/"],
-      "tags": ["closed","suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "nn",
+        "er"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɪ",
+        "n",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĭ",
+        "n",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "😰 輸家",
       "word": "loser",
       "ipa": "/ˈluzɚ/",
-      "graphemes": ["l", "o", "s", "er"],
-      "phonemes": ["/'l", "u", "z", "ɚ/"],
-      "phonics": ["/'l", "ū", "z", "er/"],
-      "tags": ["irregular","suffix"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "l",
+        "o",
+        "s",
+        "er"
+      ],
+      "phonemes": [
+        "/'l",
+        "u",
+        "z",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'l",
+        "ū",
+        "z",
+        "er/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "o 發 /ū/；s 在此發 /z/。"
     }
   ]

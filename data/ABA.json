@@ -4,67 +4,302 @@
       "number": "變成(原形/過去分詞)",
       "word": "become",
       "ipa": "/bɪˈkʌm/",
-      "graphemes": ["b", "e", "c", "o", "m", "e"],
-      "phonemes": ["/b", "ɪ", "'k", "ʌ", "m", "-/"],
-      "phonics": ["/b", "ĭ", "'k", "ŭ", "m", "-/"],
-      "tags": ["closed", "irregular"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "b",
+        "e",
+        "c",
+        "o",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "'k",
+        "ʌ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "'k",
+        "ŭ",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "第一個 e 發 ĭ;o 發 ŭ(不規則);e 不發音"
     },
     {
       "number": "變成(過去式)",
       "word": "became",
       "ipa": "/bɪˈkeɪm/",
-      "graphemes": ["b", "e", "c", "a", "m", "e"],
-      "phonemes": ["/b", "ɪ", "'k", "eɪ", "m", "-/"],
-      "phonics": ["/b", "ĭ", "'k", "ā", "m", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "e",
+        "c",
+        "a",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "'k",
+        "eɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "'k",
+        "ā",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "e 發 ĭ;a-e 發長音 ā;e 不發音"
     },
     {
       "number": "來(原形/過去分詞)",
       "word": "come",
-      "ipa": "/ˈkʌm/",
-      "graphemes": ["c", "o", "m", "e"],
-      "phonemes": ["/'k", "ʌ", "m", "-/"],
-      "phonics": ["/'k", "ŭ", "m", "-/"],
-      "tags": ["closed", "irregular"],
-      "hearts": [0, 1, 0, 0],
+      "ipa": "/kʌm/",
+      "graphemes": [
+        "c",
+        "o",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "ʌ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ŭ",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "cvc",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "o 發 ŭ(不規則);e 不發音"
     },
     {
       "number": "來(過去式)",
       "word": "came",
-      "ipa": "/ˈkeɪm/",
-      "graphemes": ["c", "a", "m", "e"],
-      "phonemes": ["/'k", "eɪ", "m", "-/"],
-      "phonics": ["/'k", "ā", "m", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/keɪm/",
+      "graphemes": [
+        "c",
+        "a",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "eɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ā",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a-e 發長音 ā;e 不發音"
     },
     {
       "number": "跑(原形/過去分詞)",
       "word": "run",
-      "ipa": "/ˈrʌn/",
-      "graphemes": ["r", "u", "n"],
-      "phonemes": ["/'r", "ʌ", "n/"],
-      "phonics": ["/'r", "ŭ", "n/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "ipa": "/rʌn/",
+      "graphemes": [
+        "r",
+        "u",
+        "n"
+      ],
+      "phonemes": [
+        "/r",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/r",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短音 ŭ"
     },
     {
       "number": "跑(過去式)",
       "word": "ran",
-      "ipa": "/ˈræn/",
-      "graphemes": ["r", "a", "n"],
-      "phonemes": ["/'r", "æ", "n/"],
-      "phonics": ["/'r", "ă", "n/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "ipa": "/ræn/",
+      "graphemes": [
+        "r",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/r",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/r",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短音 ă"
+    },
+    {
+      "number": "克服(原形/過去分詞)",
+      "word": "overcome",
+      "ipa": "/ˌoʊvɝˈkʌm/",
+      "graphemes": [
+        "o",
+        "v",
+        "er",
+        "c",
+        "o",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/oʊ",
+        "v",
+        "ɝ",
+        "'k",
+        "ʌ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/ō",
+        "v",
+        "er",
+        "'k",
+        "ŭ",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "irregular",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "o 發 ō;er 發 er;o 發 ŭ(不規則);e 不發音"
+    },
+    {
+      "number": "克服(過去式)",
+      "word": "overcame",
+      "ipa": "/ˌoʊvɝˈkeɪm/",
+      "graphemes": [
+        "o",
+        "v",
+        "er",
+        "c",
+        "a",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/oʊ",
+        "v",
+        "ɝ",
+        "'k",
+        "eɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/ō",
+        "v",
+        "er",
+        "'k",
+        "ā",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "magic_e",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發 ō;er 發 er;a-e 發長音 ā;e 不發音"
     }
   ]
 }

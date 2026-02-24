@@ -1,34 +1,1109 @@
 {
   "items": [
-    { "number": "🥩 牛肉", "word": "beef", "ipa": "/bif/", "graphemes": ["b","ee","f"], "phonemes": ["/b","i","f/"], "phonics": ["/b","ē","f/"], "tags": ["vowel_team"], "hearts": [0,0,0], "hint": "ee 發長母音 e /i/。" },
-    { "number": "🍔 漢堡", "word": "burger", "ipa": "/ˈbɝɡɚ/", "graphemes": ["b","ur","g","er"], "phonemes": ["/'b","ɝ","ɡ","ɚ/"], "phonics": ["/'b","er","ɡ","er/"], "tags": ["rcontrolled"], "hearts": [0,0,0,0], "hint": "ur 與 er 皆發 /ɝ/。" },
-
-    { "number": "🐔 雞肉", "word": "chicken", "ipa": "/ˈtʃɪkən/", "graphemes": ["ch","i","ck","e","n"], "phonemes": ["/'tʃ","ɪ","k","ə","n/"], "phonics": ["/'ch","ĭ","k","ə","n/"], "tags": ["digraph","closed"], "hearts": [0,0,0,0,0], "hint": "" },
-    { "number": "🥟 水餃", "word": "dumpling", "ipa": "/ˈdʌmplɪŋ/", "graphemes": ["d","u","m","p","l","i","ng"], "phonemes": ["/'d","ʌ","m","p","l","ɪ","ŋ/"], "phonics": ["/'d","ŭ","m","p","l","ĭ","ŋ/"], "tags": ["closed","digraph"], "hearts": [0,0,0,0,0,0,0], "hint": "" },
-    { "number": "🥚 蛋", "word": "egg", "ipa": "/ɛɡ/", "graphemes": ["e","gg"], "phonemes": ["/ɛ","ɡ/"], "phonics": ["/ĕ","ɡ/"], "tags": ["irregular"], "hearts": [0,1], "hint": "" },
-    { "number": "🍔 速食", "word": "fast food", "ipa": "/fæst fud/", "graphemes": ["f","a","s","t"," ","f","oo","d"], "phonemes": ["/'f","æ","s","t"," ","f","u","d/"], "phonics": ["/'f","ă","s","t"," ","f","ū","d/"], "tags": ["closed"], "hearts": [0,0,0,0,0,0,0,0], "hint": "" },
-    { "number": "🍱 食物", "word": "food", "ipa": "/fud/", "graphemes": ["f","oo","d"], "phonemes": ["/f","u","d/"], "phonics": ["/f","ū","d/"], "tags": ["vowel_team"], "hearts": [0,0,0], "hint": "oo 發長母音 u /u/。" },
-    { "number": "🐟 魚", "word": "fish", "ipa": "/fɪʃ/", "graphemes": ["f","i","sh"], "phonemes": ["/f","ɪ","ʃ/"], "phonics": ["/f","ĭ","sh/"], "tags": ["cvc","digraph"], "hearts": [0,0,0], "hint": "" },
-    { "number": "🍟 薯條", "word": "French fries", "ipa": "/frɛntʃ fraɪz/", "graphemes": ["F","r","e","n","ch"," ","f","r","ie","s"], "phonemes": ["/f","r","ɛ","n","tʃ"," ","'f","r","aɪ","z/"], "phonics": ["/f","r","ĕ","n","ch"," ","'f","r","ī","z/"], "tags": ["cluster","digraph","vowel_team"], "hearts": [0,0,0,0,0,0,0,0,0,1], "hint": "ie 發 /aɪ/；s 發 /z/。" },
-    { "number": "🍖 火腿", "word": "ham", "ipa": "/hæm/", "graphemes": ["h","a","m"], "phonemes": ["/h","æ","m/"], "phonics": ["/h","ă","m/"], "tags": ["cvc"], "hearts": [0,0,0], "hint": "" },
-    { "number": "🍔 漢堡", "word": "hamburger", "ipa": "/ˈhæmbɝɡɚ/", "graphemes": ["h","a","m","b","ur","g","er"], "phonemes": ["/'h","æ","m","b","ɝ","ɡ","ɚ/"], "phonics": ["/'h","ă","m","b","er","ɡ","er/"], "tags": ["closed"], "hearts": [0,0,0,0,0,0,0], "hint": "" },
-    { "number": "🌭 熱狗", "word": "hot dog", "ipa": "/hɑt dɔɡ/", "graphemes": ["h","o","t"," ","d","o","g"], "phonemes": ["/'h","ɑ","t"," ","d","ɑ","ɡ/"], "phonics": ["/'h","ŏ","t"," ","d","ŏ","ɡ/"], "tags": ["cvc"], "hearts": [0,0,0,0,0,0,0], "hint": "" },
-    { "number": "🍜 泡麵", "word": "instant noodles", "ipa": "/ˈɪnstənt ˈnudlz/", "graphemes": ["i","n","s","t","a","n","t"," ","n","oo","d","le","s"], "phonemes": ["/'ɪ","n","s","t","ə","n","t"," ","'n","u","d","əl","z/"], "phonics": ["/'ĭ","n","s","t","ə","n","t"," ","'n","ū","d","əl","z/"], "tags": ["closed"], "hearts": [0,0,0,0,0,0,0,0,0,0,0,0,1], "hint": "" },
-    { "number": "🥩 肉類", "word": "meat", "ipa": "/mit/", "graphemes": ["m","ea","t"], "phonemes": ["/m","i","t/"], "phonics": ["/m","ē","t/"], "tags": ["vowel_team"], "hearts": [0,0,0], "hint": "" },
-    { "number": "肉丸", "word": "meatballs", "ipa": "/ˈmitbɔlz/", "graphemes": ["m","ea","t","b","a","ll","s"], "phonemes": ["/'m","i","t","b","ɔ","l","z/"], "phonics": ["/'m","ē","t","b","aw","l","z/"], "tags": ["vowel_team","suffix"], "hearts": [0,0,0,0,0,0,1], "hint": "a 在 l 前發 /ɔ/。" },
-    { "number": "🍜 麵", "word": "noodles", "ipa": "/ˈnudlz/", "graphemes": ["n","oo","d","le","s"], "phonemes": ["/'n","u","d","əl","z/"], "phonics": ["/'n","ū","d","əl","z/"], "tags": ["vowel_team","cle","suffix"], "hearts": [0,0,0,0,1], "hint": "" },
-    { "number": "🍝 義大利麵", "word": "pasta", "ipa": "/ˈpɑstə/", "graphemes": ["p","a","s","t","a"], "phonemes": ["/'p","ɑ","s","t","ə/"], "phonics": ["/'p","ŏ","s","t","ə/"], "tags": ["irregular"], "hearts": [0,1,0,0,0], "hint": "a 發 /ɑ/。" },
-    { "number": "🍕 披薩", "word": "pizza", "ipa": "/ˈpitsə/", "graphemes": ["p","i","zz","a"], "phonemes": ["/'p","i","ts","ə/"], "phonics": ["/'p","ē","ts","ə/"], "tags": ["irregular"], "hearts": [0,1,1,0], "hint": "來自義大利文；i 發 /i/；zz 發 /ts/。" },
-    { "number": "🐷 豬肉", "word": "pork", "ipa": "/pɔrk/", "graphemes": ["p","or","k"], "phonemes": ["/p","ɔr","k/"], "phonics": ["/p","or","k/"], "tags": ["rcontrolled"], "hearts": [0,0,0], "hint": "" },
-    { "number": "🍚 米飯", "word": "rice", "ipa": "/raɪs/", "graphemes": ["r","i","c","e"], "phonemes": ["/r","aɪ","s","-/"], "phonics": ["/r","ī","s","-/"], "tags": ["magic_e"], "hearts": [0,0,0,0], "hint": "c 在 e 前發 /s/。" },
-    { "number": "🥗 沙拉", "word": "salad", "ipa": "/ˈsæləd/", "graphemes": ["s","a","l","a","d"], "phonemes": ["/'s","æ","l","ə","d/"], "phonics": ["/'s","ă","l","ə","d/"], "tags": ["closed"], "hearts": [0,0,0,0,0], "hint": "" },
-    { "number": "🥪 三明治", "word": "sandwich", "ipa": "/ˈsænwɪtʃ/", "graphemes": ["s","a","n","d","w","i","ch"], "phonemes": ["/'s","æ","n","-","w","ɪ","tʃ/"], "phonics": ["/'s","ă","n","-","w","ĭ","ch/"], "tags": ["closed","silent_consonant","digraph"], "hearts": [0,0,0,1,0,0,0], "hint": "d 通常不發音。" },
-    { "number": "🌭 香腸", "word": "sausage", "ipa": "/ˈsɔsɪdʒ/", "graphemes": ["s","au","s","a","ge"], "phonemes": ["/'s","ɔ","s","ɪ","dʒ/"], "phonics": ["/'s","aw","s","ĭ","-j/"], "tags": ["irregular"], "hearts": [0,0,0,1,0,0], "hint": "au 發 /ɔ/；ge 發 /dʒ/。" },
-    { "number": "🦑 海鮮", "word": "seafood", "ipa": "/ˈsifud/", "graphemes": ["s","ea","f","oo","d"], "phonemes": ["/'s","i","f","u","d/"], "phonics": ["/'s","ē","f","ū","d/"], "tags": ["vowel_team"], "hearts": [0,0,0,0,0], "hint": "" },
-    { "number": "🦐 蝦子", "word": "shrimp", "ipa": "/ʃrɪmp/", "graphemes": ["sh","r","i","m","p"], "phonemes": ["/ʃ","r","ɪ","m","p/"], "phonics": ["/sh","r","ĭ","m","p/"], "tags": ["digraph","cluster"], "hearts": [0,0,0,0,0], "hint": "" },
-    { "number": "🥣 湯", "word": "soup", "ipa": "/sup/", "graphemes": ["s","ou","p"], "phonemes": ["/s","u","p/"], "phonics": ["/s","ū","p/"], "tags": ["irregular"], "hearts": [0,1,0], "hint": "ou 發 /u/。" },
-    { "number": "🍝 義大利麵", "word": "spaghetti", "ipa": "/spəˈɡɛti/", "graphemes": ["s","p","a","gh","e","tt","i"], "phonemes": ["/s","p","ə","'ɡ","ɛ","t","i/"], "phonics": ["/s","p","ə","'ɡ","ĕ","t","ē/"], "tags": ["irregular"], "hearts": [0,0,0,1,0,0,1], "hint": "gh 發硬音 /ɡ/。" },
-    { "number": "🥩 牛排", "word": "steak", "ipa": "/steɪk/", "graphemes": ["s","t","ea","k"], "phonemes": ["/s","t","eɪ","k/"], "phonics": ["/s","t","ā","k/"], "tags": ["irregular"], "hearts": [0,0,1,0], "hint": "ea 不規則發 /eɪ/。" },
-    { "number": "豆腐", "word": "tofu", "ipa": "/ˈtoʊfu/", "graphemes": ["t","o","f","u"], "phonemes": ["/'t","oʊ","f","u/"], "phonics": ["/'t","ō","f","ū/"], "tags": ["irregular"], "hearts": [0,0,0,1], "hint": "" }
+    {
+      "number": "🥩 牛肉",
+      "word": "beef",
+      "ipa": "/bif/",
+      "graphemes": [
+        "b",
+        "ee",
+        "f"
+      ],
+      "phonemes": [
+        "/b",
+        "i",
+        "f/"
+      ],
+      "phonics": [
+        "/b",
+        "ē",
+        "f/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ee 發長母音 e /i/。"
+    },
+    {
+      "number": "🍔 漢堡",
+      "word": "burger",
+      "ipa": "/ˈbɝɡɚ/",
+      "graphemes": [
+        "b",
+        "ur",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɝ",
+        "ɡ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'b",
+        "er",
+        "ɡ",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ur 與 er 皆發 /ɝ/。"
+    },
+    {
+      "number": "🐔 雞肉",
+      "word": "chicken",
+      "ipa": "/ˈtʃɪkən/",
+      "graphemes": [
+        "ch",
+        "i",
+        "ck",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "ɪ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ĭ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🥟 水餃",
+      "word": "dumpling",
+      "ipa": "/ˈdʌmplɪŋ/",
+      "graphemes": [
+        "d",
+        "u",
+        "m",
+        "p",
+        "l",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'d",
+        "ʌ",
+        "m",
+        "p",
+        "l",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŭ",
+        "m",
+        "p",
+        "l",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🥚 蛋",
+      "word": "egg",
+      "ipa": "/ɛɡ/",
+      "graphemes": [
+        "e",
+        "gg"
+      ],
+      "phonemes": [
+        "/ɛ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/ĕ",
+        "ɡ/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🍔 速食",
+      "word": "fast food",
+      "ipa": "/fæst fud/",
+      "graphemes": [
+        "f",
+        "a",
+        "s",
+        "t",
+        " ",
+        "f",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/'f",
+        "æ",
+        "s",
+        "t",
+        " ",
+        "f",
+        "u",
+        "d/"
+      ],
+      "phonics": [
+        "/'f",
+        "ă",
+        "s",
+        "t",
+        " ",
+        "f",
+        "ū",
+        "d/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🍱 食物",
+      "word": "food",
+      "ipa": "/fud/",
+      "graphemes": [
+        "f",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/f",
+        "u",
+        "d/"
+      ],
+      "phonics": [
+        "/f",
+        "ū",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發長母音 u /u/。"
+    },
+    {
+      "number": "🐟 魚",
+      "word": "fish",
+      "ipa": "/fɪʃ/",
+      "graphemes": [
+        "f",
+        "i",
+        "sh"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/f",
+        "ĭ",
+        "sh/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🍟 薯條",
+      "word": "French fries",
+      "ipa": "/frɛntʃ fraɪz/",
+      "graphemes": [
+        "F",
+        "r",
+        "e",
+        "n",
+        "ch",
+        " ",
+        "f",
+        "r",
+        "ie",
+        "s"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "ɛ",
+        "n",
+        "tʃ",
+        " ",
+        "'f",
+        "r",
+        "aɪ",
+        "z/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ĕ",
+        "n",
+        "ch",
+        " ",
+        "'f",
+        "r",
+        "ī",
+        "z/"
+      ],
+      "tags": [
+        "cluster",
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "ie 發 /aɪ/；s 發 /z/。"
+    },
+    {
+      "number": "🍖 火腿",
+      "word": "ham",
+      "ipa": "/hæm/",
+      "graphemes": [
+        "h",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🍔 漢堡",
+      "word": "hamburger",
+      "ipa": "/ˈhæmbɝɡɚ/",
+      "graphemes": [
+        "h",
+        "a",
+        "m",
+        "b",
+        "ur",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "æ",
+        "m",
+        "b",
+        "ɝ",
+        "ɡ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ă",
+        "m",
+        "b",
+        "er",
+        "ɡ",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🌭 熱狗",
+      "word": "hot dog",
+      "ipa": "/hɑt dɔɡ/",
+      "graphemes": [
+        "h",
+        "o",
+        "t",
+        " ",
+        "d",
+        "o",
+        "g"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɑ",
+        "t",
+        " ",
+        "d",
+        "ɑ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŏ",
+        "t",
+        " ",
+        "d",
+        "ŏ",
+        "ɡ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🍜 泡麵",
+      "word": "instant noodles",
+      "ipa": "/ˈɪnstənt ˈnudlz/",
+      "graphemes": [
+        "i",
+        "n",
+        "s",
+        "t",
+        "a",
+        "n",
+        "t",
+        " ",
+        "n",
+        "oo",
+        "d",
+        "le",
+        "s"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "t",
+        " ",
+        "'n",
+        "u",
+        "d",
+        "əl",
+        "z/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "t",
+        " ",
+        "'n",
+        "ū",
+        "d",
+        "əl",
+        "z/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🥩 肉類",
+      "word": "meat",
+      "ipa": "/mit/",
+      "graphemes": [
+        "m",
+        "ea",
+        "t"
+      ],
+      "phonemes": [
+        "/m",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/m",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "肉丸",
+      "word": "meatballs",
+      "ipa": "/ˈmitbɔlz/",
+      "graphemes": [
+        "m",
+        "ea",
+        "t",
+        "b",
+        "a",
+        "ll",
+        "s"
+      ],
+      "phonemes": [
+        "/'m",
+        "i",
+        "t",
+        "b",
+        "ɔ",
+        "l",
+        "z/"
+      ],
+      "phonics": [
+        "/'m",
+        "ē",
+        "t",
+        "b",
+        "aw",
+        "l",
+        "z/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "a 在 l 前發 /ɔ/。"
+    },
+    {
+      "number": "🍜 麵",
+      "word": "noodles",
+      "ipa": "/ˈnudlz/",
+      "graphemes": [
+        "n",
+        "oo",
+        "d",
+        "le",
+        "s"
+      ],
+      "phonemes": [
+        "/'n",
+        "u",
+        "d",
+        "əl",
+        "z/"
+      ],
+      "phonics": [
+        "/'n",
+        "ū",
+        "d",
+        "əl",
+        "z/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cle",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🍝 義大利麵",
+      "word": "pasta",
+      "ipa": "/ˈpɑstə/",
+      "graphemes": [
+        "p",
+        "a",
+        "s",
+        "t",
+        "a"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑ",
+        "s",
+        "t",
+        "ə/"
+      ],
+      "phonics": [
+        "/'p",
+        "ŏ",
+        "s",
+        "t",
+        "ə/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "a 發 /ɑ/。"
+    },
+    {
+      "number": "🍕 披薩",
+      "word": "pizza",
+      "ipa": "/ˈpitsə/",
+      "graphemes": [
+        "p",
+        "i",
+        "zz",
+        "a"
+      ],
+      "phonemes": [
+        "/'p",
+        "i",
+        "ts",
+        "ə/"
+      ],
+      "phonics": [
+        "/'p",
+        "ē",
+        "ts",
+        "ə/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "來自義大利文；i 發 /i/；zz 發 /ts/。"
+    },
+    {
+      "number": "🐷 豬肉",
+      "word": "pork",
+      "ipa": "/pɔrk/",
+      "graphemes": [
+        "p",
+        "or",
+        "k"
+      ],
+      "phonemes": [
+        "/p",
+        "ɔr",
+        "k/"
+      ],
+      "phonics": [
+        "/p",
+        "or",
+        "k/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🍚 米飯",
+      "word": "rice",
+      "ipa": "/raɪs/",
+      "graphemes": [
+        "r",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/r",
+        "aɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/r",
+        "ī",
+        "s/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "c 在 e 前發 /s/。"
+    },
+    {
+      "number": "🥗 沙拉",
+      "word": "salad",
+      "ipa": "/ˈsæləd/",
+      "graphemes": [
+        "s",
+        "a",
+        "l",
+        "a",
+        "d"
+      ],
+      "phonemes": [
+        "/'s",
+        "æ",
+        "l",
+        "ə",
+        "d/"
+      ],
+      "phonics": [
+        "/'s",
+        "ă",
+        "l",
+        "ə",
+        "d/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🥪 三明治",
+      "word": "sandwich",
+      "ipa": "/ˈsænwɪtʃ/",
+      "graphemes": [
+        "s",
+        "a",
+        "n",
+        "d",
+        "w",
+        "i",
+        "ch"
+      ],
+      "phonemes": [
+        "/'s",
+        "æ",
+        "n",
+        "-",
+        "w",
+        "ɪ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ă",
+        "n",
+        "-",
+        "w",
+        "ĭ",
+        "ch/"
+      ],
+      "tags": [
+        "closed",
+        "silent_consonant",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "d 通常不發音。"
+    },
+    {
+      "number": "🌭 香腸",
+      "word": "sausage",
+      "ipa": "/ˈsɔsɪdʒ/",
+      "graphemes": [
+        "s",
+        "au",
+        "s",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɔ",
+        "s",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'s",
+        "aw",
+        "s",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "au 發 /ɔ/；ge 發 /dʒ/。"
+    },
+    {
+      "number": "🦑 海鮮",
+      "word": "seafood",
+      "ipa": "/ˈsifud/",
+      "graphemes": [
+        "s",
+        "ea",
+        "f",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/'s",
+        "i",
+        "f",
+        "u",
+        "d/"
+      ],
+      "phonics": [
+        "/'s",
+        "ē",
+        "f",
+        "ū",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🦐 蝦子",
+      "word": "shrimp",
+      "ipa": "/ʃrɪmp/",
+      "graphemes": [
+        "sh",
+        "r",
+        "i",
+        "m",
+        "p"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "r",
+        "ɪ",
+        "m",
+        "p/"
+      ],
+      "phonics": [
+        "/sh",
+        "r",
+        "ĭ",
+        "m",
+        "p/"
+      ],
+      "tags": [
+        "digraph",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": ""
+    },
+    {
+      "number": "🥣 湯",
+      "word": "soup",
+      "ipa": "/sup/",
+      "graphemes": [
+        "s",
+        "ou",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "u",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "ū",
+        "p/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ou 發 /u/。"
+    },
+    {
+      "number": "🍝 義大利麵",
+      "word": "spaghetti",
+      "ipa": "/spəˈɡɛti/",
+      "graphemes": [
+        "s",
+        "p",
+        "a",
+        "gh",
+        "e",
+        "tt",
+        "i"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ə",
+        "'ɡ",
+        "ɛ",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ə",
+        "'ɡ",
+        "ĕ",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "hint": "gh 發硬音 /ɡ/。"
+    },
+    {
+      "number": "🥩 牛排",
+      "word": "steak",
+      "ipa": "/steɪk/",
+      "graphemes": [
+        "s",
+        "t",
+        "ea",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "eɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ā",
+        "k/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "ea 不規則發 /eɪ/。"
+    },
+    {
+      "number": "豆腐",
+      "word": "tofu",
+      "ipa": "/ˈtoʊfu/",
+      "graphemes": [
+        "t",
+        "o",
+        "f",
+        "u"
+      ],
+      "phonemes": [
+        "/'t",
+        "oʊ",
+        "f",
+        "u/"
+      ],
+      "phonics": [
+        "/'t",
+        "ō",
+        "f",
+        "ū/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": ""
+    }
   ]
 }

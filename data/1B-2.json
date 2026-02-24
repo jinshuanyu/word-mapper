@@ -4,374 +4,1130 @@
       "number": "🔒 鎖",
       "word": "lock",
       "ipa": "/lɑk/",
-      "graphemes": ["l", "o", "ck"],
-      "phonemes": ["/l", "ɑ", "k/"],
-      "phonics": ["/l", "ŏ", "k/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "l",
+        "o",
+        "ck"
+      ],
+      "phonemes": [
+        "/l",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/l",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；ck 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "👀 看",
       "word": "look",
       "ipa": "/lʊk/",
-      "graphemes": ["l", "oo", "k"],
-      "phonemes": ["/l", "ʊ", "k/"],
-      "phonics": ["/l", "oo", "k/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "l",
+        "oo",
+        "k"
+      ],
+      "phonemes": [
+        "/l",
+        "ʊ",
+        "k/"
+      ],
+      "phonics": [
+        "/l",
+        "oo",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；oo 對應 /ʊ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🔥 匹配",
       "word": "match",
       "ipa": "/mætʃ/",
-      "graphemes": ["m", "a", "tch"],
-      "phonemes": ["/m", "æ", "tʃ/"],
-      "phonics": ["/m", "ă", "ch/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "tch"
+      ],
+      "phonemes": [
+        "/m",
+        "æ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/m",
+        "ă",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；tch 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "😢 想念",
       "word": "miss",
       "ipa": "/mɪs/",
-      "graphemes": ["m", "i", "ss"],
-      "phonemes": ["/m", "ɪ", "s/"],
-      "phonics": ["/m", "ĭ", "s/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "ss"
+      ],
+      "phonemes": [
+        "/m",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；ss 為 floss；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🥣 混合",
       "word": "mix",
       "ipa": "/mɪks/",
-      "graphemes": ["m", "i", "x"],
-      "phonemes": ["/m", "ɪ", "ks/"],
-      "phonics": ["/m", "ĭ", "ks/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "x"
+      ],
+      "phonemes": [
+        "/m",
+        "ɪ",
+        "ks/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭ",
+        "ks/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；x 對應 /ks/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "👀 注意",
       "word": "notice",
       "ipa": "/ˈnoʊtɪs/",
-      "graphemes": ["n", "o", "t", "i", "c", "e"],
-      "phonemes": ["/'n", "oʊ", "t", "ɪ", "s", "-/"],
-      "phonics": ["/'n", "ō", "t", "ĭ", "s", "-/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "o",
+        "t",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/'n",
+        "oʊ",
+        "t",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/'n",
+        "ō",
+        "t",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 no-（開音節）；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🎒 打包",
       "word": "pack",
       "ipa": "/pæk/",
-      "graphemes": ["p", "a", "ck"],
-      "phonemes": ["/p", "æ", "k/"],
-      "phonics": ["/p", "ă", "k/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "ck"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "k/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；ck 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🅿️ 停車",
       "word": "park",
       "ipa": "/pɑrk/",
-      "graphemes": ["p", "ar", "k"],
-      "phonemes": ["/p", "ɑr", "k/"],
-      "phonics": ["/p", "ɑr", "k/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "ar",
+        "k"
+      ],
+      "phonemes": [
+        "/p",
+        "ɑr",
+        "k/"
+      ],
+      "phonics": [
+        "/p",
+        "ɑr",
+        "k/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；ar 為 r-controlled；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "✅ 通過",
       "word": "pass",
       "ipa": "/pæs/",
-      "graphemes": ["p", "a", "ss"],
-      "phonemes": ["/p", "æ", "s/"],
-      "phonics": ["/p", "ă", "s/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；ss 為 floss；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "⏸ 暫停",
       "word": "pause",
       "ipa": "/pɔz/",
-      "graphemes": ["p", "au", "s", "e"],
-      "phonemes": ["/p", "ɔ", "z", "-/"],
-      "phonics": ["/p", "aw", "z", "-/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "au",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "ɔ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "aw",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；au 對應 /ɔ/。"
     },
     {
       "number": "🫴 挑選",
       "word": "pick",
       "ipa": "/pɪk/",
-      "graphemes": ["p", "i", "ck"],
-      "phonemes": ["/p", "ɪ", "k/"],
-      "phonics": ["/p", "ĭ", "k/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "i",
+        "ck"
+      ],
+      "phonemes": [
+        "/p",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/p",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；ck 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "📍 放置",
       "word": "place",
       "ipa": "/pleɪs/",
-      "graphemes": ["p", "l", "a", "c", "e"],
-      "phonemes": ["/p", "l", "eɪ", "s", "-/"],
-      "phonics": ["/p", "l", "ā", "s", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "a",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "eɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ā",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；pl 混合音；a_e 對應 /eɪ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "📝 練習",
       "word": "practice",
       "ipa": "/ˈpræktɪs/",
-      "graphemes": ["p", "r", "a", "c", "t", "i", "c", "e"],
-      "phonemes": ["/'p", "r", "æ", "k", "t", "ɪ", "s", "-/"],
-      "phonics": ["/'p", "r", "ă", "k", "t", "ĭ", "s", "-/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "a",
+        "c",
+        "t",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "æ",
+        "k",
+        "t",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ă",
+        "k",
+        "t",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 prac-（閉音節）；pr 混合音；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🏭 生產",
       "word": "produce",
       "ipa": "/prəˈdus/",
-      "graphemes": ["p", "r", "o", "d", "u", "c", "e"],
-      "phonemes": ["/p", "r", "ə", "'d", "u", "s", "-/"],
-      "phonics": ["/p", "r", "ə", "'d", "ū", "s", "-/"],
-      "tags": ["cluster", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "d",
+        "u",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "ə",
+        "'d",
+        "u",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ə",
+        "'d",
+        "ū",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -duce（開音節）；pr 混合音；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🤝 承諾",
       "word": "promise",
       "ipa": "/ˈprɑmɪs/",
-      "graphemes": ["p", "r", "o", "m", "i", "s", "e"],
-      "phonemes": ["/'p", "r", "ɑ", "m", "ɪ", "s", "-/"],
-      "phonics": ["/'p", "r", "ŏ", "m", "ĭ", "s", "-/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "m",
+        "i",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɑ",
+        "m",
+        "ɪ",
+        "s",
+        "-/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ŏ",
+        "m",
+        "ĭ",
+        "s",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 prom-（閉音節）；pr 混合音；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🗣 發音",
       "word": "pronounce",
       "ipa": "/prəˈnaʊns/",
-      "graphemes": ["p", "r", "o", "n", "ou", "n", "c", "e"],
-      "phonemes": ["/p", "r", "ə", "'n", "aʊ", "n", "s", "-/"],
-      "phonics": ["/p", "r", "ə", "'n", "ow", "n", "s", "-/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "n",
+        "ou",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "ə",
+        "'n",
+        "aʊ",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ə",
+        "'n",
+        "ow",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -nounce；pr 混合音；ou 對應 /aʊ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "👉 推",
       "word": "push",
       "ipa": "/pʊʃ/",
-      "graphemes": ["p", "u", "sh"],
-      "phonemes": ["/p", "ʊ", "ʃ/"],
-      "phonics": ["/p", "oo", "sh/"],
-      "tags": ["digraph", "irregular"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "p",
+        "u",
+        "sh"
+      ],
+      "phonemes": [
+        "/p",
+        "ʊ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/p",
+        "oo",
+        "sh/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；u 對應 /ʊ/（需記）；sh 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🤲 到達",
       "word": "reach",
       "ipa": "/ritʃ/",
-      "graphemes": ["r", "ea", "ch"],
-      "phonemes": ["/r", "i", "tʃ/"],
-      "phonics": ["/r", "ē", "ch/"],
-      "tags": ["vowel_team", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "ea",
+        "ch"
+      ],
+      "phonemes": [
+        "/r",
+        "i",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/r",
+        "ē",
+        "ch/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；ea 對應 /i/；ch 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
-   {
+    {
       "number": "🏃 衝",
       "word": "rush",
       "ipa": "/rʌʃ/",
-      "graphemes": ["r", "u", "sh"],
-      "phonemes": ["/r", "ʌ", "ʃ/"],
-      "phonics": ["/r", "ŭ", "sh/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "u",
+        "sh"
+      ],
+      "phonemes": [
+        "/r",
+        "ʌ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/r",
+        "ŭ",
+        "sh/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；sh 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🔍 搜尋",
       "word": "search",
       "ipa": "/sɝtʃ/",
-      "graphemes": ["s", "ear", "ch"],
-      "phonemes": ["/s", "ɝ", "tʃ/"],
-      "phonics": ["/s", "er", "ch/"],
-      "tags": ["rcontrolled", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "ear",
+        "ch"
+      ],
+      "phonemes": [
+        "/s",
+        "ɝ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/s",
+        "er",
+        "ch/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；ear 為 r-controlled；ch 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🤔 似乎",
       "word": "seem",
       "ipa": "/sim/",
-      "graphemes": ["s", "ee", "m"],
-      "phonemes": ["/s", "i", "m/"],
-      "phonics": ["/s", "ē", "m/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "ee",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "i",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "ē",
+        "m/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；ee 對應 /i/。"
     },
     {
       "number": "🚬 抽煙",
       "word": "smoke",
       "ipa": "/smoʊk/",
-      "graphemes": ["s", "m", "o", "k", "e"],
-      "phonemes": ["/s", "m", "oʊ", "k", "-/"],
-      "phonics": ["/s", "m", "ō", "k", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "m",
+        "o",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "oʊ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ō",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；sm 混合音；o_e 對應 /oʊ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🛑 停止",
       "word": "stop",
       "ipa": "/stɑp/",
-      "graphemes": ["s", "t", "o", "p"],
-      "phonemes": ["/s", "t", "ɑ", "p/"],
-      "phonics": ["/s", "t", "ŏ", "p/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "o",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɑ",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ŏ",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；st 混合音；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🤷 假設",
       "word": "suppose",
       "ipa": "/səˈpoʊz/",
-      "graphemes": ["s", "u", "pp", "o", "s", "e"],
-      "phonemes": ["/s", "ə", "'p", "oʊ", "z", "-/"],
-      "phonics": ["/s", "ə", "'p", "ō", "z", "-/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "pp",
+        "o",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "ə",
+        "'p",
+        "oʊ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ə",
+        "'p",
+        "ō",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -pose（開音節）。"
     },
     {
       "number": "🙏 感謝",
       "word": "thank",
       "ipa": "/θæŋk/",
-      "graphemes": ["th", "a", "ng", "k"],
-      "phonemes": ["/θ", "æ", "ŋ", "k/"],
-      "phonics": ["/th", "ă", "ŋ", "k/"],
-      "tags": ["digraph", "cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "th",
+        "a",
+        "ng",
+        "k"
+      ],
+      "phonemes": [
+        "/θ",
+        "æ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/th",
+        "ă",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；th、ng 都是 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "👆 觸摸",
       "word": "touch",
       "ipa": "/tʌtʃ/",
-      "graphemes": ["t", "ou", "ch"],
-      "phonemes": ["/t", "ʌ", "tʃ/"],
-      "phonics": ["/t", "ŭ", "ch/"],
-      "tags": ["irregular", "digraph"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "t",
+        "ou",
+        "ch"
+      ],
+      "phonemes": [
+        "/t",
+        "ʌ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/t",
+        "ŭ",
+        "ch/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；ou 對應 /ʌ/（需記）；ch 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "✏️ 追蹤",
       "word": "trace",
       "ipa": "/treɪs/",
-      "graphemes": ["t", "r", "a", "c", "e"],
-      "phonemes": ["/t", "r", "eɪ", "s", "-/"],
-      "phonics": ["/t", "r", "ā", "s", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "ce"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "eɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ā",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；tr 混合音；a_e 對應 /eɪ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🪤 困住",
       "word": "trap",
       "ipa": "/træp/",
-      "graphemes": ["t", "r", "a", "p"],
-      "phonemes": ["/t", "r", "æ", "p/"],
-      "phonics": ["/t", "r", "ă", "p/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "p"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "æ",
+        "p/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ă",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；tr 混合音；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "⌨️ 打字",
       "word": "type",
       "ipa": "/taɪp/",
-      "graphemes": ["t", "y", "p", "e"],
-      "phonemes": ["/t", "aɪ", "p", "-/"],
-      "phonics": ["/t", "ī", "p", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "t",
+        "y",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "aɪ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "ī",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "單音節；y_e 對應 /aɪ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🚶 走路",
       "word": "walk",
       "ipa": "/wɔk/",
-      "graphemes": ["w", "a","l", "k"],
-      "phonemes": ["/w", "ɔ", "-","k/"],
-      "phonics": ["/w", "aw", "-","k/"],
-      "tags": ["irregular","silent_consonant"],
-      "hearts": [0, 1, 1],
+      "graphemes": [
+        "w",
+        "a",
+        "l",
+        "k"
+      ],
+      "phonemes": [
+        "/w",
+        "ɔ",
+        "-",
+        "k/"
+      ],
+      "phonics": [
+        "/w",
+        "aw",
+        "-",
+        "k/"
+      ],
+      "tags": [
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        1,
+        1
+      ],
       "hint": "單音節；al 對應 /ɔ/（需記）；k 不發音；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🧼 洗",
       "word": "wash",
       "ipa": "/wɑʃ/",
-      "graphemes": ["w", "a", "sh"],
-      "phonemes": ["/w", "ɑ", "ʃ/"],
-      "phonics": ["/w", "ŏ", "sh/"],
-      "tags": ["irregular","digraph"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "w",
+        "a",
+        "sh"
+      ],
+      "phonemes": [
+        "/w",
+        "ɑ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/w",
+        "ŏ",
+        "sh/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；sh 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "⌚ 看",
       "word": "watch",
       "ipa": "/wɑtʃ/",
-      "graphemes": ["w", "a", "tch"],
-      "phonemes": ["/w", "ɑ", "tʃ/"],
-      "phonics": ["/w", "ŏ", "ch/"],
-      "tags": ["irregular","digraph"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "w",
+        "a",
+        "tch"
+      ],
+      "phonemes": [
+        "/w",
+        "ɑ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/w",
+        "ŏ",
+        "ch/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；tch 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🌟 希望",
       "word": "wish",
       "ipa": "/wɪʃ/",
-      "graphemes": ["w", "i", "sh"],
-      "phonemes": ["/w", "ɪ", "ʃ/"],
-      "phonics": ["/w", "ĭ", "sh/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "sh"
+      ],
+      "phonemes": [
+        "/w",
+        "ɪ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/w",
+        "ĭ",
+        "sh/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；sh 為 digraph；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "💼 工作",
       "word": "work",
       "ipa": "/wɝk/",
-      "graphemes": ["w", "or", "k"],
-      "phonemes": ["/w", "ɝ", "k/"],
-      "phonics": ["/w", "er", "k/"],
-      "tags": [ "irregular"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "w",
+        "or",
+        "k"
+      ],
+      "phonemes": [
+        "/w",
+        "ɝ",
+        "k/"
+      ],
+      "phonics": [
+        "/w",
+        "er",
+        "k/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；or 對應 /ɝ/（需記）；字尾無聲子音加 -ed 發 /t/。"
     }
   ]

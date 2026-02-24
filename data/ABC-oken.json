@@ -1,0 +1,776 @@
+{
+  "items": [
+    {
+      "number": "打破(原形)",
+      "word": "break",
+      "ipa": "/breɪk/",
+      "graphemes": [
+        "b",
+        "r",
+        "ea",
+        "k"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "eɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ā",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "br 是 cluster;ea 發長音 ā"
+    },
+    {
+      "number": "打破(過去式)",
+      "word": "broke",
+      "ipa": "/broʊk/",
+      "graphemes": [
+        "b",
+        "r",
+        "o",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "oʊ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ō",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "br 是 cluster;o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "打破(過去分詞)",
+      "word": "broken",
+      "ipa": "/ˈbroʊkən/",
+      "graphemes": [
+        "b",
+        "r",
+        "o",
+        "k",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'b",
+        "r",
+        "oʊ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'b",
+        "r",
+        "ō",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "br 是 cluster;o 在開音節發長音 ō;e 不發音"
+    },
+    {
+      "number": "選擇(原形)",
+      "word": "choose",
+      "ipa": "/tʃuz/",
+      "graphemes": [
+        "ch",
+        "oo",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "u",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/ch",
+        "ū",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "ch 是 digraph;oo 發 ū;e 不發音"
+    },
+    {
+      "number": "選擇(過去式)",
+      "word": "chose",
+      "ipa": "/tʃoʊz/",
+      "graphemes": [
+        "ch",
+        "o",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "oʊ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/ch",
+        "ō",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "ch 是 digraph;o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "選擇(過去分詞)",
+      "word": "chosen",
+      "ipa": "/ˈtʃoʊzən/",
+      "graphemes": [
+        "ch",
+        "o",
+        "s",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "oʊ",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ō",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "ch 是 digraph;o 在開音節發長音 ō;e 不發音"
+    },
+    {
+      "number": "結冰(原形)",
+      "word": "freeze",
+      "ipa": "/friz/",
+      "graphemes": [
+        "f",
+        "r",
+        "ee",
+        "z",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "i",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ē",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fr 是 cluster;ee 發長音 ē;e 不發音"
+    },
+    {
+      "number": "結冰(過去式)",
+      "word": "froze",
+      "ipa": "/froʊz/",
+      "graphemes": [
+        "f",
+        "r",
+        "o",
+        "z",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "oʊ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ō",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fr 是 cluster;o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "結冰(過去分詞)",
+      "word": "frozen",
+      "ipa": "/ˈfroʊzən/",
+      "graphemes": [
+        "f",
+        "r",
+        "o",
+        "z",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'f",
+        "r",
+        "oʊ",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'f",
+        "r",
+        "ō",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fr 是 cluster;o 在開音節發長音 ō;e 不發音"
+    },
+    {
+      "number": "說話(原形)",
+      "word": "speak",
+      "ipa": "/spik/",
+      "graphemes": [
+        "s",
+        "p",
+        "ea",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "i",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ē",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 是 cluster;ea 發長音 ē"
+    },
+    {
+      "number": "說話(過去式)",
+      "word": "spoke",
+      "ipa": "/spoʊk/",
+      "graphemes": [
+        "s",
+        "p",
+        "o",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "oʊ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ō",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 是 cluster;o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "說話(過去分詞)",
+      "word": "spoken",
+      "ipa": "/ˈspoʊkən/",
+      "graphemes": [
+        "s",
+        "p",
+        "o",
+        "k",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'s",
+        "p",
+        "oʊ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'s",
+        "p",
+        "ō",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 是 cluster;o 在開音節發長音 ō;e 發 schwa"
+    },
+    {
+      "number": "偷(原形)",
+      "word": "steal",
+      "ipa": "/stil/",
+      "graphemes": [
+        "s",
+        "t",
+        "ea",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "i",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ē",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 是 cluster;ea 發長音 ē"
+    },
+    {
+      "number": "偷(過去式)",
+      "word": "stole",
+      "ipa": "/stoʊl/",
+      "graphemes": [
+        "s",
+        "t",
+        "o",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "oʊ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ō",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 是 cluster;o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "偷(過去分詞)",
+      "word": "stolen",
+      "ipa": "/ˈstoʊlən/",
+      "graphemes": [
+        "s",
+        "t",
+        "o",
+        "l",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "oʊ",
+        "l",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ō",
+        "l",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 是 cluster;o 在開音節發長音 ō;e 發 schwa"
+    },
+    {
+      "number": "醒來(原形)",
+      "word": "wake",
+      "ipa": "/weɪk/",
+      "graphemes": [
+        "w",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "醒來(過去式)",
+      "word": "woke",
+      "ipa": "/woʊk/",
+      "graphemes": [
+        "w",
+        "o",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "oʊ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ō",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "醒來(過去分詞)",
+      "word": "woken",
+      "ipa": "/ˈwoʊkən/",
+      "graphemes": [
+        "w",
+        "o",
+        "k",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'w",
+        "oʊ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'w",
+        "ō",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o 在開音節發長音 ō;e 發 schwa"
+    },
+    {
+      "number": "編織(原形)",
+      "word": "weave",
+      "ipa": "/wiv/",
+      "graphemes": [
+        "w",
+        "ea",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "i",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ē",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發長音 ē;e 不發音"
+    },
+    {
+      "number": "編織(過去式)",
+      "word": "wove",
+      "ipa": "/woʊv/",
+      "graphemes": [
+        "w",
+        "o",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "oʊ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ō",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "編織(過去分詞)",
+      "word": "woven",
+      "ipa": "/ˈwoʊvən/",
+      "graphemes": [
+        "w",
+        "o",
+        "v",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'w",
+        "oʊ",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'w",
+        "ō",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o 在開音節發長音 ō;e 發 schwa"
+    }
+  ]
+}

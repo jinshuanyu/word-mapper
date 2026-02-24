@@ -4,209 +4,640 @@
       "number": "💵 鈔票/帳單",
       "word": "bill",
       "ipa": "/bɪl/",
-      "graphemes": ["b", "i", "ll"],
-      "phonemes": ["/b", "ɪ", "l/"],
-      "phonics": ["/b", "ĭ", "l/"],
-      "tags": ["cvc", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "b",
+        "i",
+        "ll"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ll 為 Floss Rule (重複字尾)；i 發短音 /ĭ/。"
     },
     {
       "number": "🤲⬅️ 借入",
       "word": "borrow",
       "ipa": "/ˈbɑroʊ/",
-      "graphemes": ["b", "o", "rr", "ow"],
-      "phonemes": ["/'b", "ɑ", "r", "oʊ/"],
-      "phonics": ["/'b", "ŏ", "r", "ō/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "o",
+        "rr",
+        "ow"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɑ",
+        "r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŏ",
+        "r",
+        "ō/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一個 o 發短音 /ŏ/；ow 在字尾發 /ō/。"
     },
     {
       "number": "🛒 購買",
       "word": "buy",
       "ipa": "/baɪ/",
-      "graphemes": ["b", "uy"],
-      "phonemes": ["/b", "aɪ/"],
-      "phonics": ["/b", "ī/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1],
+      "graphemes": [
+        "b",
+        "uy"
+      ],
+      "phonemes": [
+        "/b",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/b",
+        "ī/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
       "hint": "uy 不規則發長音 /ī/。"
     },
     {
       "number": "💵 現金",
       "word": "cash",
       "ipa": "/kæʃ/",
-      "graphemes": ["c", "a", "sh"],
-      "phonemes": ["/k", "æ", "ʃ/"],
-      "phonics": ["/k", "ă", "sh/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "a",
+        "sh"
+      ],
+      "phonemes": [
+        "/k",
+        "æ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/k",
+        "ă",
+        "sh/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "c 發 /k/；sh 為二合字母發 /sh/。"
     },
     {
       "number": "🪙 分(錢)",
       "word": "cent",
       "ipa": "/sɛnt/",
-      "graphemes": ["c", "e", "n", "t"],
-      "phonemes": ["/s", "ɛ", "n", "t/"],
-      "phonics": ["/s", "ĕ", "n", "t/"],
-      "tags": ["closed","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "ɛ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "ĕ",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "c 在 e 前發軟音 /s/。"
     },
     {
       "number": "🪙 零錢",
       "word": "change",
       "ipa": "/tʃeɪndʒ/",
-      "graphemes": ["ch", "a", "n", "g", "e"],
-      "phonemes": ["/tʃ", "eɪ", "n", "dʒ", "-/"],
-      "phonics": ["/ch", "ā", "n", "-j", "-/"],
-      "tags": ["digraph", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "ch",
+        "a",
+        "n",
+        "ge"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "eɪ",
+        "n",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/ch",
+        "ā",
+        "n",
+        "j/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ch 發 /ch/；a-e 發長音 /ā/；g 發軟音 /j/。"
     },
     {
       "number": "💳 收費/記帳",
       "word": "charge",
       "ipa": "/tʃɑrdʒ/",
-      "graphemes": ["ch", "ar", "g", "e"],
-      "phonemes": ["/tʃ", "ɑr", "dʒ", "-/"],
-      "phonics": ["/ch", "ɑr", "-j", "-/"],
-      "tags": ["digraph", "rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "ch",
+        "ar",
+        "ge"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "ɑr",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/ch",
+        "ɑr",
+        "j/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ch 發 /ch/；ar 發捲舌音 /ar/；g 發軟音 /j/。"
     },
     {
       "number": "🏷 便宜的",
       "word": "cheap",
       "ipa": "/tʃip/",
-      "graphemes": ["ch", "ea", "p"],
-      "phonemes": ["/tʃ", "i", "p/"],
-      "phonics": ["/ch", "ē", "p/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "ch",
+        "ea",
+        "p"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "i",
+        "p/"
+      ],
+      "phonics": [
+        "/ch",
+        "ē",
+        "p/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發長音 /ē/。"
     },
     {
       "number": "🪙 硬幣",
       "word": "coin",
       "ipa": "/kɔɪn/",
-      "graphemes": ["c", "oi", "n"],
-      "phonemes": ["/k", "ɔɪ", "n/"],
-      "phonics": ["/k", "oi", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "oi",
+        "n"
+      ],
+      "phonemes": [
+        "/k",
+        "ɔɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/k",
+        "oi",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oi 發 /oi/。"
     },
     {
       "number": "💸 成本/花費",
       "word": "cost",
       "ipa": "/kɔst/",
-      "graphemes": ["c", "o", "s", "t"],
-      "phonemes": ["/k", "ɔ", "s", "t/"],
-      "phonics": ["/k", "aw", "s", "t/"],
+      "graphemes": [
+        "c",
+        "o",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "ɔ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "aw",
+        "s",
+        "t/"
+      ],
       "tags": [],
-      "hearts": [0, 0, 0, 0],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 在此發 /aw/ 的音。"
     },
     {
       "number": "💳 信用卡",
       "word": "credit card",
       "ipa": "/ˈkrɛdɪt kɑrd/",
-      "graphemes": ["c", "r", "e", "d", "i", "t", " ", "c", "ar", "d"],
-      "phonemes": ["/'k", "r", "ɛ", "d", "ɪ", "t", " ", "'k", "ɑr", "d/"],
-      "phonics": ["/'k", "r", "ĕ", "d", "ĭ", "t", " ", "'k", "ɑr", "d/"],
-      "tags": ["cluster","closed",  "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "r",
+        "e",
+        "d",
+        "i",
+        "t",
+        " ",
+        "c",
+        "ar",
+        "d"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "ɛ",
+        "d",
+        "ɪ",
+        "t",
+        " ",
+        "'k",
+        "ɑr",
+        "d/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "ĕ",
+        "d",
+        "ĭ",
+        "t",
+        " ",
+        "'k",
+        "ɑr",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發捲舌音 /ar/。"
     },
     {
       "number": "💲 美元",
       "word": "dollar",
       "ipa": "/ˈdɑlɚ/",
-      "graphemes": ["d", "o", "ll", "ar"],
-      "phonemes": ["/'d", "ɑ", "l", "ɚ/"],
-      "phonics": ["/'d", "ŏ", "l", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 1],
+      "graphemes": [
+        "d",
+        "o",
+        "ll",
+        "ar"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɑ",
+        "l",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŏ",
+        "l",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "o 發短音 /ŏ/；字尾 ar 弱化發 /er/。"
     },
     {
       "number": "💰➕ 賺取",
       "word": "earn",
       "ipa": "/ɝn/",
-      "graphemes": ["ear", "n"],
-      "phonemes": ["/ɝ", "n/"],
-      "phonics": ["/er", "n/"],
-      "tags": ["irregular"],
-      "hearts": [1, 0],
+      "graphemes": [
+        "ear",
+        "n"
+      ],
+      "phonemes": [
+        "/ɝ",
+        "n/"
+      ],
+      "phonics": [
+        "/er",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0
+      ],
       "hint": "ear 發捲舌音 /er/。"
     },
     {
       "number": "💎 昂貴的",
       "word": "expensive",
       "ipa": "/ɪkˈspɛnsɪv/",
-      "graphemes": ["e", "x", "p", "e", "n", "s", "i", "v", "e"],
-      "phonemes": ["/ɪ", "ks", "'p", "ɛ", "n", "s", "ɪ", "v", "-/"],
-      "phonics": ["/ĭ", "ks", "'p", "ĕ", "n", "s", "ĭ", "v", "-/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "e",
+        "x",
+        "p",
+        "e",
+        "n",
+        "s",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "ks",
+        "'p",
+        "ɛ",
+        "n",
+        "s",
+        "ɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "ks",
+        "'p",
+        "ĕ",
+        "n",
+        "s",
+        "ĭ",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "x 發 /ks/；字尾 e 不發音。"
     },
     {
       "number": "🤲➡️ 借出",
       "word": "lend",
       "ipa": "/lɛnd/",
-      "graphemes": ["l", "e", "n", "d"],
-      "phonemes": ["/l", "ɛ", "n", "d/"],
-      "phonics": ["/l", "ĕ", "n", "d/"],
-      "tags": ["cvc","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "e",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/l",
+        "ɛ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/l",
+        "ĕ",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "e 發短音 /ĕ/。"
     },
     {
       "number": "💰 錢",
       "word": "money",
       "ipa": "/ˈmʌni/",
-      "graphemes": ["m", "o", "n", "ey"],
-      "phonemes": ["/'m", "ʌ", "n", "i/"],
-      "phonics": ["/'m", "ŭ", "n", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 1],
+      "graphemes": [
+        "m",
+        "o",
+        "n",
+        "ey"
+      ],
+      "phonemes": [
+        "/'m",
+        "ʌ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'m",
+        "ŭ",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "o 不規則發 /ŭ/；ey 發長音 /ē/。"
     },
     {
       "number": "💸 付款",
       "word": "pay",
       "ipa": "/peɪ/",
-      "graphemes": ["p", "ay"],
-      "phonemes": ["/p", "eɪ/"],
-      "phonics": ["/p", "ā/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "p",
+        "ay"
+      ],
+      "phonemes": [
+        "/p",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/p",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ay 發長音 /ā/。"
     },
     {
       "number": "🏷 價格",
       "word": "price",
       "ipa": "/praɪs/",
-      "graphemes": ["p", "r", "i", "c", "e"],
-      "phonemes": ["/p", "r", "aɪ", "s", "-/"],
-      "phonics": ["/p", "r", "ī", "s", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "aɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ī",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i-e 發長音 /ī/；c 在 e 前發軟音 /s/。"
     },
     {
       "number": "💰➖ 花費",
       "word": "spend",
       "ipa": "/spɛnd/",
-      "graphemes": ["s", "p", "e", "n", "d"],
-      "phonemes": ["/s", "p", "ɛ", "n", "d/"],
-      "phonics": ["/s", "p", "ĕ", "n", "d/"],
-      "tags": [ "cluster", "cvc"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "p",
+        "e",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ɛ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ĕ",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sp 為混合音；e 發短音 /ĕ/。"
     }
   ]

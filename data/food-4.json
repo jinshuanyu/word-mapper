@@ -4,330 +4,1075 @@
       "number": "🍺 啤酒",
       "word": "beer",
       "ipa": "/bɪr/",
-      "graphemes": ["b", "ee","r"],
-      "phonemes": ["/b", "ɪ","r/"],
-      "phonics": ["/b", "ĭ","r/"],
-      "tags": ["vowel_team","rcontrolled"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "b",
+        "ee",
+        "r"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "eer 發 /ɪr/。"
     },
     {
       "number": "🍳 早餐",
       "word": "breakfast",
       "ipa": "/ˈbrɛkfəst/",
-      "graphemes": ["b", "r", "ea", "k", "f", "a", "s", "t"],
-      "phonemes": ["/'b", "r", "ɛ", "k", "f", "ə", "s", "t/"],
-      "phonics": ["/'b", "r", "ĕ", "k", "f", "ə", "s", "t/"],
-      "tags": ["cluster","irregular"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "r",
+        "ea",
+        "k",
+        "f",
+        "a",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'b",
+        "r",
+        "ɛ",
+        "k",
+        "f",
+        "ə",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'b",
+        "r",
+        "ĕ",
+        "k",
+        "f",
+        "ə",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發短音 /ɛ/；a 弱化發 /ə/。"
     },
     {
       "number": "🥞 早午餐",
       "word": "brunch",
       "ipa": "/brʌntʃ/",
-      "graphemes": ["b", "r", "u", "n", "ch"],
-      "phonemes": ["/b", "r", "ʌ", "n", "tʃ/"],
-      "phonics": ["/b", "r", "ŭ", "n", "ch/"],
-      "tags": ["cluster","cvc", "digraph"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "r",
+        "u",
+        "n",
+        "ch"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "ʌ",
+        "n",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ŭ",
+        "n",
+        "ch/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ch 發 /tʃ/。"
     },
     {
       "number": "☕ 咖啡",
       "word": "coffee",
       "ipa": "/ˈkɔfi/",
-      "graphemes": ["c", "o", "ff", "ee"],
-      "phonemes": ["/'k", "ɔ", "f", "i/"],
-      "phonics": ["/'k", "aw", "f", "ē/"],
-      "tags": ["closed", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "ff",
+        "ee"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɔ",
+        "f",
+        "i/"
+      ],
+      "phonics": [
+        "/'k",
+        "aw",
+        "f",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 發 /ɔ/；ee 發 /i/。"
     },
     {
       "number": "🥤 可樂",
       "word": "cola",
       "ipa": "/ˈkoʊlə/",
-      "graphemes": ["c", "o", "l", "a"],
-      "phonemes": ["/'k", "oʊ", "l", "ə/"],
-      "phonics": ["/'k", "ō", "l", "ə/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "l",
+        "a"
+      ],
+      "phonemes": [
+        "/'k",
+        "oʊ",
+        "l",
+        "ə/"
+      ],
+      "phonics": [
+        "/'k",
+        "ō",
+        "l",
+        "ə/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "字尾 a 弱化發 /ə/。"
     },
     {
       "number": "🍱 晚餐",
       "word": "dinner",
       "ipa": "/ˈdɪnɚ/",
-      "graphemes": ["d", "i", "nn", "er"],
-      "phonemes": ["/'d", "ɪ", "n", "ɚ/"],
-      "phonics": ["/'d", "ĭ", "n", "er/"],
-      "tags": ["closed", "rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "nn",
+        "er"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "n",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "n",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "er 發捲舌音 /ɚ/。"
     },
     {
       "number": "🥤 飲料",
       "word": "drink",
       "ipa": "/drɪŋk/",
-      "graphemes": ["d", "r", "i", "n", "k"],
-      "phonemes": ["/d", "r", "ɪ", "ŋ", "k/"],
-      "phonics": ["/d", "r", "ĭ", "ŋ", "k/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "n 在 k 前發 /ŋ/。"
     },
     {
       "number": "🧊 冰塊",
       "word": "ice",
       "ipa": "/aɪs/",
-      "graphemes": ["i", "c", "e"],
-      "phonemes": ["/aɪ", "s", "-/"],
-      "phonics": ["/ī", "s", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/aɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/ī",
+        "s/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "i_e 發長母音 /aɪ/；c 發軟音 /s/。"
     },
     {
       "number": "🧃 果汁",
       "word": "juice",
       "ipa": "/dʒus/",
-      "graphemes": ["j", "ui", "c", "e"],
-      "phonemes": ["/dʒ", "u", "s", "-/"],
-      "phonics": ["/-j", "ū", "s", "-/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "j",
+        "ui",
+        "ce"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "u",
+        "s/"
+      ],
+      "phonics": [
+        "/-j",
+        "ū",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "ui 不規則發 /u/。"
     },
     {
       "number": "🍅 番茄醬",
       "word": "ketchup",
       "ipa": "/ˈkɛtʃəp/",
-      "graphemes": ["k", "e", "tch", "u", "p"],
-      "phonemes": ["/'k", "ɛ", "tʃ", "ə", "p/"],
-      "phonics": ["/'k", "ĕ", "ch", "ə", "p/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "k",
+        "e",
+        "tch",
+        "u",
+        "p"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɛ",
+        "tʃ",
+        "ə",
+        "p/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĕ",
+        "ch",
+        "ə",
+        "p/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "tch 發 /tʃ/。"
     },
     {
       "number": "🍋 檸檬水",
       "word": "lemonade",
       "ipa": "/ˌlɛməˈneɪd/",
-      "graphemes": ["l", "e", "m", "o", "n", "a", "d", "e"],
-      "phonemes": ["/l", "ɛ", "m", "ə", "'n", "eɪ", "d", "-/"],
-      "phonics": ["/l", "ĕ", "m", "ə", "'n", "ā", "d", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "e",
+        "m",
+        "o",
+        "n",
+        "a",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/l",
+        "ɛ",
+        "m",
+        "ə",
+        "'n",
+        "eɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/l",
+        "ĕ",
+        "m",
+        "ə",
+        "'n",
+        "ā",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化發 /ə/；a_e 發 /eɪ/。"
     },
     {
       "number": "💧 液體",
       "word": "liquid",
       "ipa": "/ˈlɪkwɪd/",
-      "graphemes": ["l", "i", "qu", "i", "d"],
-      "phonemes": ["/'l", "ɪ", "kw", "ɪ", "d/"],
-      "phonics": ["/'l", "ĭ", "kw", "ĭ", "d/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "i",
+        "qu",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɪ",
+        "kw",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/'l",
+        "ĭ",
+        "kw",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "qu 發 /kw/。"
     },
     {
       "number": "🍱 午餐",
       "word": "lunch",
       "ipa": "/lʌntʃ/",
-      "graphemes": ["l", "u", "n", "ch"],
-      "phonemes": ["/l", "ʌ", "n", "tʃ/"],
-      "phonics": ["/l", "ŭ", "n", "ch/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "u",
+        "n",
+        "ch"
+      ],
+      "phonemes": [
+        "/l",
+        "ʌ",
+        "n",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/l",
+        "ŭ",
+        "n",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發 /ʌ/；ch 發 /tʃ/。"
     },
     {
       "number": "🍱 一餐",
       "word": "meal",
       "ipa": "/mil/",
-      "graphemes": ["m", "ea", "l"],
-      "phonemes": ["/m", "i", "l/"],
-      "phonics": ["/m", "ē", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "ea",
+        "l"
+      ],
+      "phonemes": [
+        "/m",
+        "i",
+        "l/"
+      ],
+      "phonics": [
+        "/m",
+        "ē",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發長母音 /i/。"
     },
     {
       "number": "🥛 牛奶",
       "word": "milk",
       "ipa": "/mɪlk/",
-      "graphemes": ["m", "i", "l", "k"],
-      "phonemes": ["/m", "ɪ", "l", "k/"],
-      "phonics": ["/m", "ĭ", "l", "k/"],
-      "tags": ["cvc", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "l",
+        "k"
+      ],
+      "phonemes": [
+        "/m",
+        "ɪ",
+        "l",
+        "k/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭ",
+        "l",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 發短母音 /ɪ/。"
     },
     {
       "number": "🥤 奶昔",
       "word": "milkshake",
       "ipa": "/ˈmɪlkʃeɪk/",
-      "graphemes": ["m", "i", "l", "k", "sh", "a", "k", "e"],
-      "phonemes": ["/'m", "ɪ", "l", "k", "ʃ", "eɪ", "k", "-/"],
-      "phonics": ["/'m", "ĭ", "l", "k", "sh", "ā", "k", "-/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "l",
+        "k",
+        "sh",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɪ",
+        "l",
+        "k",
+        "ʃ",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĭ",
+        "l",
+        "k",
+        "sh",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "複合字；sh 發 /ʃ/；a_e 發 /eɪ/。"
     },
     {
       "number": "🛢️ 油",
       "word": "oil",
       "ipa": "/ɔɪl/",
-      "graphemes": ["oi", "l"],
-      "phonemes": ["/ɔɪ", "l/"],
-      "phonics": ["/oi", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "oi",
+        "l"
+      ],
+      "phonemes": [
+        "/ɔɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/oi",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "oi 發 /ɔɪ/。"
     },
     {
       "number": "🫑 青椒；胡椒",
       "word": "pepper",
       "ipa": "/ˈpɛpɚ/",
-      "graphemes": ["p", "e", "pp", "er"],
-      "phonemes": ["/'p", "ɛ", "p", "ɚ/"],
-      "phonics": ["/'p", "ĕ", "p", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "e",
+        "pp",
+        "er"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɛ",
+        "p",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ĕ",
+        "p",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "pp 發單音 /p/。"
     },
     {
       "number": "🧺 野餐",
       "word": "picnic",
       "ipa": "/ˈpɪknɪk/",
-      "graphemes": ["p", "i", "c", "n", "i", "c"],
-      "phonemes": ["/'p", "ɪ", "k", "n", "ɪ", "k/"],
-      "phonics": ["/'p", "ĭ", "k", "n", "ĭ", "k/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "p",
+        "i",
+        "c",
+        "n",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɪ",
+        "k",
+        "n",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'p",
+        "ĭ",
+        "k",
+        "n",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "c 發硬音 /k/。"
     },
     {
       "number": "🧂 鹽",
       "word": "salt",
       "ipa": "/sɔlt/",
-      "graphemes": ["s", "a", "l", "t"],
-      "phonemes": ["/s", "ɔ", "l", "t/"],
-      "phonics": ["/s", "aw", "l", "t/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "s",
+        "a",
+        "l",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔ",
+        "l",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "aw",
+        "l",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "a 在 l 前不規則發 /ɔ/ (aw)。"
     },
     {
       "number": "🥣 醬汁",
       "word": "sauce",
       "ipa": "/sɔs/",
-      "graphemes": ["s", "au", "c", "e"],
-      "phonemes": ["/s", "ɔ", "s", "-/"],
-      "phonics": ["/s", "aw", "s", "-/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0, 1],
+      "graphemes": [
+        "s",
+        "au",
+        "ce"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔ",
+        "s/"
+      ],
+      "phonics": [
+        "/s",
+        "aw",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "au 發 /ɔ/；ce 發軟音 /s/。"
     },
     {
       "number": "🍿 點心",
       "word": "snack",
       "ipa": "/snæk/",
-      "graphemes": ["s", "n", "a", "ck"],
-      "phonemes": ["/s", "n", "æ", "k/"],
-      "phonics": ["/s", "n", "ă", "k/"],
-      "tags": ["cluster","cvc", "digraph"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "n",
+        "a",
+        "ck"
+      ],
+      "phonemes": [
+        "/s",
+        "n",
+        "æ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "n",
+        "ă",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ck 發 /k/。"
     },
     {
       "number": "🥤 汽水",
       "word": "soda",
       "ipa": "/ˈsoʊdə/",
-      "graphemes": ["s", "o", "d", "a"],
-      "phonemes": ["/'s", "oʊ", "d", "ə/"],
-      "phonics": ["/'s", "ō", "d", "ə/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "o",
+        "d",
+        "a"
+      ],
+      "phonemes": [
+        "/'s",
+        "oʊ",
+        "d",
+        "ə/"
+      ],
+      "phonics": [
+        "/'s",
+        "ō",
+        "d",
+        "ə/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 發長音 /oʊ/。"
     },
     {
       "number": "🍹 軟性飲料",
       "word": "soft drink",
       "ipa": "/sɔft drɪŋk/",
-      "graphemes": ["s", "o", "f", "t", " ", "d", "r", "i", "n", "k"],
-      "phonemes": ["/'s", "ɔ", "f", "t", "-", "d", "r", "ɪ", "ŋ", "k/"],
-      "phonics": ["/'s", "aw", "f", "t", "-", "d", "r", "ĭ", "ŋ", "k/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "o",
+        "f",
+        "t",
+        " ",
+        "d",
+        "r",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɔ",
+        "f",
+        "t",
+        "-",
+        "d",
+        "r",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/'s",
+        "aw",
+        "f",
+        "t",
+        "-",
+        "d",
+        "r",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "soft 的 o 發 /ɔ/。"
     },
     {
       "number": "🧴 醬油",
       "word": "soy sauce",
       "ipa": "/sɔɪ sɔs/",
-      "graphemes": ["s", "oy", " ", "s", "au", "c", "e"],
-      "phonemes": ["/'s", "ɔɪ", "-", "s", "ɔ", "s", "-/"],
-      "phonics": ["/'s", "oi", "-", "s", "aw", "s", "-/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "oy",
+        " ",
+        "s",
+        "au",
+        "ce"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɔɪ",
+        "-",
+        "s",
+        "ɔ",
+        "s/"
+      ],
+      "phonics": [
+        "/'s",
+        "oi",
+        "-",
+        "s",
+        "aw",
+        "s/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "oy 發 /ɔɪ/；au 發 /ɔ/。"
     },
     {
       "number": "🧂 糖",
       "word": "sugar",
       "ipa": "/ˈʃʊɡɚ/",
-      "graphemes": ["s", "u", "g", "ar"],
-      "phonemes": ["/'ʃ", "ʊ", "ɡ", "ɚ/"],
-      "phonics": ["/'sh", "ʊ", "ɡ", "er/"],
-      "tags": ["irregular"],
-      "hearts": [1, 1, 0, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "g",
+        "ar"
+      ],
+      "phonemes": [
+        "/'ʃ",
+        "ʊ",
+        "ɡ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'sh",
+        "ʊ",
+        "ɡ",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        1,
+        0,
+        0
+      ],
       "hint": "s 不規則發 /ʃ/；u 發 /ʊ/。"
     },
     {
       "number": "🥣 晚餐（簡便）",
       "word": "supper",
       "ipa": "/ˈsʌpɚ/",
-      "graphemes": ["s", "u", "pp", "er"],
-      "phonemes": ["/'s", "ʌ", "p", "ɚ/"],
-      "phonics": ["/'s", "ŭ", "p", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "pp",
+        "er"
+      ],
+      "phonemes": [
+        "/'s",
+        "ʌ",
+        "p",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŭ",
+        "p",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短音 /ʌ/。"
     },
     {
       "number": "🍵 茶",
       "word": "tea",
       "ipa": "/ti/",
-      "graphemes": ["t", "ea"],
-      "phonemes": ["/t", "i/"],
-      "phonics": ["/t", "ē/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "t",
+        "ea"
+      ],
+      "phonemes": [
+        "/t",
+        "i/"
+      ],
+      "phonics": [
+        "/t",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ea 發長母音 /i/。"
     },
     {
       "number": "🍶 醋",
       "word": "vinegar",
       "ipa": "/ˈvɪnɪɡɚ/",
-      "graphemes": ["v", "i", "n", "e", "g", "ar"],
-      "phonemes": ["/'v", "ɪ", "n", "ɪ", "ɡ", "ɚ/"],
-      "phonics": ["/'v", "ĭ", "n", "ĭ", "ɡ", "er/"],
-      "tags": ["closed", "rcontrolled"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "v",
+        "i",
+        "n",
+        "e",
+        "g",
+        "ar"
+      ],
+      "phonemes": [
+        "/'v",
+        "ɪ",
+        "n",
+        "ɪ",
+        "ɡ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'v",
+        "ĭ",
+        "n",
+        "ĭ",
+        "ɡ",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "ar 弱化發 /ɚ/。"
     },
     {
       "number": "💧 水",
       "word": "water",
       "ipa": "/ˈwɑtɚ/",
-      "graphemes": ["w", "a", "t", "er"],
-      "phonemes": ["/'w", "ɑ", "t", "ɚ/"],
-      "phonics": ["/'w", "ŏ", "t", "er/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "w",
+        "a",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɑ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ŏ",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "a 不規則發 /ɑ/。"
     }
   ]

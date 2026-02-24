@@ -4,44 +4,170 @@
       "number": "👶 保母",
       "word": "baby sitter",
       "ipa": "/ˈbeɪbi ˈsɪtɚ/",
-      "graphemes": ["b", "a", "b", "y", " ", "s", "i", "tt", "er"],
-      "phonemes": ["/'b", "eɪ", "b", "i", " ", "s", "ɪ", "t", "ɚ/"],
-      "phonics": ["/'b", "ā", "b", "ē", " ", "s", "ĭ", "t", "er/"],
-      "tags": ["floss", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "b",
+        "y",
+        " ",
+        "s",
+        "i",
+        "tt",
+        "er"
+      ],
+      "phonemes": [
+        "/'b",
+        "eɪ",
+        "b",
+        "i",
+        " ",
+        "s",
+        "ɪ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'b",
+        "ā",
+        "b",
+        "ē",
+        " ",
+        "s",
+        "ĭ",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "floss",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ba- 開音節。"
     },
     {
       "number": "💈 理髮師",
       "word": "barber",
       "ipa": "/ˈbɑrbɚ/",
-      "graphemes": ["b", "ar", "b", "er"],
-      "phonemes": ["/'b", "ɑr", "b", "ɚ/"],
-      "phonics": ["/'b", "ɑr", "b", "er/"],
-      "tags": ["rcontrolled", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "ar",
+        "b",
+        "er"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɑr",
+        "b",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'b",
+        "ɑr",
+        "b",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 bar；ar 為 r-controlled；-er 職業字尾。"
     },
     {
       "number": "💇 美髮師",
       "word": "hairdresser",
       "ipa": "/ˈhɛrdrɛsɚ/",
-      "graphemes": ["h", "ai", "r", "d", "r", "e", "ss", "er"],
-      "phonemes": ["/'h", "ɛ", "r", "d", "r", "ɛ", "s", "ɚ/"],
-      "phonics": ["/'h", "ĕ", "r", "d", "r", "ĕ", "s", "er/"],
-      "tags": ["floss", "rcontrolled", "suffix", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "ai",
+        "r",
+        "d",
+        "r",
+        "e",
+        "ss",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɛ",
+        "r",
+        "d",
+        "r",
+        "ɛ",
+        "s",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĕ",
+        "r",
+        "d",
+        "r",
+        "ĕ",
+        "s",
+        "er/"
+      ],
+      "tags": [
+        "floss",
+        "rcontrolled",
+        "suffix",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 hair；air 發 /ɛr/（需記）；ss 為 floss；-er 字尾。"
     },
     {
       "number": "🍳 廚師",
       "word": "cook",
       "ipa": "/kʊk/",
-      "graphemes": ["c", "oo", "k"],
-      "phonemes": ["/'k", "ʊ", "k/"],
-      "phonics": ["/'k", "oo", "k/"],
-      "tags": ["closed", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "oo",
+        "k"
+      ],
+      "phonemes": [
+        "/k",
+        "ʊ",
+        "k/"
+      ],
+      "phonics": [
+        "/k",
+        "oo",
+        "k/"
+      ],
+      "tags": [
+        "closed",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；oo 對應 /ʊ/。",
       "audio": "audio/food-5/cook.mp3"
     },
@@ -49,143 +175,560 @@
       "number": "🍽 服務生",
       "word": "waiter",
       "ipa": "/ˈweɪtɚ/",
-      "graphemes": ["w", "ai", "t", "er"],
-      "phonemes": ["/'w", "eɪ", "t", "ɚ/"],
-      "phonics": ["/'w", "ā", "t", "er/"],
-      "tags": ["suffix", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "ai",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'w",
+        "eɪ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ā",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "suffix",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 wait；ai 對應 /eɪ/；-er 職業字尾。"
     },
     {
       "number": "🍽 女服務生",
       "word": "waitress",
       "ipa": "/ˈweɪtrəs/",
-      "graphemes": ["w", "ai", "t", "r", "e", "ss"],
-      "phonemes": ["/'w", "eɪ", "t", "r", "ə", "s/"],
-      "phonics": ["/'w", "ā", "t", "r", "ə", "s/"],
-      "tags": ["floss", "suffix", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "ai",
+        "t",
+        "r",
+        "e",
+        "ss"
+      ],
+      "phonemes": [
+        "/'w",
+        "eɪ",
+        "t",
+        "r",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'w",
+        "ā",
+        "t",
+        "r",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "floss",
+        "suffix",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 wait；ai 對應 /eɪ/；ss 為 floss；-ess 字尾。"
     },
     {
       "number": "🏪 店主",
       "word": "shopkeeper",
       "ipa": "/ˈʃɑpkipɚ/",
-      "graphemes": ["sh", "o", "p", "k", "ee", "p", "er"],
-      "phonemes": ["/'ʃ", "ɑ", "p", "k", "i", "p", "ɚ/"],
-      "phonics": ["/'sh", "ŏ", "p", "k", "ē", "p", "er/"],
-      "tags": ["closed", "digraph", "suffix", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "sh",
+        "o",
+        "p",
+        "k",
+        "ee",
+        "p",
+        "er"
+      ],
+      "phonemes": [
+        "/'ʃ",
+        "ɑ",
+        "p",
+        "k",
+        "i",
+        "p",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'sh",
+        "ŏ",
+        "p",
+        "k",
+        "ē",
+        "p",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 shop（閉音節）；sh 為 digraph；-er 字尾。"
     },
     {
       "number": "🧾 店員",
       "word": "clerk",
       "ipa": "/klɝk/",
-      "graphemes": ["c", "l", "er", "k"],
-      "phonemes": ["/'k", "l", "ɝ", "k/"],
-      "phonics": ["/'k", "l", "er", "k/"],
-      "tags": ["cluster", "rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "er",
+        "k"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "ɝ",
+        "k/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "er",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；cl 為混合音；er 對應 /ɝ/。"
     },
     {
       "number": "🙋 助理",
       "word": "assistant",
       "ipa": "/əˈsɪstənt/",
-      "graphemes": ["a", "ss", "i", "s", "t", "a", "n", "t"],
-      "phonemes": ["/ə", "'s", "ɪ", "s", "t", "ə", "n", "t/"],
-      "phonics": ["/ə", "'s", "ĭ", "s", "t", "ə", "n", "t/"],
-      "tags": ["closed",  "suffix"],
-      "hearts": [0, 1, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "ss",
+        "i",
+        "s",
+        "t",
+        "a",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/ə",
+        "'s",
+        "ɪ",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/ə",
+        "'s",
+        "ĭ",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -sist（閉音節）；ss 為 floss；-ant 字尾。"
     },
     {
       "number": "🧹 佣人",
       "word": "servant",
       "ipa": "/ˈsɝvənt/",
-      "graphemes": ["s", "er", "v", "a", "n", "t"],
-      "phonemes": ["/'s", "ɝ", "v", "ə", "n", "t/"],
-      "phonics": ["/'s", "er", "v", "ə", "n", "t/"],
-      "tags": ["rcontrolled", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "er",
+        "v",
+        "a",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɝ",
+        "v",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'s",
+        "er",
+        "v",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 ser；er 對應 /ɝ/；a 弱化 /ə/；-ant 字尾。"
     },
     {
       "number": "🏠 家庭主婦",
       "word": "housewife",
       "ipa": "/ˈhaʊswaɪf/",
-      "graphemes": ["h", "ou", "s", "e", "w", "i", "f", "e"],
-      "phonemes": ["/'h", "aʊ", "s", "-", "w", "aɪ", "f", "-/"],
-      "phonics": ["/'h", "ow", "s", "-", "w", "ī", "f", "-/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "ou",
+        "s",
+        "e",
+        "w",
+        "i",
+        "f",
+        "e"
+      ],
+      "phonemes": [
+        "/'h",
+        "aʊ",
+        "s",
+        "-",
+        "w",
+        "aɪ",
+        "f",
+        "-/"
+      ],
+      "phonics": [
+        "/'h",
+        "ow",
+        "s",
+        "-",
+        "w",
+        "ī",
+        "f",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 house；ou 對應 /aʊ/。"
     },
     {
       "number": "📮 郵差",
       "word": "mailman",
       "ipa": "/ˈmeɪlmæn/",
-      "graphemes": ["m", "ai", "l", "m", "a", "n"],
-      "phonemes": ["/'m", "eɪ", "l", "m", "æ", "n/"],
-      "phonics": ["/'m", "ā", "l", "m", "ă", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "ai",
+        "l",
+        "m",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'m",
+        "eɪ",
+        "l",
+        "m",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/'m",
+        "ā",
+        "l",
+        "m",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 mail；ai 對應 /eɪ/。"
     },
     {
       "number": "📬 郵差(配送)",
       "word": "mail carrier",
       "ipa": "/ˈmeɪl ˈkæriɚ/",
-      "graphemes": ["m", "ai", "l", " ", "c", "a", "rr", "i", "er"],
-      "phonemes": ["/'m", "eɪ", "l", " ", "'k", "æ", "r", "i", "ɚ/"],
-      "phonics": ["/'m", "ā", "l", " ", "'k", "ă", "r", "ē", "er/"],
-      "tags": [ "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "ai",
+        "l",
+        " ",
+        "c",
+        "a",
+        "rr",
+        "i",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "eɪ",
+        "l",
+        " ",
+        "'k",
+        "æ",
+        "r",
+        "i",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ā",
+        "l",
+        " ",
+        "'k",
+        "ă",
+        "r",
+        "ē",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "兩個主重音；mail 有 ai；carr- 閉音節；-er 字尾。"
     },
     {
       "number": "🩺 醫生",
       "word": "doctor",
       "ipa": "/ˈdɑktɚ/",
-      "graphemes": ["d", "o", "c", "t", "or"],
-      "phonemes": ["/'d", "ɑ", "k", "t", "ɚ/"],
-      "phonics": ["/'d", "ŏ", "k", "t", "er/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0, 1],
+      "graphemes": [
+        "d",
+        "o",
+        "c",
+        "t",
+        "or"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɑ",
+        "k",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŏ",
+        "k",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 doc（閉音節）；-or 職業字尾。"
     },
     {
       "number": "🦷 牙醫",
       "word": "dentist",
       "ipa": "/ˈdɛntɪst/",
-      "graphemes": ["d", "e", "n", "t", "i", "s", "t"],
-      "phonemes": ["/'d", "ɛ", "n", "t", "ɪ", "s", "t/"],
-      "phonics": ["/'d", "ĕ", "n", "t", "ĭ", "s", "t/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "e",
+        "n",
+        "t",
+        "i",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɛ",
+        "n",
+        "t",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĕ",
+        "n",
+        "t",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 dent（閉音節）；-ist 職業字尾。"
     },
     {
       "number": "🧑‍⚕️ 護士",
       "word": "nurse",
       "ipa": "/nɝs/",
-      "graphemes": ["n", "ur", "s", "e"],
-      "phonemes": ["/'n", "ɝ", "s", "-/"],
-      "phonics": ["/'n", "er", "s", "-/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 1],
+      "graphemes": [
+        "n",
+        "ur",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/n",
+        "ɝ",
+        "s",
+        "-/"
+      ],
+      "phonics": [
+        "/n",
+        "er",
+        "s",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "單音節；ur 對應 /ɝ/；字尾 e 不發音。"
     },
     {
       "number": "🏥 醫院",
       "word": "hospital",
       "ipa": "/ˈhɑspɪtəl/",
-      "graphemes": ["h", "o", "s", "p", "i", "t", "a", "l"],
-      "phonemes": ["/'h", "ɑ", "s", "p", "ɪ", "t", "ə", "l/"],
-      "phonics": ["/'h", "ŏ", "s", "p", "ĭ", "t", "ə", "l/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "o",
+        "s",
+        "p",
+        "i",
+        "t",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɑ",
+        "s",
+        "p",
+        "ɪ",
+        "t",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŏ",
+        "s",
+        "p",
+        "ĭ",
+        "t",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 hos（閉音節）；al 弱化為 /əl/。"
     }
   ]

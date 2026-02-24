@@ -635,20 +635,44 @@
           "src": "data/ABB-3.json"
         },
         {
-          "label": "A-B-C 型-1",
-          "src": "data/ABC-1.json"
+          "label": "A-B-C sing 型",
+          "desc": "A-B-C sing 型 (i→a→u)",
+          "src": "data/ABC-iau.json"
         },
         {
-          "label": "A-B-C 型-2",
-          "src": "data/ABC-2.json"
+          "label": "A-B-C blow 型",
+          "desc": "A-B-C blow 型 (ow→ew→own)",
+          "src": "data/ABC-ew.json"
         },
         {
-          "label": "A-B-C 型-3",
-          "src": "data/ABC-3.json"
+          "label": "A-B-C drive 型",
+          "desc": "A-B-C drive 型 (i_e→o_e→i_en)",
+          "src": "data/ABC-ioi.json"
         },
         {
-          "label": "A-B-C 型-4",
-          "src": "data/ABC-4.json"
+          "label": "A-B-C speak 型",
+          "desc": "A-B-C speak 型 (→o_e→o_en)",
+          "src": "data/ABC-oken.json"
+        },
+        {
+          "label": "A-B-C take 型",
+          "desc": "A-B-C take 型 (a_e→oo→a_en)",
+          "src": "data/ABC-ook.json"
+        },
+        {
+          "label": "A-B-C give 型",
+          "desc": "A-B-C give 型 (i→a→i)",
+          "src": "data/ABC-ave.json"
+        },
+        {
+          "label": "A-B-C wear 型",
+          "desc": "A-B-C wear 型 (ear→ore→orn)",
+          "src": "data/ABC-orn.json"
+        },
+        {
+          "label": "A-B-C 其他",
+          "desc": "A-B-C 其他不規則",
+          "src": "data/ABC-misc.json"
         }
       ]
     }

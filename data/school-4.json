@@ -4,276 +4,909 @@
       "number": "🔤 字母",
       "word": "alphabet",
       "ipa": "/ˈælfəbɛt/",
-      "graphemes": ["a", "l", "ph", "a", "b", "e", "t"],
-      "phonemes": ["/'æ", "l", "f", "ə", "b", "ɛ", "t/"],
-      "phonics": ["/'ă", "l", "f", "ə", "b", "ĕ", "t/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "ph",
+        "a",
+        "b",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'æ",
+        "l",
+        "f",
+        "ə",
+        "b",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/'ă",
+        "l",
+        "f",
+        "ə",
+        "b",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ph 發 /f/。"
     },
     {
       "number": "💡🙋 回答",
       "word": "answer",
       "ipa": "/ˈænsɚ/",
-      "graphemes": ["a", "n", "s", "w", "er"],
-      "phonemes": ["/'æ", "n", "s", "-", "ɚ/"],
-      "phonics": ["/'ă", "n", "s", "-", "er/"],
-      "tags": ["closed", "silent_consonant"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "a",
+        "n",
+        "s",
+        "w",
+        "er"
+      ],
+      "phonemes": [
+        "/'æ",
+        "n",
+        "s",
+        "-",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ă",
+        "n",
+        "s",
+        "-",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "w 不發音。"
     },
     {
       "number": "❓🙋 詢問",
       "word": "ask",
       "ipa": "/æsk/",
-      "graphemes": ["a", "s", "k"],
-      "phonemes": ["/æ", "s", "k/"],
-      "phonics": ["/ă", "s", "k/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "a",
+        "s",
+        "k"
+      ],
+      "phonemes": [
+        "/æ",
+        "s",
+        "k/"
+      ],
+      "phonics": [
+        "/ă",
+        "s",
+        "k/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🗪 對話",
       "word": "conversation",
       "ipa": "/ˌkɑnvɚˈseɪʃən/",
-      "graphemes": ["c", "o", "n", "v", "er", "s", "a", "tion"],
-      "phonemes": ["/k", "ɑ", "n", "v", "ɚ", "'s", "eɪ", "ʃən/"],
-      "phonics": ["/k", "ŏ", "n", "v", "er", "'s", "ā", "shən/"],
-      "tags": ["open", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "n",
+        "v",
+        "er",
+        "s",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/k",
+        "ɑ",
+        "n",
+        "v",
+        "ɚ",
+        "'s",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/k",
+        "ŏ",
+        "n",
+        "v",
+        "er",
+        "'s",
+        "ā",
+        "shən/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "tion 發 /ʃən/；a 發長母音 /eɪ/。"
     },
     {
       "number": "✏️ 畫畫",
       "word": "draw",
       "ipa": "/drɔ/",
-      "graphemes": ["d", "r", "aw"],
-      "phonemes": ["/d", "r", "ɔ/"],
-      "phonics": ["/d", "r", "aw/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "aw"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ɔ/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "aw/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "aw 發 /ɔ/。"
     },
     {
       "number": "📝 考試",
       "word": "exam",
       "ipa": "/ɪɡˈzæm/",
-      "graphemes": ["e", "x", "a", "m"],
-      "phonemes": ["/ɪ", "ɡ'z", "æ", "m/"],
-      "phonics": ["/ĭ", "ɡ'z", "ă", "m/"],
-      "tags": ["closed"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "ɡ'z",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "ɡ'z",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "x 發 /ɡz/。"
     },
     {
       "number": "📝 例子",
       "word": "example",
       "ipa": "/ɪɡˈzæmpəl/",
-      "graphemes": ["e", "x", "a", "m", "p", "le"],
-      "phonemes": ["/ɪ", "ɡ'z", "æ", "m", "p", "əl/"],
-      "phonics": ["/ĭ", "ɡ'z", "ă", "m", "p", "əl/"],
-      "tags": ["closed", "cle"],
-      "hearts": [0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "a",
+        "m",
+        "p",
+        "le"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "ɡ'z",
+        "æ",
+        "m",
+        "p",
+        "əl/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "ɡ'z",
+        "ă",
+        "m",
+        "p",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "x 發 /ɡz/。"
     },
     {
       "number": "🏃 運動/練習",
       "word": "exercise",
       "ipa": "/ˈɛksɚˌsaɪz/",
-      "graphemes": ["e", "x", "er", "c", "i", "s", "e"],
-      "phonemes": ["/'ɛ", "ks", "ɚ", "s", "aɪ", "z", "-/"],
-      "phonics": ["/'ĕ", "ks", "er", "s", "ī", "z", "-/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "er",
+        "c",
+        "i",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "ks",
+        "ɚ",
+        "s",
+        "aɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "ks",
+        "er",
+        "s",
+        "ī",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "x 發 /ks/；i_e 發 /aɪ/。"
     },
     {
       "number": "❌ 失敗",
       "word": "fail",
       "ipa": "/feɪl/",
-      "graphemes": ["f", "ai", "l"],
-      "phonemes": ["/f", "eɪ", "l/"],
-      "phonics": ["/f", "ā", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "ai",
+        "l"
+      ],
+      "phonemes": [
+        "/f",
+        "eɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/f",
+        "ā",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ai 發 /eɪ/。"
     },
     {
       "number": "🏁 期末考",
       "word": "final",
       "ipa": "/ˈfaɪnəl/",
-      "graphemes": ["f", "i", "n", "a","l"],
-      "phonemes": ["/'f", "aɪ", "n", "ə","l/"],
-      "phonics": ["/'f", "ī", "n", "ə","l/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "i",
+        "n",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'f",
+        "aɪ",
+        "n",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'f",
+        "ī",
+        "n",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 發 /aɪ/。"
     },
     {
       "number": "📊 年級/成績",
       "word": "grade",
       "ipa": "/ɡreɪd/",
-      "graphemes": ["g", "r", "a", "d", "e"],
-      "phonemes": ["/ɡ", "r", "eɪ", "d", "-/"],
-      "phonics": ["/ɡ", "r", "ā", "d", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "eɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ā",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 發 /eɪ/。"
     },
     {
       "number": "🏠📝 作業",
       "word": "homework",
       "ipa": "/ˈhoʊmwɝk/",
-      "graphemes": ["h", "o", "m", "e", "w", "or", "k"],
-      "phonemes": ["/'h", "oʊ", "m", "-", "w", "ɝ", "k/"],
-      "phonics": ["/'h", "ō", "m", "-", "w", "er", "k/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "h",
+        "o",
+        "m",
+        "e",
+        "w",
+        "or",
+        "k"
+      ],
+      "phonemes": [
+        "/'h",
+        "oʊ",
+        "m",
+        "-",
+        "w",
+        "ɝ",
+        "k/"
+      ],
+      "phonics": [
+        "/'h",
+        "ō",
+        "m",
+        "-",
+        "w",
+        "er",
+        "k/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "o_e 發 /oʊ/；or 發 /ɝ/。"
     },
     {
       "number": "🧠 知識",
       "word": "knowledge",
       "ipa": "/ˈnɑlɪdʒ/",
-      "graphemes": ["k","n", "ow", "l", "e", "dge"],
-      "phonemes": ["/-","'n", "ɑ", "l", "ɪ", "dʒ/"],
-      "phonics": ["/-","'n", "ŏ", "l", "ĭ", "-j/"],
-      "tags": ["silent_consonant", "closed", "digraph"],
-      "hearts": [1, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "k",
+        "n",
+        "ow",
+        "l",
+        "e",
+        "dge"
+      ],
+      "phonemes": [
+        "/-",
+        "'n",
+        "ɑ",
+        "l",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/-",
+        "'n",
+        "ŏ",
+        "l",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "kn 發 /n/；ow 發不規則短音 /ŏ/。"
     },
     {
       "number": "📖 學習",
       "word": "learn",
       "ipa": "/lɝn/",
-      "graphemes": ["l", "ear", "n"],
-      "phonemes": ["/l", "ɝ", "n/"],
-      "phonics": ["/l", "er", "n/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "l",
+        "ear",
+        "n"
+      ],
+      "phonemes": [
+        "/l",
+        "ɝ",
+        "n/"
+      ],
+      "phonics": [
+        "/l",
+        "er",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "ear 發 /ɝ/。"
     },
     {
       "number": "👂 聽",
       "word": "listen",
-      "ipa": "/ˈlɪsn/",
-      "graphemes": ["l", "i", "s", "t", "e", "n"],
-      "phonemes": ["/'l", "ɪ", "s", "-", "ə", "n/"],
-      "phonics": ["/'l", "ĭ", "s", "-", "ə", "n/"],
-      "tags": ["closed", "silent_consonant"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "ipa": "/ˈlɪsən/",
+      "graphemes": [
+        "l",
+        "i",
+        "s",
+        "t",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɪ",
+        "s",
+        "-",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'l",
+        "ĭ",
+        "s",
+        "-",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "t 不發音。"
     },
     {
       "number": "✅ 通過",
       "word": "pass",
       "ipa": "/pæs/",
-      "graphemes": ["p", "a", "ss"],
-      "phonemes": ["/p", "æ", "s/"],
-      "phonics": ["/p", "ă", "s/"],
-      "tags": ["cvc", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "📜 詩",
       "word": "poem",
       "ipa": "/ˈpoʊəm/",
-      "graphemes": ["p", "o", "e", "m"],
-      "phonemes": ["/'p", "oʊ", "ə", "m/"],
-      "phonics": ["/'p", "ō", "ə", "m/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "p",
+        "o",
+        "e",
+        "m"
+      ],
+      "phonemes": [
+        "/'p",
+        "oʊ",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'p",
+        "ō",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "o 發 /oʊ/。"
     },
     {
       "number": "❓ 問題",
       "word": "problem",
       "ipa": "/ˈprɑbləm/",
-      "graphemes": ["p", "r", "o", "b", "l", "e", "m"],
-      "phonemes": ["/'p", "r", "ɑ", "b", "l", "ə", "m/"],
-      "phonics": ["/'p", "r", "ŏ", "b", "l", "ə", "m/"],
-      "tags": ["cluster","closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "b",
+        "l",
+        "e",
+        "m"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɑ",
+        "b",
+        "l",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ŏ",
+        "b",
+        "l",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "❓ 測驗",
       "word": "quiz",
       "ipa": "/kwɪz/",
-      "graphemes": ["qu", "i", "z"],
-      "phonemes": ["/kw", "ɪ", "z/"],
-      "phonics": ["/kw", "ĭ", "z/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "qu",
+        "i",
+        "z"
+      ],
+      "phonemes": [
+        "/kw",
+        "ɪ",
+        "z/"
+      ],
+      "phonics": [
+        "/kw",
+        "ĭ",
+        "z/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "qu 視為 /kw/；i 為短母音 /ĭ/。"
     },
-
     {
       "number": "📖 閱讀",
       "word": "read",
       "ipa": "/rid/",
-      "graphemes": ["r", "ea", "d"],
-      "phonemes": ["/r", "i", "d/"],
-      "phonics": ["/r", "ē", "d/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "ea",
+        "d"
+      ],
+      "phonemes": [
+        "/r",
+        "i",
+        "d/"
+      ],
+      "phonics": [
+        "/r",
+        "ē",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發 /i/。"
     },
     {
       "number": "💯 分數",
       "word": "score",
       "ipa": "/skɔr/",
-      "graphemes": ["s", "c", "ore"],
-      "phonemes": ["/s", "k", "ɔr/"],
-      "phonics": ["/s", "k", "or/"],
-      "tags": ["cluster","rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "c",
+        "ore"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "or/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ore 發 /ɔr/。"
     },
     {
       "number": "🗣 說",
       "word": "speak",
       "ipa": "/spik/",
-      "graphemes": ["s", "p", "ea", "k"],
-      "phonemes": ["/s", "p", "i", "k/"],
-      "phonics": ["/s", "p", "ē", "k/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "p",
+        "ea",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "i",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ē",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發 /i/。"
     },
     {
       "number": "📖 讀書",
       "word": "study",
       "ipa": "/ˈstʌdi/",
-      "graphemes": ["s", "t", "u", "d", "y"],
-      "phonemes": ["/'s", "t", "ʌ", "d", "i/"],
-      "phonics": ["/'s", "t", "ŭ", "d", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "u",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ʌ",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ŭ",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "u 發 /ʌ/；y 發 /i/。"
     },
     {
       "number": "👩‍🏫 教導",
       "word": "teach",
       "ipa": "/titʃ/",
-      "graphemes": ["t", "ea", "ch"],
-      "phonemes": ["/t", "i", "tʃ/"],
-      "phonics": ["/t", "ē", "ch/"],
-      "tags": ["vowel_team", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "t",
+        "ea",
+        "ch"
+      ],
+      "phonemes": [
+        "/t",
+        "i",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/t",
+        "ē",
+        "ch/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發 /i/。"
     },
     {
       "number": "✍ 寫",
       "word": "write",
       "ipa": "/raɪt/",
-      "graphemes": ["w","r", "i", "t", "e"],
-      "phonemes": ["/-","r", "aɪ", "t", "-/"],
-      "phonics": ["/-","r", "ī", "t", "-/"],
-      "tags": ["silent_consonant", "magic_e"],
-      "hearts": [1, 0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "r",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/-",
+        "r",
+        "aɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/-",
+        "r",
+        "ī",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "magic_e"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "wr 為二合字母，w 不發音。"
     }
   ]

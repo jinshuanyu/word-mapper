@@ -4,300 +4,1141 @@
       "number": "🦁 勇敢的",
       "word": "brave",
       "ipa": "/breɪv/",
-      "graphemes": ["b", "r", "a", "v", "e"],
-      "phonemes": ["/b", "r", "eɪ", "v", "-/"],
-      "phonics": ["/b", "r", "ā", "v", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "r",
+        "a",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "eɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ā",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 發長母音 /ā/。"
     },
     {
       "number": "小心的",
       "word": "careful",
       "ipa": "/ˈkɛrfəl/",
-      "graphemes": ["c", "a", "r", "e", "f", "u", "l"],
-      "phonemes": ["/'k", "ɛ", "r", "-", "f", "ə", "l/"],
-      "phonics": ["/'k", "ĕ", "r", "-", "f", "ə", "l/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "a",
+        "r",
+        "e",
+        "f",
+        "u",
+        "l"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɛ",
+        "r",
+        "-",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĕ",
+        "r",
+        "-",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "are 不規則發 /ɛr/；ful 弱化。"
     },
     {
       "number": "粗心的",
       "word": "careless",
       "ipa": "/ˈkɛrləs/",
-      "graphemes": ["c", "a", "r", "e",  "l", "e", "ss"],
-      "phonemes": ["/'k", "ɛ", "r", "-", "l", "ə", "s/"],
-      "phonics": ["/'k", "ĕ", "r", "-", "l", "ə", "s/"],
-      "tags": ["rcontrolled", "floss"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "a",
+        "r",
+        "e",
+        "l",
+        "e",
+        "ss"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɛ",
+        "r",
+        "-",
+        "l",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĕ",
+        "r",
+        "-",
+        "l",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "are 不規則發 /ɛr/；less 弱化。"
     },
     {
       "number": "體貼的",
       "word": "considerate",
       "ipa": "/kənˈsɪdərət/",
-      "graphemes": ["c", "o", "n", "s", "i", "d", "er", "a", "t", "e"],
-      "phonemes": ["/k", "ə", "n", "'s", "ɪ", "d", "ɚ", "ə", "t", "-/"],
-      "phonics": ["/k", "ə", "n", "'s", "ĭ", "d", "er", "ə", "t", "-/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "n",
+        "s",
+        "i",
+        "d",
+        "er",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "n",
+        "'s",
+        "ɪ",
+        "d",
+        "ɚ",
+        "ə",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "n",
+        "'s",
+        "ĭ",
+        "d",
+        "er",
+        "ə",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ate 字尾發 /ət/。"
     },
     {
       "number": "😈 殘忍的",
       "word": "cruel",
       "ipa": "/ˈkruəl/",
-      "graphemes": ["c", "r", "u", "e", "l"],
-      "phonemes": ["/'k", "r", "u", "ə", "l/"],
-      "phonics": ["/'k", "r", "ū", "ə", "l/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "c",
+        "r",
+        "u",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "u",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "ū",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "u 發長音 /ū/。"
     },
     {
       "number": "勤勉的",
       "word": "diligent",
       "ipa": "/ˈdɪlədʒənt/",
-      "graphemes": ["d", "i", "l", "i", "g", "e", "n", "t"],
-      "phonemes": ["/'d", "ɪ", "l", "ə", "dʒ", "ə", "n", "t/"],
-      "phonics": ["/'d", "ĭ", "l", "ə", "-j", "ə", "n", "t/"],
-      "tags": [ "irregular"],
-      "hearts": [0, 1, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "l",
+        "i",
+        "g",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "l",
+        "ə",
+        "dʒ",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "l",
+        "ə",
+        "-j",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第二個 i 弱化；g 發軟音 /j/。"
     },
     {
       "number": "🤥 不誠實的",
       "word": "dishonest",
       "ipa": "/dɪsˈɑnɪst/",
-      "graphemes": ["d", "i", "s", "h", "o", "n", "e", "s", "t"],
-      "phonemes": ["/d", "ɪ", "s", "-", "'ɑ", "n", "ɪ", "s", "t/"],
-      "phonics": ["/d", "ĭ", "s", "-", "'ŏ", "n", "ĭ", "s", "t/"],
-      "tags": ["silent_consonant", "closed"],
-      "hearts": [0, 0, 0, 1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "s",
+        "h",
+        "o",
+        "n",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "s",
+        "-",
+        "'ɑ",
+        "n",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "s",
+        "-",
+        "'ŏ",
+        "n",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "h 不發音。"
     },
     {
       "number": "坦率的",
       "word": "frank",
       "ipa": "/fræŋk/",
-      "graphemes": ["f", "r", "a", "n", "k"],
-      "phonemes": ["/f", "r", "æ", "ŋ", "k/"],
-      "phonics": ["/f", "r", "ă", "ŋ", "k/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "r",
+        "a",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "æ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ă",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "n 在 k 前發 /ŋ/。"
     },
     {
       "number": "🤝 友善的",
       "word": "friendly",
       "ipa": "/ˈfrɛndli/",
-      "graphemes": ["f", "r", "ie", "n", "d", "l", "y"],
-      "phonemes": ["/'f", "r", "ɛ", "n", "d", "l", "i/"],
-      "phonics": ["/'f", "r", "ĕ", "n", "d", "l", "ē/"],
-      "tags": ["irregular","suffix"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "r",
+        "ie",
+        "n",
+        "d",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'f",
+        "r",
+        "ɛ",
+        "n",
+        "d",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'f",
+        "r",
+        "ĕ",
+        "n",
+        "d",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ie 不規則發短音 /ĕ/。"
     },
     {
       "number": "慷慨的",
       "word": "generous",
       "ipa": "/ˈdʒɛnɚəs/",
-      "graphemes": ["g", "e", "n", "er", "ou", "s"],
-      "phonemes": ["/'dʒ", "ɛ", "n", "ɚ", "ə", "s/"],
-      "phonics": ["/'-j", "ĕ", "n", "er", "ə", "s/"],
-      "tags": ["rcontrolled", "irregular"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "g",
+        "e",
+        "n",
+        "er",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "ɛ",
+        "n",
+        "ɚ",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ĕ",
+        "n",
+        "er",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "g 發軟音 /j/；ou 發 /ə/。"
     },
     {
       "number": "🐑 溫柔的",
       "word": "gentle",
       "ipa": "/ˈdʒɛntl/",
-      "graphemes": ["g", "e", "n", "t", "le"],
-      "phonemes": ["/'dʒ", "ɛ", "n", "t", "əl/"],
-      "phonics": ["/'-j", "ĕ", "n", "t", "əl/"],
-      "tags": [ "closed","cle"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "e",
+        "n",
+        "t",
+        "le"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "ɛ",
+        "n",
+        "t",
+        "əl/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ĕ",
+        "n",
+        "t",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "g 發軟音 /j/；le 發 /l/。"
     },
     {
       "number": "🤑 貪心的",
       "word": "greedy",
       "ipa": "/ˈɡridi/",
-      "graphemes": ["g", "r", "ee", "d", "y"],
-      "phonemes": ["/'ɡ", "r", "i", "d", "i/"],
-      "phonics": ["/'ɡ", "r", "ē", "d", "ē/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "r",
+        "ee",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "i",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ē",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發長母音 /ē/。"
     },
     {
       "number": "誠實的",
       "word": "honest",
       "ipa": "/ˈɑnɪst/",
-      "graphemes": ["h", "o", "n", "e", "s", "t"],
-      "phonemes": ["-", "'ɑ", "n", "ɪ", "s", "t/"],
-      "phonics": ["-", "'ŏ", "n", "ĭ", "s", "t/"],
-      "tags": ["silent_consonant", "closed"],
-      "hearts": [1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "o",
+        "n",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "-",
+        "'ɑ",
+        "n",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "-",
+        "'ŏ",
+        "n",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "closed"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "h 不發音。"
     },
     {
       "number": "🙇 謙虛的",
       "word": "humble",
       "ipa": "/ˈhʌmbəl/",
-      "graphemes": ["h", "u", "m", "b", "le"],
-      "phonemes": ["/'h", "ʌ", "m", "b", "əl/"],
-      "phonics": ["/'h", "ŭ", "m", "b", "əl/"],
-      "tags": [ "closed","cle"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "u",
+        "m",
+        "b",
+        "le"
+      ],
+      "phonemes": [
+        "/'h",
+        "ʌ",
+        "m",
+        "b",
+        "əl/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŭ",
+        "m",
+        "b",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "le 發 /əl/。"
     },
     {
       "number": "不禮貌的",
       "word": "impolite",
       "ipa": "/ˌɪmpəˈlaɪt/",
-      "graphemes": ["i", "m", "p", "o", "l", "i", "t", "e"],
-      "phonemes": ["/ɪ", "m", "p", "ə", "'l", "aɪ", "t", "-/"],
-      "phonics": ["/ĭ", "m", "p", "ə", "'l", "ī", "t", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "m",
+        "p",
+        "o",
+        "l",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "m",
+        "p",
+        "ə",
+        "'l",
+        "aɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "m",
+        "p",
+        "ə",
+        "'l",
+        "ī",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化；i_e 發 /ī/。"
     },
     {
       "number": "😇 善良的",
       "word": "kind",
       "ipa": "/kaɪnd/",
-      "graphemes": ["k", "i", "n", "d"],
-      "phonemes": ["/k", "aɪ", "n", "d/"],
-      "phonics": ["/k", "ī", "n", "d/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "k",
+        "i",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "aɪ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "ī",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "i 在 nd 前發長音 /ī/。"
     },
     {
       "number": "🦥 懶惰的",
       "word": "lazy",
       "ipa": "/ˈleɪzi/",
-      "graphemes": ["l", "a", "z", "y"],
-      "phonemes": ["/'l", "eɪ", "z", "i/"],
-      "phonics": ["/'l", "ā", "z", "ē/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "a",
+        "z",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "eɪ",
+        "z",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ā",
+        "z",
+        "ē/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發長音 /ā/。"
     },
     {
       "number": "😈 頑皮的",
       "word": "naughty",
       "ipa": "/ˈnɔti/",
-      "graphemes": ["n", "augh", "t", "y"],
-      "phonemes": ["/'n", "ɔ", "t", "i/"],
-      "phonics": ["/'n", "aw", "t", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "n",
+        "augh",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'n",
+        "ɔ",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'n",
+        "aw",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "augh 發 /aw/。"
     },
     {
       "number": "👍 好的/親切的",
       "word": "nice",
       "ipa": "/naɪs/",
-      "graphemes": ["n", "i", "c", "e"],
-      "phonemes": ["/n", "aɪ", "s", "-/"],
-      "phonics": ["/n", "ī", "s", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/n",
+        "aɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/n",
+        "ī",
+        "s/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發 /ī/。"
     },
     {
       "number": "🧘 耐心的",
       "word": "patient",
       "ipa": "/ˈpeɪʃənt/",
-      "graphemes": ["p", "a", "ti", "e", "n", "t"],
-      "phonemes": ["/'p", "eɪ", "ʃ", "ə", "n", "t/"],
-      "phonics": ["/'p", "ā", "sh", "ə", "n", "t/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "ti",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "eɪ",
+        "ʃ",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "ā",
+        "sh",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "ti 發 /sh/。"
     },
     {
       "number": "🎩 有禮貌的",
       "word": "polite",
       "ipa": "/pəˈlaɪt/",
-      "graphemes": ["p", "o", "l", "i", "t", "e"],
-      "phonemes": ["/p", "ə", "'l", "aɪ", "t", "-/"],
-      "phonics": ["/p", "ə", "'l", "ī", "t", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "o",
+        "l",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "ə",
+        "'l",
+        "aɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "ə",
+        "'l",
+        "ī",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化發 /ə/。"
     },
     {
-      "number": "😤 粗魯的", "word": "rude",
+      "number": "😤 粗魯的",
+      "word": "rude",
       "ipa": "/rud/",
-      "graphemes": ["r", "u", "d", "e"],
-      "phonemes": ["/r", "u", "d", "-/"],
-      "phonics": ["/r", "ū", "d", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "u",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "u",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ū",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u_e 發長音 /ū/。"
     },
     {
       "number": "🤳 自私的",
       "word": "selfish",
       "ipa": "/ˈsɛlfɪʃ/",
-      "graphemes": ["s", "e", "l", "f", "i", "sh"],
-      "phonemes": ["/'s", "ɛ", "l", "f", "ɪ", "ʃ/"],
-      "phonics": ["/'s", "ĕ", "l", "f", "ĭ", "sh/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "e",
+        "l",
+        "f",
+        "i",
+        "sh"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɛ",
+        "l",
+        "f",
+        "ɪ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĕ",
+        "l",
+        "f",
+        "ĭ",
+        "sh/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sh 發 /sh/。"
     },
     {
       "number": "😳 害羞的",
       "word": "shy",
       "ipa": "/ʃaɪ/",
-      "graphemes": ["sh", "y"],
-      "phonemes": ["/ʃ", "aɪ/"],
-      "phonics": ["/sh", "ī/"],
-      "tags": ["open", "digraph"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "sh",
+        "y"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/sh",
+        "ī/"
+      ],
+      "tags": [
+        "open",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "y 字尾發 /ī/。"
     },
     {
       "number": "🤝 真誠的",
       "word": "sincere",
       "ipa": "/sɪnˈsɪr/",
-      "graphemes": ["s", "i", "n", "c", "e","r","e"],
-      "phonemes": ["/s", "ɪ", "n", "'s", "ɪ","r","-/"],
-      "phonics": ["/s", "ĭ", "n", "'s", "i","r","-/"],
-      "tags": ["magic_e", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "i",
+        "n",
+        "c",
+        "e",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "ɪ",
+        "n",
+        "'s",
+        "ɪ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ĭ",
+        "n",
+        "'s",
+        "i",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "magic_e",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ere 發 /ir/。"
     },
     {
-      "number": "😼 鬼鬼祟祟的", "word": "sneaky", "ipa": "/ˈsniki/", "graphemes": ["s", "n", "ea", "k", "y"],
-      "phonemes": ["/'s", "n", "i", "k", "i/"],
-      "phonics": ["/'s", "n", "ē", "k", "ē/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "number": "😼 鬼鬼祟祟的",
+      "word": "sneaky",
+      "ipa": "/ˈsniki/",
+      "graphemes": [
+        "s",
+        "n",
+        "ea",
+        "k",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "n",
+        "i",
+        "k",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "n",
+        "ē",
+        "k",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發 /ē/。"
     },
     {
-      "number": "🤏 小氣的", "word": "stingy", "ipa": "/ˈstɪndʒi/",
-      "graphemes": ["s", "t", "i", "n", "g", "y"],
-      "phonemes": ["/'s", "t", "ɪ", "n", "dʒ", "i/"],
-      "phonics": ["/'s", "t", "ĭ", "n", "-j", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "number": "🤏 小氣的",
+      "word": "stingy",
+      "ipa": "/ˈstɪndʒi/",
+      "graphemes": [
+        "s",
+        "t",
+        "i",
+        "n",
+        "g",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ɪ",
+        "n",
+        "dʒ",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ĭ",
+        "n",
+        "-j",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "g 發軟音 /j/。"
     },
     {
-      "number": "🗣 多話的", "word": "talkative", "ipa": "/ˈtɔkətɪv/",
-      "graphemes": ["t", "a", "l", "k", "a", "t", "i", "v", "e"],
-      "phonemes": ["/'t", "ɔ", "-", "k", "ə", "t", "ɪ", "v", "-/"],
-      "phonics": ["/'t", "aw", "-", "k", "ə", "t", "ĭ", "v", "-/"],
-      "tags": ["irregular", "silent_consonant"],
-      "hearts": [0, 0, 1, 0, 1, 0, 0, 0, 0],
+      "number": "🗣 多話的",
+      "word": "talkative",
+      "ipa": "/ˈtɔkətɪv/",
+      "graphemes": [
+        "t",
+        "a",
+        "l",
+        "k",
+        "a",
+        "t",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɔ",
+        "-",
+        "k",
+        "ə",
+        "t",
+        "ɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/'t",
+        "aw",
+        "-",
+        "k",
+        "ə",
+        "t",
+        "ĭ",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "al 發 /aw/；l 不發音；a 弱化。"
     }
   ]

@@ -1,0 +1,367 @@
+{
+  "items": [
+    {
+      "number": "承受(原形)",
+      "word": "bear",
+      "ipa": "/bɛr/",
+      "graphemes": [
+        "b",
+        "ea",
+        "r"
+      ],
+      "phonemes": [
+        "/b",
+        "ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/b",
+        "ĕ",
+        "r/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ear 發 ĕr(不規則)"
+    },
+    {
+      "number": "承受(過去式)",
+      "word": "bore",
+      "ipa": "/bɔr/",
+      "graphemes": [
+        "b",
+        "or",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "ɔr",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "or",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 or;e 不發音"
+    },
+    {
+      "number": "承受(過去分詞)",
+      "word": "born",
+      "ipa": "/bɔrn/",
+      "graphemes": [
+        "b",
+        "or",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ɔr",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "or",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 or"
+    },
+    {
+      "number": "發誓(原形)",
+      "word": "swear",
+      "ipa": "/swɛr/",
+      "graphemes": [
+        "s",
+        "w",
+        "ea",
+        "r"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ĕ",
+        "r/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "sw 是 cluster;ear 發 ĕr(不規則)"
+    },
+    {
+      "number": "發誓(過去式)",
+      "word": "swore",
+      "ipa": "/swɔr/",
+      "graphemes": [
+        "s",
+        "w",
+        "or",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɔr",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "or",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 是 cluster;or 發 or;e 不發音"
+    },
+    {
+      "number": "發誓(過去分詞)",
+      "word": "sworn",
+      "ipa": "/swɔrn/",
+      "graphemes": [
+        "s",
+        "w",
+        "or",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɔr",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "or",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 是 cluster;or 發 or"
+    },
+    {
+      "number": "撕裂(原形)",
+      "word": "tear",
+      "ipa": "/tɛr/",
+      "graphemes": [
+        "t",
+        "ea",
+        "r"
+      ],
+      "phonemes": [
+        "/t",
+        "ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/t",
+        "ĕ",
+        "r/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ear 發 ĕr(不規則)"
+    },
+    {
+      "number": "撕裂(過去式)",
+      "word": "tore",
+      "ipa": "/tɔr/",
+      "graphemes": [
+        "t",
+        "or",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "ɔr",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "or",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 or;e 不發音"
+    },
+    {
+      "number": "撕裂(過去分詞)",
+      "word": "torn",
+      "ipa": "/tɔrn/",
+      "graphemes": [
+        "t",
+        "or",
+        "n"
+      ],
+      "phonemes": [
+        "/t",
+        "ɔr",
+        "n/"
+      ],
+      "phonics": [
+        "/t",
+        "or",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 or"
+    },
+    {
+      "number": "穿(原形)",
+      "word": "wear",
+      "ipa": "/wɛr/",
+      "graphemes": [
+        "w",
+        "ea",
+        "r"
+      ],
+      "phonemes": [
+        "/w",
+        "ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/w",
+        "ĕ",
+        "r/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ear 發 ĕr(不規則)"
+    },
+    {
+      "number": "穿(過去式)",
+      "word": "wore",
+      "ipa": "/wɔr/",
+      "graphemes": [
+        "w",
+        "or",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "ɔr",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "or",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 or;e 不發音"
+    },
+    {
+      "number": "穿(過去分詞)",
+      "word": "worn",
+      "ipa": "/wɔrn/",
+      "graphemes": [
+        "w",
+        "or",
+        "n"
+      ],
+      "phonemes": [
+        "/w",
+        "ɔr",
+        "n/"
+      ],
+      "phonics": [
+        "/w",
+        "or",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 or"
+    }
+  ]
+}

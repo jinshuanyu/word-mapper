@@ -1,0 +1,340 @@
+{
+  "items": [
+    {
+      "number": "搖動(原形)",
+      "word": "shake",
+      "ipa": "/ʃeɪk/",
+      "graphemes": [
+        "sh",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/sh",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sh 是 digraph;a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "搖動(過去式)",
+      "word": "shook",
+      "ipa": "/ʃʊk/",
+      "graphemes": [
+        "sh",
+        "oo",
+        "k"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ʊ",
+        "k/"
+      ],
+      "phonics": [
+        "/sh",
+        "oo",
+        "k/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "sh 是 digraph;oo 發 oo"
+    },
+    {
+      "number": "搖動(過去分詞)",
+      "word": "shaken",
+      "ipa": "/ˈʃeɪkən/",
+      "graphemes": [
+        "sh",
+        "a",
+        "k",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'ʃ",
+        "eɪ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'sh",
+        "ā",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sh 是 digraph;a 在開音節發長音 ā;e 發 schwa"
+    },
+    {
+      "number": "拿(原形)",
+      "word": "take",
+      "ipa": "/teɪk/",
+      "graphemes": [
+        "t",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "拿(過去式)",
+      "word": "took",
+      "ipa": "/tʊk/",
+      "graphemes": [
+        "t",
+        "oo",
+        "k"
+      ],
+      "phonemes": [
+        "/t",
+        "ʊ",
+        "k/"
+      ],
+      "phonics": [
+        "/t",
+        "oo",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發 oo"
+    },
+    {
+      "number": "拿(過去分詞)",
+      "word": "taken",
+      "ipa": "/ˈteɪkən/",
+      "graphemes": [
+        "t",
+        "a",
+        "k",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'t",
+        "eɪ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'t",
+        "ā",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a 在開音節發長音 ā;e 發 schwa"
+    },
+    {
+      "number": "弄錯(原形)",
+      "word": "mistake",
+      "ipa": "/mɪˈsteɪk/",
+      "graphemes": [
+        "m",
+        "i",
+        "s",
+        "t",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/m",
+        "ɪ",
+        "s",
+        "'t",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭ",
+        "s",
+        "'t",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "弄錯(過去式)",
+      "word": "mistook",
+      "ipa": "/mɪˈstʊk/",
+      "graphemes": [
+        "m",
+        "i",
+        "s",
+        "t",
+        "oo",
+        "k"
+      ],
+      "phonemes": [
+        "/m",
+        "ɪ",
+        "s",
+        "'t",
+        "ʊ",
+        "k/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭ",
+        "s",
+        "'t",
+        "oo",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發 oo"
+    },
+    {
+      "number": "弄錯(過去分詞)",
+      "word": "mistaken",
+      "ipa": "/mɪˈsteɪkən/",
+      "graphemes": [
+        "m",
+        "i",
+        "s",
+        "t",
+        "a",
+        "k",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/m",
+        "ɪ",
+        "s",
+        "'t",
+        "eɪ",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭ",
+        "s",
+        "'t",
+        "ā",
+        "k",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a 在開音節發長音 ā;e 發 schwa"
+    }
+  ]
+}

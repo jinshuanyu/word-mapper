@@ -1,133 +1,342 @@
 {
   "items": [
-        {
+    {
       "number": "Be 動詞原形",
       "word": "be",
       "ipa": "/biː/",
-      "graphemes": ["b", "e"],
-      "phonemes": ["/b", "i/"],
-      "phonics": ["/b", "ē/"],
-      "tags": ["open"],
-      "hearts": [false, false],
-          "audio": "audio/be/A.mp3",
+      "graphemes": [
+        "b",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "i/"
+      ],
+      "phonics": [
+        "/b",
+        "ē/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        false,
+        false
+      ],
+      "audio": "audio/be/A.mp3",
       "hint": "e 發長母音 e /i/。"
     },
-        
     {
       "number": "是（現在式；與 I 連用）",
       "word": "am",
       "ipa": "/æm/",
-      "graphemes": ["a","m"],
-      "phonemes": ["/æ","m/"],
-      "phonics": ["/ă","m/"],
-      "tags": ["cvc"],
-      "hearts": [false,false],
+      "graphemes": [
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/æ",
+        "m/"
+      ],
+      "phonics": [
+        "/ă",
+        "m/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false
+      ],
       "hint": "a 發短母音 /æ/。"
     },
     {
       "number": "是（現在式；與 you 連用）",
       "word": "are",
       "ipa": "/ɑr/",
-      "graphemes": ["ar","e"],
-      "phonemes": ["/ɑr","-/"],
-      "phonics": ["/ɑr","-/"],
-      "tags": ["irregular"],
-      "hearts": [false,true],
+      "graphemes": [
+        "ar",
+        "e"
+      ],
+      "phonemes": [
+        "/ɑr",
+        "-/"
+      ],
+      "phonics": [
+        "/ɑr",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true
+      ],
       "hint": "ar 發 /ɑr/；字尾 e 不發音。"
     },
-        {
+    {
       "number": "不是（are not）",
       "word": "aren't",
       "ipa": "/ɑrnt/",
-      "graphemes": ["ar","e","n","'","t"],
-      "phonemes": ["/ɑr","-","n"," ","t/"],
-      "phonics": ["/ɑr","-","n"," ","t/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false,false,false],
+      "graphemes": [
+        "ar",
+        "e",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/ɑr",
+        "-",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/ɑr",
+        "-",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
       "hint": "are + not；ar 發 /ɑr/；e 與 ' 不發音。",
-            "audio": "audio/be/arent.mp3"
+      "audio": "audio/be/arent.mp3"
     },
     {
       "number": "是（現在式；第三人稱單數）",
       "word": "is",
       "ipa": "/ɪz/",
-      "graphemes": ["i","s"],
-      "phonemes": ["/ɪ","z/"],
-      "phonics": ["/ĭ","z/"],
-      "tags": ["irregular"],
-      "hearts": [false,true],
-      
+      "graphemes": [
+        "i",
+        "s"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "z/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "z/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true
+      ],
       "hint": "i 發短母音 i /ɪ/；s 發 /z/。"
     },
-        {
+    {
       "number": "不是（is not）",
       "word": "isn't",
-      "ipa": "/ˈɪzənt/",
-      "graphemes": ["i","s","n","'","t"],
-      "phonemes": ["/'ɪ","z","n"," ","t/"],
-      "phonics": ["/'ĭ","z","n"," ","t/"],
-     "tags": ["irregular"],
-      "hearts": [false,true,true,false,false],
-            "audio": "audio/be/isnt.mp3",
+      "ipa": "/ɪzənt/",
+      "graphemes": [
+        "i",
+        "s",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/be/isnt.mp3",
       "hint": "is + not；s 發 /z/。"
     },
     {
       "number": "是（過去式；第一/三人稱單數）",
       "word": "was",
       "ipa": "/wʌz/",
-      "graphemes": ["w","a","s"],
-      "phonemes": ["/w","ʌ","z/"],
-      "phonics": ["/w","ŭ","z/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,true],
+      "graphemes": [
+        "w",
+        "a",
+        "s"
+      ],
+      "phonemes": [
+        "/w",
+        "ʌ",
+        "z/"
+      ],
+      "phonics": [
+        "/w",
+        "ŭ",
+        "z/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true
+      ],
       "hint": "a 發短母音 u /ʌ/；s 發 /z/。"
     },
-        {
+    {
       "number": "不是（was not）",
       "word": "wasn't",
-      "ipa": "/ˈwɑzənt/",
-      "graphemes": ["w","a","s","n","'","t"],
-      "phonemes": ["/'w","ʌ","z","n"," ","t/"],
-      "phonics": ["/'w","ŭ","z","n"," ","t/"],
- "tags": ["irregular"],
-      "hearts": [false,true,true,true],
-            "audio": "audio/be/wasnt.mp3",
+      "ipa": "/wɑzənt/",
+      "graphemes": [
+        "w",
+        "a",
+        "s",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/w",
+        "ʌ",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "ŭ",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        true
+      ],
+      "audio": "audio/be/wasnt.mp3",
       "hint": "was + not；a 發短母音 o /ɑ/；s 發 /z/。"
     },
     {
       "number": "是（過去式；複數/第二人稱單數）",
       "word": "were",
       "ipa": "/wɝ/",
-      "graphemes": ["w","ere"],
-      "phonemes": ["/w","ɝ/"],
-      "phonics": ["/w","er/"],
-      "tags": ["irregular"],
-      "hearts": [false,true],
+      "graphemes": [
+        "w",
+        "ere"
+      ],
+      "phonemes": [
+        "/w",
+        "ɝ/"
+      ],
+      "phonics": [
+        "/w",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true
+      ],
       "hint": "er 發 /ɝ/；字尾 e 不發音。"
     },
-        {
+    {
       "number": "不是（were not）",
       "word": "weren't",
       "ipa": "/wɝnt/",
-      "graphemes": ["w","ere","n","'","t"],
-      "phonemes": ["/w","ɝ","n"," ","t/"],
-      "phonics": ["/w","er","n"," ","t/"],
-  "tags": ["irregular"],
-      "hearts": [false,true,false,false,false],
-            "audio": "audio/be/werent.mp3",
+      "graphemes": [
+        "w",
+        "ere",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/w",
+        "ɝ",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "er",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "audio": "audio/be/werent.mp3",
       "hint": "were + not；er 發 er /ɝ/；e 與 ' 不發音。"
     },
     {
       "number": "是（過去分詞）",
       "word": "been",
       "ipa": "/bɪn/",
-      "graphemes": ["b","ee","n"],
-      "phonemes": ["/b","ɪ","n/"],
-      "phonics": ["/b","ĭ","n/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false],
+      "graphemes": [
+        "b",
+        "ee",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false
+      ],
       "hint": "ee 發短母音 i /ɪ/。"
     }
-    
   ]
 }

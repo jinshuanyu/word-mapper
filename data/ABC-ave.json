@@ -1,0 +1,357 @@
+{
+  "items": [
+    {
+      "number": "給(原形)",
+      "word": "give",
+      "ipa": "/ɡɪv/",
+      "graphemes": [
+        "g",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ĭ",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "i 發短音 ĭ;e 不發音"
+    },
+    {
+      "number": "給(過去式)",
+      "word": "gave",
+      "ipa": "/ɡeɪv/",
+      "graphemes": [
+        "g",
+        "a",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "eɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ā",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "給(過去分詞)",
+      "word": "given",
+      "ipa": "/ˈɡɪvən/",
+      "graphemes": [
+        "g",
+        "i",
+        "v",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "ɪ",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "ĭ",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;e 發 schwa"
+    },
+    {
+      "number": "原諒(原形)",
+      "word": "forgive",
+      "ipa": "/fɚˈɡɪv/",
+      "graphemes": [
+        "f",
+        "or",
+        "g",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'ɡ",
+        "ɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'ɡ",
+        "ĭ",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "or 發 er;i 發短音 ĭ;e 不發音"
+    },
+    {
+      "number": "原諒(過去式)",
+      "word": "forgave",
+      "ipa": "/fɚˈɡeɪv/",
+      "graphemes": [
+        "f",
+        "or",
+        "g",
+        "a",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'ɡ",
+        "eɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'ɡ",
+        "ā",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 er;a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "原諒(過去分詞)",
+      "word": "forgiven",
+      "ipa": "/fɚˈɡɪvən/",
+      "graphemes": [
+        "f",
+        "or",
+        "g",
+        "i",
+        "v",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'ɡ",
+        "ɪ",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'ɡ",
+        "ĭ",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 er;i 發短音 ĭ;e 發 schwa"
+    },
+    {
+      "number": "禁止(原形)",
+      "word": "forbid",
+      "ipa": "/fɚˈbɪd/",
+      "graphemes": [
+        "f",
+        "or",
+        "b",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'b",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'b",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 er;i 發短音 ĭ"
+    },
+    {
+      "number": "禁止(過去式)",
+      "word": "forbade",
+      "ipa": "/fɚˈbeɪd/",
+      "graphemes": [
+        "f",
+        "or",
+        "b",
+        "a",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'b",
+        "eɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'b",
+        "ā",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 er;a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "禁止(過去分詞)",
+      "word": "forbidden",
+      "ipa": "/fɚˈbɪdən/",
+      "graphemes": [
+        "f",
+        "or",
+        "b",
+        "i",
+        "dd",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'b",
+        "ɪ",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'b",
+        "ĭ",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 er;i 發短音 ĭ;e 發 schwa"
+    }
+  ]
+}

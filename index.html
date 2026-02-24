@@ -1407,7 +1407,7 @@
           'beforeend',
           '<section id="' + t.slug + '_' + (idx + 1) + '_Page" class="page-section">' +
             '<button class="back-button" data-page-target="homePage"><i class="fa-solid fa-arrow-left"></i>返回目錄</button>' +
-            '<h1>' + escapeHtml(t.title) + '（' + escapeHtml(label) + '）</h1>' +
+            '<h1>' + escapeHtml(t.title) + '（' + escapeHtml(lv.desc || label) + '）</h1>' +
             '<div id="' + t.slug + '_' + (idx + 1) + '_Content"></div>' +
           '</section>'
         );

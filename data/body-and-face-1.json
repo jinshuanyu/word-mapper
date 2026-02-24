@@ -1,158 +1,419 @@
 {
-"items": [
-{
-"number": "💪 手臂",
-"word": "arm",
-"ipa": "/ɑrm/",
-"graphemes": ["ar","m"],
-"phonemes": ["/ɑr","m/"],
-"phonics": ["/ɑr","m/"],
-"tags": ["rcontrolled"],
-"hearts": [false,false],
-"hint": "ar 發 /ɑr/。"
-},
-{
-"number": "🧍‍♀️ 身體",
-"word": "body",
-"ipa": "/ˈbɑdi/",
-"graphemes": ["b","o","d","y"],
-"phonemes": ["/'b","ɑ","d","i/"],
-"phonics": ["/'b","ŏ","d","ē/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false],
-"hint": "o 發短母音 o /ɑ/；y 字尾發長母音 e /i/。"
-},
-{
-"number": "👂 耳朵",
-"word": "ear",
-"ipa": "/ɪr/",
-"graphemes": ["ea","r"],
-"phonemes": ["/ɪ","r/"],
-"phonics": ["/ĭ","r/"],
-"tags": ["vowel_team","rcontrolled"],
-"hearts": [false,false],
-"hint": "ear 發 /ɪr/。"
-},
-{
-"number": "👁 眼睛",
-"word": "eye",
-"ipa": "/aɪ/",
-"graphemes": ["eye"],
-"phonemes": ["/aɪ/"],
-"phonics": ["/ī/"],
-"tags": ["irregular"],
-"hearts": [true],
-"hint": "eye 發長母音 i /aɪ/。"
-},
-{
-"number": "🙂 臉",
-"word": "face",
-"ipa": "/feɪs/",
-"graphemes": ["f","a","c","e"],
-"phonemes": ["/f","eɪ","s","-/"],
-"phonics": ["/f","ā","s","-/"],
-"tags": ["magic_e"],
-"hearts": [false,false,false,false],
-"hint": "a_e：a 發長母音 a /eɪ/，e 不發音。"
-},
-{
-"number": "🦶 腳",
-"word": "foot",
-"ipa": "/fʊt/",
-"graphemes": ["f","oo","t"],
-"phonemes": ["/f","ʊ","t/"],
-"phonics": ["/f","oo","t/"],
-"tags": ["vowel_team"],
-"hearts": [false,false,false],
-"hint": "oo 發 /ʊ/。"
-},
-{
-"number": "👣 腳（複數）",
-"word": "feet",
-"ipa": "/fit/",
-"graphemes": ["f","ee","t"],
-"phonemes": ["/f","i","t/"],
-"phonics": ["/f","ē","t/"],
-"tags": ["vowel_team"],
-"hearts": [false,false,false],
-"hint": "ee 發長母音 e /i/。"
-},
-{
-"number": "💇🏻‍♀️ 頭髮",
-"word": "hair",
-"ipa": "/hɛr/",
-"graphemes": ["h","ai","r"],
-"phonemes": ["/h","ɛ","r/"],
-"phonics": ["/h","ĕ","r/"],
-"tags": ["vowel_team","rcontrolled"],
-"hearts": [false,false,false],
-"hint": "air 發 /ɛr/。"
-},
-{
-"number": "✋ 手",
-"word": "hand",
-"ipa": "/hænd/",
-"graphemes": ["h","a","n","d"],
-"phonemes": ["/h","æ","n","d/"],
-"phonics": ["/h","ă","n","d/"],
-"tags": ["cvc","cluster"],
-"hearts": [false,false,false,false],
-"hint": "a 發短母音 a /æ/。"
-},
-{
-"number": "🙂‍↕️ 頭",
-"word": "head",
-"ipa": "/hɛd/",
-"graphemes": ["h","ea","d"],
-"phonemes": ["/h","ɛ","d/"],
-"phonics": ["/h","ĕ","d/"],
-"tags": ["irregular"],
-"hearts": [false,true,false],
-"hint": "ea 發短母音 e /ɛ/。"
-},
-{
-"number": "🦵 腿",
-"word": "leg",
-"ipa": "/lɛɡ/",
-"graphemes": ["l","e","g"],
-"phonemes": ["/l","ɛ","ɡ/"],
-"phonics": ["/l","ĕ","ɡ/"],
-"tags":["cvc"],
-"hearts": [false,false,false],
-"hint": "e 發短母音 e /ɛ/。"
-},
-{
-"number": "👄 嘴巴",
-"word": "mouth",
-"ipa": "/maʊθ/",
-"graphemes": ["m","ou","th"],
-"phonemes": ["/m","aʊ","θ/"],
-"phonics": ["/m","ow","th/"],
-"tags": ["vowel_team","digraph"],
-"hearts": [false,false,false],
-"hint": "ou 發 ow /aʊ/；th 發無聲吐舌音 /θ/。"
-},
-{
-"number": "👃 鼻子",
-"word": "nose",
-"ipa": "/noʊz/",
-"graphemes": ["n","o","s","e"],
-"phonemes": ["/n","oʊ","z","-/"],
-"phonics": ["/n","ō","z","-/"],
-"tags": ["magic_e"],
-"hearts": [false,false,true,false],
-"hint": "o_e：o 發長母音 o /oʊ/，e 不發音；s 發 /z/。"
-},
-{
-"number": "😊 微笑",
-"word": "smile",
-"ipa": "/smaɪl/",
-"graphemes": ["s","m","i","l","e"],
-"phonemes": ["/s","m","aɪ","l","-/"],
-"phonics": ["/s","m","ī","l","-/"],
-"tags": ["cluster","magic_e"],
-"hearts": [false,false,false,false,false],
-"hint": "i_e：i 發長母音 i /aɪ/，e 不發音。"
-}
-]
+  "items": [
+    {
+      "number": "💪 手臂",
+      "word": "arm",
+      "ipa": "/ɑrm/",
+      "graphemes": [
+        "ar",
+        "m"
+      ],
+      "phonemes": [
+        "/ɑr",
+        "m/"
+      ],
+      "phonics": [
+        "/ɑr",
+        "m/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false
+      ],
+      "hint": "ar 發 /ɑr/。"
+    },
+    {
+      "number": "🧍‍♀️ 身體",
+      "word": "body",
+      "ipa": "/ˈbɑdi/",
+      "graphemes": [
+        "b",
+        "o",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɑ",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŏ",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "o 發短母音 o /ɑ/；y 字尾發長母音 e /i/。"
+    },
+    {
+      "number": "👂 耳朵",
+      "word": "ear",
+      "ipa": "/ɪr/",
+      "graphemes": [
+        "ea",
+        "r"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false
+      ],
+      "hint": "ear 發 /ɪr/。"
+    },
+    {
+      "number": "👁 眼睛",
+      "word": "eye",
+      "ipa": "/aɪ/",
+      "graphemes": [
+        "eye"
+      ],
+      "phonemes": [
+        "/aɪ/"
+      ],
+      "phonics": [
+        "/ī/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        true
+      ],
+      "hint": "eye 發長母音 i /aɪ/。"
+    },
+    {
+      "number": "🙂 臉",
+      "word": "face",
+      "ipa": "/feɪs/",
+      "graphemes": [
+        "f",
+        "a",
+        "ce"
+      ],
+      "phonemes": [
+        "/f",
+        "eɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/f",
+        "ā",
+        "s/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "a_e：a 發長母音 a /eɪ/，e 不發音。"
+    },
+    {
+      "number": "🦶 腳",
+      "word": "foot",
+      "ipa": "/fʊt/",
+      "graphemes": [
+        "f",
+        "oo",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "ʊ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "oo",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "oo 發 /ʊ/。"
+    },
+    {
+      "number": "👣 腳（複數）",
+      "word": "feet",
+      "ipa": "/fit/",
+      "graphemes": [
+        "f",
+        "ee",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "ee 發長母音 e /i/。"
+    },
+    {
+      "number": "💇🏻‍♀️ 頭髮",
+      "word": "hair",
+      "ipa": "/hɛr/",
+      "graphemes": [
+        "h",
+        "ai",
+        "r"
+      ],
+      "phonemes": [
+        "/h",
+        "ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/h",
+        "ĕ",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "air 發 /ɛr/。"
+    },
+    {
+      "number": "✋ 手",
+      "word": "hand",
+      "ipa": "/hænd/",
+      "graphemes": [
+        "h",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "a 發短母音 a /æ/。"
+    },
+    {
+      "number": "🙂‍↕️ 頭",
+      "word": "head",
+      "ipa": "/hɛd/",
+      "graphemes": [
+        "h",
+        "ea",
+        "d"
+      ],
+      "phonemes": [
+        "/h",
+        "ɛ",
+        "d/"
+      ],
+      "phonics": [
+        "/h",
+        "ĕ",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false
+      ],
+      "hint": "ea 發短母音 e /ɛ/。"
+    },
+    {
+      "number": "🦵 腿",
+      "word": "leg",
+      "ipa": "/lɛɡ/",
+      "graphemes": [
+        "l",
+        "e",
+        "g"
+      ],
+      "phonemes": [
+        "/l",
+        "ɛ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/l",
+        "ĕ",
+        "ɡ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "e 發短母音 e /ɛ/。"
+    },
+    {
+      "number": "👄 嘴巴",
+      "word": "mouth",
+      "ipa": "/maʊθ/",
+      "graphemes": [
+        "m",
+        "ou",
+        "th"
+      ],
+      "phonemes": [
+        "/m",
+        "aʊ",
+        "θ/"
+      ],
+      "phonics": [
+        "/m",
+        "ow",
+        "th/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "ou 發 ow /aʊ/；th 發無聲吐舌音 /θ/。"
+    },
+    {
+      "number": "👃 鼻子",
+      "word": "nose",
+      "ipa": "/noʊz/",
+      "graphemes": [
+        "n",
+        "o",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/n",
+        "oʊ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/n",
+        "ō",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "hint": "o_e：o 發長母音 o /oʊ/，e 不發音；s 發 /z/。"
+    },
+    {
+      "number": "😊 微笑",
+      "word": "smile",
+      "ipa": "/smaɪl/",
+      "graphemes": [
+        "s",
+        "m",
+        "i",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "aɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ī",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "i_e：i 發長母音 i /aɪ/，e 不發音。"
+    }
+  ]
 }

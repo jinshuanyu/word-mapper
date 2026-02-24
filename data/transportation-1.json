@@ -4,233 +4,775 @@
       "number": "🏢 航空公司",
       "word": "airlines",
       "ipa": "/ˈɛrˌlaɪnz/",
-      "graphemes": ["ai", "r", "l", "i", "n", "e", "s"],
-      "phonemes": ["/'ɛ", "r", "l", "aɪ", "n", "-", "z/"],
-      "phonics": ["/'ĕ", "r", "l", "ī", "n", "-", "z/"],
-      "tags": ["rcontrolled",  "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "ai",
+        "r",
+        "l",
+        "i",
+        "n",
+        "e",
+        "s"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "r",
+        "l",
+        "aɪ",
+        "n",
+        "-",
+        "z/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "r",
+        "l",
+        "ī",
+        "n",
+        "-",
+        "z/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "air 必拆 ai+r；ai 在此不規則對應 /ĕ/；line 為 i_e→/ī/；字尾 s 發 /z/。"
     },
     {
       "number": "🛫 機場",
       "word": "airport",
-      "ipa": "/ˈɛrˌpɔrt/",
-      "graphemes": ["ai", "r", "p", "or", "t"],
-      "phonemes": ["/'ɛ", "r", "p", "ɔr", "t/"],
-      "phonics": ["/'ĕ", "r", "p", "or", "t/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0],
+      "ipa": "/ˈɛrpɔrt/",
+      "graphemes": [
+        "ai",
+        "r",
+        "p",
+        "or",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "r",
+        "p",
+        "ɔr",
+        "t/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "r",
+        "p",
+        "or",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "air 必拆 ai+r（ĕ+r）；or 為 r-controlled。"
     },
     {
       "number": "🚏 公車站",
       "word": "bus stop",
       "ipa": "/ˈbʌs stɑp/",
-      "graphemes": ["b", "u", "s", " ", "s", "t", "o", "p"],
-      "phonemes": ["/'b", "ʌ", "s", " ", "s", "t", "ɑ", "p/"],
-      "phonics": ["/'b", "ŭ", "s", " ", "s", "t", "ŏ", "p/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "u",
+        "s",
+        " ",
+        "s",
+        "t",
+        "o",
+        "p"
+      ],
+      "phonemes": [
+        "/'b",
+        "ʌ",
+        "s",
+        " ",
+        "s",
+        "t",
+        "ɑ",
+        "p/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŭ",
+        "s",
+        " ",
+        "s",
+        "t",
+        "ŏ",
+        "p/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "兩個 CVC 單字，母音發短音。"
     },
     {
       "number": "🚉 車站",
       "word": "station",
       "ipa": "/ˈsteɪʃən/",
-      "graphemes": ["s", "t", "a", "tion"],
-      "phonemes": ["/'s", "t", "eɪ", "ʃən/"],
-      "phonics": ["/'s", "t", "ā", "shun/"],
-      "tags": ["open", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ā",
+        "shun/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "tion 字尾發 /ʃən/。"
     },
     {
       "number": "🧱 街區/積木",
       "word": "block",
       "ipa": "/blɑk/",
-      "graphemes": ["b", "l", "o", "ck"],
-      "phonemes": ["/b", "l", "ɑ", "k/"],
-      "phonics": ["/b", "l", "ŏ", "k/"],
-      "tags": ["cluster","cvc", "digraph"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "l",
+        "o",
+        "ck"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "bl 混合音，ck 發單音 /k/。"
     },
     {
       "number": "🌉 橋樑",
       "word": "bridge",
       "ipa": "/brɪdʒ/",
-      "graphemes": ["b", "r", "i", "dge"],
-      "phonemes": ["/b", "r", "ɪ", "dʒ/"],
-      "phonics": ["/b", "r", "ĭ", "-j/"],
-      "tags": ["cluster", "cvc", "digraph"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "r",
+        "i",
+        "dge"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "dge 對應 /dʒ/，UFLI 寫 /-j/。"
     },
     {
       "number": "🛣️ 公路",
       "word": "highway",
       "ipa": "/ˈhaɪˌweɪ/",
-      "graphemes": ["h", "igh", "w", "ay"],
-      "phonemes": ["/'h", "aɪ", "w", "eɪ/"],
-      "phonics": ["/'h", "ī", "w", "ā/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "igh",
+        "w",
+        "ay"
+      ],
+      "phonemes": [
+        "/'h",
+        "aɪ",
+        "w",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ī",
+        "w",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "igh 發 /aɪ/，ay 字尾發 /eɪ/。"
     },
     {
       "number": "🛣️ 天橋/高架",
       "word": "overpass",
       "ipa": "/ˈoʊvɚˌpæs/",
-      "graphemes": ["o", "v", "er", "p", "a", "ss"],
-      "phonemes": ["/'oʊ", "v", "ɚ", "p", "æ", "s/"],
-      "phonics": ["/'ō", "v", "er", "p", "ă", "s/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "o",
+        "v",
+        "er",
+        "p",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/'oʊ",
+        "v",
+        "ɚ",
+        "p",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/'ō",
+        "v",
+        "er",
+        "p",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 為長音；er 為 r-controlled；ss 發 /s/。"
     },
     {
       "number": "👥 乘客",
       "word": "passenger",
       "ipa": "/ˈpæsəndʒɚ/",
-      "graphemes": ["p", "a", "ss", "e", "n", "g", "er"],
-      "phonemes": ["/'p", "æ", "s", "ə", "n", "dʒ", "ɚ/"],
-      "phonics": ["/'p", "ă", "s", "ə", "n", "-j", "er/"],
-      "tags": ["closed",  "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "ss",
+        "e",
+        "n",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'p",
+        "æ",
+        "s",
+        "ə",
+        "n",
+        "dʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ă",
+        "s",
+        "ə",
+        "n",
+        "-j",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "中間 e 弱化 /ə/；字尾 -er；g 在此發 /dʒ/。"
     },
     {
       "number": "🛤️ 鐵路",
       "word": "railway",
       "ipa": "/ˈreɪlˌweɪ/",
-      "graphemes": ["r", "ai", "l", "w", "ay"],
-      "phonemes": ["/'r", "eɪ", "l", "w", "eɪ/"],
-      "phonics": ["/'r", "ā", "l", "w", "ā/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "ai",
+        "l",
+        "w",
+        "ay"
+      ],
+      "phonemes": [
+        "/'r",
+        "eɪ",
+        "l",
+        "w",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'r",
+        "ā",
+        "l",
+        "w",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ai 和 ay 都發長母音 A /eɪ/。"
     },
     {
       "number": "🚶 人行道",
       "word": "sidewalk",
       "ipa": "/ˈsaɪdˌwɔk/",
-      "graphemes": ["s", "i", "d", "e", "w", "a", "l", "k"],
-      "phonemes": ["/'s", "aɪ", "d", "-", "w", "ɔ", "-", "k/"],
-      "phonics": ["/'s", "ī", "d", "-", "w", "aw", "-", "k/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 1, 1, 0],
+      "graphemes": [
+        "s",
+        "i",
+        "d",
+        "e",
+        "w",
+        "a",
+        "l",
+        "k"
+      ],
+      "phonemes": [
+        "/'s",
+        "aɪ",
+        "d",
+        "-",
+        "w",
+        "ɔ",
+        "-",
+        "k/"
+      ],
+      "phonics": [
+        "/'s",
+        "ī",
+        "d",
+        "-",
+        "w",
+        "aw",
+        "-",
+        "k/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
       "hint": "i_e 發長音；wa 在此對應 /wɔ/（不規則需記）。"
     },
     {
       "number": "🚦 交通",
       "word": "traffic",
       "ipa": "/ˈtræfɪk/",
-      "graphemes": ["t", "r", "a", "ff", "i", "c"],
-      "phonemes": ["/'t", "r", "æ", "f", "ɪ", "k/"],
-      "phonics": ["/'t", "r", "ă", "f", "ĭ", "k/"],
-      "tags": [ "cluster","closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "ff",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "æ",
+        "f",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ă",
+        "f",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 traf（閉音節）；ff 發 /f/。"
     },
     {
       "number": "🛞 輪子",
       "word": "wheel",
       "ipa": "/wil/",
-      "graphemes": ["wh", "ee", "l"],
-      "phonemes": ["/w", "i", "l/"],
-      "phonics": ["/w", "ē", "l/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "wh",
+        "ee",
+        "l"
+      ],
+      "phonemes": [
+        "/w",
+        "i",
+        "l/"
+      ],
+      "phonics": [
+        "/w",
+        "ē",
+        "l/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "wh 發 /w/，ee 發長母音 /ē/。"
     },
     {
       "number": "🏁 到達",
       "word": "arrive",
       "ipa": "/əˈraɪv/",
-      "graphemes": ["a", "rr", "i", "v", "e"],
-      "phonemes": ["/ə", "'r", "aɪ", "v", "-/"],
-      "phonics": ["/ə", "'r", "ī", "v", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [1, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "rr",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/ə",
+        "'r",
+        "aɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/ə",
+        "'r",
+        "ī",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "開頭 a 弱化 /ə/；i_e 發長音 /ī/。"
     },
     {
       "number": "🚗 行駛",
       "word": "drive",
       "ipa": "/draɪv/",
-      "graphemes": ["d", "r", "i", "v", "e"],
-      "phonemes": ["/d", "r", "aɪ", "v", "-/"],
-      "phonics": ["/d", "r", "ī", "v", "-/"],
-      "tags": ["cluster","magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "aɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ī",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "dr 混合音；i_e 發長音 /ī/。"
     },
     {
       "number": "✈️ 飛行",
       "word": "fly",
       "ipa": "/flaɪ/",
-      "graphemes": ["f", "l", "y"],
-      "phonemes": ["/f", "l", "aɪ/"],
-      "phonics": ["/f", "l", "ī/"],
-      "tags": ["cluster","open"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ī/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "y 在單音節字尾發 /aɪ/（UFLI 寫 /ī/）。"
     },
     {
       "number": "🚴 騎乘",
       "word": "ride",
       "ipa": "/raɪd/",
-      "graphemes": ["r", "i", "d", "e"],
-      "phonemes": ["/r", "aɪ", "d", "-/"],
-      "phonics": ["/r", "ī", "d", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發長母音 /ī/。"
     },
     {
       "number": "⛵ 航行",
       "word": "sail",
       "ipa": "/seɪl/",
-      "graphemes": ["s", "ai", "l"],
-      "phonemes": ["/s", "eɪ", "l/"],
-      "phonics": ["/s", "ā", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "ai",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "eɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "ā",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ai 發長母音 /ā/。"
     },
     {
       "number": "🔄 轉彎",
       "word": "turn",
       "ipa": "/tɝn/",
-      "graphemes": ["t", "ur", "n"],
-      "phonemes": ["/t", "ɝ", "n/"],
-      "phonics": ["/t", "er", "n/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "t",
+        "ur",
+        "n"
+      ],
+      "phonemes": [
+        "/t",
+        "ɝ",
+        "n/"
+      ],
+      "phonics": [
+        "/t",
+        "er",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ur 在此為 r-controlled（IPA /ɝ/）。"
     },
     {
       "number": "⚡ 快速的",
       "word": "fast",
       "ipa": "/fæst/",
-      "graphemes": ["f", "a", "s", "t"],
-      "phonemes": ["/f", "æ", "s", "t/"],
-      "phonics": ["/f", "ă", "s", "t/"],
-      "tags": ["cvc", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "a",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "æ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "ă",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /ă/。"
     },
     {
       "number": "🐢 慢的",
       "word": "slow",
       "ipa": "/sloʊ/",
-      "graphemes": ["s", "l", "ow"],
-      "phonemes": ["/s", "l", "oʊ/"],
-      "phonics": ["/s", "l", "ō/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "l",
+        "ow"
+      ],
+      "phonemes": [
+        "/s",
+        "l",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/s",
+        "l",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ow 在此發長母音 /ō/（/oʊ/）。"
     }
   ]
 }
-

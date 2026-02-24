@@ -1,106 +1,319 @@
 {
   "items": [
- 
     {
       "number": "做；助動詞",
       "word": "do",
       "ipa": "/du/",
-      "graphemes": ["d","o"],
-      "phonemes": ["/d","u/"],
-      "phonics": ["/d","ū/"],
-      "tags": ["irregular"],
-      "hearts": [false,true],
+      "graphemes": [
+        "d",
+        "o"
+      ],
+      "phonemes": [
+        "/d",
+        "u/"
+      ],
+      "phonics": [
+        "/d",
+        "ū/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true
+      ],
       "hint": "o 發長母音 u /u/。"
     },
-        {
+    {
       "number": "不要；別（do not）",
       "word": "don't",
       "ipa": "/doʊnt/",
-      "graphemes": ["d","o","n","'","t"],
-      "phonemes": ["/d","oʊ","n"," ","t/"],
-      "phonics": ["/d","ō","n"," ","t/"],
-   "tags": ["irregular"],
-      "hearts": [false,true,false,false,false],
-            "audio": "audio/auxi/dont.mp3",
+      "graphemes": [
+        "d",
+        "o",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/d",
+        "oʊ",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/d",
+        "ō",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/dont.mp3",
       "hint": "do + not；o 發長母音 o /oʊ/；' 不發音。"
     },
     {
       "number": "做（第三人稱單數）",
       "word": "does",
       "ipa": "/dʌz/",
-      "graphemes": ["d","oe","s"],
-      "phonemes": ["/d","ʌ","z/"],
-      "phonics": ["/d","ŭ","z/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,true],
+      "graphemes": [
+        "d",
+        "oe",
+        "s"
+      ],
+      "phonemes": [
+        "/d",
+        "ʌ",
+        "z/"
+      ],
+      "phonics": [
+        "/d",
+        "ŭ",
+        "z/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true
+      ],
       "hint": "oe 發短母音 u /ʌ/；s 發 /z/。"
     },
-        {
+    {
       "number": "不（does not）",
       "word": "doesn't",
-      "ipa": "/ˈdʌzənt/",
-      "graphemes": ["d","o","es","n","'","t"],
-      "phonemes": ["/'d","ʌ","z","n"," ","t/"],
-      "phonics": ["/'d","ŭ","z","n"," ","t/"],
-   "tags": ["irregular"],
-      "hearts": [false,true,true,true,false,false],
-          "audio": "audio/auxi/doesnt.mp3",
+      "ipa": "/dʌzənt/",
+      "graphemes": [
+        "d",
+        "o",
+        "es",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/d",
+        "ʌ",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/d",
+        "ŭ",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/doesnt.mp3",
       "hint": "does + not；oe 發 /ʌ/；s 發 /z/。"
     },
     {
       "number": "做（過去式）",
       "word": "did",
       "ipa": "/dɪd/",
-      "graphemes": ["d","i","d"],
-      "phonemes": ["/d","ɪ","d/"],
-      "phonics": ["/d","ĭ","d/"],
-      "tags": ["cvc"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "d",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "i 發短母音 i /ɪ/。"
     },
-        {
+    {
       "number": "沒有（did not）",
       "word": "didn't",
-      "ipa": "/ˈdɪdənt/",
-      "graphemes": ["d","i","d","n","'","t"],
-      "phonemes": ["/'d","ɪ","d","n"," ","t/"],
-      "phonics": ["/'d","ĭ","d","n"," ","t/"],
-      "tags": ["cvc"],
-      "hearts": [false,false,false,true,false,false],
-          "audio": "audio/auxi/didnt.mp3",
+      "ipa": "/dɪdənt/",
+      "graphemes": [
+        "d",
+        "i",
+        "d",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/didnt.mp3",
       "hint": "did + not；i 發短母音 i /ɪ/；' 只標示縮寫。"
     },
     {
       "number": "做（過去分詞）",
       "word": "done",
       "ipa": "/dʌn/",
-      "graphemes": ["d","o","n","e"],
-      "phonemes": ["/d","ʌ","n","-/"],
-      "phonics": ["/d","ŭ","n","-/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false,true],
+      "graphemes": [
+        "d",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/d",
+        "ʌ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/d",
+        "ŭ",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        true
+      ],
       "hint": "o 發短母音 u /ʌ/；字尾 e 不發音。"
     },
     {
       "number": "有；擁有；助動詞",
       "word": "have",
       "ipa": "/hæv/",
-      "graphemes": ["h","a","v","e"],
-      "phonemes": ["/h","æ","v","-/"],
-      "phonics": ["/h","ă","v","-/"],
-      "tags": ["irregular"],
-      "hearts": [false,false,false,true],
+      "graphemes": [
+        "h",
+        "a",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true
+      ],
       "hint": "a 發短母音 a /æ/；字尾 e 不發音。"
     },
     {
       "number": "沒有（have not）",
       "word": "haven't",
       "ipa": "/ˈhævənt/",
-      "graphemes": ["h","a","v","e","n","'","t"],
-      "phonemes": ["/'h","æ","v","ə","n"," ","t/"],
-      "phonics": ["/'h","ă","v","ə","n"," ","t/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false,false,false,false,false],
+      "graphemes": [
+        "h",
+        "a",
+        "v",
+        "e",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/'h",
+        "æ",
+        "v",
+        "ə",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/'h",
+        "ă",
+        "v",
+        "ə",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "audio": "audio/auxi/havent.mp3",
       "hint": "have + not；a 發短母音 a /æ/；' 只標示縮寫，不發音。"
     },
@@ -108,230 +321,719 @@
       "number": "有（第三人稱單數）",
       "word": "has",
       "ipa": "/hæz/",
-      "graphemes": ["h","a","s"],
-      "phonemes": ["/h","æ","z/"],
-      "phonics": ["/h","ă","z/"],
-      "tags": ["irregular"],
-      "hearts": [false,false,true],
+      "graphemes": [
+        "h",
+        "a",
+        "s"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "z/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "z/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        false,
+        true
+      ],
       "hint": "a 發短母音 a /æ/；s 發 /z/。"
     },
-        {
+    {
       "number": "沒有（has not）",
       "word": "hasn't",
-      "ipa": "/ˈhæzənt/",
-      "graphemes": ["h","a","s","n","'","t"],
-      "phonemes": ["/'h","æ","z","n"," ","t/"],
-      "phonics": ["/'h","ă","z","n"," ","t/"],
-    "tags": ["irregular"],
-      "hearts": [false,false,true,true,false,false],
-          "audio": "audio/auxi/hasnt.mp3",
+      "ipa": "/hæzənt/",
+      "graphemes": [
+        "h",
+        "a",
+        "s",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "z",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/hasnt.mp3",
       "hint": "has + not；a 發短母音 a /æ/；s 發 /z/。"
     },
-
     {
       "number": "有（過去式）",
       "word": "had",
       "ipa": "/hæd/",
-      "graphemes": ["h","a","d"],
-      "phonemes": ["/h","æ","d/"],
-      "phonics": ["/h","ă","d/"],
-      "tags": ["cvc"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "h",
+        "a",
+        "d"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "d/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "a 發短母音 a /æ/。"
     },
-        {
+    {
       "number": "沒有（had not）",
       "word": "hadn't",
-      "ipa": "/ˈhædənt/",
-      "graphemes": ["h","a","d","n","'","t"],
-      "phonemes": ["/'h","æ","d","n"," ","t/"],
-      "phonics": ["/'h","ă","d","n"," ","t/"],
-   "tags": ["irregular"],
-          "audio": "audio/auxi/hadnt.mp3",
-      "hearts": [false,false,false,true,false,false],
+      "ipa": "/hædənt/",
+      "graphemes": [
+        "h",
+        "a",
+        "d",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "audio": "audio/auxi/hadnt.mp3",
+      "hearts": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
       "hint": "had + not；a 發短母音 a /æ/。"
     },
     {
       "number": "可以；能；罐頭",
       "word": "can",
       "ipa": "/kæn/",
-      "graphemes": ["c","a","n"],
-      "phonemes": ["/k","æ","n/"],
-      "phonics": ["/k","ă","n/"],
-      "tags": ["cvc"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "c",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/k",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/k",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "a 發短母音 a /æ/；常弱讀為 /ə/。"
     },
-        {
+    {
       "number": "可以；能；罐頭",
       "word": "can't",
       "ipa": "/kænt/",
-      "graphemes": ["c","a","n","'","t"],
-      "phonemes": ["/k","æ","n"," ","t/"],
-      "phonics": ["/k","ă","n"," ","t/"],
-      "tags": ["cvc"],
-      "hearts": [false,false,false,false],
-          "audio": "audio/auxi/cant.mp3",
+      "graphemes": [
+        "c",
+        "a",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "æ",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "ă",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/cant.mp3",
       "hint": "a 發短母音 a /æ/。"
     },
     {
       "number": "可以；能（過去式）",
       "word": "could",
       "ipa": "/kʊd/",
-      "graphemes": ["c","ou","l","d"],
-      "phonemes": ["/k","ʊ","-","d/"],
-      "phonics": ["/k","oo","-","d/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,true,false],
+      "graphemes": [
+        "c",
+        "ou",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "ʊ",
+        "-",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "oo",
+        "-",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        false
+      ],
       "hint": "ou 發 oo /ʊ/；l 不發音。"
     },
-        {
+    {
       "number": "不能；無法（could not）",
       "word": "couldn't",
-      "ipa": "/ˈkʊdnt/",
-      "graphemes": ["c","ou","l","d","n","'","t"],
-      "phonemes": ["/k","ʊ","-","d","n"," ","t/"],
-      "phonics": ["/k","oo","-","d","n"," ","t/"],
-    "tags": ["irregular"],
-      "hearts": [false,true,true,false,true,false,false],
-          "audio": "audio/auxi/couldnt.mp3",
+      "ipa": "/kʊdnt/",
+      "graphemes": [
+        "c",
+        "ou",
+        "l",
+        "d",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "ʊ",
+        "-",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "oo",
+        "-",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/couldnt.mp3",
       "hint": "could + not；ou 發 /ʊ/；l 與 ' 不發音。"
     },
     {
       "number": "將；會",
       "word": "will",
       "ipa": "/wɪl/",
-      "graphemes": ["w","i","ll"],
-      "phonemes": ["/w","ɪ","l/"],
-      "phonics": ["/w","ĭ","l/"],
-      "tags": ["cvc","floss"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "w",
+        "i",
+        "ll"
+      ],
+      "phonemes": [
+        "/w",
+        "ɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/w",
+        "ĭ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "i 發短母音 i /ɪ/；ll 重複字母。"
     },
-       {
+    {
       "number": "不會；不願意（will not）",
       "word": "won't",
       "ipa": "/woʊnt/",
-      "graphemes": ["w","o","n","'","t"],
-      "phonemes": ["/w","oʊ","n"," ","t/"],
-      "phonics": ["/w","ō","n"," ","t/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false,false,false],
-         "audio": "audio/auxi/wont.mp3",
+      "graphemes": [
+        "w",
+        "o",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/w",
+        "oʊ",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "ō",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/wont.mp3",
       "hint": "will not 的不規則縮寫；o 發長母音 o /oʊ/。"
     },
     {
       "number": "將；會（過去式）",
       "word": "would",
       "ipa": "/wʊd/",
-      "graphemes": ["w","ou","l","d"],
-      "phonemes": ["/w","ʊ","-","d/"],
-      "phonics": ["/w","oo","-","d/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,true,false],
+      "graphemes": [
+        "w",
+        "ou",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/w",
+        "ʊ",
+        "-",
+        "d/"
+      ],
+      "phonics": [
+        "/w",
+        "oo",
+        "-",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        false
+      ],
       "hint": "ou 發 oo /ʊ/；l 不發音。"
     },
-       {
+    {
       "number": "不會；不願意（would not）",
       "word": "wouldn't",
-      "ipa": "/ˈwʊdnt/",
-      "graphemes": ["w","ou","l","d","n","'","t"],
-      "phonemes": ["/w","ʊ","-","d","n"," ","t/"],
-      "phonics": ["/w","oo","-","d","n"," ","t/"],
-   "tags": ["irregular"],
-      "hearts": [false,true,true,false,true,false,false],
-         "audio": "audio/auxi/wouldnt.mp3",
+      "ipa": "/wʊdnt/",
+      "graphemes": [
+        "w",
+        "ou",
+        "l",
+        "d",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/w",
+        "ʊ",
+        "-",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "oo",
+        "-",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/wouldnt.mp3",
       "hint": "would + not；ou 發 /ʊ/；l 與 ' 不發音。"
     },
     {
       "number": "可能；可以",
       "word": "may",
       "ipa": "/meɪ/",
-      "graphemes": ["m","ay"],
-      "phonemes": ["/m","eɪ/"],
-      "phonics": ["/m","ā/"],
-      "tags": ["open"],
-      "hearts": [false,false],
+      "graphemes": [
+        "m",
+        "ay"
+      ],
+      "phonemes": [
+        "/m",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/m",
+        "ā/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        false,
+        false
+      ],
       "hint": "ay 發長母音 a /eɪ/。"
     },
     {
       "number": "可能（過去式）",
       "word": "might",
       "ipa": "/maɪt/",
-      "graphemes": ["m","igh","t"],
-      "phonemes": ["/m","aɪ","t/"],
-      "phonics": ["/m","ī","t/"],
-      "tags": ["vowel_team"],
-      "hearts": [false,true,false],
+      "graphemes": [
+        "m",
+        "igh",
+        "t"
+      ],
+      "phonemes": [
+        "/m",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/m",
+        "ī",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        true,
+        false
+      ],
       "hint": "igh 發長母音 i /aɪ/。"
     },
     {
       "number": "必須；一定",
       "word": "must",
       "ipa": "/mʌst/",
-      "graphemes": ["m","u","s","t"],
-      "phonemes": ["/m","ʌ","s","t/"],
-      "phonics": ["/m","ŭ","s","t/"],
-      "tags": ["cvc","cluster"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "m",
+        "u",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/m",
+        "ʌ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/m",
+        "ŭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "u 發短母音 u /ʌ/。"
     },
-        {
+    {
       "number": "不可（must not）",
       "word": "mustn't",
-      "ipa": "/ˈmʌsənt/",
-      "graphemes": ["m","u","s","t","n","'","t"],
-      "phonemes": ["/'m","ʌ","s","-","n"," ","t/"],
-      "phonics": ["/'m","ŭ","s","-","n"," ","t/"],
-   "tags": ["irregular"],
-      "hearts": [false,false,false,true,true,false,false],
-          "audio": "audio/auxi/mustnt.mp3",
+      "ipa": "/mʌsənt/",
+      "graphemes": [
+        "m",
+        "u",
+        "s",
+        "t",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/m",
+        "ʌ",
+        "s",
+        "-",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/m",
+        "ŭ",
+        "s",
+        "-",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/mustnt.mp3",
       "hint": "must + not；u 發短母音 u /ʌ/；' 標示縮寫不發音。"
     },
     {
       "number": "應該（正式）",
       "word": "shall",
       "ipa": "/ʃæl/",
-      "graphemes": ["sh","a","ll"],
-      "phonemes": ["/ʃ","æ","l/"],
-      "phonics": ["/sh","ă","l/"],
-      "tags": ["digraph","cvc","floss"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "sh",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "æ",
+        "l/"
+      ],
+      "phonics": [
+        "/sh",
+        "ă",
+        "l/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "sh 發 /ʃ/；a 發短母音 a /æ/；ll 為重複字母。"
     },
-        {
+    {
       "number": "不該（shall not）",
       "word": "shan't",
       "ipa": "/ʃænt/",
-      "graphemes": ["sh","a","n","'","t"],
-      "phonemes": ["/ʃ","æ","n"," ","t/"],
-      "phonics": ["/sh","ă","n"," ","t/"],
-      "tags": ["digraph","cvc"],
-      "hearts": [false,false,false,false,false],
-          "audio": "audio/auxi/shant.mp3",
+      "graphemes": [
+        "sh",
+        "a",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "æ",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/sh",
+        "ă",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/shant.mp3",
       "hint": "shall + not；sh 發 /ʃ/；a 發短母音 a /æ/；' 不發音。"
     },
     {
       "number": "應該",
       "word": "should",
       "ipa": "/ʃʊd/",
-      "graphemes": ["sh","ou","l","d"],
-      "phonemes": ["/ʃ","ʊ","-","d/"],
-      "phonics": ["/sh","oo","-","d/"],
-      "tags": ["digraph","irregular"],
-      "hearts": [false,true,true,false],
+      "graphemes": [
+        "sh",
+        "ou",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ʊ",
+        "-",
+        "d/"
+      ],
+      "phonics": [
+        "/sh",
+        "oo",
+        "-",
+        "d/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        false
+      ],
       "hint": "sh 發 /ʃ/；ou 發 oo /ʊ/；l 不發音。"
     },
-        {
+    {
       "number": "不應該（should not）",
       "word": "shouldn't",
-      "ipa": "/ˈʃʊdnt/",
-      "graphemes": ["sh","ou","l","d","n","'","t"],
-      "phonemes": ["/ʃ","ʊ","-","d","n"," ","t/"],
-      "phonics": ["/sh","oo","-","d","n"," ","t/"],
-        "tags": ["digraph","irregular"],
-      "hearts": [false,true,true,false,true,false,false],
-          "audio": "audio/auxi/shouldnt.mp3",
+      "ipa": "/ʃʊdnt/",
+      "graphemes": [
+        "sh",
+        "ou",
+        "l",
+        "d",
+        "n",
+        "'",
+        "t"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ʊ",
+        "-",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "phonics": [
+        "/sh",
+        "oo",
+        "-",
+        "d",
+        "n",
+        " ",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "audio": "audio/auxi/shouldnt.mp3",
       "hint": "should + not；sh 發 /ʃ/；ou 發 /ʊ/；l 與 ' 不發音。"
     }
   ]

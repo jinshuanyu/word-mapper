@@ -1,235 +1,747 @@
 {
-"items": [
-{
-"number": "❄️ 感冒；寒冷",
-"word": "cold",
-"ipa": "/koʊld/",
-"graphemes": ["c","o","l","d"],
-"phonemes": ["/k","oʊ","l","d/"],
-"phonics": ["/k","ō","l","d/"],
-"tags": ["irregular"],
-"hearts": [false,true,false,false],
-"hint": "-old 的 o 常發長母音 o /oʊ/。"
-},
-{
-"number": "舒服的",
-"word": "comfortable",
-"ipa": "/ˈkʌmfɚtəbəl/",
-"graphemes": ["c","o","m","f","or","t","a","b","le"],
-"phonemes": ["/'k","ʌ","m","f","ɚ","t","ə","b","əl/"],
-"phonics": ["/'k","ŭ","m","f","er","t","ə","b","əl/"],
-"tags": ["irregular"],
-"hearts": [false,true,false,false,false,false,false,false,false],
-"hint": "第一個 o 發短母音 u /ʌ/；or 發 er /ɚ/；a 弱化為 /ə/。"
-},
-{
-"number": "咳嗽",
-"word": "cough",
-"ipa": "/kɔf/",
-"graphemes": ["c","ou","gh"],
-"phonemes": ["/k","ɔ","f/"],
-"phonics": ["/k","aw","f/"],
-"tags": ["irregular","digraph"],
-"hearts": [false,true,true],
-"hint": "ou 發 aw /ɔ/；gh 發 /f/。"
-},
-{
-"number": "💀 死亡",
-"word": "death",
-"ipa": "/dɛθ/",
-"graphemes": ["d","ea","th"],
-"phonemes": ["/d","ɛ","θ/"],
-"phonics": ["/d","ĕ","th/"],
-"tags": ["irregular","digraph"],
-"hearts": [false,true,false],
-"hint": "ea 發短母音 e /ɛ/。"
-},
-{
-"number": "🦷 牙醫",
-"word": "dentist",
-"ipa": "/ˈdɛnɪst/",
-"graphemes": ["d","e","n","t","i","s","t"],
-"phonemes": ["/'d","ɛ","n","t","ɪ","s","t/"],
-"phonics": ["/'d","ĕ","n","t","ĭ","s","t/"],
-"tags": ["closed","cluster"],
-"hearts": [false,false,false,false,false,false,false],
-"hint": "e 發短母音 e /ɛ/；i 發短母音 i /ɪ/。"
-},
-{
-"number": "👨‍⚕️ 醫生",
-"word": "doctor",
-"ipa": "/ˈdɑktɚ/",
-"graphemes": ["d","o","c","t","or"],
-"phonemes": ["/'d","ɑ","k","t","ɚ/"],
-"phonics": ["/'d","ŏ","k","t","er/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false],
-"hint": "c 發 /k/；or 發 er /ɚ/。"
-},
-{
-"number": "🤒 發燒",
-"word": "fever",
-"ipa": "/ˈfivɚ/",
-"graphemes": ["f","e","v","er"],
-"phonemes": ["/'f","i","v","ɚ/"],
-"phonics": ["/'f","ē","v","er/"],
-"tags": ["open"],
-"hearts": [false,false,false,false],
-"hint": "e 發長母音 e /i/。"
-},
-{
-"number": "很好；安好",
-"word": "fine",
-"ipa": "/faɪn/",
-"graphemes": ["f","i","n","e"],
-"phonemes": ["/f","aɪ","n","-/"],
-"phonics": ["/f","ī","n","-/"],
-"tags": ["magic_e"],
-"hearts": [false,false,false,true],
-"hint": "i_e：i 發長母音 i /aɪ/；e 靜音。"
-},
-{
-"number": "健康（名詞）",
-"word": "health",
-"ipa": "/hɛlθ/",
-"graphemes": ["h","ea","l","th"],
-"phonemes": ["/h","ɛ","l","θ/"],
-"phonics": ["/h","ĕ","l","th/"],
-"tags": ["irregular","digraph"],
-"hearts": [false,true,false,false],
-"hint": "ea 發短母音 e /ɛ/。"
-},
-{
-"number": "健康的",
-"word": "healthy",
-"ipa": "/ˈhɛlθi/",
-"graphemes": ["h","ea","l","th","y"],
-"phonemes": ["/'h","ɛ","l","θ","i/"],
-"phonics": ["/'h","ĕ","l","th","ē/"],
-"tags": ["irregular","digraph"],
-"hearts": [false,true,false,false,false],
-"hint": "ea 發短母音 e /ɛ/； y 發長母音 e /i/。"
-},
-{
-"number": "🤕 頭痛",
-"word": "headache",
-"ipa": "/ˈhɛdeɪk/",
-"graphemes": ["h","ea","d","a","ch","e"],
-"phonemes": ["/'h","ɛ","d","eɪ","k","-/"],
-"phonics": ["/'h","ĕ","d","ā","k","-/"],
-"tags": ["irregular","digraph"],
-"hearts": [false,false,false,false,false,true],
-"hint": "head + ache；ea 發短母音 e /ɛ/；ch 發 /k/。"
-},
-{
-"number": "生病的",
-"word": "ill",
-"ipa": "/ɪl/",
-"graphemes": ["i","ll"],
-"phonemes": ["/ɪ","l/"],
-"phonics": ["/ĭ","l/"],
-"tags": ["cvc","floss"],
-"hearts": [false,false],
-"hint": "i 發短母音 i /ɪ/；ll 重複字母。"
-},
-{
-"number": "生命",
-"word": "life",
-"ipa": "/laɪf/",
-"graphemes": ["l","i","f","e"],
-"phonemes": ["/l","aɪ","f","-/"],
-"phonics": ["/l","ī","f","-/"],
-"tags": ["magic_e"],
-"hearts": [false,false,false,false],
-"hint": "i_e：i 發長母音 i /aɪ/；e 靜音。"
-},
-{
-"number": "👩‍⚕️ 護士",
-"word": "nurse",
-"ipa": "/nɝs/",
-"graphemes": ["n","ur","s","e"],
-"phonemes": ["/n","ɝ","s","-/"],
-"phonics": ["/n","er","s","-/"],
-"tags": ["rcontrolled"],
-"hearts": [false,false,false,true],
-"hint": "ur 發 er /ɝ/；s 後面字尾補靜音 e。"
-},
-{
-"number": "🤢 生病的",
-"word": "sick",
-"ipa": "/sɪk/",
-"graphemes": ["s","i","ck"],
-"phonemes": ["/s","ɪ","k/"],
-"phonics": ["/s","ĭ","k/"],
-"tags": ["cvc","digraph"],
-"hearts": [false,false,false],
-"hint": "i 發短母音 i /ɪ/；ck 發 /k/。"
-},
-{
-"number": "痠痛；痛的",
-"word": "sore",
-"ipa": "/sɔr/",
-"graphemes": ["s","or","e"],
-"phonemes": ["/s","ɔr","-/"],
-"phonics": ["/s","or","-/"],
-"tags": ["magic_e","rcontrolled"],
-"hearts": [false,false,false],
-"hint": "or 發 /ɔr/；字尾 e 靜音。"
-},
-{
-"number": "💪🏻 強壯的",
-"word": "strong",
-"ipa": "/strɔŋ/",
-"graphemes": ["s","t","r","o","ng"],
-"phonemes": ["/s","t","r","ɑ","ŋ/"],
-"phonics": ["/s","t","r","ŏ","ŋ/"],
-"tags": ["cluster","closed","digraph"],
-"hearts": [false,false,false,false,false],
-"hint": "str- 子音群。"
-},
-{
-"number": "🌡️ 體溫；溫度",
-"word": "temperature",
-"ipa": "/ˈtɛmprətʃɚ/",
-"graphemes": ["t","e","m","p","er","a","t","ure"],
-"phonemes": ["/'t","ɛ","m","p","ɚ","ə","tʃ","ɚ/"],
-"phonics": ["/'t","ĕ","m","p","er","ə","ch","er/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false,false],
-"hint": "-ture 發 cher /tʃɚ/。"
-},
-{
-"number": "疲倦的",
-"word": "tired",
-"ipa": "/ˈtaɪɚd/",
-"graphemes": ["t","i","r","e","d"],
-"phonemes": ["/'t","aɪ","r","-","d/"],
-"phonics": ["/'t","ī","r","-","d/"],
-"tags": ["magic_e","suffix"],
-"hearts": [false,false,false,false],
-"hint": "d 發 /d/。"
-},
-{
-"number": "虛弱的",
-"word": "weak",
-"ipa": "/wik/",
-"graphemes": ["w","ea","k"],
-"phonemes": ["/w","i","k/"],
-"phonics": ["/w","ē","k/"],
-"tags": ["vowel_team"],
-"hearts": [false,false,false],
-"hint": "ea 發長母音 e /i/。"
-},
-{
-"number": "好的；健康",
-"word": "well",
-"ipa": "/wɛl/",
-"graphemes": ["w","e","ll"],
-"phonemes": ["/w","ɛ","l/"],
-"phonics": ["/w","ĕ","l/"],
-"tags": ["cvc","floss"],
-"hearts": [false,false,false],
-"hint": "e 發短母音 e /ɛ/；ll 重複字母。"
-}
-]
+  "items": [
+    {
+      "number": "❄️ 感冒；寒冷",
+      "word": "cold",
+      "ipa": "/koʊld/",
+      "graphemes": [
+        "c",
+        "o",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "oʊ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "ō",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "hint": "-old 的 o 常發長母音 o /oʊ/。"
+    },
+    {
+      "number": "舒服的",
+      "word": "comfortable",
+      "ipa": "/ˈkʌmfɚtəbəl/",
+      "graphemes": [
+        "c",
+        "o",
+        "m",
+        "f",
+        "or",
+        "t",
+        "a",
+        "b",
+        "le"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʌ",
+        "m",
+        "f",
+        "ɚ",
+        "t",
+        "ə",
+        "b",
+        "əl/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŭ",
+        "m",
+        "f",
+        "er",
+        "t",
+        "ə",
+        "b",
+        "əl/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "第一個 o 發短母音 u /ʌ/；or 發 er /ɚ/；a 弱化為 /ə/。"
+    },
+    {
+      "number": "咳嗽",
+      "word": "cough",
+      "ipa": "/kɔf/",
+      "graphemes": [
+        "c",
+        "ou",
+        "gh"
+      ],
+      "phonemes": [
+        "/k",
+        "ɔ",
+        "f/"
+      ],
+      "phonics": [
+        "/k",
+        "aw",
+        "f/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        true,
+        true
+      ],
+      "hint": "ou 發 aw /ɔ/；gh 發 /f/。"
+    },
+    {
+      "number": "💀 死亡",
+      "word": "death",
+      "ipa": "/dɛθ/",
+      "graphemes": [
+        "d",
+        "ea",
+        "th"
+      ],
+      "phonemes": [
+        "/d",
+        "ɛ",
+        "θ/"
+      ],
+      "phonics": [
+        "/d",
+        "ĕ",
+        "th/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        true,
+        false
+      ],
+      "hint": "ea 發短母音 e /ɛ/。"
+    },
+    {
+      "number": "🦷 牙醫",
+      "word": "dentist",
+      "ipa": "/ˈdɛntɪst/",
+      "graphemes": [
+        "d",
+        "e",
+        "n",
+        "t",
+        "i",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɛ",
+        "n",
+        "t",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĕ",
+        "n",
+        "t",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "e 發短母音 e /ɛ/；i 發短母音 i /ɪ/。"
+    },
+    {
+      "number": "👨‍⚕️ 醫生",
+      "word": "doctor",
+      "ipa": "/ˈdɑktɚ/",
+      "graphemes": [
+        "d",
+        "o",
+        "c",
+        "t",
+        "or"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɑ",
+        "k",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŏ",
+        "k",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "c 發 /k/；or 發 er /ɚ/。"
+    },
+    {
+      "number": "🤒 發燒",
+      "word": "fever",
+      "ipa": "/ˈfivɚ/",
+      "graphemes": [
+        "f",
+        "e",
+        "v",
+        "er"
+      ],
+      "phonemes": [
+        "/'f",
+        "i",
+        "v",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'f",
+        "ē",
+        "v",
+        "er/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "e 發長母音 e /i/。"
+    },
+    {
+      "number": "很好；安好",
+      "word": "fine",
+      "ipa": "/faɪn/",
+      "graphemes": [
+        "f",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "hint": "i_e：i 發長母音 i /aɪ/；e 靜音。"
+    },
+    {
+      "number": "健康（名詞）",
+      "word": "health",
+      "ipa": "/hɛlθ/",
+      "graphemes": [
+        "h",
+        "ea",
+        "l",
+        "th"
+      ],
+      "phonemes": [
+        "/h",
+        "ɛ",
+        "l",
+        "θ/"
+      ],
+      "phonics": [
+        "/h",
+        "ĕ",
+        "l",
+        "th/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "hint": "ea 發短母音 e /ɛ/。"
+    },
+    {
+      "number": "健康的",
+      "word": "healthy",
+      "ipa": "/ˈhɛlθi/",
+      "graphemes": [
+        "h",
+        "ea",
+        "l",
+        "th",
+        "y"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɛ",
+        "l",
+        "θ",
+        "i/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĕ",
+        "l",
+        "th",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "hint": "ea 發短母音 e /ɛ/； y 發長母音 e /i/。"
+    },
+    {
+      "number": "🤕 頭痛",
+      "word": "headache",
+      "ipa": "/ˈhɛdeɪk/",
+      "graphemes": [
+        "h",
+        "ea",
+        "d",
+        "a",
+        "ch",
+        "e"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɛ",
+        "d",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĕ",
+        "d",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "hint": "head + ache；ea 發短母音 e /ɛ/；ch 發 /k/。"
+    },
+    {
+      "number": "生病的",
+      "word": "ill",
+      "ipa": "/ɪl/",
+      "graphemes": [
+        "i",
+        "ll"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        false,
+        false
+      ],
+      "hint": "i 發短母音 i /ɪ/；ll 重複字母。"
+    },
+    {
+      "number": "生命",
+      "word": "life",
+      "ipa": "/laɪf/",
+      "graphemes": [
+        "l",
+        "i",
+        "f",
+        "e"
+      ],
+      "phonemes": [
+        "/l",
+        "aɪ",
+        "f",
+        "-/"
+      ],
+      "phonics": [
+        "/l",
+        "ī",
+        "f",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "i_e：i 發長母音 i /aɪ/；e 靜音。"
+    },
+    {
+      "number": "👩‍⚕️ 護士",
+      "word": "nurse",
+      "ipa": "/nɝs/",
+      "graphemes": [
+        "n",
+        "ur",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/n",
+        "ɝ",
+        "s",
+        "-/"
+      ],
+      "phonics": [
+        "/n",
+        "er",
+        "s",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "hint": "ur 發 er /ɝ/；s 後面字尾補靜音 e。"
+    },
+    {
+      "number": "🤢 生病的",
+      "word": "sick",
+      "ipa": "/sɪk/",
+      "graphemes": [
+        "s",
+        "i",
+        "ck"
+      ],
+      "phonemes": [
+        "/s",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "i 發短母音 i /ɪ/；ck 發 /k/。"
+    },
+    {
+      "number": "痠痛；痛的",
+      "word": "sore",
+      "ipa": "/sɔr/",
+      "graphemes": [
+        "s",
+        "or",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔr",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "or",
+        "-/"
+      ],
+      "tags": [
+        "magic_e",
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "or 發 /ɔr/；字尾 e 靜音。"
+    },
+    {
+      "number": "💪🏻 強壯的",
+      "word": "strong",
+      "ipa": "/strɔŋ/",
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "o",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "ɑ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ŏ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "str- 子音群。"
+    },
+    {
+      "number": "🌡️ 體溫；溫度",
+      "word": "temperature",
+      "ipa": "/ˈtɛmprətʃɚ/",
+      "graphemes": [
+        "t",
+        "e",
+        "m",
+        "p",
+        "er",
+        "a",
+        "t",
+        "ure"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɛ",
+        "m",
+        "p",
+        "ɚ",
+        "ə",
+        "tʃ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ĕ",
+        "m",
+        "p",
+        "er",
+        "ə",
+        "ch",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "-ture 發 cher /tʃɚ/。"
+    },
+    {
+      "number": "疲倦的",
+      "word": "tired",
+      "ipa": "/taɪɚd/",
+      "graphemes": [
+        "t",
+        "i",
+        "r",
+        "e",
+        "d"
+      ],
+      "phonemes": [
+        "/t",
+        "aɪ",
+        "r",
+        "-",
+        "d/"
+      ],
+      "phonics": [
+        "/t",
+        "ī",
+        "r",
+        "-",
+        "d/"
+      ],
+      "tags": [
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "d 發 /d/。"
+    },
+    {
+      "number": "虛弱的",
+      "word": "weak",
+      "ipa": "/wik/",
+      "graphemes": [
+        "w",
+        "ea",
+        "k"
+      ],
+      "phonemes": [
+        "/w",
+        "i",
+        "k/"
+      ],
+      "phonics": [
+        "/w",
+        "ē",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "ea 發長母音 e /i/。"
+    },
+    {
+      "number": "好的；健康",
+      "word": "well",
+      "ipa": "/wɛl/",
+      "graphemes": [
+        "w",
+        "e",
+        "ll"
+      ],
+      "phonemes": [
+        "/w",
+        "ɛ",
+        "l/"
+      ],
+      "phonics": [
+        "/w",
+        "ĕ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "e 發短母音 e /ɛ/；ll 重複字母。"
+    }
+  ]
 }

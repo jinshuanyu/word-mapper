@@ -4,224 +4,770 @@
       "number": "👩🏻阿姨；姑姑",
       "word": "aunt",
       "ipa": "/ænt/",
-      "graphemes": ["au","n","t"],
-      "phonemes": ["/æ","n","t/"],
-      "phonics":  ["/ă","n","t/"],
-      "tags": ["irregular"],
-      "hearts": [true,false,false],
+      "graphemes": [
+        "au",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/æ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/ă",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        true,
+        false,
+        false
+      ],
       "hint": "au 發短母音 a /æ/。"
     },
-            {
+    {
       "number": "出生的；出生",
       "word": "born",
       "ipa": "/bɔrn/",
-      "graphemes": ["b","or","n"],
-      "phonemes": ["/b","ɔr","n/"],
-      "phonics": ["/b","or","n/"],
-      "tags": ["rcontrolled"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "b",
+        "or",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ɔr",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "or",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "or 發 /ɔr/；過去分詞，原形為 bear。"
     },
     {
       "number": "👧🏻女兒",
       "word": "daughter",
       "ipa": "/ˈdɔtər/",
-      "graphemes": ["d","augh","t","er"],
-      "phonemes": ["/'d","ɔ","t","ɚ/"],
-      "phonics":  ["/'d","aw","t","er/"],
-      "tags": ["vowel_team"],
-      "hearts": [false,true,false,false],
+      "graphemes": [
+        "d",
+        "augh",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɔ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "aw",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false
+      ],
       "hint": "augh 發 aw /ɔ/。"
     },
-        {
+    {
       "number": "年長的；長者",
       "word": "elder",
       "ipa": "/ˈɛldɚ/",
-      "graphemes": ["e","l","d","er"],
-      "phonemes": ["/'ɛ","l","d","ɚ/"],
-      "phonics": ["/'ĕ","l","d","er/"],
-      "tags": ["closed"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "e",
+        "l",
+        "d",
+        "er"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "l",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "l",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "e 發短母音 e /ɛ/。"
     },
     {
       "number": "👧🏻孫女",
       "word": "granddaughter",
       "ipa": "/ˈɡrændɔtər/",
-      "graphemes": ["g","r","a","n","d","d","augh","t","er"],
-      "phonemes": ["/'ɡ","r","æ","n","-","d","ɔ","t","ɚ/"],
-      "phonics":  ["/'ɡ","r","ă","n","-","d","aw","t","er/"],
-      "tags": ["cluster","closed"],
-      "hearts": [false,false,false,false,true,false,true,false,false],
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "n",
+        "d",
+        "d",
+        "augh",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "æ",
+        "n",
+        "-",
+        "d",
+        "ɔ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ă",
+        "n",
+        "-",
+        "d",
+        "aw",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
       "hint": "grand + daughter；d 通常不發音。"
     },
     {
       "number": "🧓🏻👵🏻祖父母（之一）",
       "word": "grandparent",
       "ipa": "/ˈɡrændpɛrənt/",
-      "graphemes": ["g","r","a","n","d","p","a","r","e","n","t"],
-      "phonemes": ["/'ɡ","r","æ","n","-","p","ɛ","r","ə","n","t/"],
-      "phonics":  ["/'ɡ","r","ă","n","-","p","ĕ","r","ə","n","t/"],
-      "tags": ["cluster","closed"],
-      "hearts": [false,false,false,false,true,false,false,true,false,false,false],
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "n",
+        "d",
+        "p",
+        "a",
+        "r",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "æ",
+        "n",
+        "-",
+        "p",
+        "ɛ",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ă",
+        "n",
+        "-",
+        "p",
+        "ĕ",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
       "hint": "grand + parent；d 通常不發音。"
     },
     {
       "number": "👦🏻孫子",
       "word": "grandson",
       "ipa": "/ˈɡrændsʌn/",
-      "graphemes": ["g","r","a","n","d","s","o","n"],
-      "phonemes": ["/'ɡ","r","æ","n","-","s","ʌ","n/"],
-      "phonics":  ["/'ɡ","r","ă","n","-","s","ŭ","n/"],
-      "tags": ["cluster","closed"],
-      "hearts": [false,false,false,false,true,false,true,false],
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "n",
+        "d",
+        "s",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "æ",
+        "n",
+        "-",
+        "s",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ă",
+        "n",
+        "-",
+        "s",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
       "hint": "grand + son；o 發短母音 u /ʌ/；d 通常不發音。"
     },
-
     {
       "number": "成長；種植",
       "word": "grow",
       "ipa": "/ɡroʊ/",
-      "graphemes": ["g","r","ow"],
-      "phonemes": ["/ɡ","r","oʊ/"],
-      "phonics": ["/ɡ","r","ō/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "g",
+        "r",
+        "ow"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "ow 發長母音 o /oʊ/。"
     },
     {
       "number": "👨🏻👩🏻大人；成年人",
       "word": "grown-up",
       "ipa": "/ˈɡroʊnʌp/",
-      "graphemes": ["g","r","ow","n","-","u","p"],
-      "phonemes": ["/'ɡ","r","oʊ","n","-","ʌ","p/"],
-      "phonics":  ["/'ɡ","r","ō","n","-","ŭ","p/"],
-      "tags": ["vowel_team","closed"],
-      "hearts": [false,false,false,false,false,false,false],
+      "graphemes": [
+        "g",
+        "r",
+        "ow",
+        "n",
+        "-",
+        "u",
+        "p"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "oʊ",
+        "n",
+        "-",
+        "ʌ",
+        "p/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ō",
+        "n",
+        "-",
+        "ŭ",
+        "p/"
+      ],
+      "tags": [
+        "vowel_team",
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "可作名詞或形容詞；ow 發長母音 o /oʊ/。"
     },
     {
       "number": "👨🏻丈夫",
       "word": "husband",
       "ipa": "/ˈhʌzbənd/",
-      "graphemes": ["h","u","s","b","a","n","d"],
-      "phonemes": ["/'h","ʌ","z","b","ə","n","d/"],
-      "phonics":  ["/'h","ŭ","z","b","ə","n","d/"],
-      "tags": ["closed"],
-      "hearts": [false,false,true,false,false,false,false],
+      "graphemes": [
+        "h",
+        "u",
+        "s",
+        "b",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/'h",
+        "ʌ",
+        "z",
+        "b",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŭ",
+        "z",
+        "b",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "s 讀 z /z/；a 弱化為 /ə/。"
     },
-        {
+    {
       "number": "結婚",
       "word": "marry",
       "ipa": "/ˈmæri/",
-      "graphemes": ["m","a","rr","y"],
-      "phonemes": ["/'m","ɛ","r","i/"],
-      "phonics": ["/'m","ĕ","r","ē/"],
-      "tags": ["irregular"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "m",
+        "a",
+        "rr",
+        "y"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "a 發短母音 e /ɛ/；部份地區 a 發短母音 a /æ/；字尾 y 發長母音 e /i/。"
     },
     {
       "number": "👩🏻‍❤️‍👨🏻已婚的",
       "word": "married",
       "ipa": "/ˈmɛrid/",
-      "graphemes": ["m","a","rr","ie","d"],
-      "phonemes": ["/'m","ɛ","r","i","d/"],
-      "phonics":  ["/'m","ĕ","r","ē","d/"],
-      "tags": ["irregular"],
-      "hearts": [false,false,false,true,false],
+      "graphemes": [
+        "m",
+        "a",
+        "rr",
+        "ie",
+        "d"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "r",
+        "i",
+        "d/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "r",
+        "ē",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
       "hint": "ie 發長母音 e /i/。"
     },
     {
       "number": "👦🏻外甥；姪子",
       "word": "nephew",
       "ipa": "/ˈnɛfju/",
-      "graphemes": ["n","e","ph","ew"],
-      "phonemes": ["/'n","ɛ","f","ju/"],
-      "phonics": ["/'n","ĕ","f","yū/"],
-      "tags": ["closed","digraph"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "n",
+        "e",
+        "ph",
+        "ew"
+      ],
+      "phonemes": [
+        "/'n",
+        "ɛ",
+        "f",
+        "ju/"
+      ],
+      "phonics": [
+        "/'n",
+        "ĕ",
+        "f",
+        "yū/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "e 發短母音 e /ɛ/；ph 發 /f/；ew 發 yū /ju/。"
     },
     {
       "number": "👧🏻外甥女；姪女",
       "word": "niece",
       "ipa": "/nis/",
-      "graphemes": ["n","ie","c","e"],
-      "phonemes": ["/n","i","s","-/"],
-      "phonics": ["/n","ē","s","-/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false,true],
+      "graphemes": [
+        "n",
+        "ie",
+        "ce"
+      ],
+      "phonemes": [
+        "/n",
+        "i",
+        "s/"
+      ],
+      "phonics": [
+        "/n",
+        "ē",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false
+      ],
       "hint": "ie 發長母音 e /i/；詞尾 e 不發音。"
     },
     {
       "number": "親戚",
       "word": "relative",
       "ipa": "/ˈrɛlətɪv/",
-      "graphemes": ["r","e","l","a","t","i","v","e"],
-      "phonemes": ["/'r","ɛ","l","ə","t","ɪ","v","-/"],
-      "phonics": ["/'r","ĕ","l","ə","t","ĭ","v","-/"],
-      "tags": ["closed"],
-      "hearts": [false,false,false,false,false,false,false,true],
+      "graphemes": [
+        "r",
+        "e",
+        "l",
+        "a",
+        "t",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "l",
+        "ə",
+        "t",
+        "ɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "l",
+        "ə",
+        "t",
+        "ĭ",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
       "hint": "第一個 e 發短母音 e /ɛ/；v 之後字尾補靜音 e。"
     },
-
-
-
     {
       "number": "👨🏻👩🏻父母親（之一）",
       "word": "parent",
       "ipa": "/ˈpɛrənt/",
-      "graphemes": ["p","a","r","e","n","t"],
-      "phonemes": ["/'p","ɛ","r","ə","n","t/"],
-      "phonics":  ["/'p","ĕ","r","ə","n","t/"],
-      "tags": ["rcontrolled"],
-      "hearts": [false,true,false,false,false,false],
+      "graphemes": [
+        "p",
+        "a",
+        "r",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɛ",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "ĕ",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "a 發短母音 e /ɛ/。"
     },
     {
       "number": "👦🏻兒子",
       "word": "son",
       "ipa": "/sʌn/",
-      "graphemes": ["s","o","n"],
-      "phonemes": ["/s","ʌ","n/"],
-      "phonics":  ["/s","ŭ","n/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false],
+      "graphemes": [
+        "s",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false
+      ],
       "hint": "o 發短母音 u /ʌ/。"
     },
     {
       "number": "姓氏",
       "word": "surname",
       "ipa": "/ˈsɝneɪm/",
-      "graphemes": ["s","ur","n","a","m","e"],
-      "phonemes": ["/'s","ɝ","n","eɪ","m","-/"],
-      "phonics":  ["/'s","er","n","ā","m","-/"],
-      "tags": ["rcontrolled"],
-      "hearts": [false,false,false,false,false,false],
+      "graphemes": [
+        "s",
+        "ur",
+        "n",
+        "a",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɝ",
+        "n",
+        "eɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/'s",
+        "er",
+        "n",
+        "ā",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "sur + name；ur 發 er /ɝ/；a_e：a 發長母音 a /eɪ/，e 不發音。"
     },
     {
       "number": "👨🏻叔叔；伯伯；舅舅",
       "word": "uncle",
       "ipa": "/ˈʌŋkəl/",
-      "graphemes": ["u","n","c","le"],
-      "phonemes": ["/'ʌ","ŋ","k","əl/"],
-      "phonics":  ["/'ŭ","ŋ","k","əl/"],
-      "tags": ["closed"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "u",
+        "n",
+        "c",
+        "le"
+      ],
+      "phonemes": [
+        "/'ʌ",
+        "ŋ",
+        "k",
+        "əl/"
+      ],
+      "phonics": [
+        "/'ŭ",
+        "ŋ",
+        "k",
+        "əl/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "n 在 /k/ 音之前發 /ŋ/。"
     },
     {
       "number": "👩🏻妻子",
       "word": "wife",
       "ipa": "/waɪf/",
-      "graphemes": ["w","i","f","e"],
-      "phonemes": ["/w","aɪ","f","-/"],
-      "phonics":  ["/w","ī","f","-/"],
-      "tags": ["magic_e"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "w",
+        "i",
+        "f",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "aɪ",
+        "f",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ī",
+        "f",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "i_e：i 發長母音 i /aɪ/，e 不發音。"
     }
   ]

@@ -4,135 +4,430 @@
     {
       "number": "⭕ 圓形",
       "word": "circle",
-      "ipa": "/ˈsɜrkl/",
-      "graphemes": ["c", "ir", "c", "le"],
-      "phonemes": ["/'s", "ɝ", "k", "əl/"],
-      "phonics": ["/'s", "er", "k", "əl/"],
-      "tags": ["rcontrolled", "cle"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/ˈsɝkl/",
+      "graphemes": [
+        "c",
+        "ir",
+        "c",
+        "le"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɝ",
+        "k",
+        "əl/"
+      ],
+      "phonics": [
+        "/'s",
+        "er",
+        "k",
+        "əl/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "c 接 i 發軟音 /s/，ir 發 /er/，le 發 /l/。"
     },
     {
       "number": "· 點",
       "word": "dot",
       "ipa": "/dɑt/",
-      "graphemes": ["d", "o", "t"],
-      "phonemes": ["/d", "ɑ", "t/"],
-      "phonics": ["/d", "ŏ", "t/"],
-      "tags": [ "cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "d",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/d",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/d",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "o 發短母音 /ŏ/。"
     },
     {
       "number": "➖ 線",
       "word": "line",
       "ipa": "/laɪn/",
-      "graphemes": ["l", "i", "n", "e"],
-      "phonemes": ["/l", "aɪ", "n", "-/"],
-      "phonics": ["/l", "ī", "n", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/l",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/l",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發長母音 /ī/。"
     },
     {
       "number": "📍 點/尖端",
       "word": "point",
       "ipa": "/pɔɪnt/",
-      "graphemes": ["p", "oi", "n", "t"],
-      "phonemes": ["/p", "ɔɪ", "n", "t/"],
-      "phonics": ["/p", "oi", "n", "t/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "oi",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/p",
+        "ɔɪ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/p",
+        "oi",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "oi 發 /oi/。"
     },
     {
       "number": "✉️ 長方形",
       "word": "rectangle",
       "ipa": "/ˈrɛkˌtæŋɡl/",
-      "graphemes": ["r", "e", "c", "t", "a", "n", "g", "le"],
-      "phonemes": ["/'r", "ɛ", "k", "t", "æ", "ŋ", "g", "əl/"],
-      "phonics": ["/'r", "ĕ", "k", "t", "ă", "ŋ", "g", "əl/"],
-      "tags": ["closed", "cle"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "c",
+        "t",
+        "a",
+        "n",
+        "g",
+        "le"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "k",
+        "t",
+        "æ",
+        "ŋ",
+        "g",
+        "əl/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "k",
+        "t",
+        "ă",
+        "ŋ",
+        "g",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "rec-tan-gle，n 在 g 前發鼻音 /ng/，le 字尾發 /l/。"
     },
     {
       "number": "🚣 列/排",
       "word": "row",
       "ipa": "/roʊ/",
-      "graphemes": ["r", "ow"],
-      "phonemes": ["/r", "oʊ/"],
-      "phonics": ["/r", "ō/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "r",
+        "ow"
+      ],
+      "phonemes": [
+        "/r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/r",
+        "ō/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ow 發長母音 /ō/。"
     },
     {
       "number": "🔷 形狀",
       "word": "shape",
       "ipa": "/ʃeɪp/",
-      "graphemes": ["sh", "a", "p", "e"],
-      "phonemes": ["/ʃ", "eɪ", "p", "-/"],
-      "phonics": ["/sh", "ā", "p", "-/"],
-      "tags": [ "digraph","magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "sh",
+        "a",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "eɪ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/sh",
+        "ā",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sh 發 /sh/，a_e 發長母音 /ā/。"
     },
     {
       "number": "⏹️ 正方形",
       "word": "square",
       "ipa": "/skwɛr/",
-      "graphemes": ["s", "qu", "a","r","e"],
-      "phonemes": ["/s", "kw", "ɛ","r","-/"],
-      "phonics": ["/s", "kw", "ĕ","r","-/"],
-      "tags": ["cluster", "magic_e","rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "qu",
+        "a",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "kw",
+        "ɛ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "kw",
+        "ĕ",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "qu 發 /kw/，are 發 /air/ 音。"
     },
     {
       "number": "🔺 三角形",
       "word": "triangle",
       "ipa": "/ˈtraɪˌæŋɡl/",
-      "graphemes": ["t", "r", "i", "a", "n", "g", "le"],
-      "phonemes": ["/'t", "r", "aɪ", "æ", "ŋ", "g", "əl/"],
-      "phonics": ["/'t", "r", "ī", "ă", "ŋ", "g", "əl/"],
-      "tags": ["cluster","open", "cle"],
-      "hearts": [0, 0, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "i",
+        "a",
+        "n",
+        "g",
+        "le"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "aɪ",
+        "æ",
+        "ŋ",
+        "g",
+        "əl/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ī",
+        "ă",
+        "ŋ",
+        "g",
+        "əl/"
+      ],
+      "tags": [
+        "cluster",
+        "open",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "tri 是開音節發 /ī/，an 發 /ăng/，le 發 /l/。"
     },
     {
       "number": "📐 角度",
       "word": "angle",
       "ipa": "/ˈæŋɡl/",
-      "graphemes": ["a", "n", "g", "le"],
-      "phonemes": ["/'æ", "ŋ", "g", "əl/"],
-      "phonics": ["/'ă", "ŋ", "g", "əl/"],
-      "tags": ["closed", "cle"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "n",
+        "g",
+        "le"
+      ],
+      "phonemes": [
+        "/'æ",
+        "ŋ",
+        "g",
+        "əl/"
+      ],
+      "phonics": [
+        "/'ă",
+        "ŋ",
+        "g",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "an 發鼻音 /ăng/，le 發 /l/。"
     },
     {
       "number": "📏 直的",
       "word": "straight",
       "ipa": "/streɪt/",
-      "graphemes": ["s", "t", "r", "aigh", "t"],
-      "phonemes": ["/s", "t", "r", "eɪ", "t/"],
-      "phonics": ["/s", "t", "r", "ā", "t/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "aigh",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "eɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ā",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "aigh 為四合字母，發長母音 /ā/。"
     },
     {
       "number": "🔴 圓的",
       "word": "round",
       "ipa": "/raʊnd/",
-      "graphemes": ["r", "ou", "n", "d"],
-      "phonemes": ["/r", "aʊ", "n", "d/"],
-      "phonics": ["/r", "ou", "n", "d/"],
-      "tags": ["vowel_team","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "ou",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/r",
+        "aʊ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/r",
+        "ou",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 發雙母音 /ou/。"
     }
   ]
 }
-

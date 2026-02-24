@@ -1,0 +1,446 @@
+{
+  "items": [
+    {
+      "number": "開車(原形)",
+      "word": "drive",
+      "ipa": "/draɪv/",
+      "graphemes": [
+        "d",
+        "r",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "aɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ī",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;i-e 發長音 ī;e 不發音"
+    },
+    {
+      "number": "開車(過去式)",
+      "word": "drove",
+      "ipa": "/droʊv/",
+      "graphemes": [
+        "d",
+        "r",
+        "o",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "oʊ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ō",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "開車(過去分詞)",
+      "word": "driven",
+      "ipa": "/ˈdrɪvən/",
+      "graphemes": [
+        "d",
+        "r",
+        "i",
+        "v",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'d",
+        "r",
+        "ɪ",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'d",
+        "r",
+        "ĭ",
+        "v",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;i 發短音 ĭ;e 發 schwa"
+    },
+    {
+      "number": "騎(原形)",
+      "word": "ride",
+      "ipa": "/raɪd/",
+      "graphemes": [
+        "r",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i-e 發長音 ī;e 不發音"
+    },
+    {
+      "number": "騎(過去式)",
+      "word": "rode",
+      "ipa": "/roʊd/",
+      "graphemes": [
+        "r",
+        "o",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "oʊ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ō",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "騎(過去分詞)",
+      "word": "ridden",
+      "ipa": "/ˈrɪdən/",
+      "graphemes": [
+        "r",
+        "i",
+        "dd",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɪ",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĭ",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;e 發 schwa"
+    },
+    {
+      "number": "升起(原形)",
+      "word": "rise",
+      "ipa": "/raɪz/",
+      "graphemes": [
+        "r",
+        "i",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "aɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ī",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "i-e 發長音 ī;e 不發音"
+    },
+    {
+      "number": "升起(過去式)",
+      "word": "rose",
+      "ipa": "/roʊz/",
+      "graphemes": [
+        "r",
+        "o",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "oʊ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ō",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "升起(過去分詞)",
+      "word": "risen",
+      "ipa": "/ˈrɪzən/",
+      "graphemes": [
+        "r",
+        "i",
+        "s",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɪ",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĭ",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;e 發 schwa"
+    },
+    {
+      "number": "寫(原形)",
+      "word": "write",
+      "ipa": "/raɪt/",
+      "graphemes": [
+        "w",
+        "r",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/-",
+        "r",
+        "aɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/-",
+        "r",
+        "ī",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e",
+        "silent_consonant"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "w 不發音;i-e 發長音 ī;e 不發音"
+    },
+    {
+      "number": "寫(過去式)",
+      "word": "wrote",
+      "ipa": "/roʊt/",
+      "graphemes": [
+        "w",
+        "r",
+        "o",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/-",
+        "r",
+        "oʊ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/-",
+        "r",
+        "ō",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e",
+        "silent_consonant"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "w 不發音;o-e 發長音 ō;e 不發音"
+    },
+    {
+      "number": "寫(過去分詞)",
+      "word": "written",
+      "ipa": "/ˈrɪtən/",
+      "graphemes": [
+        "w",
+        "r",
+        "i",
+        "tt",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/-",
+        "'r",
+        "ɪ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/-",
+        "'r",
+        "ĭ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "silent_consonant"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "w 不發音;i 發短音 ĭ;e 發 schwa"
+    }
+  ]
+}

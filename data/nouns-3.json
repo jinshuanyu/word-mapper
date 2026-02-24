@@ -4,209 +4,768 @@
       "number": "🎭 角色",
       "word": "character",
       "ipa": "/ˈkɛrəktɚ/",
-      "graphemes": ["ch", "a", "r", "a", "c", "t", "er"],
-      "phonemes": ["/'k", "ɛ", "r", "ə", "k", "t", "ɚ/"],
-      "phonics": ["/'k", "ĕ", "r", "ə", "k", "t", "er/"],
-      "tags": ["closed", "digraph", "irregular", "suffix"],
-      "hearts": [1, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "ch",
+        "a",
+        "r",
+        "a",
+        "c",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɛ",
+        "r",
+        "ə",
+        "k",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĕ",
+        "r",
+        "ə",
+        "k",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 char-（閉音節）；ch 對應 /k/（需記）；-er 字尾。"
     },
     {
       "number": "↔️ 差異",
       "word": "difference",
       "ipa": "/ˈdɪfərəns/",
-      "graphemes": ["d", "i", "ff", "e", "r", "e", "n", "ce"],
-      "phonemes": ["/'d", "ɪ", "f", "ə", "r", "ə", "n", "s/"],
-      "phonics": ["/'d", "ĭ", "f", "ə", "r", "ə", "n", "s/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "ff",
+        "e",
+        "r",
+        "e",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "f",
+        "ə",
+        "r",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "f",
+        "ə",
+        "r",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "closed",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 dif-（閉音節）；i 發短音 /ĭ/；ff 為 floss。"
     },
     {
       "number": "😓 困難",
       "word": "difficulty",
       "ipa": "/ˈdɪfɪkəlti/",
-      "graphemes": ["d", "i", "ff", "i", "c", "u", "l", "t", "y"],
-      "phonemes": ["/'d", "ɪ", "f", "ɪ", "k", "ə", "l", "t", "i/"],
-      "phonics": ["/'d", "ĭ", "f", "ĭ", "k", "ə", "l", "t", "ē/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "ff",
+        "i",
+        "c",
+        "u",
+        "l",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "f",
+        "ɪ",
+        "k",
+        "ə",
+        "l",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "f",
+        "ĭ",
+        "k",
+        "ə",
+        "l",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 dif-（閉音節）；兩個短母音 /ĭ/；ff 為 floss；y 發 /ē/。"
     },
     {
       "number": "⭐ 重要性",
       "word": "importance",
       "ipa": "/ɪmˈpɔrtəns/",
-      "graphemes": ["i", "m", "p", "or", "t", "a", "n", "ce"],
-      "phonemes": ["/ɪ", "m", "'p", "ɔr", "t", "ə", "n", "s/"],
-      "phonics": ["/ĭ", "m", "'p", "or", "t", "ə", "n", "s/"],
-      "tags": ["closed", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "m",
+        "p",
+        "or",
+        "t",
+        "a",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "m",
+        "'p",
+        "ɔr",
+        "t",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "m",
+        "'p",
+        "or",
+        "t",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -por-（閉音節）；第一音節 i 發短音 /ĭ/；or 為 r-controlled。"
     },
     {
       "number": "💫 影響",
       "word": "influence",
       "ipa": "/ˈɪnfluəns/",
-      "graphemes": ["i", "n", "f", "l", "u", "e", "n", "ce"],
-      "phonemes": ["/'ɪ", "n", "f", "l", "u", "ə", "n", "s/"],
-      "phonics": ["/'ĭ", "n", "f", "l", "ū", "ə", "n", "s/"],
-      "tags": ["closed", "cluster", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "f",
+        "l",
+        "u",
+        "e",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "f",
+        "l",
+        "u",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "f",
+        "l",
+        "ū",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 in-（閉音節）；i 發短音 /ĭ/；fl 為 cluster；u 發長音 /ū/（開音節）。"
     },
     {
       "number": "ℹ️ 資訊",
       "word": "information",
       "ipa": "/ɪnfɚˈmeɪʃən/",
-      "graphemes": ["i", "n", "f", "or", "m", "a", "tion"],
-      "phonemes": ["/ɪ", "n", "f", "ɚ", "'m", "eɪ", "ʃən/"],
-      "phonics": ["/ĭ", "n", "f", "er", "'m", "ā", "shən/"],
-      "tags": ["closed", "digraph", "irregular", "open", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "i",
+        "n",
+        "f",
+        "or",
+        "m",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "f",
+        "ɚ",
+        "'m",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "f",
+        "er",
+        "'m",
+        "ā",
+        "shən/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "irregular",
+        "open",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 -ma-（開音節）；第一音節 i 發短音 /ĭ/；or 為 r-controlled；a 發長音 /ā/；tion 對應 /ʃən/（需記）。"
     },
     {
       "number": "💝 種類",
       "word": "kind",
       "ipa": "/kaɪnd/",
-      "graphemes": ["k", "i", "nd"],
-      "phonemes": ["/'k", "aɪ", "nd/"],
-      "phonics": ["/'k", "ī", "nd/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "k",
+        "i",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "aɪ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "ī",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；i 在 nd 前發長音 /ī/（開音節規則）。"
     },
     {
       "number": "🎩 方式",
       "word": "manner",
       "ipa": "/ˈmænɚ/",
-      "graphemes": ["m", "a", "nn", "er"],
-      "phonemes": ["/'m", "æ", "n", "ɚ/"],
-      "phonics": ["/'m", "ă", "n", "er/"],
-      "tags": ["closed", "floss", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "nn",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "æ",
+        "n",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ă",
+        "n",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 man-（閉音節）；a 發短音 /ă/；nn 為 floss；-er 字尾。"
     },
     {
       "number": "⚖️ 質量",
       "word": "mass",
       "ipa": "/mæs/",
-      "graphemes": ["m", "a", "ss"],
-      "phonemes": ["/'m", "æ", "s/"],
-      "phonics": ["/'m", "ă", "s/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/m",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/m",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "closed",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；a 發短音 /ă/；ss 為 floss。"
     },
     {
       "number": "🧩 事情",
       "word": "matter",
       "ipa": "/ˈmætɚ/",
-      "graphemes": ["m", "a", "tt", "er"],
-      "phonemes": ["/'m", "æ", "t", "ɚ/"],
-      "phonics": ["/'m", "ă", "t", "er/"],
-      "tags": ["closed", "floss", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "tt",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "æ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ă",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 mat-（閉音節）；a 發短音 /ă/；tt 為 floss；-er 字尾。"
     },
     {
       "number": "💭 意義",
       "word": "meaning",
       "ipa": "/ˈminɪŋ/",
-      "graphemes": ["m", "ea", "n", "i", "ng"],
-      "phonemes": ["/'m", "i", "n", "ɪ", "ŋ/"],
-      "phonics": ["/'m", "ē", "n", "ĭ", "ŋ/"],
-      "tags": ["closed", "digraph", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "ea",
+        "n",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'m",
+        "i",
+        "n",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ē",
+        "n",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 mean-；ea 對應 /ē/；第二音節 i 發短音 /ĭ/；ng 為 digraph。"
     },
     {
       "number": "📐 方法",
       "word": "method",
       "ipa": "/ˈmɛθəd/",
-      "graphemes": ["m", "e", "th", "o", "d"],
-      "phonemes": ["/'m", "ɛ", "θ", "ə", "d/"],
-      "phonics": ["/'m", "ĕ", "th", "ə", "d/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "e",
+        "th",
+        "o",
+        "d"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "θ",
+        "ə",
+        "d/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "th",
+        "ə",
+        "d/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 meth-（閉音節）；e 發短音 /ĕ/；th 為 digraph。"
     },
     {
       "number": "🧠 心智",
       "word": "mind",
       "ipa": "/maɪnd/",
-      "graphemes": ["m", "i", "nd"],
-      "phonemes": ["/'m", "aɪ", "nd/"],
-      "phonics": ["/'m", "ī", "nd/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/m",
+        "aɪ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/m",
+        "ī",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；i 在 nd 前發長音 /ī/（開音節規則）。"
     },
     {
       "number": "💬 意見",
       "word": "opinion",
       "ipa": "/əˈpɪnjən/",
-      "graphemes": ["o", "p", "i", "n", "i", "o", "n"],
-      "phonemes": ["/ə", "'p", "ɪ", "n", "j", "ə", "n/"],
-      "phonics": ["/ə", "'p", "ĭ", "n", "y", "ə", "n/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "o",
+        "p",
+        "i",
+        "n",
+        "i",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/ə",
+        "'p",
+        "ɪ",
+        "n",
+        "j",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/ə",
+        "'p",
+        "ĭ",
+        "n",
+        "y",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -pin-（閉音節）；i 發短音 /ĭ/。"
     },
     {
       "number": "🔁 模式",
       "word": "pattern",
       "ipa": "/ˈpætɚn/",
-      "graphemes": ["p", "a", "tt", "er", "n"],
-      "phonemes": ["/'p", "æ", "t", "ɚ", "n/"],
-      "phonics": ["/'p", "ă", "t", "er", "n/"],
-      "tags": ["closed", "floss", "suffix"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "tt",
+        "er",
+        "n"
+      ],
+      "phonemes": [
+        "/'p",
+        "æ",
+        "t",
+        "ɚ",
+        "n/"
+      ],
+      "phonics": [
+        "/'p",
+        "ă",
+        "t",
+        "er",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 pat-（閉音節）；a 發短音 /ă/；tt 為 floss；-ern 字尾。"
     },
     {
       "number": "📜 原則",
       "word": "principle",
       "ipa": "/ˈprɪnsəpəl/",
-      "graphemes": ["p", "r", "i", "n", "c", "i", "p", "le"],
-      "phonemes": ["/'p", "r", "ɪ", "n", "s", "ə", "p", "əl/"],
-      "phonics": ["/'p", "r", "ĭ", "n", "s", "ə", "p", "əl/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "i",
+        "n",
+        "c",
+        "i",
+        "p",
+        "le"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɪ",
+        "n",
+        "s",
+        "ə",
+        "p",
+        "əl/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ĭ",
+        "n",
+        "s",
+        "ə",
+        "p",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 prin-（閉音節）；pr 為 cluster；i 發短音 /ĭ/。"
     },
     {
       "number": "👃 感覺",
       "word": "sense",
       "ipa": "/sɛns/",
-      "graphemes": ["s", "e", "n", "se"],
-      "phonemes": ["/'s", "ɛ", "n", "s/"],
-      "phonics": ["/'s", "ĕ", "n", "s/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "e",
+        "n",
+        "se"
+      ],
+      "phonemes": [
+        "/s",
+        "ɛ",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/s",
+        "ĕ",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；e 發短音 /ĕ/。"
     },
     {
       "number": "💭 思想",
       "word": "thought",
       "ipa": "/θɔt/",
-      "graphemes": ["th", "ou", "gh", "t"],
-      "phonemes": ["/'θ", "ɔ", "-", "t/"],
-      "phonics": ["/'th", "aw", "-", "t/"],
-      "tags": ["digraph", "silent_consonant", "vowel_team"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "th",
+        "ough",
+        "t"
+      ],
+      "phonemes": [
+        "/θ",
+        "ɔ",
+        "t/"
+      ],
+      "phonics": [
+        "/th",
+        "aw",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "silent_consonant",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；th 為 digraph；ou 對應 /aw/；gh 不發音。"
     },
     {
       "number": "🛤️ 方法",
       "word": "way",
       "ipa": "/weɪ/",
-      "graphemes": ["w", "ay"],
-      "phonemes": ["/'w", "eɪ/"],
-      "phonics": ["/'w", "ā/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "w",
+        "ay"
+      ],
+      "phonemes": [
+        "/w",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/w",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "單音節；ay 對應 /ā/。"
     }
   ]

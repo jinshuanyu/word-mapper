@@ -4,396 +4,1362 @@
       "number": "✅ 接受",
       "word": "accept",
       "ipa": "/əkˈsɛpt/",
-      "graphemes": ["a", "c","c", "e", "p", "t"],
-      "phonemes": ["ə", "k","'s", "ɛ", "p", "t"],
-      "phonics": ["ə", "k","'s", "ĕ", "p", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 1, 1, 0, 0],
+      "graphemes": [
+        "a",
+        "c",
+        "c",
+        "e",
+        "p",
+        "t"
+      ],
+      "phonemes": [
+        "ə",
+        "k",
+        "'s",
+        "ɛ",
+        "p",
+        "t"
+      ],
+      "phonics": [
+        "ə",
+        "k",
+        "'s",
+        "ĕ",
+        "p",
+        "t"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
       "hint": "a 弱化 /ə/；cc 在此對應 /ks/（重音落在後半段 /s/）；e 發短音 /ɛ/（ĕ）。"
     },
     {
       "number": "🎬 行動",
       "word": "act",
-      "ipa": "/ˈækt/",
-      "graphemes": ["a", "c", "t"],
-      "phonemes": ["'æ", "k", "t"],
-      "phonics": ["ă", "k", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "ipa": "/ækt/",
+      "graphemes": [
+        "a",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "æ",
+        "k",
+        "t"
+      ],
+      "phonics": [
+        "ă",
+        "k",
+        "t"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短音 ă。"
     },
     {
       "number": "➕ 加",
       "word": "add",
-      "ipa": "/ˈæd/",
-      "graphemes": ["a", "dd"],
-      "phonemes": ["'æ", "d"],
-      "phonics": ["ă", "d"],
-      "tags": ["closed"],
-      "hearts": [0, 1],
+      "ipa": "/æd/",
+      "graphemes": [
+        "a",
+        "dd"
+      ],
+      "phonemes": [
+        "æ",
+        "d"
+      ],
+      "phonics": [
+        "ă",
+        "d"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
       "hint": "a 發短音 ă；dd 對應 /d/。"
     },
     {
       "number": "🫣 承認",
       "word": "admit",
       "ipa": "/ədˈmɪt/",
-      "graphemes": ["a", "d", "m", "i", "t"],
-      "phonemes": ["ə", "d", "'m", "ɪ", "t"],
-      "phonics": ["ə", "d", "'m", "ĭ", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "d",
+        "m",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "ə",
+        "d",
+        "'m",
+        "ɪ",
+        "t"
+      ],
+      "phonics": [
+        "ə",
+        "d",
+        "'m",
+        "ĭ",
+        "t"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一音節 a 弱化 /ə/；重音在 -mit；i 發短音 ĭ。"
     },
     {
       "number": "🌀 影響",
       "word": "affect",
       "ipa": "/əˈfɛkt/",
-      "graphemes": ["a", "ff", "e", "c", "t"],
-      "phonemes": ["ə", "'f", "ɛ", "k", "t"],
-      "phonics": ["ə", "'f", "ĕ", "k", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "ff",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "ə",
+        "'f",
+        "ɛ",
+        "k",
+        "t"
+      ],
+      "phonics": [
+        "ə",
+        "'f",
+        "ĕ",
+        "k",
+        "t"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "a 弱化 /ə/；重音在 -fect；e 發短音 ĕ。"
     },
-   {
+    {
       "number": "🙏 欣賞",
       "word": "appreciate",
       "ipa": "/əˈpriʃieɪt/",
-      "graphemes": ["a", "pp", "r", "e", "c","i", "a","t","e"],
-      "phonemes": ["/ə", "'p", "r", "i", "ʃ", "i","eɪ","t","-/"],
-      "phonics": ["/ə", "'p", "r", "ē", "sh", "ē","ā","t","-/"],
-      "tags": ["cluster", "irregular"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "a",
+        "pp",
+        "r",
+        "e",
+        "c",
+        "i",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/ə",
+        "'p",
+        "r",
+        "i",
+        "ʃ",
+        "i",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/ə",
+        "'p",
+        "r",
+        "ē",
+        "sh",
+        "ē",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "重音在 -pre-；pr 混合音；ci 對應 /ʃ/（需記）；字尾 t 加 -ed 發 /ɪd/。"
     },
     {
       "number": "🛑 避免",
       "word": "avoid",
       "ipa": "/əˈvɔɪd/",
-      "graphemes": ["a", "v", "oi", "d"],
-      "phonemes": ["ə", "'v", "ɔɪ", "d"],
-      "phonics": ["ə", "'v", "oi", "d"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "v",
+        "oi",
+        "d"
+      ],
+      "phonemes": [
+        "ə",
+        "'v",
+        "ɔɪ",
+        "d"
+      ],
+      "phonics": [
+        "ə",
+        "'v",
+        "oi",
+        "d"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 弱化 /ə/；oi 對應 /ɔɪ/。"
     },
     {
       "number": "📢 廣播",
       "word": "broadcast",
       "ipa": "/ˈbrɔdkæst/",
-      "graphemes": ["b","r", "oa", "d", "c", "a", "s", "t"],
-      "phonemes": ["'b","r", "ɔ", "d", "k", "æ", "s", "t"],
-      "phonics": ["'b","r", "aw", "d", "k", "ă", "s", "t"],
-      "tags": ["cluster",  "irregular"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "r",
+        "oa",
+        "d",
+        "c",
+        "a",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'b",
+        "r",
+        "ɔ",
+        "d",
+        "k",
+        "æ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'b",
+        "r",
+        "aw",
+        "d",
+        "k",
+        "ă",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "br 是 cluster；oa 在此不發 /ō/，而是 /ɔ/（可當整塊記）。"
     },
     {
       "number": "🤥 作弊",
       "word": "cheat",
       "ipa": "/tʃit/",
-      "graphemes": ["ch", "ea", "t"],
-      "phonemes": ["/tʃ", "i", "t/"],
-      "phonics": ["/ch", "ē", "t/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "ch",
+        "ea",
+        "t"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/ch",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；ch 為 digraph；ea 對應 /i/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "📚 收集",
       "word": "collect",
       "ipa": "/kəˈlɛkt/",
-      "graphemes": ["c", "o", "ll", "e", "c", "t"],
-      "phonemes": ["/k", "ə", "'l", "ɛ", "k", "t/"],
-      "phonics": ["/k", "ə", "'l", "ĕ", "k", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "ll",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "'l",
+        "ɛ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "'l",
+        "ĕ",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -lect（閉音節）；字尾 t 加 -ed 發 /ɪd/。"
     },
     {
       "number": "💬 評論",
       "word": "comment",
       "ipa": "/ˈkɑmɛnt/",
-      "graphemes": ["c", "o", "mm", "e", "n", "t"],
-      "phonemes": ["/'k", "ɑ", "m", "ɛ", "n", "t/"],
-      "phonics": ["/'k", "ŏ", "m", "ĕ", "n", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "mm",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "m",
+        "ɛ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "m",
+        "ĕ",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 com-（閉音節）；字尾 t 加 -ed 發 /ɪd/。"
     },
     {
       "number": "✅ 完成",
       "word": "complete",
       "ipa": "/kəmˈplit/",
-      "graphemes": ["c", "o", "m", "p","l", "e", "t", "e"],
-      "phonemes": ["k", "ə", "m", "'p","l", "i", "t", "-"],
-      "phonics": ["k", "ə", "m", "'p","l", "ē", "t", "-"],
-      "tags": [ "cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "m",
+        "p",
+        "l",
+        "e",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "m",
+        "'p",
+        "l",
+        "i",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "m",
+        "'p",
+        "l",
+        "ē",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化 /ə/；重音在 -plete；最後 e 不發音。"
     },
     {
       "number": "✏️ 改正",
       "word": "correct",
       "ipa": "/kəˈrɛkt/",
-      "graphemes": ["c", "o", "rr", "e", "c", "t"],
-      "phonemes": ["/k", "ə", "'r", "ɛ", "k", "t/"],
-      "phonics": ["/k", "ə", "'r", "ĕ", "k", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "rr",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "'r",
+        "ɛ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "'r",
+        "ĕ",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -rect（閉音節）；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "🔢 數",
       "word": "count",
-      "ipa": "/ˈkaʊnt/",
-      "graphemes": ["c", "ou", "n", "t"],
-      "phonemes": ["'k", "aʊ", "n", "t"],
-      "phonics": ["k", "ow", "n", "t"],
-      "tags": ["vowel_team","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/kaʊnt/",
+      "graphemes": [
+        "c",
+        "ou",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "k",
+        "aʊ",
+        "n",
+        "t"
+      ],
+      "phonics": [
+        "k",
+        "ow",
+        "n",
+        "t"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 對應 /aʊ/。"
     },
     {
       "number": "🛠 創造",
       "word": "create",
       "ipa": "/kriˈeɪt/",
-      "graphemes": ["c","r", "e", "a", "t", "e"],
-      "phonemes": ["k","r", "i", "'eɪ", "t", "-"],
-      "phonics": ["k","r", "ē", "'ā", "t", "-"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "r",
+        "e",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "k",
+        "r",
+        "i",
+        "'eɪ",
+        "t",
+        "-"
+      ],
+      "phonics": [
+        "k",
+        "r",
+        "ē",
+        "'ā",
+        "t",
+        "-"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "cr 是 cluster；第一段 e 對應 /i/（ē）；a_e 對應 /eɪ/（ā）；最後 e 不發音。"
     },
     {
       "number": "📅 約會",
       "word": "date",
-      "ipa": "/ˈdeɪt/",
-      "graphemes": ["d", "a", "t", "e"],
-      "phonemes": ["'d", "eɪ", "t", "-"],
-      "phonics": ["d", "ā", "t", "-"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/deɪt/",
+      "graphemes": [
+        "d",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "d",
+        "eɪ",
+        "t",
+        "-"
+      ],
+      "phonics": [
+        "d",
+        "ā",
+        "t",
+        "-"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 對應 /eɪ/（ā）；e 不發音。"
     },
     {
       "number": "🧠 決定",
       "word": "decide",
       "ipa": "/dɪˈsaɪd/",
-      "graphemes": ["d", "e", "c", "i", "d", "e"],
-      "phonemes": ["d", "ɪ", "'s", "aɪ", "d", "-"],
-      "phonics": ["d", "ĭ", "s", "ī", "d", "-"],
-      "tags": [ "magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "e",
+        "c",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "d",
+        "ɪ",
+        "'s",
+        "aɪ",
+        "d",
+        "-"
+      ],
+      "phonics": [
+        "d",
+        "ĭ",
+        "s",
+        "ī",
+        "d",
+        "-"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "e 在此發 /ɪ/（ĭ）；c 在此發 /s/；最後 e 不發音。"
     },
     {
       "number": "🔍 偵測",
       "word": "detect",
       "ipa": "/dɪˈtɛkt/",
-      "graphemes": ["d", "e", "t", "e", "c", "t"],
-      "phonemes": ["d", "ɪ", "'t", "ɛ", "k", "t"],
-      "phonics": ["d", "ĭ", "'t", "ĕ", "k", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "e",
+        "t",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "d",
+        "ɪ",
+        "'t",
+        "ɛ",
+        "k",
+        "t"
+      ],
+      "phonics": [
+        "d",
+        "ĭ",
+        "'t",
+        "ĕ",
+        "k",
+        "t"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一個 e 發 /ɪ/（ĭ）；第二個 e 發 /ɛ/（ĕ）；重音在 -tect。"
     },
     {
       "number": "🧭 指導",
       "word": "direct",
       "ipa": "/dəˈrɛkt/",
-      "graphemes": ["d", "i", "r", "e", "c", "t"],
-      "phonemes": ["d", "ə", "'r", "ɛ", "k", "t"],
-      "phonics": ["d", "ə", "'r", "ĕ", "k", "t"],
-      "tags": ["closed","cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "r",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "d",
+        "ə",
+        "'r",
+        "ɛ",
+        "k",
+        "t"
+      ],
+      "phonics": [
+        "d",
+        "ə",
+        "'r",
+        "ĕ",
+        "k",
+        "t"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一個 i 在此弱化 /ə/；e 發短音 ĕ；重音在 -rect。"
     },
     {
       "number": "🤔 懷疑",
       "word": "doubt",
-      "ipa": "/ˈdaʊt/",
-      "graphemes": ["d", "ou", "b", "t"],
-      "phonemes": ["'d", "aʊ", "-", "t"],
-      "phonics": ["d", "ow", "-", "t"],
-      "tags": ["vowel_team", "silent_consonant"],
-      "hearts": [0, 0, 1, 0],
+      "ipa": "/daʊt/",
+      "graphemes": [
+        "d",
+        "ou",
+        "b",
+        "t"
+      ],
+      "phonemes": [
+        "d",
+        "aʊ",
+        "-",
+        "t"
+      ],
+      "phonics": [
+        "d",
+        "ow",
+        "-",
+        "t"
+      ],
+      "tags": [
+        "vowel_team",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ou 對應 /aʊ/；b 不發音。"
     },
     {
       "number": "🗳️ 選舉",
       "word": "elect",
       "ipa": "/ɪˈlɛkt/",
-      "graphemes": ["e", "l", "e", "c", "t"],
-      "phonemes": ["ɪ", "'l", "ɛ", "k", "t"],
-      "phonics": ["ĭ", "l", "ĕ", "k", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "l",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "ɪ",
+        "'l",
+        "ɛ",
+        "k",
+        "t"
+      ],
+      "phonics": [
+        "ĭ",
+        "l",
+        "ĕ",
+        "k",
+        "t"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一個 e 發 /ɪ/（ĭ）；第二個 e 發 /ɛ/（ĕ）；重音在 -lect。"
     },
     {
       "number": "🛑 結束",
       "word": "end",
-      "ipa": "/ˈɛnd/",
-      "graphemes": ["e", "n", "d"],
-      "phonemes": ["'ɛ", "n", "d"],
-      "phonics": ["ĕ", "n", "d"],
-      "tags": ["cvc","cluster"],
-      "hearts": [0, 0, 0],
+      "ipa": "/ɛnd/",
+      "graphemes": [
+        "e",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "ɛ",
+        "n",
+        "d"
+      ],
+      "phonics": [
+        "ĕ",
+        "n",
+        "d"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "e 發短音 ĕ。"
     },
     {
       "number": "🎉 使興奮",
       "word": "excite",
       "ipa": "/ɪkˈsaɪt/",
-      "graphemes": ["e", "x", "c", "i", "t", "e"],
-      "phonemes": ["ɪ", "k", "'s", "aɪ", "t", "-"],
-      "phonics": ["ĭ", "k", "'s", "ī", "t", "-"],
-      "tags": [ "magic_e"],
-      "hearts": [0, 1, 1, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "c",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "ɪ",
+        "k",
+        "'s",
+        "aɪ",
+        "t",
+        "-"
+      ],
+      "phonics": [
+        "ĭ",
+        "k",
+        "'s",
+        "ī",
+        "t",
+        "-"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "e 在此發 /ɪ/（ĭ）；c 在此發 /s/；i_e 對應 /aɪ/（ī）；最後 e 不發音。"
     },
     {
       "number": "🌍 存在",
       "word": "exist",
       "ipa": "/ɪɡˈzɪst/",
-      "graphemes": ["e", "x", "i", "s", "t"],
-      "phonemes": ["ɪ", "ɡ'z", "ɪ", "s", "t"],
-      "phonics": ["ĭ", "ɡ'z", "ĭ", "s", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "i",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "ɪ",
+        "ɡ'z",
+        "ɪ",
+        "s",
+        "t"
+      ],
+      "phonics": [
+        "ĭ",
+        "ɡ'z",
+        "ĭ",
+        "s",
+        "t"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "x 在此對應 /ɡz/；重音落在 z 那一節（-zist）。"
     },
     {
       "number": "🔮 期待",
       "word": "expect",
       "ipa": "/ɪkˈspɛkt/",
-      "graphemes": ["e", "x", "p", "e", "c", "t"],
-      "phonemes": ["ɪ", "k's","p", "ɛ", "k", "t"],
-      "phonics": ["ĭ", "k's","p", "ĕ", "k", "t"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "p",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "ɪ",
+        "k's",
+        "p",
+        "ɛ",
+        "k",
+        "t"
+      ],
+      "phonics": [
+        "ĭ",
+        "k's",
+        "p",
+        "ĕ",
+        "k",
+        "t"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "e 在此發 /ɪ/（ĭ）；sp 是 cluster；第二個 e 發 /ɛ/（ĕ）。"
     },
     {
       "number": "👔 適合",
       "word": "fit",
       "ipa": "/fɪt/",
-      "graphemes": ["f", "i", "t"],
-      "phonemes": ["/f", "ɪ", "t/"],
-      "phonics": ["/f", "ĭ", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；字尾 t 加 -ed 發 /ɪd/。"
     },
     {
       "number": "👋 問候",
       "word": "greet",
-      "ipa": "/ˈɡrit/",
-      "graphemes": ["g","r", "ee", "t"],
-      "phonemes": ["ɡ","r", "i", "t"],
-      "phonics": ["g","r", "ē", "t"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [0, 0, 0],
+      "ipa": "/ɡrit/",
+      "graphemes": [
+        "g",
+        "r",
+        "ee",
+        "t"
+      ],
+      "phonemes": [
+        "ɡ",
+        "r",
+        "i",
+        "t"
+      ],
+      "phonics": [
+        "g",
+        "r",
+        "ē",
+        "t"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "gr 是 cluster；ee 發 /i/（ē）。"
     },
     {
       "number": "🗺️ 引導",
       "word": "guide",
-      "ipa": "/ˈɡaɪd/",
-      "graphemes": ["g", "ui", "d", "e"],
-      "phonemes": ["'ɡ", "aɪ", "d", "-"],
-      "phonics": ["g", "ī", "d", "-"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 1],
+      "ipa": "/ɡaɪd/",
+      "graphemes": [
+        "g",
+        "ui",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "ui 在此對應 /aɪ/（用 ī 表示）；最後 e 不發音。"
     },
     {
       "number": "🤝 遞交",
       "word": "hand",
-      "ipa": "/ˈhænd/",
-      "graphemes": ["h", "a", "n", "d"],
-      "phonemes": ["h", "æ", "n", "d"],
-      "phonics": ["h", "ă", "n", "d"],
-      "tags": ["cvc","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/hænd/",
+      "graphemes": [
+        "h",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短音 ă。"
     },
     {
       "number": "😡 恨",
       "word": "hate",
-      "ipa": "/ˈheɪt/",
-      "graphemes": ["h", "a", "t", "e"],
-      "phonemes": ["h", "eɪ", "t", "-"],
-      "phonics": ["h", "ā", "t", "-"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0 ],
+      "ipa": "/heɪt/",
+      "graphemes": [
+        "h",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "h",
+        "eɪ",
+        "t",
+        "-"
+      ],
+      "phonics": [
+        "h",
+        "ā",
+        "t",
+        "-"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 對應 /eɪ/（ā）；e 不發音。"
     },
     {
       "number": "🏹 打獵",
       "word": "hunt",
-      "ipa": "/ˈhʌnt/",
-      "graphemes": ["h", "u", "n", "t"],
-      "phonemes": ["h", "ʌ", "n", "t"],
-      "phonics": ["h", "ŭ", "n", "t"],
-      "tags": ["cvc","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/hʌnt/",
+      "graphemes": [
+        "h",
+        "u",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "h",
+        "ʌ",
+        "n",
+        "t"
+      ],
+      "phonics": [
+        "h",
+        "ŭ",
+        "n",
+        "t"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短音 ŭ。"
     },
     {
       "number": "📍 表明",
       "word": "indicate",
       "ipa": "/ˈɪndɪkeɪt/",
-      "graphemes": ["i", "n", "d", "i", "c", "a", "t", "e"],
-      "phonemes": ["'ɪ", "n", "d", "ɪ", "k", "eɪ", "t", "-"],
-      "phonics": ["'ĭ", "n", "d", "ĭ", "k", "ā", "t", "-"],
-      "tags": [ "magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "d",
+        "i",
+        "c",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "'ɪ",
+        "n",
+        "d",
+        "ɪ",
+        "k",
+        "eɪ",
+        "t",
+        "-"
+      ],
+      "phonics": [
+        "'ĭ",
+        "n",
+        "d",
+        "ĭ",
+        "k",
+        "ā",
+        "t",
+        "-"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "兩個 i 都發短音 ĭ；a_e 對應 /eɪ/（ā）；最後 e 不發音。"
     },
     {
       "number": "💪 堅持",
       "word": "insist",
       "ipa": "/ɪnˈsɪst/",
-      "graphemes": ["i", "n", "s", "i", "s", "t"],
-      "phonemes": ["/ɪ", "n", "'s", "ɪ", "s", "t/"],
-      "phonics": ["/ĭ", "n", "'s", "ĭ", "s", "t/"],
-      "tags": ["closed","cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "s",
+        "i",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "'s",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "'s",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -sist（閉音節）；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "💡 發明",
       "word": "invent",
       "ipa": "/ɪnˈvɛnt/",
-      "graphemes": ["i", "n", "v", "e", "n", "t"],
-      "phonemes": ["ɪ", "n", "'v", "ɛ", "n", "t"],
-      "phonics": ["ĭ", "n", "'v", "ĕ", "n", "t"],
-      "tags": ["closed","cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "v",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "ɪ",
+        "n",
+        "'v",
+        "ɛ",
+        "n",
+        "t"
+      ],
+      "phonics": [
+        "ĭ",
+        "n",
+        "'v",
+        "ĕ",
+        "n",
+        "t"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 發短音 ĭ；e 發短音 ĕ；重音在 -vent。"
     },
     {
       "number": "✉️ 邀請",
       "word": "invite",
       "ipa": "/ɪnˈvaɪt/",
-      "graphemes": ["i", "n", "v", "i", "t", "e"],
-      "phonemes": ["ɪ", "n", "'v", "aɪ", "t", "-"],
-      "phonics": ["ĭ", "n", "'v", "ī", "t", "-"],
-      "tags": [ "magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "v",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "ɪ",
+        "n",
+        "'v",
+        "aɪ",
+        "t",
+        "-"
+      ],
+      "phonics": [
+        "ĭ",
+        "n",
+        "'v",
+        "ī",
+        "t",
+        "-"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一個 i 發短音 ĭ；i_e 對應 /aɪ/（ī）；最後 e 不發音。"
     },
     {
       "number": "🚧 限制",
       "word": "limit",
       "ipa": "/ˈlɪmɪt/",
-      "graphemes": ["l", "i", "m", "i", "t"],
-      "phonemes": ["'l", "ɪ", "m", "ɪ", "t"],
-      "phonics": ["'l", "ĭ", "m", "ĭ", "t"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "i",
+        "m",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "'l",
+        "ɪ",
+        "m",
+        "ɪ",
+        "t"
+      ],
+      "phonics": [
+        "'l",
+        "ĭ",
+        "m",
+        "ĭ",
+        "t"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "兩個 i 都發短音 ĭ。"
     }
   ]

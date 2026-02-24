@@ -4,268 +4,851 @@
       "number": "🎁 提供",
       "word": "offer",
       "ipa": "/ˈɔfɚ/",
-      "graphemes": ["o", "ff", "er"],
-      "phonemes": ["/'ɔ", "f", "ɚ/"],
-      "phonics": ["/'aw", "f", "er/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "o",
+        "ff",
+        "er"
+      ],
+      "phonemes": [
+        "/'ɔ",
+        "f",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'aw",
+        "f",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 of-（閉音節）；ff 雙子音；-er 字尾；字尾有聲子音加 -ed 發 /d/。"
     },
-
     {
       "number": "🚪 打開",
       "word": "open",
       "ipa": "/ˈoʊpən/",
-      "graphemes": ["o", "p", "e", "n"],
-      "phonemes": ["/'oʊ", "p", "ə", "n/"],
-      "phonics": ["/'ō", "p", "ə", "n/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "o",
+        "p",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'oʊ",
+        "p",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ō",
+        "p",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 o-（開音節）；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🏠 擁有",
       "word": "own",
       "ipa": "/oʊn/",
-      "graphemes": ["ow", "n"],
-      "phonemes": ["/oʊ", "n/"],
-      "phonics": ["/ō", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/oʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/ō",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "單音節；ow 對應 /oʊ/；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🙏 原諒",
       "word": "pardon",
       "ipa": "/ˈpɑrdən/",
-      "graphemes": ["p", "ar", "d", "o", "n"],
-      "phonemes": ["/'p", "ɑr", "d", "ə", "n/"],
-      "phonics": ["/'p", "ɑr", "d", "ə", "n/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "ar",
+        "d",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑr",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'p",
+        "ɑr",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 par-；ar 為 r-controlled；字尾有聲子音加 -ed 發 /d/。"
     },
-
     {
       "number": "📝 計畫",
       "word": "plan",
       "ipa": "/plæn/",
-      "graphemes": ["p", "l", "a", "n"],
-      "phonemes": ["/p", "l", "æ", "n/"],
-      "phonics": ["/p", "l", "ă", "n/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；pl 混合音；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🎮 玩",
       "word": "play",
       "ipa": "/pleɪ/",
-      "graphemes": ["p", "l", "ay"],
-      "phonemes": ["/p", "l", "eɪ/"],
-      "phonics": ["/p", "l", "ā/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "ay"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ā/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；pl 混合音；ay 對應 /eɪ/；字尾母音加 -ed 發 /d/。"
     },
     {
       "number": "🙏 取悅",
       "word": "please",
       "ipa": "/pliz/",
-      "graphemes": ["p", "l", "ea", "s", "e"],
-      "phonemes": ["/p", "l", "i", "z", "-/"],
-      "phonics": ["/p", "l", "ē", "z", "-/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "ea",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "i",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ē",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；pl 混合音；ea 對應 /i/；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "👏 讚美",
       "word": "praise",
       "ipa": "/preɪz/",
-      "graphemes": ["p", "r", "ai", "s", "e"],
-      "phonemes": ["/p", "r", "eɪ", "z", "-/"],
-      "phonics": ["/p", "r", "ā", "z", "-/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "ai",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "eɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ā",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；pr 混合音；ai 對應 /eɪ/；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🙏 祈禱",
       "word": "pray",
       "ipa": "/preɪ/",
-      "graphemes": ["p", "r", "ay"],
-      "phonemes": ["/p", "r", "eɪ/"],
-      "phonics": ["/p", "r", "ā/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "ay"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ā/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；pr 混合音；ay 對應 /eɪ/；字尾母音加 -ed 發 /d/。"
     },
     {
       "number": "📚 準備",
       "word": "prepare",
       "ipa": "/prɪˈpɛr/",
-      "graphemes": ["p", "r", "e", "p", "a", "r", "e"],
-      "phonemes": ["/p", "r", "ɪ", "'p", "ɛ", "r", "-/"],
-      "phonics": ["/p", "r", "ĭ", "'p", "ĕ", "r", "-/"],
-      "tags": ["cluster", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "e",
+        "p",
+        "a",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "ɪ",
+        "'p",
+        "ɛ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ĭ",
+        "'p",
+        "ĕ",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -pare；pr 混合音；ar 為 r-controlled；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🚗 拉",
       "word": "pull",
       "ipa": "/pʊl/",
-      "graphemes": ["p", "u", "ll"],
-      "phonemes": ["/p", "ʊ", "l/"],
-      "phonics": ["/p", "oo", "l/"],
-      "tags": ["irregular", "floss"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "p",
+        "u",
+        "ll"
+      ],
+      "phonemes": [
+        "/p",
+        "ʊ",
+        "l/"
+      ],
+      "phonics": [
+        "/p",
+        "oo",
+        "l/"
+      ],
+      "tags": [
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；u 對應 /ʊ/（需記）；ll 為 floss；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "⛽ 打氣",
       "word": "pump",
       "ipa": "/pʌmp/",
-      "graphemes": ["p", "u", "m", "p"],
-      "phonemes": ["/p", "ʌ", "m", "p/"],
-      "phonics": ["/p", "ŭ", "m", "p/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "u",
+        "m",
+        "p"
+      ],
+      "phonemes": [
+        "/p",
+        "ʌ",
+        "m",
+        "p/"
+      ],
+      "phonics": [
+        "/p",
+        "ŭ",
+        "m",
+        "p/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；字尾無聲子音加 -ed 發 /t/。"
     },
     {
       "number": "⬆️ 舉起",
       "word": "raise",
       "ipa": "/reɪz/",
-      "graphemes": ["r", "ai", "s", "e"],
-      "phonemes": ["/r", "eɪ", "z", "-/"],
-      "phonics": ["/r", "ā", "z", "-/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "ai",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "eɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ā",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；ai 對應 /eɪ/；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "💡 了解",
       "word": "realize",
       "ipa": "/ˈriəlaɪz/",
-      "graphemes": ["r", "ea", "l", "i", "z", "e"],
-      "phonemes": ["/'r", "i", "ə", "l", "aɪ", "z", "-/"],
-      "phonics": ["/'r", "ē", "ə", "l", "ī", "z", "-/"],
-      "tags": ["vowel_team", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "ea",
+        "l",
+        "i",
+        "z",
+        "e"
+      ],
+      "phonemes": [
+        "/'r",
+        "i",
+        "ə",
+        "l",
+        "aɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/'r",
+        "ē",
+        "ə",
+        "l",
+        "ī",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 rea-；ea 對應 /i/；-lize 開音節；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "📬 收到",
       "word": "receive",
       "ipa": "/rɪˈsiv/",
-      "graphemes": ["r", "e", "c", "ei", "v", "e"],
-      "phonemes": ["/r", "ɪ", "'s", "i", "v", "-/"],
-      "phonics": ["/r", "ĭ", "'s", "ē", "v", "-/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "c",
+        "ei",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'s",
+        "i",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'s",
+        "ē",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -ceive；ei 對應 /i/；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "♻️ 回收",
       "word": "recycle",
       "ipa": "/riˈsaɪkəl/",
-      "graphemes": ["r", "e", "c", "y", "c", "le"],
-      "phonemes": ["/r", "i", "'s", "aɪ", "k", "əl/"],
-      "phonics": ["/r", "ē", "'s", "ī", "k", "əl/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "c",
+        "y",
+        "c",
+        "le"
+      ],
+      "phonemes": [
+        "/r",
+        "i",
+        "'s",
+        "aɪ",
+        "k",
+        "əl/"
+      ],
+      "phonics": [
+        "/r",
+        "ē",
+        "'s",
+        "ī",
+        "k",
+        "əl/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -cy-；開音節；y 發 /aɪ/；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "❌ 拒絕",
       "word": "refuse",
       "ipa": "/rɪˈfjuz/",
-      "graphemes": ["r", "e", "f", "u", "s", "e"],
-      "phonemes": ["/r", "ɪ", "'f", "ju", "z", "-/"],
-      "phonics": ["/r", "ĭ", "'f", "yū", "z", "-/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "f",
+        "u",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'f",
+        "ju",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'f",
+        "yū",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -fuse（開音節）；字尾有聲子音加 -ed 發 /d/。"
     },
-
     {
       "number": "🧠 記得",
       "word": "remember",
       "ipa": "/rɪˈmɛmbɚ/",
-      "graphemes": ["r", "e", "m", "e", "m", "b", "er"],
-      "phonemes": ["/r", "ɪ", "'m", "ɛ", "m", "b", "ɚ/"],
-      "phonics": ["/r", "ĭ", "'m", "ĕ", "m", "b", "er/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "m",
+        "e",
+        "m",
+        "b",
+        "er"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'m",
+        "ɛ",
+        "m",
+        "b",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'m",
+        "ĕ",
+        "m",
+        "b",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -mem-（閉音節）；-er 字尾；字尾有聲子音加 -ed 發 /d/。"
     },
-
     {
       "number": "↩️ 返回",
       "word": "return",
-      "ipa": "/rɪˈtɜrn/",
-      "graphemes": ["r", "e", "t", "ur", "n"],
-      "phonemes": ["/r", "ɪ", "'t", "ɜr", "n/"],
-      "phonics": ["/r", "ĭ", "'t", "er", "n/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0],
+      "ipa": "/rɪˈtɝn/",
+      "graphemes": [
+        "r",
+        "e",
+        "t",
+        "ur",
+        "n"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'t",
+        "ɝ",
+        "n/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'t",
+        "er",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -turn；ur 為 r-controlled；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "📝 修訂",
       "word": "revise",
       "ipa": "/rɪˈvaɪz/",
-      "graphemes": ["r", "e", "v", "i", "s", "e"],
-      "phonemes": ["/r", "ɪ", "'v", "aɪ", "z", "-/"],
-      "phonics": ["/r", "ĭ", "'v", "ī", "z", "-/"],
-      "tags": ["magic_e", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "v",
+        "i",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'v",
+        "aɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'v",
+        "ī",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "magic_e",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -vise（開音節）；i_e 對應 /aɪ/；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🔫 搶劫",
       "word": "rob",
       "ipa": "/rɑb/",
-      "graphemes": ["r", "o", "b"],
-      "phonemes": ["/r", "ɑ", "b/"],
-      "phonics": ["/r", "ŏ", "b/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "o",
+        "b"
+      ],
+      "phonemes": [
+        "/r",
+        "ɑ",
+        "b/"
+      ],
+      "phonics": [
+        "/r",
+        "ŏ",
+        "b/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🎲 滾動",
       "word": "roll",
       "ipa": "/roʊl/",
-      "graphemes": ["r", "o", "ll"],
-      "phonemes": ["/r", "oʊ", "l/"],
-      "phonics": ["/r", "ō", "l/"],
-      "tags": ["open", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "o",
+        "ll"
+      ],
+      "phonemes": [
+        "/r",
+        "oʊ",
+        "l/"
+      ],
+      "phonics": [
+        "/r",
+        "ō",
+        "l/"
+      ],
+      "tags": [
+        "open",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；開音節；o 發 /oʊ/；ll 為 floss；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "🤲 摩擦",
       "word": "rub",
       "ipa": "/rʌb/",
-      "graphemes": ["r", "u", "b"],
-      "phonemes": ["/r", "ʌ", "b/"],
-      "phonics": ["/r", "ŭ", "b/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "u",
+        "b"
+      ],
+      "phonemes": [
+        "/r",
+        "ʌ",
+        "b/"
+      ],
+      "phonics": [
+        "/r",
+        "ŭ",
+        "b/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；字尾有聲子音加 -ed 發 /d/。"
     },
     {
       "number": "💥 毀壞",
       "word": "ruin",
       "ipa": "/ˈruɪn/",
-      "graphemes": ["r", "u", "i", "n"],
-      "phonemes": ["/'r", "u", "ɪ", "n/"],
-      "phonics": ["/'r", "ū", "ĭ", "n/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "u",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/'r",
+        "u",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/'r",
+        "ū",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 ru-（開音節）；字尾有聲子音加 -ed 發 /d/。"
     }
   ]

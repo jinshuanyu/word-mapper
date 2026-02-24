@@ -1,334 +1,1093 @@
 {
-"items": [
-{
-"number": "🦇 蝙蝠",
-"word": "bat",
-"ipa": "/bæt/",
-"graphemes": ["b","a","t"],
-"phonemes": ["/b","æ","t/"],
-"phonics": ["/b","ă","t/"],
-"tags": ["cvc"],
-"hearts": [false,false,false],
-"hint": "a 發短母音 a /æ/。"
-},
-{
-"number": "🪲 甲蟲",
-"word": "beetle",
-"ipa": "/ˈbitəl/",
-"graphemes": ["b","ee","t","le"],
-"phonemes": ["/'b","i","t","əl/"],
-"phonics": ["/'b","ē","t","əl/"],
-"tags": ["vowel_team","cle"],
-"hearts": [false,false,false,false],
-"hint": "ee 發長母音 e /i/。"
-},
-{
-"number": "🦋 蝴蝶",
-"word": "butterfly",
-"ipa": "/ˈbʌtɚflaɪ/",
-"graphemes": ["b","u","tt","er","f","l","y"],
-"phonemes": ["/'b","ʌ","t","ɚ","f","l","aɪ/"],
-"phonics": ["/'b","ŭ","t","er","f","l","ī/"],
-"tags": ["closed","cluster"],
-"hearts": [false,false,false,false,false,false,false],
-"hint": "butter + fly；tt 重複字母；y 字尾發長母音 i /aɪ/。"
-},
-{
-"number": "籠子",
-"word": "cage",
-"ipa": "/keɪdʒ/",
-"graphemes": ["c","a","g","e"],
-"phonemes": ["/k","eɪ","dʒ","-/"],
-"phonics": ["/k","ā","-j","-/"],
-"tags": ["magic_e"],
-"hearts": [false,false,false,false],
-"hint": "a_e：a 發長母音 a /eɪ/，e 不發音；g 在 e 之前常發 j /dʒ/。"
-},
-{
-"number": "🐫 駱駝",
-"word": "camel",
-"ipa": "/ˈkæməl/",
-"graphemes": ["c","a","m","e","l"],
-"phonemes": ["/'k","æ","m","ə","l/"],
-"phonics": ["/'k","ă","m","ə","l/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false],
-"hint": "a 發短母音 a /æ/。"
-},
-{
-"number": "🧬 生物",
-"word": "creature",
-"ipa": "/ˈkritʃɚ/",
-"graphemes": ["c","r","ea","t","ure"],
-"phonemes": ["/'k","r","i","tʃ","ɚ/"],
-"phonics": ["/'k","r","ē","ch","er/"],
-"tags": ["cluster","vowel_team"],
-"hearts": [false,false,false,true,false],
-"hint": "ea 發長母音 e /i/；-ture 發 cher /tʃɚ/。"
-},
-{
-"number": "🦕 恐龍",
-"word": "dinosaur",
-"ipa": "/ˈdaɪnəsɔr/",
-"graphemes": ["d","i","n","o","s","aur"],
-"phonemes": ["/'d","aɪ","n","ə","s","ɔr/"],
-"phonics": ["/'d","ī","n","ə","s","or/"],
-"tags": ["open"],
-"hearts": [false,false,false,false,false,true],
-"hint": "i 發長母音 i /aɪ/；aur 發 or /ɔr/。"
-},
-{
-"number": "🐬 海豚",
-"word": "dolphin",
-"ipa": "/ˈdɑlfɪn/",
-"graphemes": ["d","o","l","ph","i","n"],
-"phonemes": ["/'d","ɑ","l","f","ə","n/"],
-"phonics": ["/'d","ŏ","l","f","ə","n/"],
-"tags": ["closed","digraph"],
-"hearts": [false,false,false,true,false,false],
-"hint": "ph 發 f /f/。"
-},
-{
-"number": "🦅 老鷹",
-"word": "eagle",
-"ipa": "/ˈiɡəl/",
-"graphemes": ["ea","g","le"],
-"phonemes": ["/'i","ɡ","əl/"],
-"phonics": ["/'ē","ɡ","əl/"],
-"tags": ["vowel_team","cle"],
-"hearts": [false,false,false],
-"hint": "ea 發長母音 e /i/。"
-},
-{
-"number": "🪦 絕種",
-"word": "extinct",
-"ipa": "/ɪkˈstɪŋkt/",
-"graphemes": ["e","x","t","i","n","c","t"],
-"phonemes": ["/ɪ","ks","'t","ɪ","ŋ","k","t/"],
-"phonics": ["/ĭ","ks","'t","ĭ","ŋ","k","t/"],
-"tags": ["cluster","closed"],
-"hearts": [false,false,false,false,false,false,false],
-"hint": "x 發 /ks/；st- 連讀時，t 音如 ㄉ；c 發 /k/。"
-},
-{
-"number": "🪰 蒼蠅",
-"word": "fly",
-"ipa": "/flaɪ/",
-"graphemes": ["f","l","y"],
-"phonemes": ["/f","l","aɪ/"],
-"phonics": ["/f","l","ī/"],
-"tags": ["cluster","open"],
-"hearts": [false,false,false],
-"hint": "y 字尾發長母音 i /aɪ/。"
-},
-{
-"number": "毛皮",
-"word": "fur",
-"ipa": "/fɝ/",
-"graphemes": ["f","ur"],
-"phonemes": ["/f","ɝ/"],
-"phonics": ["/f","er/"],
-"tags": ["rcontrolled"],
-"hearts": [false,false],
-"hint": "ur 發 er /ɝ/。"
-},
-{
-"number": "🐜 昆蟲",
-"word": "insect",
-"ipa": "/ˈɪnsɛkt/",
-"graphemes": ["i","n","s","e","c","t"],
-"phonemes": ["/'ɪ","n","s","ɛ","k","t/"],
-"phonics": ["/'ĭ","n","s","ĕ","k","t/"],
-"tags": ["closed","cluster"],
-"hearts": [false,false,false,false,false,false],
-"hint": "c 發 /k/。"
-},
-{
-"number": "🦘 袋鼠",
-"word": "kangaroo",
-"ipa": "/kæŋɡəˈru/",
-"graphemes": ["k","a","n","ɡ","a","r","oo"],
-"phonemes": ["/k","æ","ŋ","ɡ","ə","'r","u/"],
-"phonics": ["/k","ă","ŋ","ɡ","ə","'r","ū/"],
-"tags": ["cluster","vowel_team"],
-"hearts": [true,false,false,false,false,false],
-"hint": "首字母拼成 k；oo 發長母音 u /u/；重音在最後音節。"
-},
-{
-"number": "🐱 小貓",
-"word": "kitten",
-"ipa": "/ˈkɪtən/",
-"graphemes": ["k","i","tt","e","n"],
-"phonemes": ["/'k","ɪ","t","ə","n/"],
-"phonics": ["/'k","ĭ","t","ə","n/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false],
-"hint": "i 發短母音 i /ɪ/；tt 重複字母，常發喉塞音。"
-},
-{
-"number": "🦁 獅子",
-"word": "lion",
-"ipa": "/ˈlaɪən/",
-"graphemes": ["l","i","o","n"],
-"phonemes": ["/'l","aɪ","ə","n/"],
-"phonics": ["/'l","ī","ə","n/"],
-"tags": ["open"],
-"hearts": [false,false,true,false],
-"hint": "i 發長母音 i /aɪ/；o 為弱音節 /ə/。"
-},
-{
-"number": "🪺 巢",
-"word": "nest",
-"ipa": "/nɛst/",
-"graphemes": ["n","e","s","t"],
-"phonemes": ["/n","ɛ","s","t/"],
-"phonics": ["/n","ĕ","s","t/"],
-"tags": ["cvc","cluster"],
-"hearts": [false,false,false,false],
-"hint": "e 發短母音 e /ɛ/。"
-},
-{
-"number": "🐙 章魚",
-"word": "octopus",
-"ipa": "/ˈɑktəpəs/",
-"graphemes": ["o","c","t","o","p","u","s"],
-"phonemes": ["/'ɑ","k","t","ə","p","ə","s/"],
-"phonics": ["/'ŏ","k","t","ə","p","ə","s/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false,false,false],
-"hint": "第一個 o 發短母音 o /ɑ/；c 發 /k/。"
-},
-{
-"number": "🐼 熊貓",
-"word": "panda",
-"ipa": "/ˈpændə/",
-"graphemes": ["p","a","n","d","a"],
-"phonemes": ["/'p","æ","n","d","ə/"],
-"phonics": ["/'p","ă","n","d","ə/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false],
-"hint": "第一個 a 發短母音 a /æ/。"
-},
-{
-"number": "🦜 鸚鵡",
-"word": "parrot",
-"ipa": "/ˈpærət/",
-"graphemes": ["p","a","rr","o","t"],
-"phonemes": ["/'p","æ","r","ə","t/"],
-"phonics": ["/'p","ă","r","ə","t/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false],
-"hint": "a 發短母音 a /æ/；rr 重複字母。"
-},
-{
-"number": "🐧 企鵝",
-"word": "penguin",
-"ipa": "/ˈpɛŋɡwɪn/",
-"graphemes": ["p","e","n","ɡ","u","i","n"],
-"phonemes": ["/'p","ɛ","ŋ","ɡ","w","ɪ","n/"],
-"phonics": ["/'p","ĕ","ŋ","ɡ","w","ĭ","n/"],
-"tags": ["closed","cluster"],
-"hearts": [false,false,true,false,false,false,false],
-"hint": "ng 發 /ŋg/。"
-},
-{
-"number": "🐶 小狗",
-"word": "puppy",
-"ipa": "/ˈpʌpi/",
-"graphemes": ["p","u","pp","y"],
-"phonemes": ["/'p","ʌ","p","i/"],
-"phonics": ["/'p","ŭ","p","ē/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false],
-"hint": "pp 重複字母；y 字尾發長母音 e /i/。"
-},
-{
-"number": "🐰 兔子",
-"word": "rabbit",
-"ipa": "/ˈræbɪt/",
-"graphemes": ["r","a","bb","i","t"],
-"phonemes": ["/'r","æ","b","ɪ","t/"],
-"phonics": ["/'r","ă","b","ĭ","t/"],
-"tags": ["closed"],
-"hearts": [false,false,false,false,false],
-"hint": "a 發短母音 a /æ/，bb 重複字母。"
-},
-{
-"number": "🦈 鯊魚",
-"word": "shark",
-"ipa": "/ʃɑrk/",
-"graphemes": ["sh","ar","k"],
-"phonemes": ["/ʃ","ɑr","k/"],
-"phonics": ["/sh","ɑr","k/"],
-"tags": ["digraph","rcontrolled"],
-"hearts": [false,false,false],
-"hint": "sh 發 /ʃ/；ar 發 /ɑr/。"
-},
-{
-"number": "🐌 蝸牛",
-"word": "snail",
-"ipa": "/sneɪl/",
-"graphemes": ["s","n","ai","l"],
-"phonemes": ["/s","n","eɪ","l/"],
-"phonics": ["/s","n","ā","l/"],
-"tags": ["cluster","vowel_team"],
-"hearts": [false,false,false,false],
-"hint": "ai 發長母音 a /eɪ/。"
-},
-{
-"number": "🦢 天鵝",
-"word": "swan",
-"ipa": "/swɑn/",
-"graphemes": ["s","w","a","n"],
-"phonemes": ["/s","w","ɑ","n/"],
-"phonics": ["/s","w","ŏ","n/"],
-"tags": ["cluster","irregular"],
-"hearts": [false,false,true,false],
-"hint": "w 之後 a 常發短母音 o /ɑ/。"
-},
-{
-"number": "🐢 陸龜",
-"word": "tortoise",
-"ipa": "/ˈtɔrtəs/",
-"graphemes": ["t","or","t","oi","s","e"],
-"phonemes": ["/'t","ɔr","t","ə","s","-/"],
-"phonics": ["/'t","or","t","ə","s","-/"],
-"tags": ["rcontrolled"],
-"hearts": [false,false,false,true,false,true],
-"hint": "or 發 /ɔr/；s 後詞尾補靜音 e；海龜為 turtle。"
-},
-{
-"number": "🐋 鯨魚",
-"word": "whale",
-"ipa": "/weɪl/",
-"graphemes": ["wh","a","l","e"],
-"phonemes": ["/w","eɪ","l","-/"],
-"phonics": ["/w","ā","l","-/"],
-"tags": ["digraph","magic_e"],
-"hearts": [true,false,false,false],
-"hint": "wh 發 /w/；a_e：a 發長母音 a /eɪ/，e 不發音。"
-},
-{
-"number": "🌿 野生",
-"word": "wild",
-"ipa": "/waɪld/",
-"graphemes": ["w","i","l","d"],
-"phonemes": ["/w","aɪ","l","d/"],
-"phonics": ["/w","ī","l","d/"],
-"tags": ["irregular"],
-"hearts": [false,true,false,false],
-"hint": "-ild 組合中，i 常發長母音 i /aɪ/。"
-},
-{
-"number": "🪽 翅膀",
-"word": "wing",
-"ipa": "/wɪŋ/",
-"graphemes": ["w","i","ng"],
-"phonemes": ["/w","ɪ","ŋ/"],
-"phonics": ["/w","ĭ","ng/"],
-"tags": ["cvc","digraph"],
-"hearts": [false,false,false],
-"hint": "ng 發 /ŋ/。"
-}
-]
+  "items": [
+    {
+      "number": "🦇 蝙蝠",
+      "word": "bat",
+      "ipa": "/bæt/",
+      "graphemes": [
+        "b",
+        "a",
+        "t"
+      ],
+      "phonemes": [
+        "/b",
+        "æ",
+        "t/"
+      ],
+      "phonics": [
+        "/b",
+        "ă",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "a 發短母音 a /æ/。"
+    },
+    {
+      "number": "🪲 甲蟲",
+      "word": "beetle",
+      "ipa": "/ˈbitəl/",
+      "graphemes": [
+        "b",
+        "ee",
+        "t",
+        "le"
+      ],
+      "phonemes": [
+        "/'b",
+        "i",
+        "t",
+        "əl/"
+      ],
+      "phonics": [
+        "/'b",
+        "ē",
+        "t",
+        "əl/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cle"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "ee 發長母音 e /i/。"
+    },
+    {
+      "number": "🦋 蝴蝶",
+      "word": "butterfly",
+      "ipa": "/ˈbʌtɚflaɪ/",
+      "graphemes": [
+        "b",
+        "u",
+        "tt",
+        "er",
+        "f",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'b",
+        "ʌ",
+        "t",
+        "ɚ",
+        "f",
+        "l",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŭ",
+        "t",
+        "er",
+        "f",
+        "l",
+        "ī/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "butter + fly；tt 重複字母；y 字尾發長母音 i /aɪ/。"
+    },
+    {
+      "number": "籠子",
+      "word": "cage",
+      "ipa": "/keɪdʒ/",
+      "graphemes": [
+        "c",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/k",
+        "eɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/k",
+        "ā",
+        "j/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "a_e：a 發長母音 a /eɪ/，e 不發音；g 在 e 之前常發 j /dʒ/。"
+    },
+    {
+      "number": "🐫 駱駝",
+      "word": "camel",
+      "ipa": "/ˈkæməl/",
+      "graphemes": [
+        "c",
+        "a",
+        "m",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/'k",
+        "æ",
+        "m",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'k",
+        "ă",
+        "m",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "a 發短母音 a /æ/。"
+    },
+    {
+      "number": "🧬 生物",
+      "word": "creature",
+      "ipa": "/ˈkritʃɚ/",
+      "graphemes": [
+        "c",
+        "r",
+        "ea",
+        "t",
+        "ure"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "i",
+        "tʃ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "ē",
+        "ch",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "hint": "ea 發長母音 e /i/；-ture 發 cher /tʃɚ/。"
+    },
+    {
+      "number": "🦕 恐龍",
+      "word": "dinosaur",
+      "ipa": "/ˈdaɪnəsɔr/",
+      "graphemes": [
+        "d",
+        "i",
+        "n",
+        "o",
+        "s",
+        "aur"
+      ],
+      "phonemes": [
+        "/'d",
+        "aɪ",
+        "n",
+        "ə",
+        "s",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/'d",
+        "ī",
+        "n",
+        "ə",
+        "s",
+        "or/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        true
+      ],
+      "hint": "i 發長母音 i /aɪ/；aur 發 or /ɔr/。"
+    },
+    {
+      "number": "🐬 海豚",
+      "word": "dolphin",
+      "ipa": "/ˈdɑlfɪn/",
+      "graphemes": [
+        "d",
+        "o",
+        "l",
+        "ph",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɑ",
+        "l",
+        "f",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŏ",
+        "l",
+        "f",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "hint": "ph 發 f /f/。"
+    },
+    {
+      "number": "🦅 老鷹",
+      "word": "eagle",
+      "ipa": "/ˈiɡəl/",
+      "graphemes": [
+        "ea",
+        "g",
+        "le"
+      ],
+      "phonemes": [
+        "/'i",
+        "ɡ",
+        "əl/"
+      ],
+      "phonics": [
+        "/'ē",
+        "ɡ",
+        "əl/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cle"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "ea 發長母音 e /i/。"
+    },
+    {
+      "number": "🪦 絕種",
+      "word": "extinct",
+      "ipa": "/ɪkˈstɪŋkt/",
+      "graphemes": [
+        "e",
+        "x",
+        "t",
+        "i",
+        "n",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "ks",
+        "'t",
+        "ɪ",
+        "ŋ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "ks",
+        "'t",
+        "ĭ",
+        "ŋ",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "x 發 /ks/；st- 連讀時，t 音如 ㄉ；c 發 /k/。"
+    },
+    {
+      "number": "🪰 蒼蠅",
+      "word": "fly",
+      "ipa": "/flaɪ/",
+      "graphemes": [
+        "f",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ī/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "y 字尾發長母音 i /aɪ/。"
+    },
+    {
+      "number": "毛皮",
+      "word": "fur",
+      "ipa": "/fɝ/",
+      "graphemes": [
+        "f",
+        "ur"
+      ],
+      "phonemes": [
+        "/f",
+        "ɝ/"
+      ],
+      "phonics": [
+        "/f",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false
+      ],
+      "hint": "ur 發 er /ɝ/。"
+    },
+    {
+      "number": "🐜 昆蟲",
+      "word": "insect",
+      "ipa": "/ˈɪnsɛkt/",
+      "graphemes": [
+        "i",
+        "n",
+        "s",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "s",
+        "ɛ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "s",
+        "ĕ",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "c 發 /k/。"
+    },
+    {
+      "number": "🦘 袋鼠",
+      "word": "kangaroo",
+      "ipa": "/kæŋɡəˈru/",
+      "graphemes": [
+        "k",
+        "a",
+        "n",
+        "ɡ",
+        "a",
+        "r",
+        "oo"
+      ],
+      "phonemes": [
+        "/k",
+        "æ",
+        "ŋ",
+        "ɡ",
+        "ə",
+        "'r",
+        "u/"
+      ],
+      "phonics": [
+        "/k",
+        "ă",
+        "ŋ",
+        "ɡ",
+        "ə",
+        "'r",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "首字母拼成 k；oo 發長母音 u /u/；重音在最後音節。"
+    },
+    {
+      "number": "🐱 小貓",
+      "word": "kitten",
+      "ipa": "/ˈkɪtən/",
+      "graphemes": [
+        "k",
+        "i",
+        "tt",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɪ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĭ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "i 發短母音 i /ɪ/；tt 重複字母，常發喉塞音。"
+    },
+    {
+      "number": "🦁 獅子",
+      "word": "lion",
+      "ipa": "/ˈlaɪən/",
+      "graphemes": [
+        "l",
+        "i",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'l",
+        "aɪ",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'l",
+        "ī",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "hint": "i 發長母音 i /aɪ/；o 為弱音節 /ə/。"
+    },
+    {
+      "number": "🪺 巢",
+      "word": "nest",
+      "ipa": "/nɛst/",
+      "graphemes": [
+        "n",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/n",
+        "ɛ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/n",
+        "ĕ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "e 發短母音 e /ɛ/。"
+    },
+    {
+      "number": "🐙 章魚",
+      "word": "octopus",
+      "ipa": "/ˈɑktəpəs/",
+      "graphemes": [
+        "o",
+        "c",
+        "t",
+        "o",
+        "p",
+        "u",
+        "s"
+      ],
+      "phonemes": [
+        "/'ɑ",
+        "k",
+        "t",
+        "ə",
+        "p",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'ŏ",
+        "k",
+        "t",
+        "ə",
+        "p",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "第一個 o 發短母音 o /ɑ/；c 發 /k/。"
+    },
+    {
+      "number": "🐼 熊貓",
+      "word": "panda",
+      "ipa": "/ˈpændə/",
+      "graphemes": [
+        "p",
+        "a",
+        "n",
+        "d",
+        "a"
+      ],
+      "phonemes": [
+        "/'p",
+        "æ",
+        "n",
+        "d",
+        "ə/"
+      ],
+      "phonics": [
+        "/'p",
+        "ă",
+        "n",
+        "d",
+        "ə/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "第一個 a 發短母音 a /æ/。"
+    },
+    {
+      "number": "🦜 鸚鵡",
+      "word": "parrot",
+      "ipa": "/ˈpærət/",
+      "graphemes": [
+        "p",
+        "a",
+        "rr",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "æ",
+        "r",
+        "ə",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "ă",
+        "r",
+        "ə",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "a 發短母音 a /æ/；rr 重複字母。"
+    },
+    {
+      "number": "🐧 企鵝",
+      "word": "penguin",
+      "ipa": "/ˈpɛŋɡwɪn/",
+      "graphemes": [
+        "p",
+        "e",
+        "n",
+        "ɡ",
+        "u",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɛ",
+        "ŋ",
+        "ɡ",
+        "w",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/'p",
+        "ĕ",
+        "ŋ",
+        "ɡ",
+        "w",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "ng 發 /ŋg/。"
+    },
+    {
+      "number": "🐶 小狗",
+      "word": "puppy",
+      "ipa": "/ˈpʌpi/",
+      "graphemes": [
+        "p",
+        "u",
+        "pp",
+        "y"
+      ],
+      "phonemes": [
+        "/'p",
+        "ʌ",
+        "p",
+        "i/"
+      ],
+      "phonics": [
+        "/'p",
+        "ŭ",
+        "p",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "pp 重複字母；y 字尾發長母音 e /i/。"
+    },
+    {
+      "number": "🐰 兔子",
+      "word": "rabbit",
+      "ipa": "/ˈræbɪt/",
+      "graphemes": [
+        "r",
+        "a",
+        "bb",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/'r",
+        "æ",
+        "b",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'r",
+        "ă",
+        "b",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "a 發短母音 a /æ/，bb 重複字母。"
+    },
+    {
+      "number": "🦈 鯊魚",
+      "word": "shark",
+      "ipa": "/ʃɑrk/",
+      "graphemes": [
+        "sh",
+        "ar",
+        "k"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ɑr",
+        "k/"
+      ],
+      "phonics": [
+        "/sh",
+        "ɑr",
+        "k/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "sh 發 /ʃ/；ar 發 /ɑr/。"
+    },
+    {
+      "number": "🐌 蝸牛",
+      "word": "snail",
+      "ipa": "/sneɪl/",
+      "graphemes": [
+        "s",
+        "n",
+        "ai",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "n",
+        "eɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "n",
+        "ā",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "hint": "ai 發長母音 a /eɪ/。"
+    },
+    {
+      "number": "🦢 天鵝",
+      "word": "swan",
+      "ipa": "/swɑn/",
+      "graphemes": [
+        "s",
+        "w",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɑ",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ŏ",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "hint": "w 之後 a 常發短母音 o /ɑ/。"
+    },
+    {
+      "number": "🐢 陸龜",
+      "word": "tortoise",
+      "ipa": "/ˈtɔrtəs/",
+      "graphemes": [
+        "t",
+        "or",
+        "t",
+        "oi",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɔr",
+        "t",
+        "ə",
+        "s",
+        "-/"
+      ],
+      "phonics": [
+        "/'t",
+        "or",
+        "t",
+        "ə",
+        "s",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        true
+      ],
+      "hint": "or 發 /ɔr/；s 後詞尾補靜音 e；海龜為 turtle。"
+    },
+    {
+      "number": "🐋 鯨魚",
+      "word": "whale",
+      "ipa": "/weɪl/",
+      "graphemes": [
+        "wh",
+        "a",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "eɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ā",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "hint": "wh 發 /w/；a_e：a 發長母音 a /eɪ/，e 不發音。"
+    },
+    {
+      "number": "🌿 野生",
+      "word": "wild",
+      "ipa": "/waɪld/",
+      "graphemes": [
+        "w",
+        "i",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/w",
+        "aɪ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/w",
+        "ī",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "hint": "-ild 組合中，i 常發長母音 i /aɪ/。"
+    },
+    {
+      "number": "🪽 翅膀",
+      "word": "wing",
+      "ipa": "/wɪŋ/",
+      "graphemes": [
+        "w",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/w",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/w",
+        "ĭ",
+        "ng/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
+      "hint": "ng 發 /ŋ/。"
+    }
+  ]
 }

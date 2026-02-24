@@ -4,143 +4,470 @@
       "number": "📌 實際上",
       "word": "actually",
       "ipa": "/ˈæktʃuəli/",
-      "graphemes": ["a", "c", "t", "u", "a", "ll", "y"],
-      "phonemes": ["/'æ", "k", "tʃ", "u", "ə", "l", "i/"],
-      "phonics": ["/'ă", "k", "ch", "ū", "ə", "l", "ē/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "c",
+        "t",
+        "u",
+        "a",
+        "ll",
+        "y"
+      ],
+      "phonemes": [
+        "/'æ",
+        "k",
+        "tʃ",
+        "u",
+        "ə",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'ă",
+        "k",
+        "ch",
+        "ū",
+        "ə",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 ac-（閉音節）；a 發短音 /ă/；t+u 變成 /tʃ/；第二個 a 弱化為 /ə/；y 發 /ē/。"
     },
     {
       "number": "🔁 再次",
       "word": "again",
       "ipa": "/əˈɡɛn/",
-      "graphemes": ["a", "g", "ai", "n"],
-      "phonemes": ["/ə", "'ɡ", "ɛ", "n/"],
-      "phonics": ["/ə", "'ɡ", "ĕ", "n/"],
-      "tags": [ "irregular"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "a",
+        "g",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/ə",
+        "'ɡ",
+        "ɛ",
+        "n/"
+      ],
+      "phonics": [
+        "/ə",
+        "'ɡ",
+        "ĕ",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "重音在 -gain（閉音節）；第一個 a 弱化為 /ə/；ai 發短音 /ĕ/（需記）。"
     },
     {
       "number": "➕ 也",
       "word": "also",
       "ipa": "/ˈɔlsoʊ/",
-      "graphemes": ["a", "l", "s", "o"],
-      "phonemes": ["/'ɔ", "l", "s", "oʊ/"],
-      "phonics": ["/'aw", "l", "s", "ō/"],
-      "tags": ["irregular"],
-      "hearts": [1, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "s",
+        "o"
+      ],
+      "phonemes": [
+        "/'ɔ",
+        "l",
+        "s",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'aw",
+        "l",
+        "s",
+        "ō/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 al-；al 對應 /ɔl/；o 發長音 /ō/（開音節）。"
     },
     {
       "number": "⭐ 特別地",
       "word": "especially",
       "ipa": "/ɪˈspɛʃəli/",
-      "graphemes": ["e", "s", "p", "e", "ci", "a", "ll", "y"],
-      "phonemes": ["/ɪ", "'s", "p", "ɛ", "ʃ", "ə", "l", "i/"],
-      "phonics": ["/ĭ", "'s", "p", "ĕ", "sh", "ə", "l", "ē/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "s",
+        "p",
+        "e",
+        "ci",
+        "a",
+        "ll",
+        "y"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "'s",
+        "p",
+        "ɛ",
+        "ʃ",
+        "ə",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "'s",
+        "p",
+        "ĕ",
+        "sh",
+        "ə",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -spe-（閉音節）；第一個 e 發短音 /ĭ/；第二個 e 發短音 /ĕ/；ci 對應 /ʃ/（需記）；a 弱化為 /ə/；y 發 /ē/。"
     },
     {
       "number": "🏁 最後",
       "word": "finally",
       "ipa": "/ˈfaɪnəli/",
-      "graphemes": ["f", "i", "n", "a", "ll", "y"],
-      "phonemes": ["/'f", "aɪ", "n", "ə", "l", "i/"],
-      "phonics": ["/'f", "ī", "n", "ə", "l", "ē/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "i",
+        "n",
+        "a",
+        "ll",
+        "y"
+      ],
+      "phonemes": [
+        "/'f",
+        "aɪ",
+        "n",
+        "ə",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'f",
+        "ī",
+        "n",
+        "ə",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 fi-（開音節）；i 發長音 /ī/；a 弱化為 /ə/；y 發 /ē/。"
     },
     {
       "number": "⏳ 仍然",
       "word": "still",
       "ipa": "/stɪl/",
-      "graphemes": ["s", "t", "i", "ll"],
-      "phonemes": ["/'s", "t", "ɪ", "l/"],
-      "phonics": ["/'s", "t", "ĭ", "l/"],
-      "tags": ["closed", "cluster", "floss"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "i",
+        "ll"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ĭ",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；st 為 cluster；i 發短音 /ĭ/；ll 為 floss。"
     },
     {
       "number": "👉 然後",
       "word": "then",
       "ipa": "/ðɛn/",
-      "graphemes": ["th", "e", "n"],
-      "phonemes": ["/'ð", "ɛ", "n/"],
-      "phonics": ["/'<u>th</u>", "ĕ", "n/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "th",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/ð",
+        "ɛ",
+        "n/"
+      ],
+      "phonics": [
+        "/<u>th</u>",
+        "ĕ",
+        "n/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；th 為濁音 /ð/（用底線標記）；e 發短音 /ĕ/。"
     },
     {
       "number": "🤝 一起",
       "word": "together",
       "ipa": "/təˈɡɛðɚ/",
-      "graphemes": ["t", "o", "g", "e", "th", "er"],
-      "phonemes": ["/t", "ə", "'ɡ", "ɛ", "ð", "ɚ/"],
-      "phonics": ["/t", "ə", "'ɡ", "ĕ", "<u>th</u>", "er/"],
-      "tags": ["closed", "digraph", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "o",
+        "g",
+        "e",
+        "th",
+        "er"
+      ],
+      "phonemes": [
+        "/t",
+        "ə",
+        "'ɡ",
+        "ɛ",
+        "ð",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/t",
+        "ə",
+        "'ɡ",
+        "ĕ",
+        "<u>th</u>",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -geth-（閉音節）；o 弱化為 /ə/；e 發短音 /ĕ/；th 為濁音 /ð/。"
     },
     {
       "number": "✌️ 兩次",
       "word": "twice",
       "ipa": "/twaɪs/",
-      "graphemes": ["t","w", "i", "c", "e"],
-      "phonemes": ["/'t","w", "aɪ", "s", "-/"],
-      "phonics": ["/'t","w", "ī", "s", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "w",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/t",
+        "w",
+        "aɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/t",
+        "w",
+        "ī",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；tw 為 cluster；i-e 發長音 /ī/；e 不發音。"
     },
     {
       "number": "⏱️ 還",
       "word": "yet",
       "ipa": "/jɛt/",
-      "graphemes": ["y", "e", "t"],
-      "phonemes": ["/'j", "ɛ", "t/"],
-      "phonics": ["/'y", "ĕ", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "y",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/j",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/y",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；y 為輔音；e 發短音 /ĕ/。"
     },
     {
       "number": "🔊 大聲地",
       "word": "aloud",
       "ipa": "/əˈlaʊd/",
-      "graphemes": ["a", "l", "ou", "d"],
-      "phonemes": ["/ə", "'l", "aʊ", "d/"],
-      "phonics": ["/ə", "'l", "ow", "d/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "ou",
+        "d"
+      ],
+      "phonemes": [
+        "/ə",
+        "'l",
+        "aʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/ə",
+        "'l",
+        "ow",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -loud；第一個 a 弱化為 /ə/；ou 對應 /aʊ/。"
     },
     {
       "number": "➡️ 向前",
       "word": "ahead",
       "ipa": "/əˈhɛd/",
-      "graphemes": ["a", "h", "ea", "d"],
-      "phonemes": ["/ə", "'h", "ɛ", "d/"],
-      "phonics": ["/ə", "'h", "ĕ", "d/"],
-      "tags": ["closed", "irregular"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "a",
+        "h",
+        "ea",
+        "d"
+      ],
+      "phonemes": [
+        "/ə",
+        "'h",
+        "ɛ",
+        "d/"
+      ],
+      "phonics": [
+        "/ə",
+        "'h",
+        "ĕ",
+        "d/"
+      ],
+      "tags": [
+        "closed",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "重音在 -head（閉音節）；a 弱化為 /ə/；ea 發短音 /ĕ/（需記）。"
     },
     {
       "number": "🌬️ 離開",
       "word": "away",
       "ipa": "/əˈweɪ/",
-      "graphemes": ["a", "w", "ay"],
-      "phonemes": ["/ə", "'w", "eɪ/"],
-      "phonics": ["/ə", "'w", "ā/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "a",
+        "w",
+        "ay"
+      ],
+      "phonemes": [
+        "/ə",
+        "'w",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/ə",
+        "'w",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -way；a 弱化為 /ə/；ay 發長音 /ā/。"
     }
   ]

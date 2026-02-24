@@ -4,165 +4,585 @@
       "number": "🛫 機場",
       "word": "airport",
       "ipa": "/ˈɛrpɔrt/",
-      "graphemes": ["ai", "r", "p", "or", "t"],
-      "phonemes": ["/'ɛ", "r", "p", "ɔr", "t/"],
-      "phonics": ["/'ĕ", "r", "p", "or", "t/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "ai",
+        "r",
+        "p",
+        "or",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "r",
+        "p",
+        "ɔr",
+        "t/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "r",
+        "p",
+        "or",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 air；air 為 r-controlled；or 也是 r-controlled。"
     },
     {
       "number": "🛩 飛行員",
       "word": "pilot",
       "ipa": "/ˈpaɪlət/",
-      "graphemes": ["p", "i", "l", "o", "t"],
-      "phonemes": ["/'p", "aɪ", "l", "ə", "t/"],
-      "phonics": ["/'p", "ī", "l", "ə", "t/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "i",
+        "l",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "aɪ",
+        "l",
+        "ə",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "ī",
+        "l",
+        "ə",
+        "t/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 pi-（開音節）。"
     },
     {
       "number": "🚗 司機",
       "word": "driver",
       "ipa": "/ˈdraɪvɚ/",
-      "graphemes": ["d", "r", "i", "v", "er"],
-      "phonemes": ["/'d", "r", "aɪ", "v", "ɚ/"],
-      "phonics": ["/'d", "r", "ī", "v", "er/"],
-      "tags": ["cluster", "open", "suffix"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "i",
+        "v",
+        "er"
+      ],
+      "phonemes": [
+        "/'d",
+        "r",
+        "aɪ",
+        "v",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "r",
+        "ī",
+        "v",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 dri-（開音節）；dr 混合音；-er 字尾。"
     },
     {
       "number": "🚕 計程車",
       "word": "taxi",
       "ipa": "/ˈtæksi/",
-      "graphemes": ["t", "a", "x", "i"],
-      "phonemes": ["/'t", "æ", "ks", "i/"],
-      "phonics": ["/'t", "ă", "ks", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "a",
+        "x",
+        "i"
+      ],
+      "phonemes": [
+        "/'t",
+        "æ",
+        "ks",
+        "i/"
+      ],
+      "phonics": [
+        "/'t",
+        "ă",
+        "ks",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 tax-（閉音節）；x 對應 /ks/。"
     },
     {
       "number": "🔧 修車師傅",
       "word": "mechanic",
       "ipa": "/məˈkænɪk/",
-      "graphemes": ["m", "e", "ch", "a", "n", "i", "c"],
-      "phonemes": ["/m", "ə", "'k", "æ", "n", "ɪ", "k/"],
-      "phonics": ["/m", "ə", "'k", "ă", "n", "ĭ", "k/"],
-      "tags": ["closed", "digraph", "irregular"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "e",
+        "ch",
+        "a",
+        "n",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/m",
+        "ə",
+        "'k",
+        "æ",
+        "n",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/m",
+        "ə",
+        "'k",
+        "ă",
+        "n",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -chan-（閉音節）；ch 讀 /k/（需記）。"
     },
     {
       "number": "🧑‍🔧 工程師",
       "word": "engineer",
       "ipa": "/ɛndʒəˈnɪr/",
-      "graphemes": ["e", "n", "g", "i", "n", "ee","r"],
-      "phonemes": ["/ɛ", "n", "dʒ", "ə", "'n", "ɪ","r/"],
-      "phonics": ["/ĕ", "n", "-j", "ə", "'n", "ĭ","r/"],
-      "tags": ["irregular", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "e",
+        "n",
+        "g",
+        "i",
+        "n",
+        "ee",
+        "r"
+      ],
+      "phonemes": [
+        "/ɛ",
+        "n",
+        "dʒ",
+        "ə",
+        "'n",
+        "ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/ĕ",
+        "n",
+        "-j",
+        "ə",
+        "'n",
+        "ĭ",
+        "r/"
+      ],
+      "tags": [
+        "irregular",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 -neer；g 在 i 前發 /dʒ/；eer 對應 /ɪr/（需記）。"
     },
     {
       "number": "🛰 太空人",
       "word": "astronaut",
       "ipa": "/ˈæstrənɔt/",
-      "graphemes": ["a", "s", "t", "r", "o", "n", "au", "t"],
-      "phonemes": ["/'æ", "s", "t", "r", "ə", "n", "ɔ", "t/"],
-      "phonics": ["/'ă", "s", "t", "r", "ə", "n", "aw", "t/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "s",
+        "t",
+        "r",
+        "o",
+        "n",
+        "au",
+        "t"
+      ],
+      "phonemes": [
+        "/'æ",
+        "s",
+        "t",
+        "r",
+        "ə",
+        "n",
+        "ɔ",
+        "t/"
+      ],
+      "phonics": [
+        "/'ă",
+        "s",
+        "t",
+        "r",
+        "ə",
+        "n",
+        "aw",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 as-（閉音節）；str 混合音；au 對應 /ɔ/。"
     },
     {
       "number": "🚀 火箭",
       "word": "rocket",
-      "ipa": "/ˈrɑkət/",
-      "graphemes": ["r", "o", "ck", "e", "t"],
-      "phonemes": ["/'r", "ɑ", "k", "ə", "t/"],
-      "phonics": ["/'r", "ŏ", "k", "ə", "t/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0],
+      "ipa": "/ˈrɑkɪt/",
+      "graphemes": [
+        "r",
+        "o",
+        "ck",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɑ",
+        "k",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'r",
+        "ŏ",
+        "k",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 rock-（閉音節）；ck 為 digraph。"
     },
     {
       "number": "🧑‍✈️ 水手",
       "word": "sailor",
       "ipa": "/ˈseɪlɚ/",
-      "graphemes": ["s", "ai", "l", "or"],
-      "phonemes": ["/'s", "eɪ", "l", "ɚ/"],
-      "phonics": ["/'s", "ā", "l", "er/"],
-      "tags": ["suffix", "vowel_team"],
-      "hearts": [0, 0, 0, 1],
+      "graphemes": [
+        "s",
+        "ai",
+        "l",
+        "or"
+      ],
+      "phonemes": [
+        "/'s",
+        "eɪ",
+        "l",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ā",
+        "l",
+        "er/"
+      ],
+      "tags": [
+        "suffix",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 sail-；ai 對應 /eɪ/；-or 字尾。"
     },
     {
       "number": "🏴‍☠️ 海盜",
       "word": "pirate",
       "ipa": "/ˈpaɪrət/",
-      "graphemes": ["p", "i", "r", "a", "t", "e"],
-      "phonemes": ["/'p", "aɪ", "r", "ə", "t", "-/"],
-      "phonics": ["/'p", "ī", "r", "ə", "t", "-/"],
-      "tags": [ "open"],
-      "hearts": [0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/'p",
+        "aɪ",
+        "r",
+        "ə",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/'p",
+        "ī",
+        "r",
+        "ə",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 pi-（開音節）；字尾 e 不發音。"
     },
     {
       "number": "🤠 牛仔",
       "word": "cowboy",
       "ipa": "/ˈkaʊbɔɪ/",
-      "graphemes": ["c", "ow", "b", "oy"],
-      "phonemes": ["/'k", "aʊ", "b", "ɔɪ/"],
-      "phonics": ["/'k", "ow", "b", "oi/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "ow",
+        "b",
+        "oy"
+      ],
+      "phonemes": [
+        "/'k",
+        "aʊ",
+        "b",
+        "ɔɪ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ow",
+        "b",
+        "oi/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 cow-；ow 對應 /aʊ/；oy 對應 /ɔɪ/。"
     },
     {
       "number": "🧑‍🌾 農夫",
       "word": "farmer",
       "ipa": "/ˈfɑrmɚ/",
-      "graphemes": ["f", "ar", "m", "er"],
-      "phonemes": ["/'f", "ɑr", "m", "ɚ/"],
-      "phonics": ["/'f", "ɑr", "m", "er/"],
-      "tags": ["rcontrolled", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "ar",
+        "m",
+        "er"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɑr",
+        "m",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'f",
+        "ɑr",
+        "m",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 far-；ar 為 r-controlled；-er 字尾。"
     },
     {
       "number": "🎣 漁夫",
       "word": "fisherman",
       "ipa": "/ˈfɪʃɚmən/",
-      "graphemes": ["f", "i", "sh", "er", "m", "a", "n"],
-      "phonemes": ["/'f", "ɪ", "ʃ", "ɚ", "m", "ə", "n/"],
-      "phonics": ["/'f", "ĭ", "sh", "er", "m", "ə", "n/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "i",
+        "sh",
+        "er",
+        "m",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɪ",
+        "ʃ",
+        "ɚ",
+        "m",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'f",
+        "ĭ",
+        "sh",
+        "er",
+        "m",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 fish-（閉音節）；sh 為 digraph。"
     },
     {
       "number": "🏹 獵人",
       "word": "hunter",
       "ipa": "/ˈhʌntɚ/",
-      "graphemes": ["h", "u", "n", "t", "er"],
-      "phonemes": ["/'h", "ʌ", "n", "t", "ɚ/"],
-      "phonics": ["/'h", "ŭ", "n", "t", "er/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "u",
+        "n",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "ʌ",
+        "n",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŭ",
+        "n",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 hunt-（閉音節）；-er 字尾。"
     },
     {
       "number": "🧭 導遊",
       "word": "guide",
       "ipa": "/ɡaɪd/",
-      "graphemes": ["g", "ui", "d", "e"],
-      "phonemes": ["/'ɡ", "aɪ", "d", "-/"],
-      "phonics": ["/'ɡ", "ī", "d", "-/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "g",
+        "ui",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "單音節；ui 對應 /aɪ/（需記）；字尾 e 不發音。"
     }
   ]

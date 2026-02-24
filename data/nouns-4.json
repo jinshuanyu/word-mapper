@@ -4,198 +4,717 @@
       "number": "🌏 亞洲人",
       "word": "Asian",
       "ipa": "/ˈeɪʒən/",
-      "graphemes": ["A", "si", "a", "n"],
-      "phonemes": ["/'eɪ", "ʒ", "ə", "n/"],
-      "phonics": ["/'ā", "zh", "ə", "n/"],
-      "tags": ["digraph", "irregular", "open"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "A",
+        "si",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'eɪ",
+        "ʒ",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ā",
+        "zh",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular",
+        "open"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "重音在 A-（開音節）；A 發長音 /ā/；si 對應 /ʒ/（需記）；zh 為 digraph。"
     },
     {
       "number": "💯 世紀",
       "word": "century",
       "ipa": "/ˈsɛntʃəri/",
-      "graphemes": ["c", "e", "n", "t", "u", "r", "y"],
-      "phonemes": ["/'s", "ɛ", "n", "tʃ", "ə", "r", "i/"],
-      "phonics": ["/'s", "ĕ", "n", "ch", "ə", "r", "ē/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "e",
+        "n",
+        "t",
+        "u",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɛ",
+        "n",
+        "tʃ",
+        "ə",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĕ",
+        "n",
+        "ch",
+        "ə",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 cen-（閉音節）；e 發短音 /ĕ/；t+u 變成 /tʃ/；y 發 /ē/。"
     },
     {
       "number": "⚖️ 法院",
       "word": "court",
       "ipa": "/kɔrt/",
-      "graphemes": ["c", "our", "t"],
-      "phonemes": ["/'k", "ɔr", "t/"],
-      "phonics": ["/'k", "or", "t/"],
-      "tags": ["irregular", "rcontrolled", "vowel_team"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "c",
+        "our",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "ɔr",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "or",
+        "t/"
+      ],
+      "tags": [
+        "irregular",
+        "rcontrolled",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；our 對應 /or/（需記）；r-controlled。"
     },
     {
       "number": "👥 人群",
       "word": "crowd",
       "ipa": "/kraʊd/",
-      "graphemes": ["c", "r", "ow", "d"],
-      "phonemes": ["/'k", "r", "aʊ", "d/"],
-      "phonics": ["/'k", "r", "ow", "d/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "r",
+        "ow",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "r",
+        "aʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "r",
+        "ow",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；cr 為 cluster；ow 對應 /ow/。"
     },
     {
       "number": "🎨 文化",
       "word": "culture",
       "ipa": "/ˈkʌltʃɚ/",
-      "graphemes": ["c", "u", "l", "t", "u", "r", "e"],
-      "phonemes": ["/'k", "ʌ", "l", "tʃ", "ə", "r", "-/"],
-      "phonics": ["/'k", "ŭ", "l", "ch", "ə", "r", "-/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "u",
+        "l",
+        "t",
+        "ure"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʌ",
+        "l",
+        "tʃ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŭ",
+        "l",
+        "ch",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 cul-（閉音節）；u 發短音 /ŭ/；t+u 變成 /tʃ/。"
     },
     {
       "number": "🏛️ 政府",
       "word": "government",
       "ipa": "/ˈgʌvɚnmənt/",
-      "graphemes": ["g", "o", "v", "er", "n", "m", "e", "n", "t"],
-      "phonemes": ["/'g", "ʌ", "v", "ɚ", "n", "m", "ə", "n", "t/"],
-      "phonics": ["/'g", "ŭ", "v", "er", "n", "m", "ə", "n", "t/"],
-      "tags": ["closed", "irregular", "rcontrolled"],
-      "hearts": [0, 1, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "o",
+        "v",
+        "er",
+        "n",
+        "m",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'g",
+        "ʌ",
+        "v",
+        "ɚ",
+        "n",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'g",
+        "ŭ",
+        "v",
+        "er",
+        "n",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "irregular",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 gov-（閉音節）；o 發 /ŭ/（需記）；er 為 r-controlled。"
     },
     {
       "number": "🇯🇵 日本人",
       "word": "Japanese",
-      "ipa": "/dʒæpəˈniz/",
-      "graphemes": ["J", "a", "p", "a", "n", "e", "se"],
-      "phonemes": ["/'dʒ", "æ", "p", "ə", "n", "i", "z/"],
-      "phonics": ["/'j", "ă", "p", "ə", "n", "ē", "z/"],
-      "tags": ["closed", "irregular", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 1],
+      "ipa": "/ˌdʒæpəˈniːz/",
+      "graphemes": [
+        "J",
+        "a",
+        "p",
+        "a",
+        "n",
+        "e",
+        "se"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "æ",
+        "p",
+        "ə",
+        "'n",
+        "i",
+        "z/"
+      ],
+      "phonics": [
+        "/j",
+        "ă",
+        "p",
+        "ə",
+        "'n",
+        "ē",
+        "z/"
+      ],
+      "tags": [
+        "closed",
+        "irregular",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 -nese（開音節）；第一音節 J 對應 /dʒ/，a 發短音 /ă/；e 發長音 /ē/；se 對應 /z/（需記）。"
     },
     {
       "number": "👑 王國",
       "word": "kingdom",
       "ipa": "/ˈkɪŋdəm/",
-      "graphemes": ["k", "i", "ng", "d", "o", "m"],
-      "phonemes": ["/'k", "ɪ", "ŋ", "d", "ə", "m/"],
-      "phonics": ["/'k", "ĭ", "ŋ", "d", "ə", "m/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "k",
+        "i",
+        "ng",
+        "d",
+        "o",
+        "m"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɪ",
+        "ŋ",
+        "d",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĭ",
+        "ŋ",
+        "d",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 king-（閉音節）；i 發短音 /ĭ/；ng 為 digraph。"
     },
     {
       "number": "🇰🇷 韓國人",
       "word": "Korean",
       "ipa": "/kəˈriən/",
-      "graphemes": ["K", "o", "r", "e", "a", "n"],
-      "phonemes": ["/k", "ə", "'r", "i", "ə", "n/"],
-      "phonics": ["/k", "ə", "'r", "ē", "ə", "n/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "K",
+        "o",
+        "r",
+        "e",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "'r",
+        "i",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "'r",
+        "ē",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -re-（開音節）；e 發長音 /ē/。"
     },
     {
       "number": "👨‍👩‍👧‍👦 人口",
       "word": "population",
       "ipa": "/pɑpjəˈleɪʃən/",
-      "graphemes": ["p", "o", "p", "u", "l", "a", "tion"],
-      "phonemes": ["/p", "ɑ", "p", "jə", "'l", "eɪ", "ʃən/"],
-      "phonics": ["/p", "ŏ", "p", "yə", "'l", "ā", "shən/"],
-      "tags": ["closed", "digraph", "irregular", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "p",
+        "o",
+        "p",
+        "u",
+        "l",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/p",
+        "ɑ",
+        "p",
+        "jə",
+        "'l",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/p",
+        "ŏ",
+        "p",
+        "yə",
+        "'l",
+        "ā",
+        "shən/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "irregular",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 -la-（開音節）；第一音節 o 發短音 /ŏ/；a 發長音 /ā/；tion 對應 /ʃən/（需記）。"
     },
     {
       "number": "⚡ 力量",
       "word": "power",
       "ipa": "/ˈpaʊɚ/",
-      "graphemes": ["p", "ow", "er"],
-      "phonemes": ["/'p", "aʊ", "ɚ/"],
-      "phonics": ["/'p", "ow", "er/"],
-      "tags": ["rcontrolled", "suffix", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "ow",
+        "er"
+      ],
+      "phonemes": [
+        "/'p",
+        "aʊ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ow",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 pow-；ow 對應 /ow/；er 為 r-controlled；-er 字尾。"
     },
     {
       "number": "💪 壓力",
       "word": "pressure",
       "ipa": "/ˈprɛʃɚ/",
-      "graphemes": ["p", "r", "e", "ss", "ure"],
-      "phonemes": ["/'p", "r", "ɛ", "ʃ", "ɚ/"],
-      "phonics": ["/'p", "r", "ĕ", "sh", "er/"],
-      "tags": ["closed", "cluster", "digraph", "floss", "irregular"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "e",
+        "ss",
+        "ure"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɛ",
+        "ʃ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ĕ",
+        "sh",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "floss",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "重音在 pres-（閉音節）；pr 為 cluster；e 發短音 /ĕ/；ss 為 floss；ssu 對應 /ʃ/（需記）。"
     },
     {
       "number": "🏘️ 社會",
       "word": "society",
       "ipa": "/səˈsaɪəti/",
-      "graphemes": ["s", "o", "c", "i", "e", "t", "y"],
-      "phonemes": ["/s", "ə", "'s", "aɪ", "ə", "t", "i/"],
-      "phonics": ["/s", "ə", "'s", "ī", "ə", "t", "ē/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "o",
+        "c",
+        "i",
+        "e",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/s",
+        "ə",
+        "'s",
+        "aɪ",
+        "ə",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/s",
+        "ə",
+        "'s",
+        "ī",
+        "ə",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -ci-（開音節）；i 發長音 /ī/；y 發 /ē/。"
     },
     {
       "number": "🗺️ 州/國家",
       "word": "state",
       "ipa": "/steɪt/",
-      "graphemes": ["s", "t", "a", "t", "e"],
-      "phonemes": ["/'s", "t", "eɪ", "t", "-/"],
-      "phonics": ["/'s", "t", "ā", "t", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；st 為 cluster；a_e 對應 /ā/。"
     },
     {
       "number": "🔧 系統",
       "word": "system",
       "ipa": "/ˈsɪstəm/",
-      "graphemes": ["s", "y", "s", "t", "e", "m"],
-      "phonemes": ["/'s", "ɪ", "s", "t", "ə", "m/"],
-      "phonics": ["/'s", "ĭ", "s", "t", "ə", "m/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "y",
+        "s",
+        "t",
+        "e",
+        "m"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɪ",
+        "s",
+        "t",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĭ",
+        "s",
+        "t",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 sys-（閉音節）；y 發短音 /ĭ/。"
     },
     {
       "number": "🇹🇼 台灣人",
       "word": "Taiwanese",
-      "ipa": "/taɪwɑˈniz/",
-      "graphemes": ["T", "ai", "w", "a", "n", "e", "se"],
-      "phonemes": ["/'t", "aɪ", "w", "ɑ", "n", "i", "z/"],
-      "phonics": ["/'t", "ī", "w", "ŏ", "n", "ē", "z/"],
-      "tags": ["closed", "irregular", "open", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 1],
+      "ipa": "/ˌtaɪwəˈniːz/",
+      "graphemes": [
+        "T",
+        "ai",
+        "w",
+        "a",
+        "n",
+        "e",
+        "se"
+      ],
+      "phonemes": [
+        "/t",
+        "aɪ",
+        "w",
+        "ə",
+        "'n",
+        "i",
+        "z/"
+      ],
+      "phonics": [
+        "/t",
+        "ī",
+        "w",
+        "ə",
+        "'n",
+        "ē",
+        "z/"
+      ],
+      "tags": [
+        "closed",
+        "irregular",
+        "open",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 -nese（開音節）；ai 對應 /ī/；第一音節 a 發短音 /ŏ/；e 發長音 /ē/；se 對應 /z/（需記）。"
     },
     {
       "number": "⚔️ 戰爭",
       "word": "war",
       "ipa": "/wɔr/",
-      "graphemes": ["w", "ar"],
-      "phonemes": ["/'w", "ɔr/"],
-      "phonics": ["/'w", "or/"],
-      "tags": ["irregular", "rcontrolled"],
-      "hearts": [0, 1],
+      "graphemes": [
+        "w",
+        "ar"
+      ],
+      "phonemes": [
+        "/w",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/w",
+        "or/"
+      ],
+      "tags": [
+        "irregular",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
       "hint": "單音節；ar 在 w 後對應 /or/（需記）；r-controlled。"
     },
     {
       "number": "🕸️ 網",
       "word": "net",
       "ipa": "/nɛt/",
-      "graphemes": ["n", "e", "t"],
-      "phonemes": ["/'n", "ɛ", "t/"],
-      "phonics": ["/'n", "ĕ", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "n",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/n",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/n",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；e 發短音 /ĕ/。"
     }
   ]

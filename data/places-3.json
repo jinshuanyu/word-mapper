@@ -5,333 +5,1223 @@
       "number": "🛍️ 購物中心",
       "word": "mall",
       "ipa": "/mɔl/",
-      "graphemes": ["m", "a","ll"],
-      "phonemes": ["/'m", "ɔ","l/"],
-      "phonics": ["/'m", "aw","l/"],
-      "tags": ["irregular","floss"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/m",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/m",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "all 發 /ol/。"
     },
     {
       "number": "🥬 市場",
       "word": "market",
       "ipa": "/ˈmɑrkɪt/",
-      "graphemes": ["m", "ar", "k", "e","t"],
-      "phonemes": ["/'m", "ɑr", "k", "ɪ","t/"],
-      "phonics": ["/'m", "ɑr", "k", "ĭ","t/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "ar",
+        "k",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɑr",
+        "k",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'m",
+        "ɑr",
+        "k",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ar/。"
     },
     {
       "number": "🚹 男廁",
       "word": "men's room",
       "ipa": "/mɛnz rum/",
-      "graphemes": ["m", "e", "n", "'s", " ", "r", "oo", "m"],
-      "phonemes": ["/'m", "ɛ", "n", "z",  " ", "r", "u", "m/"],
-      "phonics": ["/'m", "ĕ", "n", "z", " ", "r", "ū", "m/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "e",
+        "n",
+        "'s",
+        " ",
+        "r",
+        "oo",
+        "m"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "n",
+        "z",
+        " ",
+        "r",
+        "u",
+        "m/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "n",
+        "z",
+        " ",
+        "r",
+        "ū",
+        "m/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "'s 發 /z/，oo 發長音 /ū/。"
     },
     {
       "number": "🚺 女廁",
       "word": "women's room",
       "ipa": "/ˈwɪmɪnz rum/",
-      "graphemes": ["w", "o", "m", "e","n", "'s", " ", "r", "oo", "m"],
-      "phonemes": ["/'w", "ɪ", "m", "ɪ","n", "z", " ", "r", "u", "m/"],
-      "phonics": ["/'w", "ĭ", "m", "ĭ","n", "z", " ", "r", "ū", "m/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 1, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "o",
+        "m",
+        "e",
+        "n",
+        "'s",
+        " ",
+        "r",
+        "oo",
+        "m"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɪ",
+        "m",
+        "ɪ",
+        "n",
+        "z",
+        " ",
+        "r",
+        "u",
+        "m/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĭ",
+        "m",
+        "ĭ",
+        "n",
+        "z",
+        " ",
+        "r",
+        "ū",
+        "m/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "women 的 o 不規則發 /ĭ/。"
     },
     {
       "number": "🎬 電影院",
       "word": "movie theater",
       "ipa": "/ˈmuvi ˈθiətər/",
-      "graphemes": ["m", "o", "v", "ie", " ", "th", "e","a", "t", "er"],
-      "phonemes": ["/'m", "u", "v", "i", " ", "'θ", "i", "ə", "t", "ɚ/"],
-      "phonics": ["/'m", "ū", "v", "ē", " ", "'th", "ē", "ə","t", "er/"],
-      "tags": ["irregular", "vowel_team"],
-      "hearts": [0, 1, 0, 1, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "m",
+        "o",
+        "v",
+        "ie",
+        " ",
+        "th",
+        "e",
+        "a",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "u",
+        "v",
+        "i",
+        " ",
+        "'θ",
+        "i",
+        "ə",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ū",
+        "v",
+        "ē",
+        " ",
+        "'th",
+        "ē",
+        "ə",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "irregular",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "o 發長音 /ū/ (不規則)，ie 發 /ē/。"
     },
     {
       "number": "🏛️ 博物館",
       "word": "museum",
       "ipa": "/mjuˈziəm/",
-      "graphemes": ["m", "u", "s", "e", "u","m"],
-      "phonemes": ["/m", "ju", "'z", "i", "ə","m/"],
-      "phonics": ["/m", "yū", "'z", "ē", "ə","m/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 1, 0, 1],
+      "graphemes": [
+        "m",
+        "u",
+        "s",
+        "e",
+        "u",
+        "m"
+      ],
+      "phonemes": [
+        "/m",
+        "ju",
+        "'z",
+        "i",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/m",
+        "yū",
+        "'z",
+        "ē",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "u 發 /yū/，s 發 /z/。"
     },
     {
       "number": "🏢 辦公室",
       "word": "office",
       "ipa": "/ˈɔfɪs/",
-      "graphemes": ["o", "ff", "i", "c","e"],
-      "phonemes": ["/'ɔ", "f", "ɪ", "s","-/"],
-      "phonics": ["/'aw", "f", "ĭ", "s","-/"],
+      "graphemes": [
+        "o",
+        "ff",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/'ɔ",
+        "f",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/'aw",
+        "f",
+        "ĭ",
+        "s/"
+      ],
       "tags": [],
-      "hearts": [0, 1, 1, 0],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
       "hint": "ce 字尾發軟音 /s/。"
     },
     {
       "number": "⛲ 公園",
       "word": "park",
       "ipa": "/pɑrk/",
-      "graphemes": ["p", "ar", "k"],
-      "phonemes": ["/p", "ɑr", "k/"],
-      "phonics": ["/p", "ɑr", "k/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "ar",
+        "k"
+      ],
+      "phonemes": [
+        "/p",
+        "ɑr",
+        "k/"
+      ],
+      "phonics": [
+        "/p",
+        "ɑr",
+        "k/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ar/。"
     },
     {
       "number": "🏊 游泳池",
       "word": "pool",
       "ipa": "/pul/",
-      "graphemes": ["p", "oo", "l"],
-      "phonemes": ["/p", "u", "l/"],
-      "phonics": ["/p", "ū", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/p",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/p",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發長音 /ū/。"
     },
     {
       "number": "📮 郵局",
       "word": "post office",
       "ipa": "/poʊst ˈɔfɪs/",
-      "graphemes": ["p", "o", "s", "t", " ", "o", "ff", "i", "c","e"],
-      "phonemes": ["/'p", "oʊ", "s", "t", " ", "ɔ", "f", "ɪ", "s","-/"],
-      "phonics": ["/'p", "ō", "s", "t", " ", "aw", "f", "ĭ", "s","-/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "o",
+        "s",
+        "t",
+        " ",
+        "o",
+        "ff",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/'p",
+        "oʊ",
+        "s",
+        "t",
+        " ",
+        "ɔ",
+        "f",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/'p",
+        "ō",
+        "s",
+        "t",
+        " ",
+        "aw",
+        "f",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "post 的 o 發長母音 /ō/ (閉音節例外)。"
     },
     {
       "number": "🚓 警察局",
       "word": "police station",
       "ipa": "/pəˈlis ˈsteɪʃən/",
-      "graphemes": ["p", "o", "l", "i", "c","e", " ", "s", "t", "a", "tion"],
-      "phonemes": ["/p", "ə", "'l", "i", "s","-", "", "'s", "t", "eɪ", "ʃən/"],
-      "phonics": ["/p", "ə", "'l", "ē", "s", "-"," ", "'s", "t", "ā", "shən/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "o",
+        "l",
+        "i",
+        "c",
+        "e",
+        " ",
+        "s",
+        "t",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/p",
+        "ə",
+        "'l",
+        "i",
+        "s",
+        "-",
+        " ",
+        "'s",
+        "t",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/p",
+        "ə",
+        "'l",
+        "ē",
+        "s",
+        "-",
+        " ",
+        "'s",
+        "t",
+        "ā",
+        "shən/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "police 的 i 發 /ē/ (不規則)，ce 發 /s/。"
     },
     {
       "number": "🚻 洗手間",
       "word": "restroom",
       "ipa": "/ˈrɛstˌrum/",
-      "graphemes": ["r", "e", "s", "t", "r", "oo", "m"],
-      "phonemes": ["/'r", "ɛ", "s", "t", "r", "u", "m/"],
-      "phonics": ["/'r", "ĕ", "s", "t", "r", "ū", "m/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "s",
+        "t",
+        "r",
+        "oo",
+        "m"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "s",
+        "t",
+        "r",
+        "u",
+        "m/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "s",
+        "t",
+        "r",
+        "ū",
+        "m/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發長音 /ū/。"
     },
     {
       "number": "🍴 餐廳",
       "word": "restaurant",
       "ipa": "/ˈrɛstərənt/",
-      "graphemes": ["r", "e","s", "t", "au", "r", "a", "n", "t"],
-      "phonemes": ["/'r", "ɛ","s", "t", "ə", "r", "ə", "n", "t/"],
-      "phonics": ["/'r", "ĕ","s", "t", "ə", "r", "ə", "n", "t/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0, 0,1, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "s",
+        "t",
+        "au",
+        "r",
+        "a",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "s",
+        "t",
+        "ə",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "s",
+        "t",
+        "ə",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "au 與中間的 a 皆發弱化音 /ə/。"
     },
     {
       "number": "🛍️ 商店",
       "word": "shop",
       "ipa": "/ʃɑp/",
-      "graphemes": ["sh", "o", "p"],
-      "phonemes": ["/'ʃ", "ɑ", "p/"],
-      "phonics": ["/'sh", "ŏ", "p/"],
-      "tags": ["digraph", "cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "sh",
+        "o",
+        "p"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ɑ",
+        "p/"
+      ],
+      "phonics": [
+        "/sh",
+        "ŏ",
+        "p/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sh 發 /sh/。"
     },
     {
       "number": "✏️ 文具店",
       "word": "stationery store",
       "ipa": "/ˈsteɪʃəˌnɛri stɔr/",
-      "graphemes": ["s", "t", "a", "tion", "e","r", "y", " ", "s", "t", "ore"],
-      "phonemes": ["/'s", "t", "eɪ", "ʃən", "ɛ","r", "i", " ", "s", "t", "ɔr/"],
-      "phonics": ["/'s", "t", "ā", "shən", "ĕ","r", "ē", " ", "s", "t", "or/"],
-      "tags": ["cluster","open"],
-      "hearts": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "tion",
+        "e",
+        "r",
+        "y",
+        " ",
+        "s",
+        "t",
+        "ore"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "eɪ",
+        "ʃən",
+        "ɛ",
+        "r",
+        "i",
+        " ",
+        "s",
+        "t",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ā",
+        "shən",
+        "ĕ",
+        "r",
+        "ē",
+        " ",
+        "s",
+        "t",
+        "or/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "tion 發 /shən/，ery 發 /ĕrē/。"
     },
     {
       "number": "🏪 商店",
       "word": "store",
       "ipa": "/stɔr/",
-      "graphemes": ["s", "t", "ore"],
-      "phonemes": ["/'s", "t", "ɔr/"],
-      "phonics": ["/'s", "t", "or/"],
-      "tags": ["magic_e","rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "ore"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "or/"
+      ],
+      "tags": [
+        "magic_e",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ore 發 /or/。"
     },
     {
       "number": "🛒 超市",
       "word": "supermarket",
       "ipa": "/ˈsupərˌmɑrkɪt/",
-      "graphemes": ["s", "u", "p", "er", "m", "ar", "k", "et"],
-      "phonemes": ["/'s", "u", "p", "ɚ", "m", "ɑr", "k", "ɪt/"],
-      "phonics": ["/'s", "ū", "p", "er", "m", "ɑr", "k", "ĭt/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "p",
+        "er",
+        "m",
+        "ar",
+        "k",
+        "et"
+      ],
+      "phonemes": [
+        "/'s",
+        "u",
+        "p",
+        "ɚ",
+        "m",
+        "ɑr",
+        "k",
+        "ɪt/"
+      ],
+      "phonics": [
+        "/'s",
+        "ū",
+        "p",
+        "er",
+        "m",
+        "ɑr",
+        "k",
+        "ĭt/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發 /ū/，er 與 ar 皆為 R-controlled。"
     },
     {
       "number": "🕍 寺廟",
       "word": "temple",
       "ipa": "/ˈtɛmpəl/",
-      "graphemes": ["t", "e", "m", "p", "le"],
-      "phonemes": ["/'t", "ɛ", "m", "p", "əl/"],
-      "phonics": ["/'t", "ĕ", "m", "p", "əl/"],
-      "tags": ["closed", "cle"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "e",
+        "m",
+        "p",
+        "le"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɛ",
+        "m",
+        "p",
+        "əl/"
+      ],
+      "phonics": [
+        "/'t",
+        "ĕ",
+        "m",
+        "p",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "le 字尾發 /l/。"
     },
     {
       "number": "🎭 劇院",
       "word": "theater",
       "ipa": "/ˈθiətər/",
-      "graphemes": ["th", "e","a", "t", "er"],
-      "phonemes": ["/'θ", "i", "ə","t", "ɚ/"],
-      "phonics": ["/'th", "ē", "ə","t", "er/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "th",
+        "e",
+        "a",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'θ",
+        "i",
+        "ə",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'th",
+        "ē",
+        "ə",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "th 發 /th/，ea 發長音 /ē/。"
     },
     {
       "number": "🌊 瀑布",
       "word": "waterfalls",
       "ipa": "/ˈwɔtərˌfɔlz/",
-      "graphemes": ["w", "a", "t", "er", "f", "a", "ll", "s"],
-      "phonemes": ["/'w", "ɔ", "t", "ɚ", "f", "ɔ", "l", "z/"],
-      "phonics": ["/'w", "aw", "t", "er", "f", "aw", "l", "z/"],
-      "tags": ["irregular", "floss"],
-      "hearts": [0, 1, 0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "w",
+        "a",
+        "t",
+        "er",
+        "f",
+        "a",
+        "ll",
+        "s"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɔ",
+        "t",
+        "ɚ",
+        "f",
+        "ɔ",
+        "l",
+        "z/"
+      ],
+      "phonics": [
+        "/'w",
+        "aw",
+        "t",
+        "er",
+        "f",
+        "aw",
+        "l",
+        "z/"
+      ],
+      "tags": [
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "a 在 w 後發 /o/，all 發 /ol/。"
     },
     {
       "number": "🦁 動物園",
       "word": "zoo",
       "ipa": "/zu/",
-      "graphemes": ["z", "oo"],
-      "phonemes": ["/z", "u/"],
-      "phonics": ["/z", "ū/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "z",
+        "oo"
+      ],
+      "phonemes": [
+        "/z",
+        "u/"
+      ],
+      "phonics": [
+        "/z",
+        "ū/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "oo 發長音 /ū/。"
     },
     {
       "number": "🏙️ 城市",
       "word": "city",
       "ipa": "/ˈsɪti/",
-      "graphemes": ["c", "i", "t", "y"],
-      "phonemes": ["/'s", "ɪ", "t", "i/"],
-      "phonics": ["/'s", "ĭ", "t", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "c",
+        "i",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɪ",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĭ",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "c 接 i 發軟音 /s/，y 字尾發 /ē/。"
     },
     {
       "number": "🏞️ 國家/鄉村",
       "word": "country",
       "ipa": "/ˈkʌntri/",
-      "graphemes": ["c", "ou", "n", "t", "r", "y"],
-      "phonemes": ["/'k", "ʌ", "n", "t", "r", "i/"],
-      "phonics": ["/'k", "ŭ", "n", "t", "r", "ē/"],
-      "tags": ["irregular","cluster"],
-      "hearts": [0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "ou",
+        "n",
+        "t",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʌ",
+        "n",
+        "t",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŭ",
+        "n",
+        "t",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 發短音 /ŭ/ (不規則)。"
     },
     {
       "number": "🏙️ 市區",
       "word": "downtown",
       "ipa": "/ˈdaʊnˈtaʊn/",
-      "graphemes": ["d", "ow", "n", "t", "ow", "n"],
-      "phonemes": ["/d", "aʊ", "n", "'t", "aʊ", "n/"],
-      "phonics": ["/d", "ow", "n", "'t", "ow", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "ow",
+        "n",
+        "t",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/d",
+        "aʊ",
+        "n",
+        "'t",
+        "aʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/d",
+        "ow",
+        "n",
+        "'t",
+        "ow",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ow 皆發 /ow/。"
     },
     {
       "number": "🚜 農場",
       "word": "farm",
       "ipa": "/fɑrm/",
-      "graphemes": ["f", "ar", "m"],
-      "phonemes": ["/f", "ɑr", "m/"],
-      "phonics": ["/f", "ɑr", "m/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "ar",
+        "m"
+      ],
+      "phonemes": [
+        "/f",
+        "ɑr",
+        "m/"
+      ],
+      "phonics": [
+        "/f",
+        "ɑr",
+        "m/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ar/。"
     },
     {
       "number": "📍 地點",
       "word": "place",
       "ipa": "/pleɪs/",
-      "graphemes": ["p", "l", "a", "c", "e"],
-      "phonemes": ["/p", "l", "eɪ", "s", "-/"],
-      "phonics": ["/p", "l", "ā", "s", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "a",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "eɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ā",
+        "s/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 發長母音 /ā/，c 發軟音 /s/。"
     },
     {
       "number": "🏘️ 城鎮",
       "word": "town",
       "ipa": "/taʊn/",
-      "graphemes": ["t", "ow", "n"],
-      "phonemes": ["/t", "aʊ", "n/"],
-      "phonics": ["/t", "ow", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "t",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/t",
+        "aʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/t",
+        "ow",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ow 發 /ow/。"
     },
     {
       "number": "🏡 村莊",
       "word": "village",
       "ipa": "/ˈvɪlɪdʒ/",
-      "graphemes": ["v", "i","ll", "a", "ge"],
-      "phonemes": ["/'v", "ɪ","l", "ɪ", "dʒ/"],
-      "phonics": ["/'v", "ĭ","l", "ĭ", "-j/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0,1, 0],
+      "graphemes": [
+        "v",
+        "i",
+        "ll",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/'v",
+        "ɪ",
+        "l",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'v",
+        "ĭ",
+        "l",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "a 發 /ĭ/ (弱化)，ge 發 /j/。"
     },
     {
       "number": "📍 當地的",
       "word": "local",
       "ipa": "/ˈloʊkəl/",
-      "graphemes": ["l", "o", "c", "a","l"],
-      "phonemes": ["/'l", "oʊ", "k", "ə","l/"],
-      "phonics": ["/'l", "ō", "k", "ə","l/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "o",
+        "c",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'l",
+        "oʊ",
+        "k",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'l",
+        "ō",
+        "k",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 發長音 /ō/。"
     },
     {
       "number": "🌐 國際的",
       "word": "international",
-      "ipa": "/ˌɪntərˈnæʃənəl/",
-      "graphemes": ["i", "n", "t", "er", "n", "a", "tion", "a","l"],
-      "phonemes": ["/ɪ", "n", "t", "ɚ", "n", "'æ", "ʃən", "ə","l/"],
-      "phonics": ["/ĭ", "n", "t", "er", "n", "'ă", "shən", "ə","l/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0, 0],
+      "ipa": "/ˌɪntɚˈnæʃənəl/",
+      "graphemes": [
+        "i",
+        "n",
+        "t",
+        "er",
+        "n",
+        "a",
+        "tion",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "t",
+        "ɚ",
+        "n",
+        "'æ",
+        "ʃən",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "t",
+        "er",
+        "n",
+        "'ă",
+        "shən",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "tion 發 /shən/，al 發弱化音。"
     }
   ]
 }
-
-

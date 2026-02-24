@@ -5,189 +5,614 @@
       "number": "📏 公分",
       "word": "centimeter",
       "ipa": "/ˈsɛntəˌmitər/",
-      "graphemes": ["c", "e", "n", "t", "i", "m", "e", "t", "er"],
-      "phonemes": ["/'s", "ɛ", "n", "t", "ə", "m", "i", "t", "ɚ/"],
-      "phonics": ["/'s", "ĕ", "n", "t", "ə", "m", "ē", "t", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "e",
+        "n",
+        "t",
+        "i",
+        "m",
+        "e",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɛ",
+        "n",
+        "t",
+        "ə",
+        "m",
+        "i",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĕ",
+        "n",
+        "t",
+        "ə",
+        "m",
+        "ē",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "c 發軟音 /s/，重音 e 發 /ĕ/，er 發 /er/。"
     },
     {
       "number": "🦶 英呎",
       "word": "foot",
       "ipa": "/fʊt/",
-      "graphemes": ["f", "oo", "t"],
-      "phonemes": ["/f", "ʊ", "t/"],
-      "phonics": ["/f", "oo", "t/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "oo",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "ʊ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "oo",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發短母音 /oo/。"
     },
     {
       "number": "⚖️ 公克",
       "word": "gram",
       "ipa": "/ɡræm/",
-      "graphemes": ["g", "r", "a", "m"],
-      "phonemes": ["/'ɡ", "r", "æ", "m/"],
-      "phonics": ["/'ɡ", "r", "ă", "m/"],
-      "tags": ["cluster","cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /ă/。"
     },
     {
       "number": "📏 英吋",
       "word": "inch",
       "ipa": "/ɪntʃ/",
-      "graphemes": ["i", "n", "ch"],
-      "phonemes": ["/ɪ", "n", "tʃ/"],
-      "phonics": ["/ĭ", "n", "ch/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "ch"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ch 發 /ch/。"
     },
     {
       "number": "⚖️ 公斤",
       "word": "kilogram",
       "ipa": "/ˈkɪləˌɡræm/",
-      "graphemes": ["k", "i", "l", "o", "g", "r", "a", "m"],
-      "phonemes": ["/'k", "ɪ", "l", "ə", "ɡ", "r", "æ", "m/"],
-      "phonics": ["/'k", "ĭ", "l", "ə", "ɡ", "r", "ă", "m/"],
-      "tags": ["closed", "open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "k",
+        "i",
+        "l",
+        "o",
+        "g",
+        "r",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɪ",
+        "l",
+        "ə",
+        "ɡ",
+        "r",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĭ",
+        "l",
+        "ə",
+        "ɡ",
+        "r",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "closed",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音 i 發短音 /ĭ/，o 發弱化音 /ə/。"
     },
     {
       "number": "🛣️ 公里",
       "word": "kilometer",
       "ipa": "/kɪˈlɑː.mə.t̬ɚ/",
-      "graphemes": ["k", "i", "l", "o", "m", "e", "t", "er"],
-      "phonemes": ["/k", "ɪ", "'l", "ɑ", "m", "ə", "t", "ɚ/"],
-      "phonics": ["/k", "ĭ", "'l", "ɑ", "m", "ə", "t", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "k",
+        "i",
+        "l",
+        "o",
+        "m",
+        "e",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/k",
+        "ɪ",
+        "'l",
+        "ɑ",
+        "m",
+        "ə",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/k",
+        "ĭ",
+        "'l",
+        "ɑ",
+        "m",
+        "ə",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "me 發長母音 /ē/。"
     },
     {
       "number": "🥛 公升",
       "word": "liter",
       "ipa": "/ˈlitər/",
-      "graphemes": ["l", "i", "t", "er"],
-      "phonemes": ["/'l", "i", "t", "ɚ/"],
-      "phonics": ["/'l", "ē", "t", "er/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "l",
+        "i",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'l",
+        "i",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'l",
+        "ē",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "i 在開音節發長母音 /ē/。"
     },
     {
       "number": "📏 公尺",
       "word": "meter",
       "ipa": "/ˈmitər/",
-      "graphemes": ["m", "e", "t", "er"],
-      "phonemes": ["/'m", "i", "t", "ɚ/"],
-      "phonics": ["/'m", "ē", "t", "er/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "e",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "i",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ē",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "e 在開音節發長母音 /ē/。"
     },
     {
       "number": "🛣️ 英哩",
       "word": "mile",
       "ipa": "/maɪl/",
-      "graphemes": ["m", "i", "l", "e"],
-      "phonemes": ["/'m", "aɪ", "l", "-/"],
-      "phonics": ["/'m", "ī", "l", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/m",
+        "aɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/m",
+        "ī",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發長母音 /ī/。"
     },
     {
       "number": "⚖️ 磅",
       "word": "pound",
       "ipa": "/paʊnd/",
-      "graphemes": ["p", "ou", "n", "d"],
-      "phonemes": ["/'p", "aʊ", "n", "d/"],
-      "phonics": ["/'p", "ou", "n", "d/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "ou",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/p",
+        "aʊ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/p",
+        "ou",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 發雙母音 /ou/。"
     },
     {
       "number": "⛳ 碼",
       "word": "yard",
       "ipa": "/jɑrd/",
-      "graphemes": ["y", "ar", "d"],
-      "phonemes": ["/'y", "ɑr", "d/"],
-      "phonics": ["/'y", "ɑr", "d/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "y",
+        "ar",
+        "d"
+      ],
+      "phonemes": [
+        "/j",
+        "ɑr",
+        "d/"
+      ],
+      "phonics": [
+        "/y",
+        "ɑr",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ar/。"
     },
     {
       "number": "👕 尺寸",
       "word": "size",
       "ipa": "/saɪz/",
-      "graphemes": ["s", "i", "z", "e"],
-      "phonemes": ["/'s", "aɪ", "z", "-/"],
-      "phonics": ["/'s", "ī", "z", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "i",
+        "z",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "aɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ī",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發長母音 /ī/。"
     },
     {
       "number": "📏 高度",
       "word": "height",
       "ipa": "/haɪt/",
-      "graphemes": ["h", "eigh", "t"],
-      "phonemes": ["/'h", "aɪ", "t/"],
-      "phonics": ["/'h", "ī", "t/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "h",
+        "eigh",
+        "t"
+      ],
+      "phonemes": [
+        "/h",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/h",
+        "ī",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "eigh 不發 /ā/ 而是發 /ī/，屬於不規則發音。"
     },
     {
       "number": "↔️ 距離",
       "word": "distance",
       "ipa": "/ˈdɪstəns/",
-      "graphemes": ["d", "i", "s", "t", "a", "n", "c", "e"],
-      "phonemes": ["/'d", "ɪ", "s", "t", "ə", "n", "s", "-/"],
-      "phonics": ["/'d", "ĭ", "s", "t", "ə", "n", "s", "-/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "s",
+        "t",
+        "a",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ce 在字尾發軟音 /s/。"
     },
     {
       "number": "⚖️ 重量",
       "word": "weight",
       "ipa": "/weɪt/",
-      "graphemes": ["w", "eigh", "t"],
-      "phonemes": ["/'w", "eɪ", "t/"],
-      "phonics": ["/'w", "ā", "t/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "w",
+        "eigh",
+        "t"
+      ],
+      "phonemes": [
+        "/w",
+        "eɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "ā",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "eigh 發長母音 /ā/。"
     },
     {
       "number": "🔢 數量",
       "word": "amount",
       "ipa": "/əˈmaʊnt/",
-      "graphemes": ["a", "m", "ou", "n", "t"],
-      "phonemes": ["/ə", "'m", "aʊ", "n", "t/"],
-      "phonics": ["/ə", "'m", "ou", "n", "t/"],
-      "tags": ["vowel_team","cluster"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "m",
+        "ou",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/ə",
+        "'m",
+        "aʊ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/ə",
+        "'m",
+        "ou",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 發 /ou/。"
     },
     {
       "number": "📐 測量",
       "word": "measure",
       "ipa": "/ˈmɛʒər/",
-      "graphemes": ["m", "ea", "s", "ure"],
-      "phonemes": ["/'m", "ɛ", "ʒ", "ɚ/"],
-      "phonics": ["/'m", "ĕ", "zh", "er/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 1, 1],
+      "graphemes": [
+        "m",
+        "ea",
+        "s",
+        "ure"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "ʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "zh",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        1
+      ],
       "hint": "ea 發短母音 /ĕ/，s 發 /zh/。"
     }
   ]
 }
-

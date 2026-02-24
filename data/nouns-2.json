@@ -4,220 +4,778 @@
       "number": "💅 美麗",
       "word": "beauty",
       "ipa": "/ˈbjuti/",
-      "graphemes": ["b", "eau", "t", "y"],
-      "phonemes": ["/'bju", "t", "i/"],
-      "phonics": ["/'byū", "t", "ē/"],
-      "tags": ["open", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "eau",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'bju",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'byū",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "open",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 beau-（開音節）；eau 對應 /bju/；y 發 /ē/。"
     },
     {
       "number": "👶 童年",
       "word": "childhood",
       "ipa": "/ˈtʃaɪldhʊd/",
-      "graphemes": ["ch", "i", "l", "d", "h", "oo", "d"],
-      "phonemes": ["/'tʃ", "aɪ", "l", "d", "h", "ʊ", "d/"],
-      "phonics": ["/'ch", "ī", "l", "d", "h", "oo", "d/"],
-      "tags": ["digraph", "open", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "ch",
+        "i",
+        "l",
+        "d",
+        "h",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "aɪ",
+        "l",
+        "d",
+        "h",
+        "ʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ī",
+        "l",
+        "d",
+        "h",
+        "oo",
+        "d/"
+      ],
+      "tags": [
+        "digraph",
+        "open",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 child-；ch 為 digraph；i 在 ld 前發長音 /ī/（開音節規則）；oo 對應 /ʊ/。"
     },
     {
       "number": "💪 勇氣",
       "word": "courage",
       "ipa": "/ˈkɝɪdʒ/",
-      "graphemes": ["c", "our", "a", "g", "e"],
-      "phonemes": ["/'k", "ɝ", "ɪ", "dʒ", "-/"],
-      "phonics": ["/'k", "er", "ĭ", "-j", "-/"],
-      "tags": ["closed", "irregular", "rcontrolled", "vowel_team"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "our",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɝ",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'k",
+        "er",
+        "ĭ",
+        "j/"
+      ],
+      "tags": [
+        "closed",
+        "irregular",
+        "rcontrolled",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "重音在 cour-；our 對應 /ɝ/（需記）；第二音節 a 發短音 /ĭ/；g 對應 /dʒ/。"
     },
     {
       "number": "🚔 犯罪",
       "word": "crime",
       "ipa": "/kraɪm/",
-      "graphemes": ["c", "r", "i", "m", "e"],
-      "phonemes": ["/'k", "r", "aɪ", "m", "-/"],
-      "phonics": ["/'k", "r", "ī", "m", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "r",
+        "i",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "r",
+        "aɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "r",
+        "ī",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；cr 為 cluster；i_e 對應 /ī/。"
     },
     {
       "number": "⚠️ 危險",
       "word": "danger",
       "ipa": "/ˈdeɪndʒɚ/",
-      "graphemes": ["d", "a", "n", "g", "er"],
-      "phonemes": ["/'d", "eɪ", "n", "dʒ", "ɚ/"],
-      "phonics": ["/'d", "ā", "n", "-j", "er/"],
-      "tags": ["open", "suffix"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "a",
+        "n",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'d",
+        "eɪ",
+        "n",
+        "dʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ā",
+        "n",
+        "-j",
+        "er/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 dan-（開音節）；a 發長音 /ā/；g 對應 /dʒ/；-er 字尾。"
     },
     {
       "number": "😊 情感",
       "word": "emotion",
       "ipa": "/ɪˈmoʊʃən/",
-      "graphemes": ["e", "m", "o", "tion"],
-      "phonemes": ["/ɪ", "'m", "oʊ", "ʃən/"],
-      "phonics": ["/ĭ", "'m", "ō", "shən/"],
-      "tags": ["closed", "digraph", "irregular", "open"],
-      "hearts": [0, 0, 0, 1],
+      "graphemes": [
+        "e",
+        "m",
+        "o",
+        "tion"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "'m",
+        "oʊ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "'m",
+        "ō",
+        "shən/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "irregular",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "重音在 -mo-（開音節）；第一音節 e 發短音 /ĭ/；o 發長音 /ō/；tion 對應 /ʃən/（需記）。"
     },
     {
       "number": "👿 敵人",
       "word": "enemy",
       "ipa": "/ˈɛnəmi/",
-      "graphemes": ["e", "n", "e", "m", "y"],
-      "phonemes": ["/'ɛ", "n", "ə", "m", "i/"],
-      "phonics": ["/'ĕ", "n", "ə", "m", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "n",
+        "e",
+        "m",
+        "y"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "n",
+        "ə",
+        "m",
+        "i/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "n",
+        "ə",
+        "m",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 en-（閉音節）；e 發短音 /ĕ/；y 發 /ē/。"
     },
     {
       "number": "😨 恐懼",
       "word": "fear",
       "ipa": "/fɪr/",
-      "graphemes": ["f", "ear"],
-      "phonemes": ["/'f", "ɪr/"],
-      "phonics": ["/'f", "ir/"],
-      "tags": ["rcontrolled", "vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "f",
+        "ear"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪr/"
+      ],
+      "phonics": [
+        "/f",
+        "ir/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "單音節；ear 為 r-controlled /ɪr/。"
     },
     {
       "number": "💭 感覺",
       "word": "feeling",
       "ipa": "/ˈfilɪŋ/",
-      "graphemes": ["f", "ee", "l", "i", "ng"],
-      "phonemes": ["/'f", "i", "l", "ɪ", "ŋ/"],
-      "phonics": ["/'f", "ē", "l", "ĭ", "ŋ/"],
-      "tags": ["closed", "digraph", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "ee",
+        "l",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'f",
+        "i",
+        "l",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'f",
+        "ē",
+        "l",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 feel-；ee 對應 /ē/；第二音節 i 發短音 /ĭ/；ng 為 digraph。"
     },
     {
       "number": "🕊️ 自由",
       "word": "freedom",
       "ipa": "/ˈfridəm/",
-      "graphemes": ["f", "r", "ee", "d", "o", "m"],
-      "phonemes": ["/'f", "r", "i", "d", "ə", "m/"],
-      "phonics": ["/'f", "r", "ē", "d", "ə", "m/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "r",
+        "ee",
+        "d",
+        "o",
+        "m"
+      ],
+      "phonemes": [
+        "/'f",
+        "r",
+        "i",
+        "d",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'f",
+        "r",
+        "ē",
+        "d",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 free-；fr 為 cluster；ee 對應 /ē/。"
     },
     {
       "number": "🤝 友誼",
       "word": "friendship",
       "ipa": "/ˈfrɛndʃɪp/",
-      "graphemes": ["f", "r", "ie", "n", "d", "sh", "i", "p"],
-      "phonemes": ["/'f", "r", "ɛ", "n", "d", "ʃ", "ɪ", "p/"],
-      "phonics": ["/'f", "r", "ĕ", "n", "d", "sh", "ĭ", "p/"],
-      "tags": ["closed", "cluster", "digraph", "irregular", "vowel_team"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "r",
+        "ie",
+        "n",
+        "d",
+        "sh",
+        "i",
+        "p"
+      ],
+      "phonemes": [
+        "/'f",
+        "r",
+        "ɛ",
+        "n",
+        "d",
+        "ʃ",
+        "ɪ",
+        "p/"
+      ],
+      "phonics": [
+        "/'f",
+        "r",
+        "ĕ",
+        "n",
+        "d",
+        "sh",
+        "ĭ",
+        "p/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "irregular",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 friend-（閉音節）；fr 為 cluster；ie 對應 /ĕ/（需記）；sh 為 digraph；第二音節閉音節。"
     },
     {
       "number": "😇 善良",
       "word": "goodness",
       "ipa": "/ˈgʊdnəs/",
-      "graphemes": ["g", "oo", "d", "n", "e", "ss"],
-      "phonemes": ["/'g", "ʊ", "d", "n", "ə", "s/"],
-      "phonics": ["/'g", "oo", "d", "n", "ə", "s/"],
-      "tags": ["floss", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "oo",
+        "d",
+        "n",
+        "e",
+        "ss"
+      ],
+      "phonemes": [
+        "/'g",
+        "ʊ",
+        "d",
+        "n",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'g",
+        "oo",
+        "d",
+        "n",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "floss",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 good-；oo 對應 /ʊ/；ss 為 floss。"
     },
     {
       "number": "🤗 誠實",
       "word": "honesty",
       "ipa": "/ˈɑnəsti/",
-      "graphemes": ["h", "o", "n", "e", "s", "t", "y"],
-      "phonemes": ["/'h", "ɑ", "n", "ə", "s", "t", "i/"],
-      "phonics": ["/'h", "ŏ", "n", "ə", "s", "t", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "o",
+        "n",
+        "e",
+        "s",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɑ",
+        "n",
+        "ə",
+        "s",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŏ",
+        "n",
+        "ə",
+        "s",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 hon-（閉音節）；o 發短音 /ŏ/；y 發 /ē/。"
     },
     {
       "number": "😄 幽默",
       "word": "humor",
       "ipa": "/ˈhjumɚ/",
-      "graphemes": ["h", "u", "m", "or"],
-      "phonemes": ["/'hju", "m", "ɚ/"],
-      "phonics": ["/'hyū", "m", "er/"],
-      "tags": ["open", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "u",
+        "m",
+        "or"
+      ],
+      "phonemes": [
+        "/'hju",
+        "m",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'hyū",
+        "m",
+        "er/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 hu-（開音節）；u 發 /hju/；or 為 r-controlled；-or 字尾。"
     },
     {
       "number": "🍔 飢餓",
       "word": "hunger",
       "ipa": "/ˈhʌŋgɚ/",
-      "graphemes": ["h", "u", "ng", "er"],
-      "phonemes": ["/'h", "ʌ", "ŋ", "ɚ/"],
-      "phonics": ["/'h", "ŭ", "ŋ", "er/"],
-      "tags": ["closed", "digraph", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "u",
+        "ng",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "ʌ",
+        "ŋ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŭ",
+        "ŋ",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 hun-（閉音節）；u 發短音 /ŭ/；ng 為 digraph；-er 字尾。"
     },
     {
       "number": "😌 愉悅",
       "word": "pleasure",
       "ipa": "/ˈplɛʒɚ/",
-      "graphemes": ["p", "l", "ea", "s", "ure"],
-      "phonemes": ["/'p", "l", "ɛ", "ʒ", "ɚ/"],
-      "phonics": ["/'p", "l", "ĕ", "zh", "er/"],
-      "tags": ["closed", "cluster", "digraph", "irregular", "vowel_team"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "ea",
+        "s",
+        "ure"
+      ],
+      "phonemes": [
+        "/'p",
+        "l",
+        "ɛ",
+        "ʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "l",
+        "ĕ",
+        "zh",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "irregular",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 plea-；pl 為 cluster；ea 對應 /ĕ/（需記）；s 對應 /ʒ/；zh 為 digraph。"
     },
     {
       "number": "😊 微笑",
       "word": "smile",
       "ipa": "/smaɪl/",
-      "graphemes": ["s", "m", "i", "l", "e"],
-      "phonemes": ["/'s", "m", "aɪ", "l", "-/"],
-      "phonics": ["/'s", "m", "ī", "l", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "m",
+        "i",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "aɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ī",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；sm 為 cluster；i_e 對應 /ī/。"
     },
     {
       "number": "🌟 才能",
       "word": "talent",
       "ipa": "/ˈtælənt/",
-      "graphemes": ["t", "a", "l", "e", "n", "t"],
-      "phonemes": ["/'t", "æ", "l", "ə", "n", "t/"],
-      "phonics": ["/'t", "ă", "l", "ə", "n", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "a",
+        "l",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'t",
+        "æ",
+        "l",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'t",
+        "ă",
+        "l",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 tal-（閉音節）；a 發短音 /ă/。"
     },
     {
       "number": "💎 寶藏",
       "word": "treasure",
       "ipa": "/ˈtrɛʒɚ/",
-      "graphemes": ["t", "r", "ea", "s", "ure"],
-      "phonemes": ["/'t", "r", "ɛ", "ʒ", "ɚ/"],
-      "phonics": ["/'t", "r", "ĕ", "zh", "er/"],
-      "tags": ["closed", "cluster", "digraph", "irregular", "vowel_team"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "ea",
+        "s",
+        "ure"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "ɛ",
+        "ʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ĕ",
+        "zh",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "irregular",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 trea-；tr 為 cluster；ea 對應 /ĕ/（需記）；s 對應 /ʒ/；zh 為 digraph。"
     },
     {
       "number": "✨ 真理",
       "word": "truth",
       "ipa": "/truθ/",
-      "graphemes": ["t", "r", "u", "th"],
-      "phonemes": ["/'t", "r", "u", "θ/"],
-      "phonics": ["/'t", "r", "ū", "th/"],
-      "tags": ["cluster", "digraph", "open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "u",
+        "th"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "u",
+        "θ/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ū",
+        "th/"
+      ],
+      "tags": [
+        "cluster",
+        "digraph",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；tr 為 cluster；u 發長音 /ū/（開音節）；th 為 digraph。"
     }
   ]

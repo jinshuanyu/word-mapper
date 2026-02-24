@@ -4,77 +4,198 @@
       "number": "➕ 也（用於否定句）",
       "word": "either",
       "ipa": "/ˈiðɚ/",
-      "graphemes": ["ei", "th", "er"],
-      "phonemes": ["/'i", "ð", "ɚ/"],
-      "phonics": ["/'ē", "<u>th</u>", "er/"],
-      "tags": ["irregular", "digraph"],
-      "hearts": [1, 0, 0],
+      "graphemes": [
+        "ei",
+        "th",
+        "er"
+      ],
+      "phonemes": [
+        "/'i",
+        "ð",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ē",
+        "<u>th</u>",
+        "er/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        1,
+        0,
+        0
+      ],
       "hint": "重音在 ei-；ei 發 /ē/；th 為濁音 /ð/（用底線標記）；er 為 r-controlled。"
     },
     {
       "number": "🚫 也不",
       "word": "neither",
       "ipa": "/ˈniðɚ/",
-      "graphemes": ["n", "ei", "th", "er"],
-      "phonemes": ["/'n", "i", "ð", "ɚ/"],
-      "phonics": ["/'n", "ē", "<u>th</u>", "er/"],
-      "tags": ["irregular","digraph"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "n",
+        "ei",
+        "th",
+        "er"
+      ],
+      "phonemes": [
+        "/'n",
+        "i",
+        "ð",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'n",
+        "ē",
+        "<u>th</u>",
+        "er/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "重音在 nei-；ei 發 /ē/；th 為濁音 /ð/（用底線標記）；er 為 r-controlled。"
     },
     {
       "number": "❌ 不",
       "word": "no",
       "ipa": "/noʊ/",
-      "graphemes": ["n", "o"],
-      "phonemes": ["/'n", "oʊ/"],
-      "phonics": ["/'n", "ō/"],
-      "tags": ["open"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "n",
+        "o"
+      ],
+      "phonemes": [
+        "/n",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/n",
+        "ō/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "單音節；o 發長音 /ō/（開音節）。"
     },
     {
       "number": "🚫 也不",
       "word": "nor",
       "ipa": "/nɔr/",
-      "graphemes": ["n", "or"],
-      "phonemes": ["/'n", "ɔr/"],
-      "phonics": ["/'n", "or/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "n",
+        "or"
+      ],
+      "phonemes": [
+        "/n",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/n",
+        "or/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "單音節；or 為 r-controlled。"
     },
     {
       "number": "🚫 不",
       "word": "not",
       "ipa": "/nɑt/",
-      "graphemes": ["n", "o", "t"],
-      "phonemes": ["/'n", "ɑ", "t/"],
-      "phonics": ["/'n", "ŏ", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "n",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/n",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/n",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；o 對應 /ɑ/。"
     },
     {
       "number": "👍 好的",
       "word": "OK",
       "ipa": "/oʊˈkeɪ/",
-      "graphemes": ["O", "K"],
-      "phonemes": ["/oʊ", "'keɪ/"],
-      "phonics": ["/ō", "'kā/"],
-      "tags": ["irregular", "open"],
-      "hearts": [0, 1],
+      "graphemes": [
+        "O",
+        "K"
+      ],
+      "phonemes": [
+        "/oʊ",
+        "'keɪ/"
+      ],
+      "phonics": [
+        "/ō",
+        "'kā/"
+      ],
+      "tags": [
+        "irregular",
+        "open"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
       "hint": "重音在 K；O 發 /ō/（開音節）；K 讀字母名稱音 /keɪ/（需記）。"
     },
     {
       "number": "✅ 是",
       "word": "yes",
       "ipa": "/jɛs/",
-      "graphemes": ["y", "e", "s"],
-      "phonemes": ["/'j", "ɛ", "s/"],
-      "phonics": ["/'y", "ĕ", "s/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "y",
+        "e",
+        "s"
+      ],
+      "phonemes": [
+        "/j",
+        "ɛ",
+        "s/"
+      ],
+      "phonics": [
+        "/y",
+        "ĕ",
+        "s/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節閉音節；y 為輔音；e 發短音 /ĕ/。"
     }
   ]

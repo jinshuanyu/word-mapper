@@ -4,282 +4,911 @@
       "number": "🧑 成人",
       "word": "adult",
       "ipa": "/əˈdʌlt/",
-      "graphemes": ["a", "d", "u", "l", "t"],
-      "phonemes": ["/ə", "'d", "ʌ", "l", "t/"],
-      "phonics": ["/ə", "'d", "ŭ", "l", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "d",
+        "u",
+        "l",
+        "t"
+      ],
+      "phonemes": [
+        "/ə",
+        "'d",
+        "ʌ",
+        "l",
+        "t/"
+      ],
+      "phonics": [
+        "/ə",
+        "'d",
+        "ŭ",
+        "l",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 弱化發 /ə/；u 發短母音 /ʌ/。"
     },
     {
       "number": "👼 天使",
       "word": "angel",
       "ipa": "/ˈeɪndʒəl/",
-      "graphemes": ["a", "n", "g", "e","l"],
-      "phonemes": ["/'eɪ", "n", "dʒ", "ə","l/"],
-      "phonics": ["/'ā", "n", "-j", "ə","l/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "n",
+        "g",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/'eɪ",
+        "n",
+        "dʒ",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'ā",
+        "n",
+        "-j",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發長母音 /eɪ/；g 在 e 前發軟音 /dʒ/。"
     },
-
-
     {
       "number": "👫 伴侶",
       "word": "couple",
       "ipa": "/ˈkʌpəl/",
-      "graphemes": ["c", "ou", "p", "le"],
-      "phonemes": ["/'k", "ʌ", "p", "əl/"],
-      "phonics": ["/'k", "ŭ", "p", "əl/"],
-      "tags": [ "irregular","cle"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "c",
+        "ou",
+        "p",
+        "le"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʌ",
+        "p",
+        "əl/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŭ",
+        "p",
+        "əl/"
+      ],
+      "tags": [
+        "irregular",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "ou 發短音 /ʌ/ (cousin, touch 同規則)；le 發 /əl/。"
     },
     {
       "number": "🛒 顧客",
       "word": "customer",
       "ipa": "/ˈkʌstəmɚ/",
-      "graphemes": ["c", "u", "s", "t", "o", "m", "er"],
-      "phonemes": ["/'k", "ʌ", "s", "t", "ə", "m", "ɚ/"],
-      "phonics": ["/'k", "ŭ", "s", "t", "ə", "m", "er/"],
-      "tags": ["closed", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "u",
+        "s",
+        "t",
+        "o",
+        "m",
+        "er"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʌ",
+        "s",
+        "t",
+        "ə",
+        "m",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŭ",
+        "s",
+        "t",
+        "ə",
+        "m",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化發 /ə/。"
     },
     {
       "number": "🤡 傻瓜",
       "word": "fool",
       "ipa": "/ful/",
-      "graphemes": ["f", "oo", "l"],
-      "phonemes": ["/f", "u", "l/"],
-      "phonics": ["/f", "ū", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/f",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/f",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發長母音 u /u/。"
     },
     {
       "number": "💡 天才",
       "word": "genius",
       "ipa": "/ˈdʒinjəs/",
-      "graphemes": ["g", "e", "n", "i", "u", "s"],
-      "phonemes": ["/'dʒ", "i", "n", "j", "ə", "s/"],
-      "phonics": ["/'-j", "ē", "n", "y", "ə", "s/"],
-      "tags": ["open", "irregular"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "g",
+        "e",
+        "n",
+        "i",
+        "u",
+        "s"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "i",
+        "n",
+        "j",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ē",
+        "n",
+        "y",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "open",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "g 發軟音 /dʒ/；e 發長母音 /i/；u 弱化。"
     },
     {
       "number": "🎩 紳士",
       "word": "gentleman",
       "ipa": "/ˈdʒɛntlmən/",
-      "graphemes": ["g", "e", "n", "t", "le", "m", "a", "n"],
-      "phonemes": ["/'dʒ", "ɛ", "n", "t", "əl", "m", "ə", "n/"],
-      "phonics": ["/'-j", "ĕ", "n", "t", "əl", "m", "ə", "n/"],
-      "tags": ["closed", "cle"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "e",
+        "n",
+        "t",
+        "le",
+        "m",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "ɛ",
+        "n",
+        "t",
+        "əl",
+        "m",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ĕ",
+        "n",
+        "t",
+        "əl",
+        "m",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "g 發軟音 /dʒ/；a 弱化。"
     },
     {
       "number": "🗿 巨人",
       "word": "giant",
       "ipa": "/ˈdʒaɪənt/",
-      "graphemes": ["g", "i", "a", "n", "t"],
-      "phonemes": ["/'dʒ", "aɪ", "ə", "n", "t/"],
-      "phonics": ["/'-j", "ī", "ə", "n", "t/"],
-      "tags": ["open"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "i",
+        "a",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "aɪ",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ī",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "g 發軟音 /dʒ/；i 發長母音 /aɪ/。"
     },
-
     {
       "number": "🏠 客人",
       "word": "guest",
       "ipa": "/ɡɛst/",
-      "graphemes": ["gu", "e", "s", "t"],
-      "phonemes": ["/ɡ", "ɛ", "s", "t/"],
-      "phonics": ["/ɡ", "ĕ", "s", "t/"],
-      "tags": ["irregular"],
-      "hearts": [1, 0, 0, 0],
+      "graphemes": [
+        "gu",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɛ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ĕ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "gu 發硬音 /ɡ/，u 不發音。"
     },
     {
       "number": "👱‍♂️ 傢伙",
       "word": "guy",
       "ipa": "/ɡaɪ/",
-      "graphemes": ["g", "uy"],
-      "phonemes": ["/ɡ", "aɪ/"],
-      "phonics": ["/ɡ", "ī/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 1],
+      "graphemes": [
+        "g",
+        "uy"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ī/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
       "hint": "uy 不規則發長母音 i /aɪ/。"
     },
     {
       "number": "🦸 英雄",
       "word": "hero",
       "ipa": "/ˈhɪroʊ/",
-      "graphemes": ["h", "e", "r", "o"],
-      "phonemes": ["/'h", "ɪ", "r", "oʊ/"],
-      "phonics": ["/'h", "ĭ", "r", "ō/"],
-      "tags": ["closed"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "h",
+        "e",
+        "r",
+        "o"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɪ",
+        "r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĭ",
+        "r",
+        "ō/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "o 發長母音 /oʊ/。"
     },
     {
       "number": "🎤 主持人",
       "word": "host",
       "ipa": "/hoʊst/",
-      "graphemes": ["h", "o", "s", "t"],
-      "phonemes": ["/h", "oʊ", "s", "t/"],
-      "phonics": ["/h", "ō", "s", "t/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "h",
+        "o",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/h",
+        "oʊ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/h",
+        "ō",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "o 在 st 前發長母音 /oʊ/ (例外規則)。"
     },
-
     {
       "number": "👑 國王",
       "word": "king",
       "ipa": "/kɪŋ/",
-      "graphemes": ["k", "i", "ng"],
-      "phonemes": ["/k", "ɪ", "ŋ/"],
-      "phonics": ["/k", "ĭ", "ŋ/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "k",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/k",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/k",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ng 發鼻音 /ŋ/。"
     },
     {
       "number": "👩 淑女",
       "word": "lady",
       "ipa": "/ˈleɪdi/",
-      "graphemes": ["l", "a", "d", "y"],
-      "phonemes": ["/'l", "eɪ", "d", "i/"],
-      "phonics": ["/'l", "ā", "d", "ē/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "a",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "eɪ",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ā",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發長母音 /eɪ/；y 字尾發 /i/。"
     },
     {
       "number": "🚹 男性",
       "word": "male",
       "ipa": "/meɪl/",
-      "graphemes": ["m", "a", "l", "e"],
-      "phonemes": ["/m", "eɪ", "l", "-/"],
-      "phonics": ["/m", "ā", "l", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/m",
+        "eɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/m",
+        "ā",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 發長母音 /eɪ/。"
     },
-
     {
       "number": "🎓 大師",
       "word": "master",
       "ipa": "/ˈmæstɚ/",
-      "graphemes": ["m", "a", "s", "t", "er"],
-      "phonemes": ["/'m", "æ", "s", "t", "ɚ/"],
-      "phonics": ["/'m", "ă", "s", "t", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "s",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "æ",
+        "s",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ă",
+        "s",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "er 發 /ɚ/。"
     },
     {
       "number": "🏘 鄰居",
       "word": "neighbor",
       "ipa": "/ˈneɪbɚ/",
-      "graphemes": ["n", "eigh", "b", "or"],
-      "phonemes": ["/'n", "eɪ", "b", "ɚ/"],
-      "phonics": ["/'n", "ā", "b", "er/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 1, 0, 1],
+      "graphemes": [
+        "n",
+        "eigh",
+        "b",
+        "or"
+      ],
+      "phonemes": [
+        "/'n",
+        "eɪ",
+        "b",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'n",
+        "ā",
+        "b",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "eigh 發長母音 a /eɪ/；or 弱化發 /ɚ/。"
     },
     {
       "number": "🤝 夥伴",
       "word": "partner",
       "ipa": "/ˈpɑrtnɚ/",
-      "graphemes": ["p", "ar", "t", "n", "er"],
-      "phonemes": ["/'p", "ɑr", "t", "n", "ɚ/"],
-      "phonics": ["/'p", "ar", "t", "n", "er/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "ar",
+        "t",
+        "n",
+        "er"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑr",
+        "t",
+        "n",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ar",
+        "t",
+        "n",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ɑr/。"
     },
-
     {
       "number": "🤴 王子",
       "word": "prince",
       "ipa": "/prɪns/",
-      "graphemes": ["p", "r", "i", "n", "c","e"],
-      "phonemes": ["/p", "r", "ɪ", "n", "s","-/"],
-      "phonics": ["/p", "r", "ĭ", "n", "s","-/"],
-      "tags": [ "cluster","closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "i",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "ɪ",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ĭ",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ce 字尾發 /s/，e 不發音，前方 i 發短音 /ɪ/。"
     },
     {
       "number": "👸 公主",
       "word": "princess",
       "ipa": "/ˌprɪnˈsɛs/",
-      "graphemes": ["p", "r", "i", "n", "c", "e", "ss"],
-      "phonemes": ["/'p", "r", "ɪ", "n", "s", "ɛ", "s/"],
-      "phonics": ["/'p", "r", "ĭ", "n", "s", "ĕ", "s/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "i",
+        "n",
+        "c",
+        "e",
+        "ss"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɪ",
+        "n",
+        "s",
+        "ɛ",
+        "s/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ĭ",
+        "n",
+        "s",
+        "ĕ",
+        "s/"
+      ],
+      "tags": [
+        "closed",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "c 在 e 前發 /s/。"
     },
     {
       "number": "👸 皇后",
       "word": "queen",
       "ipa": "/kwin/",
-      "graphemes": ["qu", "ee", "n"],
-      "phonemes": ["/kw", "i", "n/"],
-      "phonics": ["/kw", "ē", "n/"],
-      "tags": ["digraph","vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "qu",
+        "ee",
+        "n"
+      ],
+      "phonemes": [
+        "/kw",
+        "i",
+        "n/"
+      ],
+      "phonics": [
+        "/kw",
+        "ē",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "qu 發 /kw/；ee 發長母音 e /i/。"
     },
     {
       "number": "🕵️‍♂️ 陌生人",
       "word": "stranger",
       "ipa": "/ˈstreɪndʒɚ/",
-      "graphemes": ["s", "t", "r", "a", "n", "g", "er"],
-      "phonemes": ["/s", "t", "r", "eɪ", "n", "dʒ", "ɚ/"],
-      "phonics": ["/s", "t", "r", "ā", "n", "-j", "er/"],
-      "tags": ["cluster", "irregular"],
-      "hearts": [0, 0, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "a",
+        "n",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "eɪ",
+        "n",
+        "dʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ā",
+        "n",
+        "-j",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "a 在 n, ge 前發長母音 /eɪ/ (例外)；g 發軟音 /dʒ/。"
     },
     {
       "number": "🧑‍🎤 青少年",
       "word": "teenager",
       "ipa": "/ˈtineɪdʒɚ/",
-      "graphemes": ["t", "ee", "n", "a", "g", "er"],
-      "phonemes": ["/'t", "i", "n", "eɪ", "dʒ", "ɚ/"],
-      "phonics": ["/'t", "ē", "n", "ā", "-j", "er/"],
-      "tags": ["vowel_team","suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "ee",
+        "n",
+        "a",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'t",
+        "i",
+        "n",
+        "eɪ",
+        "dʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ē",
+        "n",
+        "ā",
+        "-j",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發 /i/；a 發 /eɪ/；g 發軟音 /dʒ/。"
     },
     {
       "number": "👀 訪客",
       "word": "visitor",
       "ipa": "/ˈvɪzɪtɚ/",
-      "graphemes": ["v", "i", "s", "i", "t", "or"],
-      "phonemes": ["/'v", "ɪ", "z", "ɪ", "t", "ɚ/"],
-      "phonics": ["/'v", "ĭ", "z", "ĭ", "t", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 1, 0, 0, 1],
+      "graphemes": [
+        "v",
+        "i",
+        "s",
+        "i",
+        "t",
+        "or"
+      ],
+      "phonemes": [
+        "/'v",
+        "ɪ",
+        "z",
+        "ɪ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'v",
+        "ĭ",
+        "z",
+        "ĭ",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
       "hint": "s 夾在母音間發 /z/；or 發 /ɚ/。"
     },
-
     {
       "number": "🧑 青年",
       "word": "youth",
       "ipa": "/juθ/",
-      "graphemes": ["y", "ou", "th"],
-      "phonemes": ["/j", "u", "θ/"],
-      "phonics": ["/y", "ū", "th/"],
-      "tags": ["vowel_team", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "y",
+        "ou",
+        "th"
+      ],
+      "phonemes": [
+        "/j",
+        "u",
+        "θ/"
+      ],
+      "phonics": [
+        "/y",
+        "ū",
+        "th/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ou 發 /u/。"
     }
   ]

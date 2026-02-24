@@ -4,165 +4,505 @@
       "number": "⚫ 黑色；黑的",
       "word": "black",
       "ipa": "/blæk/",
-      "graphemes": ["b","l","a","ck"],
-      "phonemes": ["/b","l","æ","k/"],
-      "phonics": ["/b","l","ă","k/"],
-      "tags": ["cluster","cvc","digraph"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "b",
+        "l",
+        "a",
+        "ck"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "æ",
+        "k/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ă",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "a 發短母音 a /æ/；ck 發 /k/。"
     },
     {
       "number": "🔵 藍色；藍的",
       "word": "blue",
       "ipa": "/blu/",
-      "graphemes": ["b","l","ue"],
-      "phonemes": ["/b","l","u/"],
-      "phonics": ["/b","l","ū/"],
-      "tags": ["cluster","open"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "b",
+        "l",
+        "ue"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "u/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "ue 發長母音 u /u/。"
     },
     {
       "number": "🟤 棕色；棕色的",
       "word": "brown",
       "ipa": "/braʊn/",
-      "graphemes": ["b","r","ow","n"],
-      "phonemes": ["/b","r","aʊ","n/"],
-      "phonics": ["/b","r","ow","n/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "b",
+        "r",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "aʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ow",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "ow 發 /aʊ/。"
     },
     {
       "number": "🎨 顏色",
       "word": "color",
       "ipa": "/ˈkʌlər/",
-      "graphemes": ["c","o","l","or"],
-      "phonemes": ["/'k","ʌ","l","ɚ/"],
-      "phonics": ["/'k","ŭ","l","er/"],
-      "tags": ["irregular"],
-      "hearts": [false,true,false,false],
+      "graphemes": [
+        "c",
+        "o",
+        "l",
+        "or"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʌ",
+        "l",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŭ",
+        "l",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false
+      ],
       "hint": "第一個 o 發短母音 u /ʌ/；or 發 er /ɚ/。"
     },
     {
       "number": "🏅 黃金；金色",
       "word": "gold",
       "ipa": "/ɡoʊld/",
-      "graphemes": ["g","o","l","d"],
-      "phonemes": ["/ɡ","oʊ","l","d/"],
-      "phonics": ["/ɡ","ō","l","d/"],
-      "tags": ["irregular","cluster"],
-      "hearts": [false,true,false,false],
+      "graphemes": [
+        "g",
+        "o",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "oʊ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ō",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false
+      ],
       "hint": "-old 中 o 常發長母音 o /oʊ/。"
     },
-        {
+    {
       "number": "🏅 金色的",
       "word": "golden",
       "ipa": "/ɡoʊldən/",
-      "graphemes": ["g","o","l","d","e","n"],
-      "phonemes": ["/ɡ","oʊ","l","d","ə","n/"],
-      "phonics": ["/ɡ","ō","l","d","ə","n/"],
-      "tags": ["irregular","cluster"],
-      "hearts": [false,true,false,false],
+      "graphemes": [
+        "g",
+        "o",
+        "l",
+        "d",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "oʊ",
+        "l",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ō",
+        "l",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        true,
+        false,
+        false
+      ],
       "hint": "-old 中 o 常發長母音 o /oʊ/。"
     },
     {
       "number": "🩶 灰色；灰色的",
       "word": "gray",
       "ipa": "/ɡreɪ/",
-      "graphemes": ["g","r","ay"],
-      "phonemes": ["/ɡ","r","eɪ/"],
-      "phonics": ["/ɡ","r","ā/"],
-      "tags": ["cluster","open"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "g",
+        "r",
+        "ay"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ā/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "ay 發長母音 a /eɪ/。"
     },
     {
       "number": "🟢 綠色；綠色的",
       "word": "green",
       "ipa": "/ɡrin/",
-      "graphemes": ["g","r","ee","n"],
-      "phonemes": ["/ɡ","r","i","n/"],
-      "phonics": ["/ɡ","r","ē","n/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "g",
+        "r",
+        "ee",
+        "n"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "i",
+        "n/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ē",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "ee 發長母音 e /i/。"
     },
     {
       "number": "🍊 橘子；橘色；橘色的",
       "word": "orange",
       "ipa": "/ˈɔrɪndʒ/",
-      "graphemes": ["o","r","a","n","ge"],
-      "phonemes": ["/'ɔ","r","ɪ","n","dʒ/"],
-      "phonics": ["/'aw","r","ĭ","n","-j/"],
-      "tags": ["irregular","digraph"],
-      "hearts": [false,false,true,false,false],
+      "graphemes": [
+        "or",
+        "a",
+        "n",
+        "ge"
+      ],
+      "phonemes": [
+        "/'ɔr",
+        "ɪ",
+        "n",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'or",
+        "ĭ",
+        "n",
+        "-j/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        true,
+        false,
+        false
+      ],
       "hint": "o 發 aw /ɔ/；a 發短母音 i /ɪ/；ge 發 j /dʒ/。"
     },
     {
       "number": "💗 粉紅色；粉紅色的",
       "word": "pink",
       "ipa": "/pɪŋk/",
-      "graphemes": ["p","i","n","k"],
-      "phonemes": ["/p","ɪ","ŋ","k/"],
-      "phonics": ["/p","ĭ","ŋ","k/"],
-      "tags": ["cvc","cluster"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "p",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/p",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/p",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "i 發短母音 i /ɪ/；nk 發 /ŋk/。"
     },
     {
       "number": "🟣 紫色；紫色的",
       "word": "purple",
       "ipa": "/ˈpɝpəl/",
-      "graphemes": ["p","ur","p","le"],
-      "phonemes": ["/'p","ɝ","p","əl/"],
-      "phonics": ["/'p","er","p","əl/"],
-      "tags": ["rcontrolled","cle"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "p",
+        "ur",
+        "p",
+        "le"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɝ",
+        "p",
+        "əl/"
+      ],
+      "phonics": [
+        "/'p",
+        "er",
+        "p",
+        "əl/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "cle"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "ur 發 er /ɝ/。"
     },
     {
       "number": "🔴 紅色；紅色的",
       "word": "red",
       "ipa": "/rɛd/",
-      "graphemes": ["r","e","d"],
-      "phonemes": ["/r","ɛ","d/"],
-      "phonics": ["/r","ĕ","d/"],
-      "tags": ["cvc"],
-      "hearts": [false,false,false],
+      "graphemes": [
+        "r",
+        "e",
+        "d"
+      ],
+      "phonemes": [
+        "/r",
+        "ɛ",
+        "d/"
+      ],
+      "phonics": [
+        "/r",
+        "ĕ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        false,
+        false,
+        false
+      ],
       "hint": "e 發短母音 e /ɛ/。"
     },
     {
       "number": "🥈 銀；銀色；銀色的",
       "word": "silver",
       "ipa": "/ˈsɪlvɚ/",
-      "graphemes": ["s","i","l","v","er"],
-      "phonemes": ["/'s","ɪ","l","v","ɚ/"],
-      "phonics": ["/'s","ĭ","l","v","er/"],
-      "tags": ["closed"],
-      "hearts": [false,false,false,false,false],
+      "graphemes": [
+        "s",
+        "i",
+        "l",
+        "v",
+        "er"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɪ",
+        "l",
+        "v",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĭ",
+        "l",
+        "v",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "i 發短母音 i /ɪ/；er 發 /ɚ/。"
     },
     {
       "number": "⚪ 白色；白色的",
       "word": "white",
       "ipa": "/waɪt/",
-      "graphemes": ["wh","i","t","e"],
-      "phonemes": ["/w","aɪ","t","-/"],
-      "phonics": ["/w","ī","t","-/"],
-      "tags": ["digraph","magic_e"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "wh",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "aɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ī",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "wh 發 /w/；i_e：i 發長母音 i /aɪ/。"
     },
     {
       "number": "🟡 黃色；黃色的",
       "word": "yellow",
       "ipa": "/ˈjɛloʊ/",
-      "graphemes": ["y","e","ll","ow"],
-      "phonemes": ["/'j","ɛ","l","oʊ/"],
-      "phonics": ["/'y","ĕ","l","ō/"],
-      "tags": ["closed"],
-      "hearts": [false,false,false,false],
+      "graphemes": [
+        "y",
+        "e",
+        "ll",
+        "ow"
+      ],
+      "phonemes": [
+        "/'j",
+        "ɛ",
+        "l",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'y",
+        "ĕ",
+        "l",
+        "ō/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        false,
+        false,
+        false,
+        false
+      ],
       "hint": "e 發短母音 e /ɛ/；ll 重複字母；ow 發長母音 o /oʊ/。"
     }
   ]

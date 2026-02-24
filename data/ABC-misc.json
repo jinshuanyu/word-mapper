@@ -1,0 +1,1024 @@
+{
+  "items": [
+    {
+      "number": "咬(原形)",
+      "word": "bite",
+      "ipa": "/baɪt/",
+      "graphemes": [
+        "b",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "aɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "ī",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i-e 發長音 ī;e 不發音"
+    },
+    {
+      "number": "咬(過去式)",
+      "word": "bit",
+      "ipa": "/bɪt/",
+      "graphemes": [
+        "b",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ"
+    },
+    {
+      "number": "咬(過去分詞)",
+      "word": "bitten",
+      "ipa": "/ˈbɪtən/",
+      "graphemes": [
+        "b",
+        "i",
+        "tt",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɪ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'b",
+        "ĭ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;e 發 schwa"
+    },
+    {
+      "number": "隱藏(原形)",
+      "word": "hide",
+      "ipa": "/haɪd/",
+      "graphemes": [
+        "h",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/h",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/h",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i-e 發長音 ī;e 不發音"
+    },
+    {
+      "number": "隱藏(過去式)",
+      "word": "hid",
+      "ipa": "/hɪd/",
+      "graphemes": [
+        "h",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/h",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/h",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ"
+    },
+    {
+      "number": "隱藏(過去分詞)",
+      "word": "hidden",
+      "ipa": "/ˈhɪdən/",
+      "graphemes": [
+        "h",
+        "i",
+        "dd",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɪ",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĭ",
+        "d",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;e 發 schwa"
+    },
+    {
+      "number": "忘記(原形)",
+      "word": "forget",
+      "ipa": "/fɚˈɡɛt/",
+      "graphemes": [
+        "f",
+        "or",
+        "g",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'ɡ",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'ɡ",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 er;第二音節 e 發短音 ĕ"
+    },
+    {
+      "number": "忘記(過去式)",
+      "word": "forgot",
+      "ipa": "/fɚˈɡɑt/",
+      "graphemes": [
+        "f",
+        "or",
+        "g",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'ɡ",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'ɡ",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "第一個 or 發 er;第二個 o 發 ŏ"
+    },
+    {
+      "number": "忘記(過去分詞)",
+      "word": "forgotten",
+      "ipa": "/fɚˈɡɑtən/",
+      "graphemes": [
+        "f",
+        "or",
+        "g",
+        "o",
+        "tt",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'ɡ",
+        "ɑ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'ɡ",
+        "ŏ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 er;第二個 o 發 ŏ;e 發 schwa"
+    },
+    {
+      "number": "得到(原形)",
+      "word": "get",
+      "ipa": "/ɡɛt/",
+      "graphemes": [
+        "g",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發短音 ĕ"
+    },
+    {
+      "number": "得到(過去式)",
+      "word": "got",
+      "ipa": "/ɡɑt/",
+      "graphemes": [
+        "g",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發短音 ŏ"
+    },
+    {
+      "number": "得到(過去分詞)",
+      "word": "gotten",
+      "ipa": "/ˈɡɑtən/",
+      "graphemes": [
+        "g",
+        "o",
+        "tt",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "ɑ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "ŏ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發短音 ŏ;e 發 schwa"
+    },
+    {
+      "number": "做(原形)",
+      "word": "do",
+      "ipa": "/du/",
+      "graphemes": [
+        "d",
+        "o"
+      ],
+      "phonemes": [
+        "/d",
+        "u/"
+      ],
+      "phonics": [
+        "/d",
+        "ū/"
+      ],
+      "tags": [
+        "irregular",
+        "open"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
+      "hint": "o 發 ū(不規則)"
+    },
+    {
+      "number": "做(過去式)",
+      "word": "did",
+      "ipa": "/dɪd/",
+      "graphemes": [
+        "d",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ"
+    },
+    {
+      "number": "做(過去分詞)",
+      "word": "done",
+      "ipa": "/dʌn/",
+      "graphemes": [
+        "d",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/d",
+        "ʌ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/d",
+        "ŭ",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "o 發短音 ŭ(不規則);e 不發音"
+    },
+    {
+      "number": "吃(原形)",
+      "word": "eat",
+      "ipa": "/it/",
+      "graphemes": [
+        "ea",
+        "t"
+      ],
+      "phonemes": [
+        "/i",
+        "t/"
+      ],
+      "phonics": [
+        "/ē",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ea 發長音 ē"
+    },
+    {
+      "number": "吃(過去式)",
+      "word": "ate",
+      "ipa": "/eɪt/",
+      "graphemes": [
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "a-e 發長音 ā;e 不發音"
+    },
+    {
+      "number": "吃(過去分詞)",
+      "word": "eaten",
+      "ipa": "/ˈitən/",
+      "graphemes": [
+        "ea",
+        "t",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'i",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ē",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發長音 ē;e 發 schwa"
+    },
+    {
+      "number": "落下(原形)",
+      "word": "fall",
+      "ipa": "/fɔl/",
+      "graphemes": [
+        "f",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/f",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/f",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "a 發 aw(不規則);ll 在單音節詞尾"
+    },
+    {
+      "number": "落下(過去式)",
+      "word": "fell",
+      "ipa": "/fɛl/",
+      "graphemes": [
+        "f",
+        "e",
+        "ll"
+      ],
+      "phonemes": [
+        "/f",
+        "ɛ",
+        "l/"
+      ],
+      "phonics": [
+        "/f",
+        "ĕ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發短音 ĕ;ll 在單音節詞尾"
+    },
+    {
+      "number": "落下(過去分詞)",
+      "word": "fallen",
+      "ipa": "/ˈfɔlən/",
+      "graphemes": [
+        "f",
+        "a",
+        "ll",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɔ",
+        "l",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'f",
+        "aw",
+        "l",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "a 發 aw(不規則);e 發 schwa"
+    },
+    {
+      "number": "去(原形)",
+      "word": "go",
+      "ipa": "/ɡoʊ/",
+      "graphemes": [
+        "g",
+        "o"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ō/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "o 發長音 ō(開音節)"
+    },
+    {
+      "number": "去(過去式)",
+      "word": "went",
+      "ipa": "/wɛnt/",
+      "graphemes": [
+        "w",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/w",
+        "ɛ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "ĕ",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發短音 ĕ"
+    },
+    {
+      "number": "去(過去分詞)",
+      "word": "gone",
+      "ipa": "/ɡɔn/",
+      "graphemes": [
+        "g",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɔ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "aw",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "o 發 aw(不規則);e 不發音"
+    },
+    {
+      "number": "躺(原形)",
+      "word": "lie",
+      "ipa": "/laɪ/",
+      "graphemes": [
+        "l",
+        "ie"
+      ],
+      "phonemes": [
+        "/l",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/l",
+        "ī/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "i-e 發長音 ī;e 不發音"
+    },
+    {
+      "number": "躺(過去式)",
+      "word": "lay",
+      "ipa": "/leɪ/",
+      "graphemes": [
+        "l",
+        "ay"
+      ],
+      "phonemes": [
+        "/l",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/l",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ay 發長音 ā"
+    },
+    {
+      "number": "躺(過去分詞)",
+      "word": "lain",
+      "ipa": "/leɪn/",
+      "graphemes": [
+        "l",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/l",
+        "eɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/l",
+        "ā",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ai 發長音 ā"
+    },
+    {
+      "number": "看見(原形)",
+      "word": "see",
+      "ipa": "/si/",
+      "graphemes": [
+        "s",
+        "ee"
+      ],
+      "phonemes": [
+        "/s",
+        "i/"
+      ],
+      "phonics": [
+        "/s",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ee 發長音 ē"
+    },
+    {
+      "number": "看見(過去式)",
+      "word": "saw",
+      "ipa": "/sɔ/",
+      "graphemes": [
+        "s",
+        "aw"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔ/"
+      ],
+      "phonics": [
+        "/s",
+        "aw/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "aw 發 aw"
+    },
+    {
+      "number": "看見(過去分詞)",
+      "word": "seen",
+      "ipa": "/sin/",
+      "graphemes": [
+        "s",
+        "ee",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "i",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "ē",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ee 發長音 ē"
+    },
+    {
+      "number": "展示(原形)",
+      "word": "show",
+      "ipa": "/ʃoʊ/",
+      "graphemes": [
+        "sh",
+        "ow"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/sh",
+        "ō/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "sh 是 digraph;ow 發長音 ō"
+    },
+    {
+      "number": "展示(過去式)",
+      "word": "showed",
+      "ipa": "/ʃoʊd/",
+      "graphemes": [
+        "sh",
+        "ow",
+        "ed"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "oʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/sh",
+        "ō",
+        "d/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "sh 是 digraph;ow 發長音 ō;e 不發音"
+    },
+    {
+      "number": "展示(過去分詞)",
+      "word": "shown",
+      "ipa": "/ʃoʊn/",
+      "graphemes": [
+        "sh",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "oʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/sh",
+        "ō",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "sh 是 digraph;ow 發長音 ō"
+    }
+  ]
+}

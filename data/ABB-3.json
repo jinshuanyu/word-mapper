@@ -4,264 +4,824 @@
       "number": "射擊(原形)",
       "word": "shoot",
       "ipa": "/ʃut/",
-      "graphemes": ["sh", "oo", "t"],
-      "phonemes": ["/ʃ", "u", "t/"],
-      "phonics": ["/sh", "ū", "t/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "sh",
+        "oo",
+        "t"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "u",
+        "t/"
+      ],
+      "phonics": [
+        "/sh",
+        "ū",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sh 是 digraph;oo 發 ū"
     },
     {
       "number": "射擊(過去式/過去分詞)",
       "word": "shot",
       "ipa": "/ʃɑt/",
-      "graphemes": ["sh", "o", "t"],
-      "phonemes": ["/ʃ", "ɑ", "t/"],
-      "phonics": ["/sh", "ŏ", "t/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "sh",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/sh",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sh 是 digraph;o 發 ŏ"
     },
     {
       "number": "坐(原形)",
       "word": "sit",
       "ipa": "/sɪt/",
-      "graphemes": ["s", "i", "t"],
-      "phonemes": ["/s", "ɪ", "t/"],
-      "phonics": ["/s", "ĭ", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "i 發短音 ĭ"
     },
     {
       "number": "坐(過去式/過去分詞)",
       "word": "sat",
       "ipa": "/sæt/",
-      "graphemes": ["s", "a", "t"],
-      "phonemes": ["/s", "æ", "t/"],
-      "phonics": ["/s", "ă", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "a",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "æ",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "ă",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短音 ă"
     },
     {
       "number": "睡覺(原形)",
       "word": "sleep",
       "ipa": "/slip/",
-      "graphemes": ["s","l", "ee", "p"],
-      "phonemes": ["/s","l", "i", "p/"],
-      "phonics": ["/s","l", "ē", "p/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "l",
+        "ee",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "l",
+        "i",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "l",
+        "ē",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sl 是 cluster;ee 發長音 ē"
     },
     {
       "number": "睡覺(過去式/過去分詞)",
       "word": "slept",
       "ipa": "/slɛpt/",
-      "graphemes": ["s","l", "e", "p", "t"],
-      "phonemes": ["/s","l", "ɛ", "p", "t/"],
-      "phonics": ["/s","l", "ĕ", "p", "t/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "l",
+        "e",
+        "p",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "l",
+        "ɛ",
+        "p",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "l",
+        "ĕ",
+        "p",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sl 是 cluster;e 發短音 ĕ"
     },
     {
       "number": "聞(原形)",
       "word": "smell",
       "ipa": "/smɛl/",
-      "graphemes": ["s","m", "e", "ll"],
-      "phonemes": ["/s","m", "ɛ", "l/"],
-      "phonics": ["/s","m", "ĕ", "l/"],
-      "tags": ["closed", "cluster", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "m",
+        "e",
+        "ll"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "ɛ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ĕ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sm 是 cluster;e 發短音 ĕ;ll 在單音節詞尾"
     },
     {
       "number": "聞(過去式/過去分詞)",
       "word": "smelt",
       "ipa": "/smɛlt/",
-      "graphemes": ["s","m", "e", "l", "t"],
-      "phonemes": ["/s","m", "ɛ", "l", "t/"],
-      "phonics": ["/s","m", "ĕ", "l", "t/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "m",
+        "e",
+        "l",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "ɛ",
+        "l",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ĕ",
+        "l",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sm 是 cluster;e 發短音 ĕ"
     },
     {
       "number": "花費(原形)",
       "word": "spend",
       "ipa": "/spɛnd/",
-      "graphemes": ["s","p", "e", "n", "d"],
-      "phonemes": ["/s","p", "ɛ", "n", "d/"],
-      "phonics": ["/s","p", "ĕ", "n", "d/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "p",
+        "e",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ɛ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ĕ",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sp 是 cluster;e 發短音 ĕ"
     },
     {
       "number": "花費(過去式/過去分詞)",
       "word": "spent",
       "ipa": "/spɛnt/",
-      "graphemes": ["s","p", "e", "n", "t"],
-      "phonemes": ["/s","p", "ɛ", "n", "t/"],
-      "phonics": ["/s","p", "ĕ", "n", "t/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "p",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ɛ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ĕ",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sp 是 cluster;e 發短音 ĕ"
     },
     {
       "number": "站立(原形)",
       "word": "stand",
       "ipa": "/stænd/",
-      "graphemes": ["s","t", "a", "n", "d"],
-      "phonemes": ["/s","y", "æ", "n", "d/"],
-      "phonics": ["/s","t", "ă", "n", "d/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "y",
+        "æ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ă",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "st 是 cluster;a 發短音 ă"
     },
     {
       "number": "站立(過去式/過去分詞)",
       "word": "stood",
       "ipa": "/stʊd/",
-      "graphemes": ["s","t", "oo", "d"],
-      "phonemes": ["/s","t", "ʊ", "d/"],
-      "phonics": ["/s","t", "oo", "d/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "oo",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "st 是 cluster;oo 發 oo"
     },
     {
       "number": "打擊(原形)",
       "word": "strike",
       "ipa": "/straɪk/",
-      "graphemes": ["s","t","r", "i", "k", "e"],
-      "phonemes": ["/s","t","r", "aɪ", "k", "-/"],
-      "phonics": ["/s","t","r", "ī", "k", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "i",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "aɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ī",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "str 是 cluster;i-e 發長音 ī;e 不發音"
     },
     {
       "number": "打擊(過去式/過去分詞)",
       "word": "struck",
       "ipa": "/strʌk/",
-      "graphemes": ["s","t","r", "u", "ck"],
-      "phonemes": ["/s","t","r", "ʌ", "k/"],
-      "phonics": ["/s","t","r", "ŭ", "k/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "u",
+        "ck"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "ʌ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ŭ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "str 是 cluster;u 發短音 ŭ;ck 拼 k 音"
     },
     {
       "number": "教(原形)",
       "word": "teach",
       "ipa": "/titʃ/",
-      "graphemes": ["t", "ea", "ch"],
-      "phonemes": ["/t", "i", "tʃ/"],
-      "phonics": ["/t", "ē", "ch/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "t",
+        "ea",
+        "ch"
+      ],
+      "phonemes": [
+        "/t",
+        "i",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/t",
+        "ē",
+        "ch/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發長音 ē;ch 是 digraph"
     },
     {
       "number": "教(過去式/過去分詞)",
       "word": "taught",
       "ipa": "/tɔt/",
-      "graphemes": ["t", "augh", "t"],
-      "phonemes": ["/t", "ɔ", "t/"],
-      "phonics": ["/t", "aw", "t/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "t",
+        "augh",
+        "t"
+      ],
+      "phonemes": [
+        "/t",
+        "ɔ",
+        "t/"
+      ],
+      "phonics": [
+        "/t",
+        "aw",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "augh 發 aw(不規則拼法)"
     },
     {
       "number": "告訴(原形)",
       "word": "tell",
       "ipa": "/tɛl/",
-      "graphemes": ["t", "e", "ll"],
-      "phonemes": ["/t", "ɛ", "l/"],
-      "phonics": ["/t", "ĕ", "l/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "t",
+        "e",
+        "ll"
+      ],
+      "phonemes": [
+        "/t",
+        "ɛ",
+        "l/"
+      ],
+      "phonics": [
+        "/t",
+        "ĕ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "e 發短音 ĕ;ll 在單音節詞尾"
     },
     {
       "number": "告訴(過去式/過去分詞)",
       "word": "told",
       "ipa": "/toʊld/",
-      "graphemes": ["t", "o", "l", "d"],
-      "phonemes": ["/t", "oʊ", "l", "d/"],
-      "phonics": ["/t", "ō", "l", "d/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "o",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/t",
+        "oʊ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/t",
+        "ō",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 發長音 ō"
     },
     {
       "number": "想(原形)",
       "word": "think",
       "ipa": "/θɪŋk/",
-      "graphemes": ["th", "i", "n", "k"],
-      "phonemes": ["/θ", "ɪ", "ŋ", "k/"],
-      "phonics": ["/th", "ĭ", "ŋ", "k/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "th",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/θ",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/th",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "th 是 digraph;i 發短音 ĭ;nk 發 ng+k"
     },
     {
       "number": "想(過去式/過去分詞)",
       "word": "thought",
       "ipa": "/θɔt/",
-      "graphemes": ["th", "ough", "t"],
-      "phonemes": ["/θ", "ɔ", "t/"],
-      "phonics": ["/th", "aw", "t/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "th",
+        "ough",
+        "t"
+      ],
+      "phonemes": [
+        "/θ",
+        "ɔ",
+        "t/"
+      ],
+      "phonics": [
+        "/th",
+        "aw",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "th 是 digraph;ough 發 aw(不規則拼法)"
     },
     {
       "number": "理解(原形)",
       "word": "understand",
       "ipa": "/ʌndərstænd/",
-      "graphemes": ["u", "n", "d", "er", "s","t", "a", "n", "d"],
-      "phonemes": ["/ʌ", "n", "d", "ɚ", "s","t", "æ", "n", "d/"],
-      "phonics": ["/ŭ", "n", "d", "er", "s","t", "ă", "n", "d/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "u",
+        "n",
+        "d",
+        "er",
+        "s",
+        "t",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/ʌ",
+        "n",
+        "d",
+        "ɚ",
+        "s",
+        "t",
+        "æ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/ŭ",
+        "n",
+        "d",
+        "er",
+        "s",
+        "t",
+        "ă",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一音節 u 發 ŭ;er 發 ər;st 是 cluster;a 發短音 ă"
     },
     {
       "number": "理解(過去式/過去分詞)",
       "word": "understood",
       "ipa": "/ʌndərstʊd/",
-      "graphemes": ["u", "n", "d", "er", "s","t", "oo", "d"],
-      "phonemes": ["/ʌ", "n", "d", "ɚ", "s","t", "ʊ", "d/"],
-      "phonics": ["/ŭ", "n", "d", "er", "s","t", "oo", "d/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "u",
+        "n",
+        "d",
+        "er",
+        "s",
+        "t",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/ʌ",
+        "n",
+        "d",
+        "ɚ",
+        "s",
+        "t",
+        "ʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/ŭ",
+        "n",
+        "d",
+        "er",
+        "s",
+        "t",
+        "oo",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一音節 u 發 ŭ;er 發 ər;st 是 cluster;oo 發 oo"
     },
     {
       "number": "贏(原形)",
       "word": "win",
       "ipa": "/wɪn/",
-      "graphemes": ["w", "i", "n"],
-      "phonemes": ["/w", "ɪ", "n/"],
-      "phonics": ["/w", "ĭ", "n/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/w",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/w",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "i 發短音 ĭ"
     },
     {
       "number": "贏(過去式/過去分詞)",
       "word": "won",
       "ipa": "/wʌn/",
-      "graphemes": ["w", "o", "n"],
-      "phonemes": ["/w", "ʌ", "n/"],
-      "phonics": ["/w", "ŭ", "n/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "w",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/w",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/w",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "o 發短音 ŭ"
     }
   ]

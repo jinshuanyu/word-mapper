@@ -1,0 +1,838 @@
+{
+  "items": [
+    {
+      "number": "開始(原形)",
+      "word": "begin",
+      "ipa": "/bɪˈɡɪn/",
+      "graphemes": [
+        "b",
+        "e",
+        "g",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "'ɡ",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "'ɡ",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "兩個音節都是短母音 ĭ"
+    },
+    {
+      "number": "開始(過去式)",
+      "word": "began",
+      "ipa": "/bɪˈɡæn/",
+      "graphemes": [
+        "b",
+        "e",
+        "g",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "'ɡ",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "'ɡ",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "第一音節 e 發 ĭ;第二音節 a 發 ă"
+    },
+    {
+      "number": "開始(過去分詞)",
+      "word": "begun",
+      "ipa": "/bɪˈɡʌn/",
+      "graphemes": [
+        "b",
+        "e",
+        "g",
+        "u",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "'ɡ",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "'ɡ",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發 ĭ;u 發短音 ŭ"
+    },
+    {
+      "number": "喝(原形)",
+      "word": "drink",
+      "ipa": "/drɪŋk/",
+      "graphemes": [
+        "d",
+        "r",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;i 發短音 ĭ;nk 發 ng+k"
+    },
+    {
+      "number": "喝(過去式)",
+      "word": "drank",
+      "ipa": "/dræŋk/",
+      "graphemes": [
+        "d",
+        "r",
+        "a",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "æ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ă",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;a 發短音 ă;nk 發 ng+k"
+    },
+    {
+      "number": "喝(過去分詞)",
+      "word": "drunk",
+      "ipa": "/drʌŋk/",
+      "graphemes": [
+        "d",
+        "r",
+        "u",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ʌ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ŭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;u 發短音 ŭ;nk 發 ng+k"
+    },
+    {
+      "number": "響鈴(原形)",
+      "word": "ring",
+      "ipa": "/rɪŋ/",
+      "graphemes": [
+        "r",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;ng 發 ŋ"
+    },
+    {
+      "number": "響鈴(過去式)",
+      "word": "rang",
+      "ipa": "/ræŋ/",
+      "graphemes": [
+        "r",
+        "a",
+        "ng"
+      ],
+      "phonemes": [
+        "/r",
+        "æ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/r",
+        "ă",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "a 發短音 ă;ng 發 ŋ"
+    },
+    {
+      "number": "響鈴(過去分詞)",
+      "word": "rung",
+      "ipa": "/rʌŋ/",
+      "graphemes": [
+        "r",
+        "u",
+        "ng"
+      ],
+      "phonemes": [
+        "/r",
+        "ʌ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/r",
+        "ŭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短音 ŭ;ng 發 ŋ"
+    },
+    {
+      "number": "唱歌(原形)",
+      "word": "sing",
+      "ipa": "/sɪŋ/",
+      "graphemes": [
+        "s",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;ng 發 ŋ"
+    },
+    {
+      "number": "唱歌(過去式)",
+      "word": "sang",
+      "ipa": "/sæŋ/",
+      "graphemes": [
+        "s",
+        "a",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "æ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "ă",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "a 發短音 ă;ng 發 ŋ"
+    },
+    {
+      "number": "唱歌(過去分詞)",
+      "word": "sung",
+      "ipa": "/sʌŋ/",
+      "graphemes": [
+        "s",
+        "u",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "ʌ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "ŭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短音 ŭ;ng 發 ŋ"
+    },
+    {
+      "number": "游泳(原形)",
+      "word": "swim",
+      "ipa": "/swɪm/",
+      "graphemes": [
+        "s",
+        "w",
+        "i",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɪ",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ĭ",
+        "m/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 是 cluster;i 發短音 ĭ"
+    },
+    {
+      "number": "游泳(過去式)",
+      "word": "swam",
+      "ipa": "/swæm/",
+      "graphemes": [
+        "s",
+        "w",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 是 cluster;a 發短音 ă"
+    },
+    {
+      "number": "游泳(過去分詞)",
+      "word": "swum",
+      "ipa": "/swʌm/",
+      "graphemes": [
+        "s",
+        "w",
+        "u",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ʌ",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ŭ",
+        "m/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 是 cluster;u 發短音 ŭ"
+    },
+    {
+      "number": "下沉(原形)",
+      "word": "sink",
+      "ipa": "/sɪŋk/",
+      "graphemes": [
+        "s",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短音 ĭ;nk 發 ng+k"
+    },
+    {
+      "number": "下沉(過去式)",
+      "word": "sank",
+      "ipa": "/sæŋk/",
+      "graphemes": [
+        "s",
+        "a",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "æ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "ă",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a 發短音 ă;nk 發 ng+k"
+    },
+    {
+      "number": "下沉(過去分詞)",
+      "word": "sunk",
+      "ipa": "/sʌŋk/",
+      "graphemes": [
+        "s",
+        "u",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "ʌ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "ŭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短音 ŭ;nk 發 ng+k"
+    },
+    {
+      "number": "跳起(原形)",
+      "word": "spring",
+      "ipa": "/sprɪŋ/",
+      "graphemes": [
+        "s",
+        "p",
+        "r",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "r",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "r",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "spr 是 cluster;i 發短音 ĭ;ng 發 ŋ"
+    },
+    {
+      "number": "跳起(過去式)",
+      "word": "sprang",
+      "ipa": "/spræŋ/",
+      "graphemes": [
+        "s",
+        "p",
+        "r",
+        "a",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "r",
+        "æ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "r",
+        "ă",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "spr 是 cluster;a 發短音 ă;ng 發 ŋ"
+    },
+    {
+      "number": "跳起(過去分詞)",
+      "word": "sprung",
+      "ipa": "/sprʌŋ/",
+      "graphemes": [
+        "s",
+        "p",
+        "r",
+        "u",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "r",
+        "ʌ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "r",
+        "ŭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "spr 是 cluster;u 發短音 ŭ;ng 發 ŋ"
+    },
+    {
+      "number": "發臭(原形)",
+      "word": "stink",
+      "ipa": "/stɪŋk/",
+      "graphemes": [
+        "s",
+        "t",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 是 cluster;i 發短音 ĭ;nk 發 ng+k"
+    },
+    {
+      "number": "發臭(過去式)",
+      "word": "stank",
+      "ipa": "/stæŋk/",
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "æ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ă",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 是 cluster;a 發短音 ă;nk 發 ng+k"
+    },
+    {
+      "number": "發臭(過去分詞)",
+      "word": "stunk",
+      "ipa": "/stʌŋk/",
+      "graphemes": [
+        "s",
+        "t",
+        "u",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ʌ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ŭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 是 cluster;u 發短音 ŭ;nk 發 ng+k"
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "items": [
+    {
+      "number": "吹(原形)",
+      "word": "blow",
+      "ipa": "/bloʊ/",
+      "graphemes": [
+        "b",
+        "l",
+        "ow"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "bl 是 cluster;ow 發長音 ō"
+    },
+    {
+      "number": "吹(過去式)",
+      "word": "blew",
+      "ipa": "/blu/",
+      "graphemes": [
+        "b",
+        "l",
+        "ew"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "u/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "bl 是 cluster;ew 發 ū"
+    },
+    {
+      "number": "吹(過去分詞)",
+      "word": "blown",
+      "ipa": "/bloʊn/",
+      "graphemes": [
+        "b",
+        "l",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "oʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ō",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "bl 是 cluster;ow 發長音 ō"
+    },
+    {
+      "number": "畫(原形)",
+      "word": "draw",
+      "ipa": "/drɔ/",
+      "graphemes": [
+        "d",
+        "r",
+        "aw"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ɔ/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "aw/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;aw 發 aw"
+    },
+    {
+      "number": "畫(過去式)",
+      "word": "drew",
+      "ipa": "/dru/",
+      "graphemes": [
+        "d",
+        "r",
+        "ew"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "u/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;ew 發 ū"
+    },
+    {
+      "number": "畫(過去分詞)",
+      "word": "drawn",
+      "ipa": "/drɔn/",
+      "graphemes": [
+        "d",
+        "r",
+        "aw",
+        "n"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ɔ",
+        "n/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "aw",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 是 cluster;aw 發 aw"
+    },
+    {
+      "number": "飛(原形)",
+      "word": "fly",
+      "ipa": "/flaɪ/",
+      "graphemes": [
+        "f",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ī/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 是 cluster;y 發長音 ī(開音節)"
+    },
+    {
+      "number": "飛(過去式)",
+      "word": "flew",
+      "ipa": "/flu/",
+      "graphemes": [
+        "f",
+        "l",
+        "ew"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "u/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 是 cluster;ew 發 ū"
+    },
+    {
+      "number": "飛(過去分詞)",
+      "word": "flown",
+      "ipa": "/floʊn/",
+      "graphemes": [
+        "f",
+        "l",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "oʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ō",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 是 cluster;ow 發長音 ō"
+    },
+    {
+      "number": "成長(原形)",
+      "word": "grow",
+      "ipa": "/ɡroʊ/",
+      "graphemes": [
+        "g",
+        "r",
+        "ow"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "gr 是 cluster;ow 發長音 ō"
+    },
+    {
+      "number": "成長(過去式)",
+      "word": "grew",
+      "ipa": "/ɡru/",
+      "graphemes": [
+        "g",
+        "r",
+        "ew"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "u/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "gr 是 cluster;ew 發 ū"
+    },
+    {
+      "number": "成長(過去分詞)",
+      "word": "grown",
+      "ipa": "/ɡroʊn/",
+      "graphemes": [
+        "g",
+        "r",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "oʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ō",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "gr 是 cluster;ow 發長音 ō"
+    },
+    {
+      "number": "知道(原形)",
+      "word": "know",
+      "ipa": "/noʊ/",
+      "graphemes": [
+        "k",
+        "n",
+        "ow"
+      ],
+      "phonemes": [
+        "/-",
+        "n",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/-",
+        "n",
+        "ō/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "vowel_team"
+      ],
+      "hearts": [
+        1,
+        0,
+        0
+      ],
+      "hint": "k 不發音;ow 發長音 ō"
+    },
+    {
+      "number": "知道(過去式)",
+      "word": "knew",
+      "ipa": "/nu/",
+      "graphemes": [
+        "k",
+        "n",
+        "ew"
+      ],
+      "phonemes": [
+        "/-",
+        "n",
+        "u/"
+      ],
+      "phonics": [
+        "/-",
+        "n",
+        "ū/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "vowel_team"
+      ],
+      "hearts": [
+        1,
+        0,
+        0
+      ],
+      "hint": "k 不發音;ew 發 ū"
+    },
+    {
+      "number": "知道(過去分詞)",
+      "word": "known",
+      "ipa": "/noʊn/",
+      "graphemes": [
+        "k",
+        "n",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/-",
+        "n",
+        "oʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/-",
+        "n",
+        "ō",
+        "n/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "vowel_team"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "k 不發音;ow 發長音 ō"
+    },
+    {
+      "number": "丟(原形)",
+      "word": "throw",
+      "ipa": "/θroʊ/",
+      "graphemes": [
+        "th",
+        "r",
+        "ow"
+      ],
+      "phonemes": [
+        "/θ",
+        "r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/th",
+        "r",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "thr 是 cluster(th+r);ow 發長音 ō"
+    },
+    {
+      "number": "丟(過去式)",
+      "word": "threw",
+      "ipa": "/θru/",
+      "graphemes": [
+        "th",
+        "r",
+        "ew"
+      ],
+      "phonemes": [
+        "/θ",
+        "r",
+        "u/"
+      ],
+      "phonics": [
+        "/th",
+        "r",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "thr 是 cluster(th+r);ew 發 ū"
+    },
+    {
+      "number": "丟(過去分詞)",
+      "word": "thrown",
+      "ipa": "/θroʊn/",
+      "graphemes": [
+        "th",
+        "r",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/θ",
+        "r",
+        "oʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/th",
+        "r",
+        "ō",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "thr 是 cluster(th+r);ow 發長音 ō"
+    }
+  ]
+}

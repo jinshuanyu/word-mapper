@@ -5,321 +5,948 @@
       "number": "🐘 大的",
       "word": "big",
       "ipa": "/bɪɡ/",
-      "graphemes": ["b", "i", "g"],
-      "phonemes": ["/b", "ɪ", "ɡ/"],
-      "phonics": ["/b", "ĭ", "ɡ/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "b",
+        "i",
+        "g"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "ɡ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "i 發短母音 /ĭ/。"
     },
     {
       "number": "🌊 深的",
       "word": "deep",
       "ipa": "/dip/",
-      "graphemes": ["d", "ee", "p"],
-      "phonemes": ["/d", "i", "p/"],
-      "phonics": ["/d", "ē", "p/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "d",
+        "ee",
+        "p"
+      ],
+      "phonemes": [
+        "/d",
+        "i",
+        "p/"
+      ],
+      "phonics": [
+        "/d",
+        "ē",
+        "p/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發長母音 /ē/。"
     },
     {
       "number": "🔭 遙遠的",
       "word": "distant",
       "ipa": "/ˈdɪstənt/",
-      "graphemes": ["d", "i", "s", "t", "a", "n", "t"],
-      "phonemes": ["/'d", "ɪ", "s", "t", "ə", "n", "t/"],
-      "phonics": ["/'d", "ĭ", "s", "t", "ə", "n", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "s",
+        "t",
+        "a",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "s",
+        "t",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發弱化音 /ə/。"
     },
     {
       "number": "➕ 額外的",
       "word": "extra",
       "ipa": "/ˈɛkstrə/",
-      "graphemes": ["e", "x", "t", "r", "a"],
-      "phonemes": ["/'ɛ", "ks", "t", "r", "ə/"],
-      "phonics": ["/'ĕ", "ks", "t", "r", "ə/"],
-      "tags": ["closed","cluster"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "t",
+        "r",
+        "a"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "ks",
+        "t",
+        "r",
+        "ə/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "ks",
+        "t",
+        "r",
+        "ə/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "x 發 /ks/，字尾 a 發弱化音。"
     },
     {
       "number": "🛤️ 遠的",
       "word": "far",
       "ipa": "/fɑr/",
-      "graphemes": ["f", "ar"],
-      "phonemes": ["/f", "ɑr/"],
-      "phonics": ["/f", "ɑr/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "f",
+        "ar"
+      ],
+      "phonemes": [
+        "/f",
+        "ɑr/"
+      ],
+      "phonics": [
+        "/f",
+        "ɑr/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ar 發 /ar/。"
     },
     {
       "number": "⬆️ 高的",
       "word": "high",
       "ipa": "/haɪ/",
-      "graphemes": ["h", "igh"],
-      "phonemes": ["/h", "aɪ/"],
-      "phonics": ["/h", "ī/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "h",
+        "igh"
+      ],
+      "phonemes": [
+        "/h",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/h",
+        "ī/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "igh 發長母音 /ī/。"
     },
     {
       "number": "🐋 巨大的",
       "word": "large",
       "ipa": "/lɑrdʒ/",
-      "graphemes": ["l", "ar", "ge"],
-      "phonemes": ["/l", "ɑr", "dʒ/"],
-      "phonics": ["/l", "ɑr", "-j/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "ar",
+        "ge"
+      ],
+      "phonemes": [
+        "/l",
+        "ɑr",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/l",
+        "ɑr",
+        "-j/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ar/，ge 發 /j/。"
     },
     {
       "number": "🪶 輕的",
       "word": "light",
       "ipa": "/laɪt/",
-      "graphemes": ["l", "igh", "t"],
-      "phonemes": ["/l", "aɪ", "t/"],
-      "phonics": ["/l", "ī", "t/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "l",
+        "igh",
+        "t"
+      ],
+      "phonemes": [
+        "/l",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/l",
+        "ī",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "igh 發長母音 /ī/。"
     },
     {
       "number": "🤏 小的",
       "word": "little",
-      "ipa": "/ˈlɪtl/",
-      "graphemes": ["l", "i", "tt", "le"],
-      "phonemes": ["/'l", "ɪ", "t", "əl/"],
-      "phonics": ["/'l", "ĭ", "t", "əl/"],
-      "tags": ["closed","cle"],
-      "hearts": [0, 0, 0, 0],
+      "ipa": "/ˈlɪtəl/",
+      "graphemes": [
+        "l",
+        "i",
+        "tt",
+        "le"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɪ",
+        "t",
+        "əl/"
+      ],
+      "phonics": [
+        "/'l",
+        "ĭ",
+        "t",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "le 字尾發 /l/。"
     },
     {
       "number": "📏 長的",
       "word": "long",
       "ipa": "/lɔŋ/",
-      "graphemes": ["l", "o", "ng"],
-      "phonemes": ["/l", "ɔ", "ŋ/"],
-      "phonics": ["/l", "aw", "ŋ/"],
-      "tags": ["digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "l",
+        "o",
+        "ng"
+      ],
+      "phonemes": [
+        "/l",
+        "ɔ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/l",
+        "aw",
+        "ŋ/"
+      ],
+      "tags": [
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ong 發 /awng/。"
     },
     {
       "number": "⬇️ 低的",
       "word": "low",
       "ipa": "/loʊ/",
-      "graphemes": ["l", "ow"],
-      "phonemes": ["/l", "oʊ/"],
-      "phonics": ["/l", "ō/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "l",
+        "ow"
+      ],
+      "phonemes": [
+        "/l",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/l",
+        "ō/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ow 發長母音 /ō/。"
     },
     {
       "number": "🔝 最大值",
       "word": "maximum",
       "ipa": "/ˈmæksəməm/",
-      "graphemes": ["m", "a", "x", "i", "m", "u", "m"],
-      "phonemes": ["/'m", "æ", "ks", "ə", "m", "ə", "m/"],
-      "phonics": ["/'m", "ă", "ks", "ə", "m", "ə", "m/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "x",
+        "i",
+        "m",
+        "u",
+        "m"
+      ],
+      "phonemes": [
+        "/'m",
+        "æ",
+        "ks",
+        "ə",
+        "m",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'m",
+        "ă",
+        "ks",
+        "ə",
+        "m",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "x 發 /ks/，母音弱化。"
     },
     {
       "number": "Ⓜ️ 中等的",
       "word": "medium",
       "ipa": "/ˈmidiəm/",
-      "graphemes": ["m", "e", "d", "i", "u", "m"],
-      "phonemes": ["/'m", "i", "d", "i", "ə", "m/"],
-      "phonics": ["/'m", "ē", "d", "ē", "ə", "m/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "m",
+        "e",
+        "d",
+        "i",
+        "u",
+        "m"
+      ],
+      "phonemes": [
+        "/'m",
+        "i",
+        "d",
+        "i",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'m",
+        "ē",
+        "d",
+        "ē",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "me 發 /mē/。"
     },
     {
       "number": "➖ 減",
       "word": "minus",
       "ipa": "/ˈmaɪnəs/",
-      "graphemes": ["m", "i", "n", "u", "s"],
-      "phonemes": ["/'m", "aɪ", "n", "ə", "s/"],
-      "phonics": ["/'m", "ī", "n", "ə", "s/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "n",
+        "u",
+        "s"
+      ],
+      "phonemes": [
+        "/'m",
+        "aɪ",
+        "n",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'m",
+        "ī",
+        "n",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "mi 是開音節發 /ī/。"
     },
     {
       "number": "🛤️ 狹窄的",
       "word": "narrow",
       "ipa": "/ˈnæroʊ/",
-      "graphemes": ["n", "a", "rr", "ow"],
-      "phonemes": ["/'n", "æ", "r", "oʊ/"],
-      "phonics": ["/'n", "ă", "r", "ō/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "a",
+        "rr",
+        "ow"
+      ],
+      "phonemes": [
+        "/'n",
+        "æ",
+        "r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'n",
+        "ă",
+        "r",
+        "ō/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ow 發長母音 /ō/。"
     },
     {
       "number": "➕ 加",
       "word": "plus",
       "ipa": "/plʌs/",
-      "graphemes": ["p", "l", "u", "s"],
-      "phonemes": ["/p", "l", "ʌ", "s/"],
-      "phonics": ["/p", "l", "ŭ", "s/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "u",
+        "s"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "ʌ",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ŭ",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短母音 /ŭ/。"
     },
     {
       "number": "📏 短的",
       "word": "short",
       "ipa": "/ʃɔrt/",
-      "graphemes": ["sh", "or", "t"],
-      "phonemes": ["/ʃ", "ɔr", "t/"],
-      "phonics": ["/sh", "or", "t/"],
-      "tags": ["digraph","rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "sh",
+        "or",
+        "t"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ɔr",
+        "t/"
+      ],
+      "phonics": [
+        "/sh",
+        "or",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "or 發 /or/。"
     },
     {
       "number": "🐁 小的",
       "word": "small",
       "ipa": "/smɔl/",
-      "graphemes": ["s", "m", "a","ll"],
-      "phonemes": ["/s", "m", "ɔ","l/"],
-      "phonics": ["/s", "m", "aw","l/"],
-      "tags": ["cluster","irregular", "floss"],
-      "hearts": [0, 0, 1],
+      "graphemes": [
+        "s",
+        "m",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        1
+      ],
       "hint": "all 發 /awl/。"
     },
     {
       "number": "🦠 極小的",
       "word": "tiny",
       "ipa": "/ˈtaɪni/",
-      "graphemes": ["t", "i", "n", "y"],
-      "phonemes": ["/'t", "aɪ", "n", "i/"],
-      "phonics": ["/'t", "ī", "n", "ē/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "i",
+        "n",
+        "y"
+      ],
+      "phonemes": [
+        "/'t",
+        "aɪ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'t",
+        "ī",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ti 是開音節發 /ī/，y 字尾發 /ē/。"
     },
     {
       "number": "↔️ 寬的",
       "word": "wide",
       "ipa": "/waɪd/",
-      "graphemes": ["w", "i", "d", "e"],
-      "phonemes": ["/w", "aɪ", "d", "-/"],
-      "phonics": ["/w", "ī", "d", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發長母音 /ī/。"
     },
     {
       "number": "🍾 瓶子",
       "word": "bottle",
       "ipa": "/ˈbɑtl/",
-      "graphemes": ["b", "o", "tt", "le"],
-      "phonemes": ["/'b", "ɑ", "t", "əl/"],
-      "phonics": ["/'b", "ŏ", "t", "əl/"],
-      "tags": ["closed","cle"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "o",
+        "tt",
+        "le"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɑ",
+        "t",
+        "əl/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŏ",
+        "t",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "tt 發單音 /t/，le 字尾發 /l/。"
     },
     {
       "number": "🍵 杯子",
       "word": "cup",
       "ipa": "/kʌp/",
-      "graphemes": ["c", "u", "p"],
-      "phonemes": ["/k", "ʌ", "p/"],
-      "phonics": ["/k", "ŭ", "p/"],
-      "tags": ["closed", "cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "u",
+        "p"
+      ],
+      "phonemes": [
+        "/k",
+        "ʌ",
+        "p/"
+      ],
+      "phonics": [
+        "/k",
+        "ŭ",
+        "p/"
+      ],
+      "tags": [
+        "closed",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短母音 /ŭ/。"
     },
     {
       "number": "一打(12個)",
       "word": "dozen",
       "ipa": "/ˈdʌzn/",
-      "graphemes": ["d", "o", "z", "e","n"],
-      "phonemes": ["/'d", "ʌ", "z", "ə","n/"],
-      "phonics": ["/'d", "ŭ", "z", "ə","n/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "d",
+        "o",
+        "z",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'d",
+        "ʌ",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŭ",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "o 發短母音 /ŭ/ (不規則)。"
     },
     {
       "number": "🥛 玻璃杯",
       "word": "glass",
       "ipa": "/ɡlæs/",
-      "graphemes": ["g", "l", "a", "ss"],
-      "phonemes": ["/ɡ", "l", "æ", "s/"],
-      "phonics": ["/ɡ", "l", "ă", "s/"],
-      "tags": ["cvc","floss"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "g",
+        "l",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "l",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "l",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ss 字尾發 /s/。"
     },
     {
       "number": "🍞 一條(麵包)",
       "word": "loaf",
       "ipa": "/loʊf/",
-      "graphemes": ["l", "oa", "f"],
-      "phonemes": ["/l", "oʊ", "f/"],
-      "phonics": ["/l", "ō", "f/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "l",
+        "oa",
+        "f"
+      ],
+      "phonemes": [
+        "/l",
+        "oʊ",
+        "f/"
+      ],
+      "phonics": [
+        "/l",
+        "ō",
+        "f/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oa 發長母音 /ō/。"
     },
     {
       "number": "📦 包/盒",
       "word": "pack",
       "ipa": "/pæk/",
-      "graphemes": ["p", "a", "ck"],
-      "phonemes": ["/p", "æ", "k/"],
-      "phonics": ["/p", "ă", "k/"],
-      "tags": ["cvc","digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "ck"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "k/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ck 發 /k/。"
     },
     {
       "number": "📦 包裹",
       "word": "package",
       "ipa": "/ˈpækɪdʒ/",
-      "graphemes": ["p", "a", "ck", "a", "g", "e"],
-      "phonemes": ["/'p", "æ", "k", "ɪ", "dʒ", "-/"],
-      "phonics": ["/'p", "ă", "k", "ĭ", "-j", "-/"],
-      "tags": ["digraph", "closed"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "ck",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/'p",
+        "æ",
+        "k",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ă",
+        "k",
+        "ĭ",
+        "j/"
+      ],
+      "tags": [
+        "digraph",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ck 發 /k/，age 字尾發 /ĭj/。"
     },
     {
       "number": "👟 一雙",
       "word": "pair",
       "ipa": "/pɛr/",
-      "graphemes": ["p", "ai", "r"],
-      "phonemes": ["/p", "ɛ", "r/"],
-      "phonics": ["/p", "ĕ", "r/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "ai",
+        "r"
+      ],
+      "phonemes": [
+        "/p",
+        "ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/p",
+        "ĕ",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "air 發 /air/。"
     },
     {
       "number": "🧩 一片/塊",
       "word": "piece",
       "ipa": "/pis/",
-      "graphemes": ["p", "ie", "c", "e"],
-      "phonemes": ["/p", "i", "s", "-/"],
-      "phonics": ["/p", "ē", "s", "-/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "p",
+        "ie",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "i",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "ē",
+        "s/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "ie 發長母音 /ē/，ce 發 /s/。"
     }
   ]
 }
-
