@@ -16,7 +16,7 @@
       "word": "one",
       "ipa": "/wʌn/",
       "graphemes": ["o","n","e"],
-      "phonemes": ["/w ʌ","n","-/"],
+      "phonemes": ["/wʌ","n","-/"],
       "phonics":  ["/wŭ","n","-/"],
       "tags": ["irregular"],
       "hearts": [true,false,true],

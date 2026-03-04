@@ -61,7 +61,7 @@
       "ipa": "/ɡɑrd/",
       "graphemes": ["gu", "ar", "d"],
       "phonemes": ["/ɡ", "ɑr", "d/"],
-      "phonics": ["/ɡ", "ar", "d/"],
+      "phonics": ["/ɡ", "ɑr", "d/"],
       "tags": ["rcontrolled", "cluster"],
       "hearts": [1, 0, 0],
       "hint": "gu 發 /ɡ/；ar 發 /ɑr/。"

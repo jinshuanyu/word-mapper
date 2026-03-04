@@ -59,12 +59,12 @@
       "number": "👀 出現",
       "word": "appear",
       "ipa": "/əˈpɪr/",
-      "graphemes": ["a", "pp", "ear"],
-      "phonemes": ["/ə", "'p", "ɪr/"],
-      "phonics": ["/ə", "'p", "ir/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
-      "hint": "重音在 -pear；ear 為 r-controlled；字尾有聲子音加 -ed 發 /d/。"
+      "graphemes": ["a", "pp", "ea", "r"],
+      "phonemes": ["/ə", "'p", "ɪ", "r/"],
+      "phonics": ["/ə", "'p", "ĭ", "r/"],
+      "tags": ["vowel_team"],
+      "hearts": [0, 0, 0, 0],
+      "hint": "重音在 -pear；ea 發 /ɪ/；r 為獨立子音。"
     },
  
     {

@@ -127,7 +127,7 @@
       "ipa": "/ˈkjʊriəs/",
       "graphemes": ["c", "u", "r", "i", "ou", "s"],
       "phonemes": ["/'k", "jʊ","r", "i", "ə", "s/"],
-      "phonics": ["/'k", "yʊ", "r", "ē", "ə", "s/"],
+      "phonics": ["/'k", "yoo", "r", "ē", "ə", "s/"],
       "tags": ["irregular"],
       "hearts": [0, 1, 0, 0, 1, 0],
       "hint": "ur 發 /yʊr/；ou 發 /ə/。"
@@ -182,7 +182,7 @@
       "ipa": "/ɪkˈsaɪtɪŋ/",
       "graphemes": ["e", "x", "c", "i", "t", "i", "ng"],
       "phonemes": ["/ɪ", "k", "'s", "aɪ", "t", "ɪ", "ŋ/"],
-      "phonics": ["/ĭ", "k", "'s", "ī", "t", "ĭ", "ng/"],
+      "phonics": ["/ĭ", "k", "'s", "ī", "t", "ĭ", "ŋ/"],
       "tags": ["magic_e", "suffix"],
       "hearts": [0, 0, 0, 0, 0, 0, 0],
       "hint": "x 發 /k/；c 發 /s/；i 發 /ī/。"
@@ -295,7 +295,7 @@
       "ipa": "/smɑrt/",
       "graphemes": ["s", "m", "ar", "t"],
       "phonemes": ["/s", "m", "ɑr", "t/"],
-      "phonics": ["/s", "m", "ar", "t/"],
+      "phonics": ["/s", "m", "ɑr", "t/"],
       "tags": ["cluster","rcontrolled"],
       "hearts": [0, 0, 0, 0],
       "hint": "ar 發 /ar/。"

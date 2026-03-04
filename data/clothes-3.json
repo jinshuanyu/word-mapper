@@ -203,8 +203,8 @@
       "word": "underwear",
       "ipa": "/ˈʌndɚˌwɛr/",
       "graphemes": ["u","n","d","er","w","ea","r"],
-      "phonemes": ["/'ʌ","n","d","ɚ","w","ɛr","/"],
-      "phonics": ["/'ŭ","n","d","er","w","ĕr","/"],
+      "phonemes": ["/'ʌ","n","d","ɚ","w","ɛ","r/"],
+      "phonics": ["/'ŭ","n","d","er","w","ĕ","r/"],
       "tags": ["closed"],
       "hearts": [false,false,false,false,false,true,false],
       "hint": "under + wear；er 發 /ɚ/；ea 發短母音 e /ɛ/。"
