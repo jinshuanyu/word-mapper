@@ -84,9 +84,9 @@
       "graphemes": ["n", "er", "v", "ou", "s"],
       "phonemes": ["/'n", "ɝ", "v", "ə", "s/"],
       "phonics": ["/'n", "er", "v", "ə", "s/"],
-      "tags": ["rcontrolled", "suffix"],
-      "hearts": [0, 0, 0, 0, 0],
-      "hint": "重音在 ner-；er 在重音音節 r-controlled；-ous 字尾。"
+      "tags": ["rcontrolled"],
+      "hearts": [0, 0, 0, 1, 0],
+      "hint": "er 發 /ɝ/；ou 發 /ə/。"
     },
     {
       "number": "👤 個人的",
