@@ -554,37 +554,40 @@
     {
       "number": "🍔 飢餓",
       "word": "hunger",
-      "ipa": "/ˈhʌŋgɚ/",
+      "ipa": "/ˈhʌŋɡɚ/",
       "graphemes": [
         "h",
         "u",
-        "ng",
+        "n",
+        "g",
         "er"
       ],
       "phonemes": [
         "/'h",
         "ʌ",
         "ŋ",
+        "ɡ",
         "ɚ/"
       ],
       "phonics": [
         "/'h",
         "ŭ",
         "ŋ",
+        "ɡ",
         "er/"
       ],
       "tags": [
         "closed",
-        "digraph",
         "suffix"
       ],
       "hearts": [
         0,
         0,
         0,
+        0,
         0
       ],
-      "hint": "重音在 hun-（閉音節）；u 發短音 /ŭ/；ng 為 digraph；-er 字尾。"
+      "hint": "重音在 hun-（閉音節）；u 發短音 /ŭ/；n 在 g 前發 /ŋ/；-er 字尾。"
     },
     {
       "number": "😌 愉悅",
