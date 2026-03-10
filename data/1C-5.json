@@ -134,9 +134,9 @@
         "-/"
       ],
       "tags": [
-        "digraph",
+        "rcontrolled",
         "magic_e",
-        "rcontrolled"
+        "digraph"
       ],
       "hearts": [
         0,
@@ -317,9 +317,8 @@
         "-/"
       ],
       "tags": [
-        "cluster",
         "magic_e",
-        "open"
+        "cluster"
       ],
       "hearts": [
         0,
@@ -639,8 +638,7 @@
         "ē/"
       ],
       "tags": [
-        "irregular",
-        "rcontrolled"
+        "irregular"
       ],
       "hearts": [
         0,

@@ -4,231 +4,726 @@
       "number": "🍖 烤肉",
       "word": "barbecue",
       "ipa": "/ˈbɑrbɪkju/",
-      "graphemes": ["b", "ar", "b", "e", "c", "ue"],
-      "phonemes": ["/'b", "ɑr", "b", "ɪ", "k", "ju/"],
-      "phonics": ["/'b", "ɑr", "b", "ĭ", "k", "yū/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "ar",
+        "b",
+        "e",
+        "c",
+        "ue"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɑr",
+        "b",
+        "ɪ",
+        "k",
+        "ju/"
+      ],
+      "phonics": [
+        "/'b",
+        "ɑr",
+        "b",
+        "ĭ",
+        "k",
+        "yū/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ar 依規則對應 /ɑr/；ue 發 /yū/。"
     },
     {
       "number": "🎳 保齡球",
       "word": "bowling",
       "ipa": "/ˈboʊlɪŋ/",
-      "graphemes": ["b", "ow", "l", "i", "ng"],
-      "phonemes": ["/'b", "oʊ", "l", "ɪ", "ŋ/"],
-      "phonics": ["/'b", "ō", "l", "ĭ", "ŋ/"],
-      "tags": ["vowel_team", "digraph"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "ow",
+        "l",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'b",
+        "oʊ",
+        "l",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'b",
+        "ō",
+        "l",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ow 發長音 /ō/；ng 對應 /ŋ/。"
     },
     {
       "number": "⛺ 露營",
       "word": "camp",
       "ipa": "/kæmp/",
-      "graphemes": ["c", "a", "m", "p"],
-      "phonemes": ["/k", "æ", "m", "p/"],
-      "phonics": ["/k", "ă", "m", "p/"],
-      "tags": ["cvc", "cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "a",
+        "m",
+        "p"
+      ],
+      "phonemes": [
+        "/k",
+        "æ",
+        "m",
+        "p/"
+      ],
+      "phonics": [
+        "/k",
+        "ă",
+        "m",
+        "p/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 為短母音 /ă/；mp 為尾音混合。"
     },
     {
       "number": "🧗 爬山",
       "word": "climb",
       "ipa": "/klaɪm/",
-      "graphemes": ["c", "l", "i", "m", "b"],
-      "phonemes": ["/k", "l", "aɪ", "m", "-/"],
-      "phonics": ["/k", "l", "ī", "m", "-/"],
-      "tags": ["cluster", "irregular", "silent_consonant"],
-      "hearts": [0, 0, 1, 0, 1],
+      "graphemes": [
+        "c",
+        "l",
+        "i",
+        "m",
+        "b"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "aɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ī",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "cl 為混合音；i 對應 /ī/；字尾 b 不發音。"
     },
     {
       "number": "🍳 烹飪",
       "word": "cook",
       "ipa": "/kʊk/",
-      "graphemes": ["c", "oo", "k"],
-      "phonemes": ["/k", "ʊ", "k/"],
-      "phonics": ["/k", "oo", "k/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "oo",
+        "k"
+      ],
+      "phonemes": [
+        "/k",
+        "ʊ",
+        "k/"
+      ],
+      "phonics": [
+        "/k",
+        "oo",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 在此發 /oo/（book 音 /ʊ/）。"
     },
     {
       "number": "💃 跳舞",
       "word": "dance",
       "ipa": "/dæns/",
-      "graphemes": ["d", "a", "n", "ce"],
-      "phonemes": ["/d", "æ", "n", "s/"],
-      "phonics": ["/d", "ă", "n", "s/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "a",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/d",
+        "æ",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/d",
+        "ă",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ce 在此發 /s/。"
     },
     {
       "number": "✏️ 畫畫",
       "word": "draw",
       "ipa": "/drɔ/",
-      "graphemes": ["d", "r", "aw"],
-      "phonemes": ["/d", "r", "ɔ/"],
-      "phonics": ["/d", "r", "aw/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "aw"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ɔ/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "aw/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "dr 為混合音；aw 對應 /aw/（/ɔ/）。"
     },
     {
       "number": "🎣 釣魚",
       "word": "fish",
       "ipa": "/fɪʃ/",
-      "graphemes": ["f", "i", "sh"],
-      "phonemes": ["/f", "ɪ", "ʃ/"],
-      "phonics": ["/f", "ĭ", "sh/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "i",
+        "sh"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/f",
+        "ĭ",
+        "sh/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sh 為二合字 /sh/。"
     },
     {
       "number": "🥾 健行",
       "word": "hike",
       "ipa": "/haɪk/",
-      "graphemes": ["h", "i", "k", "e"],
-      "phonemes": ["/h", "aɪ", "k", "-/"],
-      "phonics": ["/h", "ī", "k", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "i",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/h",
+        "aɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/h",
+        "ī",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 對應 /ī/（/aɪ/）。"
     },
     {
       "number": "🏃 慢跑",
       "word": "jog",
       "ipa": "/dʒɑɡ/",
-      "graphemes": ["j", "o", "g"],
-      "phonemes": ["/dʒ", "ɑ", "ɡ/"],
-      "phonics": ["/-j", "ŏ", "ɡ/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "j",
+        "o",
+        "g"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "ɑ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/-j",
+        "ŏ",
+        "ɡ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "j 對應 /j/；o 為短母音 /ŏ/。"
     },
     {
       "number": "🧺 野餐",
       "word": "picnic",
       "ipa": "/ˈpɪknɪk/",
-      "graphemes": ["p", "i", "c", "n", "i", "c"],
-      "phonemes": ["/'p", "ɪ", "k", "n", "ɪ", "k/"],
-      "phonics": ["/'p", "ĭ", "k", "n", "ĭ", "k/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "i",
+        "c",
+        "n",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɪ",
+        "k",
+        "n",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'p",
+        "ĭ",
+        "k",
+        "n",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在第一音節；kn 為混合音。"
     },
     {
       "number": "🛼 直排輪",
       "word": "rollerblade",
       "ipa": "/ˈroʊlɚbleɪd/",
-      "graphemes": ["r", "o", "ll", "er", "b", "l", "a", "d", "e"],
-      "phonemes": ["/'r", "oʊ", "l", "ɚ", "b", "l", "eɪ", "d", "-/"],
-      "phonics": ["/'r", "ō", "l", "er", "b", "l", "ā", "d", "-/"],
-      "tags": ["open", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "o",
+        "ll",
+        "er",
+        "b",
+        "l",
+        "a",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/'r",
+        "oʊ",
+        "l",
+        "ɚ",
+        "b",
+        "l",
+        "eɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/'r",
+        "ō",
+        "l",
+        "er",
+        "b",
+        "l",
+        "ā",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 ro（開音節 o 對應 /ō/）；移除次重音，不對 blade 另外加母音規則標籤。"
     },
     {
       "number": "🏃 跑步",
       "word": "run",
       "ipa": "/rʌn/",
-      "graphemes": ["r", "u", "n"],
-      "phonemes": ["/r", "ʌ", "n/"],
-      "phonics": ["/r", "ŭ", "n/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "u",
+        "n"
+      ],
+      "phonemes": [
+        "/r",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/r",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "u 為短母音 /ŭ/。"
     },
     {
       "number": "⛵ 航行",
       "word": "sail",
       "ipa": "/seɪl/",
-      "graphemes": ["s", "ai", "l"],
-      "phonemes": ["/s", "eɪ", "l/"],
-      "phonics": ["/s", "ā", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "ai",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "eɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "ā",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ai 對應 /ā/（/eɪ/）。"
     },
     {
       "number": "🎤 唱歌",
       "word": "sing",
       "ipa": "/sɪŋ/",
-      "graphemes": ["s", "i", "ng"],
-      "phonemes": ["/s", "ɪ", "ŋ/"],
-      "phonics": ["/s", "ĭ", "ŋ/"],
-      "tags": ["cvc", "digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ng 對應 /ŋ/。"
     },
     {
       "number": "⛸ 滑冰",
       "word": "skate",
       "ipa": "/skeɪt/",
-      "graphemes": ["s", "k", "a", "t", "e"],
-      "phonemes": ["/s", "k", "eɪ", "t", "-/"],
-      "phonics": ["/s", "k", "ā", "t", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "k",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sk 為混合音；a_e 對應 /ā/（/eɪ/）。"
     },
     {
       "number": "⛷ 滑雪",
       "word": "ski",
       "ipa": "/ski/",
-      "graphemes": ["s", "k", "i"],
-      "phonemes": ["/s", "k", "i/"],
-      "phonics": ["/s", "k", "ē/"],
-      "tags": ["cluster", "open"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "k",
+        "i"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "i/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sk 為混合音；開音節 i 字尾對應 /ē/。"
     },
     {
       "number": "🏄 衝浪",
       "word": "surf",
       "ipa": "/sɝf/",
-      "graphemes": ["s", "ur", "f"],
-      "phonemes": ["/s", "ɝ", "f/"],
-      "phonics": ["/s", "er", "f/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "ur",
+        "f"
+      ],
+      "phonemes": [
+        "/s",
+        "ɝ",
+        "f/"
+      ],
+      "phonics": [
+        "/s",
+        "er",
+        "f/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ur 對應 /er/（捲舌音）。"
     },
     {
       "number": "🏊 游泳",
       "word": "swim",
       "ipa": "/swɪm/",
-      "graphemes": ["s", "w", "i", "m"],
-      "phonemes": ["/s", "w", "ɪ", "m/"],
-      "phonics": ["/s", "w", "ĭ", "m/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "w",
+        "i",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɪ",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ĭ",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "sw 為混合音；i 為短母音 /ĭ/。"
     },
     {
       "number": "🧳 旅行",
       "word": "travel",
       "ipa": "/ˈtrævəl/",
-      "graphemes": ["t", "r", "a", "v", "e","l"],
-      "phonemes": ["/'t", "r", "æ", "v", "ə","l/"],
-      "phonics": ["/'t", "r", "ă", "v", "ə","l/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "v",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "æ",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ă",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "tr 為混合音；el 弱化發 /əl/。"
     },
     {
       "number": "✈️ 旅程",
       "word": "trip",
       "ipa": "/trɪp/",
-      "graphemes": ["t", "r", "i", "p"],
-      "phonemes": ["/t", "r", "ɪ", "p/"],
-      "phonics": ["/t", "r", "ĭ", "p/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "i",
+        "p"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "ɪ",
+        "p/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ĭ",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "tr 為混合音；i 為短母音 /ĭ/。"
     }
   ]

@@ -35,9 +35,8 @@
         "t/"
       ],
       "tags": [
-        "closed",
-        "cluster",
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -74,7 +73,8 @@
         "t/"
       ],
       "tags": [
-        "rcontrolled"
+        "rcontrolled",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -107,7 +107,8 @@
         "t/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -253,7 +254,6 @@
         "t/"
       ],
       "tags": [
-        "cvc",
         "irregular"
       ],
       "hearts": [
@@ -377,9 +377,8 @@
         "d/"
       ],
       "tags": [
-        "cvc",
-        "cluster",
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,

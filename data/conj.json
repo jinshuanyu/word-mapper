@@ -20,7 +20,8 @@
         "d/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         false,
@@ -46,7 +47,7 @@
         "z/"
       ],
       "tags": [
-        "closed"
+        "cvc"
       ],
       "hearts": [
         false,
@@ -271,7 +272,7 @@
         "s/"
       ],
       "tags": [
-        "closed"
+        "cvc"
       ],
       "hearts": [
         false,

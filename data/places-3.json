@@ -214,7 +214,7 @@
       ],
       "tags": [
         "irregular",
-        "vowel_team"
+        "digraph"
       ],
       "hearts": [
         0,
@@ -555,7 +555,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -681,8 +682,8 @@
         "or/"
       ],
       "tags": [
-        "magic_e",
-        "rcontrolled"
+        "rcontrolled",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -1061,7 +1062,8 @@
         "s/"
       ],
       "tags": [
-        "magic_e"
+        "magic_e",
+        "cluster"
       ],
       "hearts": [
         0,

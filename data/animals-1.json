@@ -400,7 +400,8 @@
       ],
       "tags": [
         "closed",
-        "digraph"
+        "digraph",
+        "cluster"
       ],
       "hearts": [
         false,

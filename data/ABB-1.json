@@ -92,8 +92,8 @@
         "d/"
       ],
       "tags": [
-        "cvc",
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -126,8 +126,8 @@
         "t/"
       ],
       "tags": [
-        "cvc",
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -189,7 +189,8 @@
         "t/"
       ],
       "tags": [
-        "rcontrolled"
+        "rcontrolled",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -364,8 +365,8 @@
         "t/"
       ],
       "tags": [
-        "cvc",
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -543,7 +544,8 @@
         "t/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -634,7 +636,8 @@
         "d/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -666,7 +669,8 @@
         "d/"
       ],
       "tags": [
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,

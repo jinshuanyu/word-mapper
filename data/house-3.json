@@ -4,363 +4,1242 @@
       "number": "🧺 籃子",
       "word": "basket",
       "ipa": "/ˈbæskɪt/",
-      "graphemes": ["b", "a", "s", "k", "e", "t"],
-      "phonemes": ["/'b", "æ", "s", "k", "ɪ", "t/"],
-      "phonics": ["/'b", "ă", "s", "k", "ĭ", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "s",
+        "k",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'b",
+        "æ",
+        "s",
+        "k",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'b",
+        "ă",
+        "s",
+        "k",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "a 在重音節發 /ă/；e 弱化。"
     },
     {
       "number": "毯子",
       "word": "blanket",
       "ipa": "/ˈblæŋkɪt/",
-      "graphemes": ["b", "l", "a", "n", "k", "e", "t"],
-      "phonemes": ["/'b", "l", "æ", "ŋ", "k", "ɪ", "t/"],
-      "phonics": ["/'b", "l", "ă", "ŋ", "k", "ĭ", "t/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "b",
+        "l",
+        "a",
+        "n",
+        "k",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'b",
+        "l",
+        "æ",
+        "ŋ",
+        "k",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'b",
+        "l",
+        "ă",
+        "ŋ",
+        "k",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "bl 混合音；n 在 k 前發 /ng/。"
+    },
+    {
+      "number": "📦 盒子",
+      "word": "box",
+      "ipa": "/bɑks/",
+      "graphemes": [
+        "b",
+        "o",
+        "x"
+      ],
+      "phonemes": [
+        "/b",
+        "ɑ",
+        "ks/"
+      ],
+      "phonics": [
+        "/b",
+        "ŏ",
+        "ks/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發短母音 /ŏ/；x 發雙音 /ks/。"
     },
     {
       "number": "🧱 磚頭",
       "word": "brick",
       "ipa": "/brɪk/",
-      "graphemes": ["b", "r", "i", "ck"],
-      "phonemes": ["/b", "r", "ɪ", "k/"],
-      "phonics": ["/b", "r", "ĭ", "k/"],
-      "tags": ["cluster", "cvc", "digraph"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "r",
+        "i",
+        "ck"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "br 混合音；ck 發 /k/。"
     },
     {
       "number": "🪣 水桶",
       "word": "bucket",
       "ipa": "/ˈbʌkɪt/",
-      "graphemes": ["b", "u", "ck", "e", "t"],
-      "phonemes": ["/'b", "ʌ", "k", "ɪ", "t/"],
-      "phonics": ["/'b", "ŭ", "k", "ĭ", "t/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "b",
+        "u",
+        "ck",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'b",
+        "ʌ",
+        "k",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŭ",
+        "k",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ck 發 /k/。"
     },
     {
       "number": "🧱 建造",
       "word": "build",
       "ipa": "/bɪld/",
-      "graphemes": ["b", "ui", "l", "d"],
-      "phonemes": ["/b", "ɪ", "l", "d/"],
-      "phonics": ["/b", "ĭ", "l", "d/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "b",
+        "ui",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "ui 不規則發 /ĭ/。"
     },
     {
       "number": "🕯 蠟燭",
       "word": "candle",
       "ipa": "/ˈkændl/",
-      "graphemes": ["c", "a", "n", "d", "le"],
-      "phonemes": ["/'k", "æ", "n", "d", "əl/"],
-      "phonics": ["/'k", "ă", "n", "d", "əl/"],
-      "tags": ["closed", "cle"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "a",
+        "n",
+        "d",
+        "le"
+      ],
+      "phonemes": [
+        "/'k",
+        "æ",
+        "n",
+        "d",
+        "əl/"
+      ],
+      "phonics": [
+        "/'k",
+        "ă",
+        "n",
+        "d",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "le 發 /l/。"
     },
     {
       "number": "地毯",
       "word": "carpet",
       "ipa": "/ˈkɑrpɪt/",
-      "graphemes": ["c", "ar", "p", "e", "t"],
-      "phonemes": ["/'k", "ɑr", "p", "ɪ", "t/"],
-      "phonics": ["/'k", "ɑr", "p", "ĭ", "t/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "c",
+        "ar",
+        "p",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑr",
+        "p",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "ɑr",
+        "p",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ar 發 /ɑr/。"
     },
     {
       "number": "✨打掃；乾淨",
       "word": "clean",
       "ipa": "/klin/",
-      "graphemes": ["c", "l", "ea", "n"],
-      "phonemes": ["/k", "l", "i", "n/"],
-      "phonics": ["/k", "l", "ē", "n/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "ea",
+        "n"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "i",
+        "n/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ē",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發長母音 /ē/。"
     },
     {
       "number": "窗簾",
       "word": "curtain",
       "ipa": "/ˈkɝtn/",
-      "graphemes": ["c", "ur", "t", "ai", "n"],
-      "phonemes": ["/'k", "ɝ", "t", "ə", "n/"],
-      "phonics": ["/'k", "er", "t", "ə", "n/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "c",
+        "ur",
+        "t",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɝ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'k",
+        "er",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ur 發 /er/；ai 弱化。"
     },
     {
       "number": "🎨 裝飾",
       "word": "decorate",
       "ipa": "/ˈdɛkəreɪt/",
-      "graphemes": ["d", "e", "c", "o", "r", "a", "t", "e"],
-      "phonemes": ["/'d", "ɛ", "k", "ə", "r", "eɪ", "t", "-/"],
-      "phonics": ["/'d", "ĕ", "k", "ə", "r", "ā", "t", "-/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "e",
+        "c",
+        "o",
+        "r",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɛ",
+        "k",
+        "ə",
+        "r",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĕ",
+        "k",
+        "ə",
+        "r",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "e 在重音節發 /ĕ/。"
     },
     {
       "number": "📐 設計",
       "word": "design",
       "ipa": "/dɪˈzaɪn/",
-      "graphemes": ["d", "e", "s", "i", "g","n"],
-      "phonemes": ["/d", "ɪ", "'z", "aɪ", "-","n/"],
-      "phonics": ["/d", "ĭ", "'z", "ī", "-","n/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 1, 0, 1],
+      "graphemes": [
+        "d",
+        "e",
+        "s",
+        "i",
+        "g",
+        "n"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "'z",
+        "aɪ",
+        "-",
+        "n/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "'z",
+        "ī",
+        "-",
+        "n/"
+      ],
+      "tags": [
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "s 發 /z/；gn 的 g 不發音。"
     },
     {
       "number": "🔧 修理",
       "word": "fix",
       "ipa": "/fɪks/",
-      "graphemes": ["f", "i", "x"],
-      "phonemes": ["/f", "ɪ", "ks/"],
-      "phonics": ["/f", "ĭ", "ks/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "i",
+        "x"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪ",
+        "ks/"
+      ],
+      "phonics": [
+        "/f",
+        "ĭ",
+        "ks/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "x 發雙音 /ks/。"
     },
     {
       "number": "🔨 鐵鎚",
       "word": "hammer",
       "ipa": "/ˈhæmɚ/",
-      "graphemes": ["h", "a", "mm", "er"],
-      "phonemes": ["/'h", "æ", "m", "ɚ/"],
-      "phonics": ["/'h", "ă", "m", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "a",
+        "mm",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "æ",
+        "m",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ă",
+        "m",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "mm 發單音 /m/。"
     },
     {
       "number": "衣架",
       "word": "hanger",
       "ipa": "/ˈhæŋɚ/",
-      "graphemes": ["h", "a", "ng", "er"],
-      "phonemes": ["/'h", "æ", "ŋ", "ɚ/"],
-      "phonics": ["/'h", "ă", "ŋ", "er/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "h",
+        "a",
+        "ng",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "æ",
+        "ŋ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ă",
+        "ŋ",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ng 發 /ng/。"
     },
     {
       "number": "🧹 家事",
       "word": "housework",
       "ipa": "/ˈhaʊswɝk/",
-      "graphemes": ["h", "ou", "s", "e", "w", "or", "k"],
-      "phonemes": ["/'h", "aʊ", "s", "-", "w", "ɝ", "k/"],
-      "phonics": ["/'h", "ow", "s", "-", "w", "er", "k/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "h",
+        "ou",
+        "s",
+        "e",
+        "w",
+        "or",
+        "k"
+      ],
+      "phonemes": [
+        "/'h",
+        "aʊ",
+        "s",
+        "-",
+        "w",
+        "ɝ",
+        "k/"
+      ],
+      "phonics": [
+        "/'h",
+        "ow",
+        "s",
+        "-",
+        "w",
+        "er",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ou 發 /ow/。"
     },
     {
       "number": "🔑 鑰匙",
       "word": "key",
       "ipa": "/ki/",
-      "graphemes": ["k", "ey"],
-      "phonemes": ["/k", "i/"],
-      "phonics": ["/k", "ē/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "k",
+        "ey"
+      ],
+      "phonemes": [
+        "/k",
+        "i/"
+      ],
+      "phonics": [
+        "/k",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ey 發 /ē/。"
+    },
+    {
+      "number": "🧰 工具包",
+      "word": "kit",
+      "ipa": "/kɪt/",
+      "graphemes": [
+        "k",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短母音 /ĭ/。"
     },
     {
       "number": "墊子",
       "word": "mat",
       "ipa": "/mæt/",
-      "graphemes": ["m", "a", "t"],
-      "phonemes": ["/m", "æ", "t/"],
-      "phonics": ["/m", "ă", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "t"
+      ],
+      "phonemes": [
+        "/m",
+        "æ",
+        "t/"
+      ],
+      "phonics": [
+        "/m",
+        "ă",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /ă/。"
     },
     {
       "number": "🪡 針",
       "word": "needle",
       "ipa": "/ˈnidl/",
-      "graphemes": ["n", "ee", "d", "le"],
-      "phonemes": ["/'n", "i", "d", "əl/"],
-      "phonics": ["/'n", "ē", "d", "əl/"],
-      "tags": ["vowel_team", "cle"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "ee",
+        "d",
+        "le"
+      ],
+      "phonemes": [
+        "/'n",
+        "i",
+        "d",
+        "əl/"
+      ],
+      "phonics": [
+        "/'n",
+        "ē",
+        "d",
+        "əl/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發 /ē/；le 發 /l/。"
     },
     {
       "number": "🍳 平底鍋",
       "word": "pan",
       "ipa": "/pæn/",
-      "graphemes": ["p", "a", "n"],
-      "phonemes": ["/p", "æ", "n/"],
-      "phonics": ["/p", "ă", "n/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /ă/。"
     },
     {
       "number": "枕頭",
       "word": "pillow",
       "ipa": "/ˈpɪloʊ/",
-      "graphemes": ["p", "i", "ll", "ow"],
-      "phonemes": ["/'p", "ɪ", "l", "oʊ/"],
-      "phonics": ["/'p", "ĭ", "l", "ō/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "i",
+        "ll",
+        "ow"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɪ",
+        "l",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ĭ",
+        "l",
+        "ō/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 發 /ĭ/；ow 在字尾發 /ō/。"
     },
     {
       "number": "🥘 鍋子",
       "word": "pot",
       "ipa": "/pɑt/",
-      "graphemes": ["p", "o", "t"],
-      "phonemes": ["/p", "ɑ", "t/"],
-      "phonics": ["/p", "ŏ", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "p",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/p",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/p",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "o 發短母音 /ŏ/。"
     },
     {
       "number": "🔧 修理",
       "word": "repair",
       "ipa": "/rɪˈpɛr/",
-      "graphemes": ["r", "e", "p", "ai","r"],
-      "phonemes": ["/r", "ɪ", "'p", "ɛ","r/"],
-      "phonics": ["/r", "ĭ", "'p", "ĕ","r/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "e",
+        "p",
+        "ai",
+        "r"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'p",
+        "ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'p",
+        "ĕ",
+        "r/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "air 發 /air/。"
     },
     {
       "number": "🛏 床單",
       "word": "sheet",
       "ipa": "/ʃit/",
-      "graphemes": ["sh", "ee", "t"],
-      "phonemes": ["/ʃ", "i", "t/"],
-      "phonics": ["/sh", "ē", "t/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "sh",
+        "ee",
+        "t"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/sh",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發 /ē/。"
     },
     {
       "number": "🧼 肥皂",
       "word": "soap",
       "ipa": "/soʊp/",
-      "graphemes": ["s", "oa", "p"],
-      "phonemes": ["/s", "oʊ", "p/"],
-      "phonics": ["/s", "ō", "p/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "oa",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "oʊ",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "ō",
+        "p/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oa 發 /ō/。"
     },
     {
       "number": "🧹 掃地",
       "word": "sweep",
       "ipa": "/swip/",
-      "graphemes": ["s", "w", "ee", "p"],
-      "phonemes": ["/s", "w", "i", "p/"],
-      "phonics": ["/s", "w", "ē", "p/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "w",
+        "ee",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "i",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ē",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發 /ē/。"
     },
     {
       "number": "🫖 茶壺",
       "word": "teapot",
       "ipa": "/ˈtiˌpɑt/",
-      "graphemes": ["t", "ea", "p", "o", "t"],
-      "phonemes": ["/'t", "i", "p", "ɑ", "t/"],
-      "phonics": ["/'t", "ē", "p", "ŏ", "t/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "ea",
+        "p",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/'t",
+        "i",
+        "p",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/'t",
+        "ē",
+        "p",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ea 發 /ē/。"
     },
     {
       "number": "🪥 牙刷",
       "word": "toothbrush",
       "ipa": "/ˈtuθbrʌʃ/",
-      "graphemes": ["t", "oo", "th", "b", "r", "u", "sh"],
-      "phonemes": ["/'t", "u", "θ", "b", "r", "ʌ", "ʃ/"],
-      "phonics": ["/'t", "ū", "th", "b", "r", "ŭ", "sh/"],
-      "tags": ["vowel_team", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "oo",
+        "th",
+        "b",
+        "r",
+        "u",
+        "sh"
+      ],
+      "phonemes": [
+        "/'t",
+        "u",
+        "θ",
+        "b",
+        "r",
+        "ʌ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ū",
+        "th",
+        "b",
+        "r",
+        "ŭ",
+        "sh/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發 /ū/；th 發 /th/。"
     },
     {
       "number": "毛巾",
       "word": "towel",
       "ipa": "/taʊəl/",
-      "graphemes": ["t", "ow", "e","l"],
-      "phonemes": ["/t", "aʊ", "ə","l/"],
-      "phonics": ["/t", "ow", "ə","l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "ow",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/t",
+        "aʊ",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/t",
+        "ow",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ow 發 /ow/。"
     },
     {
       "number": "🗑 垃圾桶",
       "word": "trash can",
       "ipa": "/træʃ kæn/",
-      "graphemes": ["t", "r", "a", "sh", " ", "c", "a", "n"],
-      "phonemes": ["/'t", "r", "æ", "ʃ", " ", "k", "æ", "n/"],
-      "phonics": ["/'t", "r", "ă", "sh", " ", "k", "ă", "n/"],
-      "tags": ["cluster", "closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "sh",
+        " ",
+        "c",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "æ",
+        "ʃ",
+        " ",
+        "k",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ă",
+        "sh",
+        " ",
+        "k",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "tr 混合音；sh 發 /sh/。"
     },
     {
       "number": "軟管/管子",
       "word": "tube",
       "ipa": "/tub/",
-      "graphemes": ["t", "u", "b", "e"],
-      "phonemes": ["/t", "u", "b", "-/"],
-      "phonics": ["/t", "ū", "b", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "u",
+        "b",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "u",
+        "b",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "ū",
+        "b",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u_e 發 /ū/。"
     },
     {
       "number": "☂️ 雨傘",
       "word": "umbrella",
       "ipa": "/ʌmˈbrɛlə/",
-      "graphemes": ["u", "m", "b", "r", "e", "ll", "a"],
-      "phonemes": ["/ʌ", "m", "'b", "r", "ɛ", "l", "ə/"],
-      "phonics": ["/ŭ", "m", "'b", "r", "ĕ", "l", "ə/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "u",
+        "m",
+        "b",
+        "r",
+        "e",
+        "ll",
+        "a"
+      ],
+      "phonemes": [
+        "/ʌ",
+        "m",
+        "'b",
+        "r",
+        "ɛ",
+        "l",
+        "ə/"
+      ],
+      "phonics": [
+        "/ŭ",
+        "m",
+        "'b",
+        "r",
+        "ĕ",
+        "l",
+        "ə/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "br 混合音；u 發 /ŭ/；a 弱化。"
     },
     {
       "number": "清洗",
       "word": "wash",
       "ipa": "/wɑʃ/",
-      "graphemes": ["w", "a", "sh"],
-      "phonemes": ["/w", "ɑ", "ʃ/"],
-      "phonics": ["/w", "ŏ", "sh/"],
-      "tags": ["irregular", "digraph"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "w",
+        "a",
+        "sh"
+      ],
+      "phonemes": [
+        "/w",
+        "ɑ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/w",
+        "ŏ",
+        "sh/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "a 在 w 後不規則發 /ŏ/。"
     },
     {
       "number": "🥘 炒鍋",
       "word": "wok",
       "ipa": "/wɑk/",
-      "graphemes": ["w", "o", "k"],
-      "phonemes": ["/w", "ɑ", "k/"],
-      "phonics": ["/w", "ŏ", "k/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "w",
+        "o",
+        "k"
+      ],
+      "phonemes": [
+        "/w",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/w",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "o 發 /ŏ/。"
     }
   ]

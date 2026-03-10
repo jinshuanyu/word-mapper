@@ -4,99 +4,300 @@
       "number": "👨‍⚕️ 博士/醫生",
       "word": "Dr.",
       "ipa": "/ˈdɑktɚ/",
-      "graphemes": ["D", "o", "c", "t", "or"],
-      "phonemes": ["/'d", "ɑ", "k", "t", "ɚ/"],
-      "phonics": ["/'d", "ŏ", "k", "t", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 1],
+      "graphemes": [
+        "D",
+        "o",
+        "c",
+        "t",
+        "or"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɑ",
+        "k",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŏ",
+        "k",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "縮寫 Dr. 讀作 Doctor。"
     },
     {
       "number": "👩 女士(口語)",
       "word": "ma'am",
       "ipa": "/mæm/",
-      "graphemes": ["m", "a", "'am"],
-      "phonemes": ["/m", "æ", "m/"],
-      "phonics": ["/m", "ă", "m/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "'am"
+      ],
+      "phonemes": [
+        "/m",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/m",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "Madam 的口語縮讀；'am 發 /m/。"
     },
     {
       "number": "👧 小姐(未婚)",
       "word": "Miss",
       "ipa": "/mɪs/",
-      "graphemes": ["M", "i", "ss"],
-      "phonemes": ["/m", "ɪ", "s/"],
-      "phonics": ["/m", "ĭ", "s/"],
-      "tags": ["cvc", "floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "M",
+        "i",
+        "ss"
+      ],
+      "phonemes": [
+        "/m",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ss 發 /s/。"
     },
     {
       "number": "👨‍🏫 先生",
       "word": "Mr.",
       "ipa": "/ˈmɪstɚ/",
-      "graphemes": ["M", "i", "s", "t", "er"],
-      "phonemes": ["/'m", "ɪ", "s", "t", "ɚ/"],
-      "phonics": ["/'m", "ĭ", "s", "t", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "M",
+        "i",
+        "s",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɪ",
+        "s",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĭ",
+        "s",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "縮寫 Mr. 讀作 Mister。"
     },
     {
       "number": "👩‍🦱 太太(已婚)",
       "word": "Mrs.",
       "ipa": "/ˈmɪsɪz/",
-      "graphemes": ["M", "i", "ss", "u", "s"],
-      "phonemes": ["/'m", "ɪ", "s", "ɪ", "z/"],
-      "phonics": ["/'m", "ĭ", "s", "ĭ", "z/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "M",
+        "i",
+        "ss",
+        "u",
+        "s"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɪ",
+        "s",
+        "ɪ",
+        "z/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĭ",
+        "s",
+        "ĭ",
+        "z/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "縮寫 Mrs. 讀作 Missus。"
     },
     {
       "number": "👩 女士(不分婚否)",
       "word": "Ms.",
       "ipa": "/mɪz/",
-      "graphemes": ["M", "s."],
-      "phonemes": ["/m", "ɪz/"],
-      "phonics": ["/m", "ĭz/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1],
+      "graphemes": [
+        "M",
+        "s."
+      ],
+      "phonemes": [
+        "/m",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/m",
+        "ĭz/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
       "hint": "縮寫 Ms. 讀作 Miz (z音)。"
     },
     {
       "number": "📛 名字",
       "word": "name",
       "ipa": "/neɪm/",
-      "graphemes": ["n", "a", "m", "e"],
-      "phonemes": ["/n", "eɪ", "m", "-/"],
-      "phonics": ["/n", "ā", "m", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "a",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/n",
+        "eɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/n",
+        "ā",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a_e 發長音 /eɪ/。"
     },
     {
       "number": "👨‍🏫 教授",
       "word": "Prof.",
       "ipa": "/prəˈfɛsɚ/",
-      "graphemes": ["P", "r", "o", "f", "e", "ss", "or"],
-      "phonemes": ["/p", "r", "ə", "'f", "ɛ", "s", "ɚ/"],
-      "phonics": ["/p", "r", "ə", "'f", "ĕ", "s", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "P",
+        "r",
+        "o",
+        "f",
+        "e",
+        "ss",
+        "or"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "ə",
+        "'f",
+        "ɛ",
+        "s",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ə",
+        "'f",
+        "ĕ",
+        "s",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "縮寫 Prof. 讀作 Professor。"
     },
     {
       "number": "👨 先生(敬稱)",
       "word": "sir",
       "ipa": "/sɝ/",
-      "graphemes": ["s", "ir"],
-      "phonemes": ["/s", "ɝ/"],
-      "phonics": ["/s", "er/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "s",
+        "ir"
+      ],
+      "phonemes": [
+        "/s",
+        "ɝ/"
+      ],
+      "phonics": [
+        "/s",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "ir 發 /ɝ/。"
     }
   ]

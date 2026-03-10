@@ -91,7 +91,8 @@
         "t/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -713,7 +714,6 @@
         "p/"
       ],
       "tags": [
-        "closed",
         "cvc"
       ],
       "hearts": [
@@ -783,7 +783,8 @@
       ],
       "tags": [
         "cvc",
-        "floss"
+        "floss",
+        "cluster"
       ],
       "hearts": [
         0,

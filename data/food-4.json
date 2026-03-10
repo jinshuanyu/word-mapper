@@ -20,8 +20,7 @@
         "r/"
       ],
       "tags": [
-        "vowel_team",
-        "rcontrolled"
+        "vowel_team"
       ],
       "hearts": [
         0,
@@ -141,8 +140,7 @@
         "ē/"
       ],
       "tags": [
-        "closed",
-        "vowel_team"
+        "open"
       ],
       "hearts": [
         0,
@@ -208,8 +206,7 @@
         "er/"
       ],
       "tags": [
-        "closed",
-        "rcontrolled"
+        "closed"
       ],
       "hearts": [
         0,
@@ -246,7 +243,7 @@
       ],
       "tags": [
         "cluster",
-        "closed"
+        "cvc"
       ],
       "hearts": [
         0,
@@ -459,7 +456,8 @@
       ],
       "tags": [
         "cvc",
-        "digraph"
+        "digraph",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -704,7 +702,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -852,7 +851,8 @@
         "k/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -1029,8 +1029,7 @@
         "er/"
       ],
       "tags": [
-        "closed",
-        "rcontrolled"
+        "closed"
       ],
       "hearts": [
         0,

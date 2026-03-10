@@ -156,7 +156,8 @@
       ],
       "tags": [
         "open",
-        "suffix"
+        "suffix",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -428,7 +429,9 @@
         "k/"
       ],
       "tags": [
-        "magic_e"
+        "magic_e",
+        "cluster",
+        "silent_consonant"
       ],
       "hearts": [
         0,

@@ -67,7 +67,8 @@
       ],
       "tags": [
         "closed",
-        "suffix"
+        "suffix",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -118,7 +119,6 @@
         "l/"
       ],
       "tags": [
-        "closed",
         "irregular",
         "suffix"
       ],
@@ -167,7 +167,8 @@
       ],
       "tags": [
         "open",
-        "suffix"
+        "suffix",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -321,8 +322,7 @@
         "z/"
       ],
       "tags": [
-        "open",
-        "vowel_team"
+        "open"
       ],
       "hearts": [
         0,
@@ -544,9 +544,8 @@
         "l/"
       ],
       "tags": [
-        "cluster",
-        "closed",
         "irregular",
+        "cluster",
         "suffix"
       ],
       "hearts": [

@@ -58,8 +58,7 @@
         "ē/"
       ],
       "tags": [
-        "irregular",
-        "vowel_team"
+        "irregular"
       ],
       "hearts": [
         0,
@@ -135,7 +134,8 @@
         "t/"
       ],
       "tags": [
-        "rcontrolled"
+        "rcontrolled",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -261,7 +261,8 @@
         "t/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -361,7 +362,8 @@
         "t/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -620,8 +622,7 @@
         "r/"
       ],
       "tags": [
-        "vowel_team",
-        "rcontrolled"
+        "vowel_team"
       ],
       "hearts": [
         0,

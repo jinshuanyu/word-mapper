@@ -149,7 +149,8 @@
         "-/"
       ],
       "tags": [
-        "magic_e"
+        "magic_e",
+        "digraph"
       ],
       "hearts": [
         0,
@@ -193,9 +194,8 @@
         "er/"
       ],
       "tags": [
-        "digraph",
-        "rcontrolled",
-        "vowel_team"
+        "vowel_team",
+        "digraph"
       ],
       "hearts": [
         0,
@@ -245,7 +245,8 @@
         "er/"
       ],
       "tags": [
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -461,7 +462,6 @@
         "-j/"
       ],
       "tags": [
-        "closed",
         "irregular"
       ],
       "hearts": [
@@ -712,7 +712,8 @@
         "s/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         1,
@@ -815,7 +816,8 @@
         "t/"
       ],
       "tags": [
-        "open"
+        "open",
+        "cluster"
       ],
       "hearts": [
         0,

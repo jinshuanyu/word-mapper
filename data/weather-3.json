@@ -4,133 +4,682 @@
       "number": "🌿 大自然",
       "word": "nature",
       "ipa": "/ˈneɪtʃɚ/",
-      "graphemes": ["n", "a", "t", "ure"],
-      "phonemes": ["/'n", "eɪ", "tʃ", "ɚ/"],
-      "phonics": ["/'n", "ā", "ch", "er/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 1, 1],
+      "graphemes": [
+        "n",
+        "a",
+        "t",
+        "ure"
+      ],
+      "phonemes": [
+        "/'n",
+        "eɪ",
+        "tʃ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'n",
+        "ā",
+        "ch",
+        "er/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        1
+      ],
       "hint": "t+ur 在此合起來對應 /tʃɚ/；最後 e 不發音。"
     },
     {
       "number": "🍃 自然的",
       "word": "natural",
       "ipa": "/ˈnætʃɚəl/",
-      "graphemes": ["n", "a", "t", "ur", "a", "l"],
-      "phonemes": ["/'n", "æ", "tʃ", "ɚ", "ə", "l/"],
-      "phonics": ["/'n", "ă", "ch", "er", "ə", "l/"],
-      "tags": ["irregular", "rcontrolled"],
-      "hearts": [0, 1, 1, 1, 0, 0],
+      "graphemes": [
+        "n",
+        "a",
+        "t",
+        "ur",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'n",
+        "æ",
+        "tʃ",
+        "ɚ",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'n",
+        "ă",
+        "ch",
+        "er",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
       "hint": "t+ur 在此對應 /tʃɚ/；第二個 a 弱化為 /ə/。"
     },
     {
       "number": "🌬 空氣",
       "word": "air",
       "ipa": "/ɛr/",
-      "graphemes": ["ai", "r"],
-      "phonemes": ["/ɛ", "r/"],
-      "phonics": ["/ĕ", "r/"],
-      "tags": ["vowel_team","rcontrolled"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "ai",
+        "r"
+      ],
+      "phonemes": [
+        "/ɛ",
+        "r/"
+      ],
+      "phonics": [
+        "/ĕ",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "air 必拆 ai+r；此處可視為 ĕ+r。"
     },
     {
       "number": "🌍 氣候",
       "word": "climate",
       "ipa": "/ˈklaɪmət/",
-      "graphemes": ["c", "l", "i", "m", "a", "t", "e"],
-      "phonemes": ["/'k", "l", "aɪ", "m", "ə", "t", "-/"],
-      "phonics": ["/'k", "l", "ī", "m", "ə", "t", "-/"],
-      "tags": ["cluster","open"],
-      "hearts": [0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "i",
+        "m",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/'k",
+        "l",
+        "aɪ",
+        "m",
+        "ə",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/'k",
+        "l",
+        "ī",
+        "m",
+        "ə",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 在開音節對應 /aɪ/（用 ī 表示）；a 弱化 /ə/；e 不發音。"
     },
     {
       "number": "🌎 地球",
       "word": "earth",
       "ipa": "/ɝθ/",
-      "graphemes": ["ear", "th"],
-      "phonemes": ["/ɝ", "θ/"],
-      "phonics": ["/er", "th/"],
-      "tags": ["irregular", "digraph"],
-      "hearts": [1, 0],
+      "graphemes": [
+        "ear",
+        "th"
+      ],
+      "phonemes": [
+        "/ɝ",
+        "θ/"
+      ],
+      "phonics": [
+        "/er",
+        "th/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        1,
+        0
+      ],
       "hint": "ear 對應 /ɝ/；th 為清音 /θ/。"
     },
     {
       "number": "🌋 地震",
       "word": "earthquake",
       "ipa": "/ˈɝθkweɪk/",
-      "graphemes": ["ear", "th", "qu", "a", "k", "e"],
-      "phonemes": ["/'ɝ", "θ", "kw", "eɪ", "k", "-/"],
-      "phonics": ["/'er", "th", "kw", "ā", "k", "-/"],
-      "tags": ["irregular", "digraph"],
-      "hearts": [1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "ear",
+        "th",
+        "qu",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/'ɝ",
+        "θ",
+        "kw",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/'er",
+        "th",
+        "kw",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "qu 對應 /kw/；a_e 對應 /eɪ/（ā）；e 不發音。"
     },
     {
       "number": "🌙 月亮",
       "word": "moon",
       "ipa": "/mun/",
-      "graphemes": ["m", "oo", "n"],
-      "phonemes": ["/m", "u", "n/"],
-      "phonics": ["/m", "ū", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "oo",
+        "n"
+      ],
+      "phonemes": [
+        "/m",
+        "u",
+        "n/"
+      ],
+      "phonics": [
+        "/m",
+        "ū",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發 /u/。"
     },
     {
       "number": "🌌 天空",
       "word": "sky",
       "ipa": "/skaɪ/",
-      "graphemes": ["s", "k", "y"],
-      "phonemes": ["/s", "k", "aɪ/"],
-      "phonics": ["/s", "k", "ī/"],
-      "tags": ["cluster","open"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "k",
+        "y"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ī/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "y 在此對應 /aɪ/（用 ī 表示）。"
     },
     {
       "number": "☀️ 太陽",
       "word": "sun",
       "ipa": "/sʌn/",
-      "graphemes": ["s", "u", "n"],
-      "phonemes": ["/s", "ʌ", "n/"],
-      "phonics": ["/s", "ŭ", "n/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "⭐ 星星",
       "word": "star",
       "ipa": "/stɑr/",
-      "graphemes": ["s", "t", "ar"],
-      "phonemes": ["/s", "t", "ɑr/"],
-      "phonics": ["/s", "t", "ɑr/"],
-      "tags": ["cluster", "rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "ar"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɑr/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ɑr/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ar 對應 /ɑr/。"
     },
     {
       "number": "🌡 溫度",
       "word": "temperature",
       "ipa": "/ˈtɛmprətʃɚ/",
-      "graphemes": ["t", "e", "m", "p", "er", "a", "t", "ure"],
-      "phonemes": ["/'t", "ɛ", "m", "p", "ɚ", "ə", "tʃ", "ɚ/"],
-      "phonics": ["/'t", "ĕ", "m", "p", "er", "ə", "ch", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0,1, 1],
+      "graphemes": [
+        "t",
+        "e",
+        "m",
+        "p",
+        "er",
+        "a",
+        "t",
+        "ure"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɛ",
+        "m",
+        "p",
+        "ɚ",
+        "ə",
+        "tʃ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ĕ",
+        "m",
+        "p",
+        "er",
+        "ə",
+        "ch",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
       "hint": "a 弱化 /ə/；t+ur 在此對應 /tʃɚ/；最後 e 不發音。"
     },
     {
       "number": "🌡 度數",
       "word": "degree",
       "ipa": "/dɪˈɡri/",
-      "graphemes": ["d", "e", "g", "r", "ee"],
-      "phonemes": ["/d", "ɪ", "'ɡ", "r", "i/"],
-      "phonics": ["/d", "ĭ", "'ɡ", "r", "ē/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "e",
+        "g",
+        "r",
+        "ee"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "'ɡ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "'ɡ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "e 在此發 /ɪ/（需記）；ee 發 /i/（ē）。"
+    },
+    {
+      "number": "🌸 花",
+      "word": "flower",
+      "ipa": "/ˈflaʊɚ/",
+      "graphemes": [
+        "f",
+        "l",
+        "ow",
+        "er"
+      ],
+      "phonemes": [
+        "/'f",
+        "l",
+        "aʊ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'f",
+        "l",
+        "ow",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 混合音；ow 發 /aʊ/。"
+    },
+    {
+      "number": "🌿 草",
+      "word": "grass",
+      "ipa": "/ɡræs/",
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "gr 混合音；ss 發單音 /s/。"
+    },
+    {
+      "number": "🌍 地面",
+      "word": "ground",
+      "ipa": "/ɡraʊnd/",
+      "graphemes": [
+        "g",
+        "r",
+        "ou",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "aʊ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ow",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "gr 混合音；ou 發 /aʊ/。"
+    },
+    {
+      "number": "🌱 根",
+      "word": "root",
+      "ipa": "/rut/",
+      "graphemes": [
+        "r",
+        "oo",
+        "t"
+      ],
+      "phonemes": [
+        "/r",
+        "u",
+        "t/"
+      ],
+      "phonics": [
+        "/r",
+        "ū",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發長音 /ū/。"
+    },
+    {
+      "number": "🌱 種子",
+      "word": "seed",
+      "ipa": "/sid/",
+      "graphemes": [
+        "s",
+        "ee",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "i",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "ē",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ee 發長母音 /ē/。"
+    },
+    {
+      "number": "🪨 土壤",
+      "word": "soil",
+      "ipa": "/sɔɪl/",
+      "graphemes": [
+        "s",
+        "oi",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "oi",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/。"
+    },
+    {
+      "number": "🌱 嫩芽",
+      "word": "sprout",
+      "ipa": "/spraʊt/",
+      "graphemes": [
+        "s",
+        "p",
+        "r",
+        "ou",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "r",
+        "aʊ",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "r",
+        "ow",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "spr 混合音；ou 發 /aʊ/。"
+    },
+    {
+      "number": "🌳 樹",
+      "word": "tree",
+      "ipa": "/tri/",
+      "graphemes": [
+        "t",
+        "r",
+        "ee"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "tr 混合音；ee 發長母音 /ē/。"
     }
   ]
 }

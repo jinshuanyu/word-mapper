@@ -26,7 +26,8 @@
         "t/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -139,8 +140,7 @@
         "er/"
       ],
       "tags": [
-        "closed",
-        "rcontrolled"
+        "closed"
       ],
       "hearts": [
         0,
@@ -211,7 +211,6 @@
         "s/"
       ],
       "tags": [
-        "open",
         "irregular"
       ],
       "hearts": [
@@ -300,7 +299,8 @@
         "t/"
       ],
       "tags": [
-        "open"
+        "open",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -334,7 +334,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         1,
@@ -425,7 +426,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -665,7 +667,7 @@
       ],
       "tags": [
         "cluster",
-        "closed"
+        "cvc"
       ],
       "hearts": [
         0,
@@ -709,7 +711,8 @@
       ],
       "tags": [
         "closed",
-        "floss"
+        "floss",
+        "cluster"
       ],
       "hearts": [
         0,

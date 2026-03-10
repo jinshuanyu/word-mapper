@@ -26,7 +26,8 @@
         "-/"
       ],
       "tags": [
-        "magic_e"
+        "magic_e",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -210,7 +211,8 @@
         "l/"
       ],
       "tags": [
-        "open"
+        "open",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -256,7 +258,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -309,7 +312,8 @@
       ],
       "tags": [
         "silent_consonant",
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -395,7 +399,8 @@
       ],
       "tags": [
         "irregular",
-        "suffix"
+        "suffix",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -437,7 +442,6 @@
         "s/"
       ],
       "tags": [
-        "rcontrolled",
         "irregular"
       ],
       "hearts": [
@@ -514,7 +518,8 @@
         "ē/"
       ],
       "tags": [
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -555,7 +560,8 @@
       ],
       "tags": [
         "silent_consonant",
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         1,
@@ -677,7 +683,8 @@
         "d/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -811,7 +818,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -997,8 +1005,7 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
-        "rcontrolled"
+        "closed"
       ],
       "hearts": [
         0,
@@ -1035,7 +1042,8 @@
         "ē/"
       ],
       "tags": [
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -1075,7 +1083,8 @@
         "ē/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         0,

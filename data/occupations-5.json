@@ -178,9 +178,8 @@
         "k/"
       ],
       "tags": [
-        "closed",
-        "digraph",
-        "irregular"
+        "irregular",
+        "digraph"
       ],
       "hearts": [
         0,
@@ -225,8 +224,7 @@
         "r/"
       ],
       "tags": [
-        "irregular",
-        "rcontrolled"
+        "irregular"
       ],
       "hearts": [
         0,

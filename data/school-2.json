@@ -75,7 +75,8 @@
       ],
       "tags": [
         "closed",
-        "digraph"
+        "digraph",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -170,7 +171,8 @@
       ],
       "tags": [
         "digraph",
-        "silent_consonant"
+        "silent_consonant",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -206,7 +208,8 @@
         "n/"
       ],
       "tags": [
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -443,7 +446,8 @@
         "ū/"
       ],
       "tags": [
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -472,7 +476,8 @@
         "k/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -549,7 +554,6 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
         "irregular"
       ],
       "hearts": [

@@ -24,8 +24,8 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
-        "rcontrolled"
+        "rcontrolled",
+        "magic_e"
       ],
       "hearts": [
         0,
@@ -58,7 +58,8 @@
         "-/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "digraph"
       ],
       "hearts": [
         0,

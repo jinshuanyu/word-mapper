@@ -4,143 +4,479 @@
       "number": "😡 生氣的",
       "word": "angry",
       "ipa": "/ˈæŋɡri/",
-      "graphemes": ["a", "n", "g", "r", "y"],
-      "phonemes": ["/'æ", "ŋ", "ɡ", "r", "i/"],
-      "phonics": ["/'ă", "ŋ", "ɡ", "r", "ē/"],
-      "tags": ["closed","cluster"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "n",
+        "g",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'æ",
+        "ŋ",
+        "ɡ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'ă",
+        "ŋ",
+        "ɡ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "n 在 g 前發 /ŋ/。"
     },
     {
       "number": "🥱 無聊的(感覺)",
       "word": "bored",
       "ipa": "/bɔrd/",
-      "graphemes": ["b", "or", "ed"],
-      "phonemes": ["/b", "ɔr", "d/"],
-      "phonics": ["/b", "or", "d/"],
-      "tags": ["rcontrolled", "suffix"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "b",
+        "or",
+        "ed"
+      ],
+      "phonemes": [
+        "/b",
+        "ɔr",
+        "d/"
+      ],
+      "phonics": [
+        "/b",
+        "or",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "or 發 /ɔr/；ed 字尾發 /d/。"
     },
     {
       "number": "🤩 興奮的",
       "word": "excited",
       "ipa": "/ɪkˈsaɪtɪd/",
-      "graphemes": ["e", "x", "c", "i", "t", "ed"],
-      "phonemes": ["/ɪ", "k", "'s", "aɪ", "t", "ɪd/"],
-      "phonics": ["/ĭ", "k", "'s", "ī", "t", "ĭd/"],
-      "tags": ["open",  "suffix"],
-      "hearts": [0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "c",
+        "i",
+        "t",
+        "ed"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "k",
+        "'s",
+        "aɪ",
+        "t",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "k",
+        "'s",
+        "ī",
+        "t",
+        "ĭd/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "x 發 /k/；c 發 /s/；i 發 /aɪ/。"
     },
     {
       "number": "😄 快樂的",
       "word": "happy",
       "ipa": "/ˈhæpi/",
-      "graphemes": ["h", "a", "pp", "y"],
-      "phonemes": ["/'h", "æ", "p", "i/"],
-      "phonics": ["/'h", "ă", "p", "ē/"],
-      "tags": [ "closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "a",
+        "pp",
+        "y"
+      ],
+      "phonemes": [
+        "/'h",
+        "æ",
+        "p",
+        "i/"
+      ],
+      "phonics": [
+        "/'h",
+        "ă",
+        "p",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "pp 發單音 /p/。"
     },
     {
       "number": "感興趣的",
       "word": "interested",
       "ipa": "/ˈɪntrɪstɪd/",
-      "graphemes": ["i", "n", "t", "er", "e", "s", "t", "ed"],
-      "phonemes": ["/'ɪ", "n", "t", "r", "ɪ", "s", "t", "ɪd/"],
-      "phonics": ["/'ĭ", "n", "t", "r", "ĭ", "s", "t", "ĭd/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "t",
+        "er",
+        "e",
+        "s",
+        "t",
+        "ed"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "t",
+        "r",
+        "ɪ",
+        "s",
+        "t",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "t",
+        "r",
+        "ĭ",
+        "s",
+        "t",
+        "ĭd/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一個 er 弱化發 /r/；e 發 /ɪ/。"
     },
     {
       "number": "😒 嫉妒的",
       "word": "jealous",
       "ipa": "/ˈdʒɛləs/",
-      "graphemes": ["j", "ea", "l", "ou", "s"],
-      "phonemes": ["/'dʒ", "ɛ", "l", "ə", "s/"],
-      "phonics": ["/'j", "ĕ", "l", "ə", "s/"],
-      "tags": [ "irregular"],
-      "hearts": [0, 1, 0, 1, 0],
+      "graphemes": [
+        "j",
+        "ea",
+        "l",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "ɛ",
+        "l",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'j",
+        "ĕ",
+        "l",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
       "hint": "ea 發短音 /ɛ/；ou 發 /ə/。"
     },
     {
       "number": "🍂 寂寞的",
       "word": "lonely",
       "ipa": "/ˈloʊnli/",
-      "graphemes": ["l", "o", "n", "e", "l", "y"],
-      "phonemes": ["/'l", "oʊ", "n", "-", "l", "i/"],
-      "phonics": ["/'l", "ō", "n", "-", "l", "ē/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "o",
+        "n",
+        "e",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "oʊ",
+        "n",
+        "-",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ō",
+        "n",
+        "-",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o_e 發長音 /oʊ/。"
     },
     {
       "number": "😠 瘋狂/生氣",
       "word": "mad",
       "ipa": "/mæd/",
-      "graphemes": ["m", "a", "d"],
-      "phonemes": ["/m", "æ", "d/"],
-      "phonics": ["/m", "ă", "d/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "m",
+        "a",
+        "d"
+      ],
+      "phonemes": [
+        "/m",
+        "æ",
+        "d/"
+      ],
+      "phonics": [
+        "/m",
+        "ă",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /æ/。"
     },
     {
       "number": "😰 緊張的",
       "word": "nervous",
       "ipa": "/ˈnɝvəs/",
-      "graphemes": ["n", "er", "v", "ou", "s"],
-      "phonemes": ["/'n", "ɝ", "v", "ə", "s/"],
-      "phonics": ["/'n", "er", "v", "ə", "s/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "n",
+        "er",
+        "v",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/'n",
+        "ɝ",
+        "v",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'n",
+        "er",
+        "v",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "er 發 /ɝ/；ou 發 /ə/。"
     },
     {
       "number": "🦚 驕傲的",
       "word": "proud",
       "ipa": "/praʊd/",
-      "graphemes": ["p", "r", "ou", "d"],
-      "phonemes": ["/p", "r", "aʊ", "d/"],
-      "phonics": ["/p", "r", "ow", "d/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "ou",
+        "d"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "aʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ow",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 發 /aʊ/。"
     },
     {
       "number": "😢 難過的",
       "word": "sad",
       "ipa": "/sæd/",
-      "graphemes": ["s", "a", "d"],
-      "phonemes": ["/s", "æ", "d/"],
-      "phonics": ["/s", "ă", "d/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "a",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "æ",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "ă",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /æ/。"
     },
     {
       "number": "😱 害怕的",
       "word": "scared",
       "ipa": "/skɛrd/",
-      "graphemes": ["s", "c", "a","r", "ed"],
-      "phonemes": ["/s", "k", "ɛ","r", "d/"],
-      "phonics": ["/s", "k", "ĕ","r", "d/"],
-      "tags": ["rcontrolled", "suffix"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "s",
+        "c",
+        "a",
+        "r",
+        "ed"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "ɛ",
+        "r",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ĕ",
+        "r",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ar 發 /ɛr/ (例外)；ed 發 /d/。"
     },
     {
       "number": "😞 不快樂的",
       "word": "unhappy",
       "ipa": "/ʌnˈhæpi/",
-      "graphemes": ["u", "n", "h", "a", "pp", "y"],
-      "phonemes": ["/ʌ", "n", "'h", "æ", "p", "i/"],
-      "phonics": ["/ŭ", "n", "'h", "ă", "p", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "u",
+        "n",
+        "h",
+        "a",
+        "pp",
+        "y"
+      ],
+      "phonemes": [
+        "/ʌ",
+        "n",
+        "'h",
+        "æ",
+        "p",
+        "i/"
+      ],
+      "phonics": [
+        "/ŭ",
+        "n",
+        "'h",
+        "ă",
+        "p",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "un 字首 + happy。"
     }
   ]

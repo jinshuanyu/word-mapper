@@ -131,8 +131,7 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
-        "rcontrolled"
+        "magic_e"
       ],
       "hearts": [
         false,
@@ -248,7 +247,6 @@
       ],
       "tags": [
         "vowel_team",
-        "rcontrolled",
         "digraph"
       ],
       "hearts": [

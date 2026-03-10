@@ -4,333 +4,1190 @@
       "number": "🏃‍♂️ 活躍的",
       "word": "active",
       "ipa": "/ˈæktɪv/",
-      "graphemes": ["a", "c", "t", "i", "v", "e"],
-      "phonemes": ["/'æ", "k", "t", "ɪ", "v", "-/"],
-      "phonics": ["/'ă", "k", "t", "ĭ", "v", "-/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "c",
+        "t",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/'æ",
+        "k",
+        "t",
+        "ɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/'ă",
+        "k",
+        "t",
+        "ĭ",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ve 字尾 e 不發音。"
     },
     {
       "number": "👎 壞的",
       "word": "bad",
       "ipa": "/bæd/",
-      "graphemes": ["b", "a", "d"],
-      "phonemes": ["/b", "æ", "d/"],
-      "phonics": ["/b", "ă", "d/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "d"
+      ],
+      "phonemes": [
+        "/b",
+        "æ",
+        "d/"
+      ],
+      "phonics": [
+        "/b",
+        "ă",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /ă/。"
     },
     {
       "number": "🦯 盲的",
       "word": "blind",
       "ipa": "/blaɪnd/",
-      "graphemes": ["b", "l", "i", "n", "d"],
-      "phonemes": ["/b", "l", "aɪ", "n", "d/"],
-      "phonics": ["/b", "l", "ī", "n", "d/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "b",
+        "l",
+        "i",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "aɪ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ī",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "i 在 nd 前不規則發長音 /ī/。"
     },
     {
       "number": "🥱 無趣的(事物)",
       "word": "boring",
       "ipa": "/ˈbɔrɪŋ/",
-      "graphemes": ["b", "or", "i", "ng"],
-      "phonemes": ["/'b", "ɔr", "ɪ", "ŋ/"],
-      "phonics": ["/'b", "or", "ĭ", "ŋ/"],
-      "tags": ["rcontrolled", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "or",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɔr",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'b",
+        "or",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "or 發 /or/；ng 發 /ŋ/。"
     },
     {
       "number": "🐝 忙碌的",
       "word": "busy",
       "ipa": "/ˈbɪzi/",
-      "graphemes": ["b", "u", "s", "y"],
-      "phonemes": ["/'b", "ɪ", "z", "i/"],
-      "phonics": ["/'b", "ĭ", "z", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "b",
+        "u",
+        "s",
+        "y"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɪ",
+        "z",
+        "i/"
+      ],
+      "phonics": [
+        "/'b",
+        "ĭ",
+        "z",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "u 不規則發 /ĭ/；s 發 /z/。"
     },
     {
       "number": "👶 孩子氣的",
       "word": "childish",
       "ipa": "/ˈtʃaɪldɪʃ/",
-      "graphemes": ["ch", "i", "l", "d", "i", "sh"],
-      "phonemes": ["/'tʃ", "aɪ", "l", "d", "ɪ", "ʃ/"],
-      "phonics": ["/'ch", "ī", "l", "d", "ĭ", "sh/"],
-      "tags": ["digraph", "irregular"],
-      "hearts": [0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "ch",
+        "i",
+        "l",
+        "d",
+        "i",
+        "sh"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "aɪ",
+        "l",
+        "d",
+        "ɪ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ī",
+        "l",
+        "d",
+        "ĭ",
+        "sh/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 在 ld 前發長音 /ī/。"
     },
     {
       "number": "🐣 天真爛漫的",
       "word": "childlike",
       "ipa": "/ˈtʃaɪldlaɪk/",
-      "graphemes": ["ch", "i", "l", "d", "l", "i", "k", "e"],
-      "phonemes": ["/'tʃ", "aɪ", "l", "d", "l", "aɪ", "k", "-/"],
-      "phonics": ["/'ch", "ī", "l", "d", "l", "ī", "k", "-/"],
-      "tags": ["digraph",  "irregular"],
-      "hearts": [0, 1, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "ch",
+        "i",
+        "l",
+        "d",
+        "l",
+        "i",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "aɪ",
+        "l",
+        "d",
+        "l",
+        "aɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ī",
+        "l",
+        "d",
+        "l",
+        "ī",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第一個 i 發 /ī/；字尾 i_e 發 /ī/。"
     },
     {
       "number": "🤓 聰明的",
       "word": "clever",
       "ipa": "/ˈklɛvɚ/",
-      "graphemes": ["c", "l", "e", "v", "er"],
-      "phonemes": ["/'k", "l", "ɛ", "v", "ɚ/"],
-      "phonics": ["/'k", "l", "ĕ", "v", "er/"],
-      "tags": [ "closed"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "e",
+        "v",
+        "er"
+      ],
+      "phonemes": [
+        "/'k",
+        "l",
+        "ɛ",
+        "v",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "l",
+        "ĕ",
+        "v",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "er 發 /er/。"
     },
     {
       "number": "😎 自信的",
       "word": "confident",
       "ipa": "/ˈkɑnfədənt/",
-      "graphemes": ["c", "o", "n", "f", "i", "d", "e", "n", "t"],
-      "phonemes": ["/'k", "ɑ", "n", "f", "ə", "d", "ə", "n", "t/"],
-      "phonics": ["/'k", "ŏ", "n", "f", "ə", "d", "ə", "n", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "n",
+        "f",
+        "i",
+        "d",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "n",
+        "f",
+        "ə",
+        "d",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "n",
+        "f",
+        "ə",
+        "d",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 與 e 皆弱化發 /ə/。"
     },
     {
       "number": "😎 酷的",
       "word": "cool",
       "ipa": "/kul/",
-      "graphemes": ["c", "oo", "l"],
-      "phonemes": ["/k", "u", "l/"],
-      "phonics": ["/k", "ū", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/k",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/k",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發長音 /ū/。"
     },
     {
       "number": "🤪 瘋狂的",
       "word": "crazy",
       "ipa": "/ˈkreɪzi/",
-      "graphemes": ["c", "r", "a", "z", "y"],
-      "phonemes": ["/'k", "r", "eɪ", "z", "i/"],
-      "phonics": ["/'k", "r", "ā", "z", "ē/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "r",
+        "a",
+        "z",
+        "y"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "eɪ",
+        "z",
+        "i/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "ā",
+        "z",
+        "ē/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發長音 /ā/。"
     },
     {
       "number": "🤔 好奇的",
       "word": "curious",
       "ipa": "/ˈkjʊriəs/",
-      "graphemes": ["c", "u", "r", "i", "ou", "s"],
-      "phonemes": ["/'k", "jʊ","r", "i", "ə", "s/"],
-      "phonics": ["/'k", "yoo", "r", "ē", "ə", "s/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0, 1, 0],
+      "graphemes": [
+        "c",
+        "u",
+        "r",
+        "i",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/'k",
+        "jʊ",
+        "r",
+        "i",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'k",
+        "yoo",
+        "r",
+        "ē",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ur 發 /yʊr/；ou 發 /ə/。"
     },
     {
       "number": "🧏 聾的",
       "word": "deaf",
       "ipa": "/dɛf/",
-      "graphemes": ["d", "ea", "f"],
-      "phonemes": ["/d", "ɛ", "f/"],
-      "phonics": ["/d", "ĕ", "f/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "d",
+        "ea",
+        "f"
+      ],
+      "phonemes": [
+        "/d",
+        "ɛ",
+        "f/"
+      ],
+      "phonics": [
+        "/d",
+        "ĕ",
+        "f/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "ea 不規則發短音 /ĕ/。"
     },
     {
       "number": "😶 啞的/笨的",
       "word": "dumb",
       "ipa": "/dʌm/",
-      "graphemes": ["d", "u", "m", "b"],
-      "phonemes": ["/d", "ʌ", "m", "-/"],
-      "phonics": ["/d", "ŭ", "m", "-/"],
-      "tags": ["closed","silent_consonant"],
-      "hearts": [0, 0, 0, 1],
+      "graphemes": [
+        "d",
+        "u",
+        "m",
+        "b"
+      ],
+      "phonemes": [
+        "/d",
+        "ʌ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/d",
+        "ŭ",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "cvc",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "b 不發音。"
     },
     {
       "number": "⚡ 精力充沛的",
       "word": "energetic",
       "ipa": "/ˌɛnɚˈdʒɛtɪk/",
-      "graphemes": ["e", "n", "er", "g", "e", "t", "i", "c"],
-      "phonemes": ["/ɛ", "n", "ɚ", "'dʒ", "ɛ", "t", "ɪ", "k/"],
-      "phonics": ["/ĕ", "n", "er", "'-j", "ĕ", "t", "ĭ", "k/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "n",
+        "er",
+        "g",
+        "e",
+        "t",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/ɛ",
+        "n",
+        "ɚ",
+        "'dʒ",
+        "ɛ",
+        "t",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/ĕ",
+        "n",
+        "er",
+        "'-j",
+        "ĕ",
+        "t",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "er 發 /er/；g 發軟音 /j/。"
     },
     {
       "number": "😈 邪惡的",
       "word": "evil",
       "ipa": "/ˈivəl/",
-      "graphemes": ["e", "v", "i", "l"],
-      "phonemes": ["/'i", "v", "ə", "l/"],
-      "phonics": ["/'ē", "v", "ə", "l/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "v",
+        "i",
+        "l"
+      ],
+      "phonemes": [
+        "/'i",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'ē",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "e 發長音 /ē/；i 弱化。"
     },
     {
       "number": "🤩 令人興奮的",
       "word": "exciting",
       "ipa": "/ɪkˈsaɪtɪŋ/",
-      "graphemes": ["e", "x", "c", "i", "t", "i", "ng"],
-      "phonemes": ["/ɪ", "k", "'s", "aɪ", "t", "ɪ", "ŋ/"],
-      "phonics": ["/ĭ", "k", "'s", "ī", "t", "ĭ", "ŋ/"],
-      "tags": ["magic_e", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "x",
+        "c",
+        "i",
+        "t",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "k",
+        "'s",
+        "aɪ",
+        "t",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "k",
+        "'s",
+        "ī",
+        "t",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "magic_e",
+        "suffix",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "x 發 /k/；c 發 /s/；i 發 /ī/。"
     },
     {
-      "number": "🌟 有名的", "word": "famous", "ipa": "/ˈfeɪməs/", "graphemes": ["f", "a", "m", "ou", "s"], "phonemes": ["/'f", "eɪ", "m", "ə", "s/"], "phonics": ["/'f", "ā", "m", "ə", "s/"], "tags": ["open"], "hearts": [0, 0, 0, 1, 0], "hint": "a 發長音 /ā/；ou 發 /ə/。"
+      "number": "🌟 有名的",
+      "word": "famous",
+      "ipa": "/ˈfeɪməs/",
+      "graphemes": [
+        "f",
+        "a",
+        "m",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/'f",
+        "eɪ",
+        "m",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'f",
+        "ā",
+        "m",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "a 發長音 /ā/；ou 發 /ə/。"
     },
     {
       "number": "🤡 愚蠢的",
       "word": "foolish",
       "ipa": "/ˈfulɪʃ/",
-      "graphemes": ["f", "oo", "l", "i", "sh"],
-      "phonemes": ["/'f", "u", "l", "ɪ", "ʃ/"],
-      "phonics": ["/'f", "ū", "l", "ĭ", "sh/"],
-      "tags": ["vowel_team", "digraph"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "oo",
+        "l",
+        "i",
+        "sh"
+      ],
+      "phonemes": [
+        "/'f",
+        "u",
+        "l",
+        "ɪ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/'f",
+        "ū",
+        "l",
+        "ĭ",
+        "sh/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發 /ū/。"
     },
     {
       "number": "😂 好笑的",
       "word": "funny",
       "ipa": "/ˈfʌni/",
-      "graphemes": ["f", "u", "nn", "y"],
-      "phonemes": ["/'f", "ʌ", "n", "i/"],
-      "phonics": ["/'f", "ŭ", "n", "ē/"],
-      "tags": [ "closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "u",
+        "nn",
+        "y"
+      ],
+      "phonemes": [
+        "/'f",
+        "ʌ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'f",
+        "ŭ",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短音 /ŭ/；y 發 /ē/。"
     },
     {
       "number": "👍 好的",
       "word": "good",
       "ipa": "/ɡʊd/",
-      "graphemes": ["g", "oo", "d"],
-      "phonemes": ["/ɡ", "ʊ", "d/"],
-      "phonics": ["/ɡ", "oo", "d/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "g",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "oo",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發短音 /ʊ/。"
     },
     {
       "number": "🤣 幽默的",
       "word": "humorous",
       "ipa": "/ˈhjumərəs/",
-      "graphemes": ["h", "u", "m", "or", "ou", "s"],
-      "phonemes": ["/'h", "ju", "m", "ɚ", "ə", "s/"],
-      "phonics": ["/'h", "yū", "m", "er", "ə", "s/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "h",
+        "u",
+        "m",
+        "or",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/'h",
+        "ju",
+        "m",
+        "ɚ",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'h",
+        "yū",
+        "m",
+        "er",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "u 發 /yū/；ou 發 /ə/。"
     },
     {
       "number": "🧠 聰明的",
       "word": "intelligent",
       "ipa": "/ɪnˈtɛlədʒənt/",
-      "graphemes": ["i", "n", "t", "e", "ll", "i", "g", "e", "n", "t"],
-      "phonemes": ["/ɪ", "n", "'t", "ɛ", "l", "ə", "dʒ", "ə", "n", "t/"],
-      "phonics": ["/ĭ", "n", "'t", "ĕ", "l", "ə", "-j", "ə", "n", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "t",
+        "e",
+        "ll",
+        "i",
+        "g",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "'t",
+        "ɛ",
+        "l",
+        "ə",
+        "dʒ",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "'t",
+        "ĕ",
+        "l",
+        "ə",
+        "-j",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "第二個 i 弱化；g 發軟音 /j/。"
     },
     {
       "number": "💖 可愛的",
       "word": "lovely",
       "ipa": "/ˈlʌvli/",
-      "graphemes": ["l", "o", "v", "e", "l", "y"],
-      "phonemes": ["/'l", "ʌ", "v", "-", "l", "i/"],
-      "phonics": ["/'l", "ŭ", "v", "-", "l", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 1, 0, 0],
+      "graphemes": [
+        "l",
+        "o",
+        "v",
+        "e",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "ʌ",
+        "v",
+        "-",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ŭ",
+        "v",
+        "-",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "o 不規則發 /ŭ/；e 不發音。"
     },
     {
       "number": "🏚 貧窮的",
       "word": "poor",
       "ipa": "/pʊr/",
-      "graphemes": ["p", "oo","r"],
-      "phonemes": ["/p", "ʊ","r/"],
-      "phonics": ["/p", "oo","r/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "p",
+        "oo",
+        "r"
+      ],
+      "phonemes": [
+        "/p",
+        "ʊ",
+        "r/"
+      ],
+      "phonics": [
+        "/p",
+        "oo",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "oor 發 /oor/。"
     },
     {
       "number": "💰 富有的",
       "word": "rich",
       "ipa": "/rɪtʃ/",
-      "graphemes": ["r", "i", "ch"],
-      "phonemes": ["/r", "ɪ", "tʃ/"],
-      "phonics": ["/r", "ĭ", "ch/"],
-      "tags": ["cvc","digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "i",
+        "ch"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ch 發 /ch/。"
     },
     {
       "number": "🤪 傻的",
       "word": "silly",
       "ipa": "/ˈsɪli/",
-      "graphemes": ["s", "i", "ll", "y"],
-      "phonemes": ["/'s", "ɪ", "l", "i/"],
-      "phonics": ["/'s", "ĭ", "l", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "i",
+        "ll",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɪ",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĭ",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "y 字尾發 /ē/。"
     },
     {
       "number": "🤓 機靈的",
       "word": "smart",
       "ipa": "/smɑrt/",
-      "graphemes": ["s", "m", "ar", "t"],
-      "phonemes": ["/s", "m", "ɑr", "t/"],
-      "phonics": ["/s", "m", "ɑr", "t/"],
-      "tags": ["cluster","rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "m",
+        "ar",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "ɑr",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ɑr",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ar/。"
     },
     {
       "number": "🥴 笨的",
       "word": "stupid",
       "ipa": "/ˈstupɪd/",
-      "graphemes": ["s", "t", "u", "p", "i", "d"],
-      "phonemes": ["/'s", "t", "u", "p", "ɪ", "d/"],
-      "phonics": ["/'s", "t", "ū", "p", "ĭ", "d/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "u",
+        "p",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "u",
+        "p",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ū",
+        "p",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發長音 /ū/。"
     },
     {
       "number": "🏆 成功的",
       "word": "successful",
       "ipa": "/səkˈsɛsfəl/",
-      "graphemes": ["s", "u", "c", "c", "e", "ss", "f", "u", "l"],
-      "phonemes": ["/s", "ə", "k", "'s", "ɛ", "s", "f", "ə", "l/"],
-      "phonics": ["/s", "ə", "k", "'s", "ĕ", "s", "f", "ə", "l/"],
-      "tags": ["closed", "floss"],
-      "hearts": [0, 0, 1, 1, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "c",
+        "c",
+        "e",
+        "ss",
+        "f",
+        "u",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "ə",
+        "k",
+        "'s",
+        "ɛ",
+        "s",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "ə",
+        "k",
+        "'s",
+        "ĕ",
+        "s",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "u 弱化；cc 第一個 c 發 /k/ 第二個 c 發 /s/。"
     },
     {
       "number": "🦉 有智慧的",
       "word": "wise",
       "ipa": "/waɪz/",
-      "graphemes": ["w", "i", "s", "e"],
-      "phonemes": ["/w", "aɪ", "z", "-/"],
-      "phonics": ["/w", "ī", "z", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "aɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ī",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "s 發 /z/。"
     }
   ]

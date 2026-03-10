@@ -4,77 +4,308 @@
       "number": "✈️ 在國外",
       "word": "abroad",
       "ipa": "/əˈbrɔd/",
-      "graphemes": ["a", "b", "r", "oa", "d"],
-      "phonemes": ["/ə", "'b", "r", "ɔ", "d/"],
-      "phonics": ["/ə", "'b", "r", "aw", "d/"],
-      "tags": ["cluster", "irregular", "vowel_team"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "a",
+        "b",
+        "r",
+        "oa",
+        "d"
+      ],
+      "phonemes": [
+        "/ə",
+        "'b",
+        "r",
+        "ɔ",
+        "d/"
+      ],
+      "phonics": [
+        "/ə",
+        "'b",
+        "r",
+        "aw",
+        "d/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "重音在 -broad；a 弱化為 /ə/；br 為 cluster；oa 對應 /ɔ/（需記）。"
     },
     {
       "number": "📍 任何地方",
       "word": "anywhere",
       "ipa": "/ˈɛniwɛr/",
-      "graphemes": ["a", "n", "y", "wh", "e", "r", "e"],
-      "phonemes": ["/'ɛ", "n", "i", "w", "ɛ", "r", "-/"],
-      "phonics": ["/'ĕ", "n", "ē", "w", "ĕ", "r", "-/"],
-      "tags": ["closed", "digraph", "irregular", "silent_consonant"],
-      "hearts": [1, 0, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "n",
+        "y",
+        "wh",
+        "e",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "n",
+        "i",
+        "w",
+        "ɛ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "n",
+        "ē",
+        "w",
+        "ĕ",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 an-（閉音節）；a 發 /ɛ/（需記）；y 發 /ē/；wh 的 h 不發音；最後 e 不發音。"
     },
     {
       "number": "🌎 到處",
       "word": "everywhere",
       "ipa": "/ˈɛvɚiwɛr/",
-      "graphemes": ["e", "v", "er", "y", "wh", "e", "r", "e"],
-      "phonemes": ["/'ɛ", "v", "ɚ", "i", "w", "ɛ", "r", "-/"],
-      "phonics": ["/'ĕ", "v", "er", "ē", "w", "ĕ", "r", "-/"],
-      "tags": ["closed", "digraph", "rcontrolled", "silent_consonant"],
-      "hearts": [0, 0, 0, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "v",
+        "er",
+        "y",
+        "wh",
+        "e",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "v",
+        "ɚ",
+        "i",
+        "w",
+        "ɛ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "v",
+        "er",
+        "ē",
+        "w",
+        "ĕ",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 ev-（閉音節）；e 發短音 /ĕ/；er 為 r-controlled；y 發 /ē/；wh 的 h 不發音；最後 e 不發音。"
     },
     {
       "number": "🗺️ 某處",
       "word": "somewhere",
       "ipa": "/ˈsʌmwɛr/",
-      "graphemes": ["s", "o", "m", "e", "wh", "e", "r", "e"],
-      "phonemes": ["/'s", "ʌ", "m", "-", "w", "ɛ", "r", "-/"],
-      "phonics": ["/'s", "ŭ", "m", "-", "w", "ĕ", "r", "-/"],
-      "tags": ["closed", "digraph", "silent_consonant"],
-      "hearts": [0, 0, 0, 0, 1, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "o",
+        "m",
+        "e",
+        "wh",
+        "e",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/'s",
+        "ʌ",
+        "m",
+        "-",
+        "w",
+        "ɛ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŭ",
+        "m",
+        "-",
+        "w",
+        "ĕ",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 sum-（閉音節）；o 發短音 /ŭ/；some 的 e 不發音；wh 的 h 不發音；最後 e 不發音。"
     },
     {
       "number": "🤔 也許",
       "word": "maybe",
       "ipa": "/ˈmeɪbi/",
-      "graphemes": ["m", "ay", "b", "e"],
-      "phonemes": ["/'m", "eɪ", "b", "i/"],
-      "phonics": ["/'m", "ā", "b", "ē/"],
-      "tags": ["open", "vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "ay",
+        "b",
+        "e"
+      ],
+      "phonemes": [
+        "/'m",
+        "eɪ",
+        "b",
+        "i/"
+      ],
+      "phonics": [
+        "/'m",
+        "ā",
+        "b",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 may-；ay 發長音 /ā/；字尾 e 發 /ē/。"
     },
     {
       "number": "🤷 或許",
       "word": "perhaps",
       "ipa": "/pɚˈhæps/",
-      "graphemes": ["p", "er", "h", "a", "p", "s"],
-      "phonemes": ["/p", "ɚ", "'h", "æ", "p", "s/"],
-      "phonics": ["/p", "er", "'h", "ă", "p", "s/"],
-      "tags": ["closed", "rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "er",
+        "h",
+        "a",
+        "p",
+        "s"
+      ],
+      "phonemes": [
+        "/p",
+        "ɚ",
+        "'h",
+        "æ",
+        "p",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "er",
+        "'h",
+        "ă",
+        "p",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -haps（閉音節）；er 為 r-controlled；a 發短音 /ă/。"
     },
     {
       "number": "🤞 大概",
       "word": "probably",
       "ipa": "/ˈprɑbəbli/",
-      "graphemes": ["p", "r", "o", "b", "a", "b", "l", "y"],
-      "phonemes": ["/'p", "r", "ɑ", "b", "ə", "b", "l", "i/"],
-      "phonics": ["/'p", "r", "ŏ", "b", "ə", "b", "l", "ē/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "b",
+        "a",
+        "b",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɑ",
+        "b",
+        "ə",
+        "b",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ŏ",
+        "b",
+        "ə",
+        "b",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 prob-（閉音節）；pr 為 cluster；o 對應 /ɑ/（用 ŏ）；a 弱化為 /ə/；y 發 /ē/。"
     }
   ]

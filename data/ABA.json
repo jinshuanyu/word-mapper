@@ -29,7 +29,6 @@
         "-/"
       ],
       "tags": [
-        "closed",
         "irregular"
       ],
       "hearts": [
@@ -106,7 +105,6 @@
         "-/"
       ],
       "tags": [
-        "cvc",
         "irregular"
       ],
       "hearts": [
@@ -240,9 +238,7 @@
         "-/"
       ],
       "tags": [
-        "closed",
-        "irregular",
-        "rcontrolled"
+        "irregular"
       ],
       "hearts": [
         0,
@@ -287,8 +283,7 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
-        "rcontrolled"
+        "magic_e"
       ],
       "hearts": [
         0,

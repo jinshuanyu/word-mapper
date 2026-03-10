@@ -335,7 +335,8 @@
         "ŋ/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "digraph"
       ],
       "hearts": [
         0,
@@ -364,7 +365,8 @@
         "ŋ/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "digraph"
       ],
       "hearts": [
         0,
@@ -393,7 +395,8 @@
         "ŋ/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "digraph"
       ],
       "hearts": [
         0,
@@ -527,7 +530,8 @@
         "k/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -560,7 +564,8 @@
         "k/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -593,7 +598,8 @@
         "k/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,

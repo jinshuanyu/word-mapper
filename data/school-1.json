@@ -4,164 +4,692 @@
       "number": "🏫 校園",
       "word": "campus",
       "ipa": "/ˈkæmpəs/",
-      "graphemes": ["c", "a", "m", "p", "u", "s"],
-      "phonemes": ["/'k", "æ", "m", "p", "ə", "s/"],
-      "phonics": ["/'k", "ă", "m", "p", "ə", "s/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "a",
+        "m",
+        "p",
+        "u",
+        "s"
+      ],
+      "phonemes": [
+        "/'k",
+        "æ",
+        "m",
+        "p",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'k",
+        "ă",
+        "m",
+        "p",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 弱化發 /ə/。"
     },
     {
       "number": "🏫 班級",
       "word": "class",
       "ipa": "/klæs/",
-      "graphemes": ["c", "l", "a", "ss"],
-      "phonemes": ["/k", "l", "æ", "s/"],
-      "phonics": ["/k", "l", "ă", "s/"],
-      "tags": ["cluster", "closed", "floss"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /æ/；ss 發 /s/。"
     },
     {
       "number": "🏫 教室",
       "word": "classroom",
       "ipa": "/ˈklæsrum/",
-      "graphemes": ["c", "l", "a", "ss", "r", "oo", "m"],
-      "phonemes": ["/'k", "l", "æ", "s", "r", "u", "m/"],
-      "phonics": ["/'k", "l", "ă", "s", "r", "ū", "m/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "a",
+        "ss",
+        "r",
+        "oo",
+        "m"
+      ],
+      "phonemes": [
+        "/'k",
+        "l",
+        "æ",
+        "s",
+        "r",
+        "u",
+        "m/"
+      ],
+      "phonics": [
+        "/'k",
+        "l",
+        "ă",
+        "s",
+        "r",
+        "ū",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ss 發 /s/；oo 發 /u/。"
     },
     {
       "number": "🎓 大學",
       "word": "college",
       "ipa": "/ˈkɑlɪdʒ/",
-      "graphemes": ["c", "o", "ll", "e", "ge"],
-      "phonemes": ["/'k", "ɑ", "l", "ɪ", "dʒ/"],
-      "phonics": ["/'k", "ŏ", "l", "ĭ", "-j/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "ll",
+        "e",
+        "ge"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "l",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "l",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ge 字尾發 /dʒ/。"
     },
     {
       "number": "🏫 國小",
       "word": "elementary school",
       "ipa": "/ˌɛləˈmɛntəri skul/",
-      "graphemes": ["e", "l", "e", "m", "e", "n", "t", "a", "r", "y", " ", "s","ch", "oo", "l"],
-      "phonemes": ["/ɛ", "l", "ə", "'m", "ɛ", "n", "t", "ə", "r", "i", " ", "s", "k", "u", "l/"],
-      "phonics": ["/ĕ", "l", "ə", "'m", "ĕ", "n", "t", "ə", "r", "ē", " ", "s", "k", "ū", "l/"],
-      "tags": ["closed", "cluster", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "e",
+        "l",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t",
+        "a",
+        "r",
+        "y",
+        " ",
+        "s",
+        "ch",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/ɛ",
+        "l",
+        "ə",
+        "'m",
+        "ɛ",
+        "n",
+        "t",
+        "ə",
+        "r",
+        "i",
+        " ",
+        "s",
+        "k",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/ĕ",
+        "l",
+        "ə",
+        "'m",
+        "ĕ",
+        "n",
+        "t",
+        "ə",
+        "r",
+        "ē",
+        " ",
+        "s",
+        "k",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "oo 發 /u/。"
     },
     {
       "number": "👮 警衛",
       "word": "guard",
       "ipa": "/ɡɑrd/",
-      "graphemes": ["gu", "ar", "d"],
-      "phonemes": ["/ɡ", "ɑr", "d/"],
-      "phonics": ["/ɡ", "ɑr", "d/"],
-      "tags": ["rcontrolled", "cluster"],
-      "hearts": [1, 0, 0],
+      "graphemes": [
+        "gu",
+        "ar",
+        "d"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɑr",
+        "d/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ɑr",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "cluster"
+      ],
+      "hearts": [
+        1,
+        0,
+        0
+      ],
       "hint": "gu 發 /ɡ/；ar 發 /ɑr/。"
     },
     {
       "number": "🏋️ 體育館",
       "word": "gym",
       "ipa": "/dʒɪm/",
-      "graphemes": ["g", "y", "m"],
-      "phonemes": ["/dʒ", "ɪ", "m/"],
-      "phonics": ["/-j", "ĭ", "m/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "g",
+        "y",
+        "m"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "ɪ",
+        "m/"
+      ],
+      "phonics": [
+        "/-j",
+        "ĭ",
+        "m/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "g 發軟音 /dʒ/；y 發 /ɪ/。"
     },
     {
       "number": "🏫 國中",
       "word": "junior high school",
       "ipa": "/ˈdʒunjɚ haɪ skul/",
-      "graphemes": ["j", "u", "n", "i", "or", " ", "h", "igh", " ", "s","ch", "oo", "l"],
-      "phonemes": ["/'dʒ", "u", "n", "j", "ɚ", " ", "h", "aɪ", " ", "s", "k", "u", "l/"],
-      "phonics": ["/'j", "ū", "n", "y", "er", " ", "h", "ī", " ", "s", "k", "ū", "l/"],
-      "tags": ["open", "digraph"],
-      "hearts": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "j",
+        "u",
+        "n",
+        "i",
+        "or",
+        " ",
+        "h",
+        "igh",
+        " ",
+        "s",
+        "ch",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "u",
+        "n",
+        "j",
+        "ɚ",
+        " ",
+        "h",
+        "aɪ",
+        " ",
+        "s",
+        "k",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/'j",
+        "ū",
+        "n",
+        "y",
+        "er",
+        " ",
+        "h",
+        "ī",
+        " ",
+        "s",
+        "k",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "open",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "igh 發 /aɪ/；oo 發 /u/。"
     },
     {
       "number": "📚 圖書館",
       "word": "library",
       "ipa": "/ˈlaɪbrɛri/",
-      "graphemes": ["l", "i", "b", "r", "a", "r", "y"],
-      "phonemes": ["/'l", "aɪ", "b", "r", "ɛ", "r", "i/"],
-      "phonics": ["/'l", "ī", "b", "r", "ĕ", "r", "ē/"],
-      "tags": ["open", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "i",
+        "b",
+        "r",
+        "a",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "aɪ",
+        "b",
+        "r",
+        "ɛ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ī",
+        "b",
+        "r",
+        "ĕ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 發 /aɪ/；br 混合音。"
     },
     {
       "number": "🛝 操場",
       "word": "playground",
       "ipa": "/ˈpleɪɡraʊnd/",
-      "graphemes": ["p", "l", "ay", "g", "r", "ou", "n", "d"],
-      "phonemes": ["/'p", "l", "eɪ", "ɡ", "r", "aʊ", "n", "d/"],
-      "phonics": ["/'p", "l", "ā", "ɡ", "r", "ow", "n", "d/"],
-      "tags": ["cluster", "vowel_team", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "l",
+        "ay",
+        "g",
+        "r",
+        "ou",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/'p",
+        "l",
+        "eɪ",
+        "ɡ",
+        "r",
+        "aʊ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/'p",
+        "l",
+        "ā",
+        "ɡ",
+        "r",
+        "ow",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ay 發 /eɪ/；ou 發 /aʊ/。"
     },
     {
       "number": "🏫 學校",
       "word": "school",
       "ipa": "/skul/",
-      "graphemes": ["s","ch", "oo", "l"],
-      "phonemes": ["/s", "k", "u", "l/"],
-      "phonics": ["/s", "k", "ū", "l/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "s",
+        "ch",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "sch 發 /sk/；oo 發 /u/。"
     },
     {
       "number": "蹺蹺板",
-      "word": "seesaw", "ipa": "/ˈsiˌsɔ/",
-      "graphemes": ["s", "ee", "s", "aw"],
-      "phonemes": ["/'s", "i", "s", "ɔ/"],
-      "phonics": ["/'s", "ē", "s", "aw/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "word": "seesaw",
+      "ipa": "/ˈsiˌsɔ/",
+      "graphemes": [
+        "s",
+        "ee",
+        "s",
+        "aw"
+      ],
+      "phonemes": [
+        "/'s",
+        "i",
+        "s",
+        "ɔ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ē",
+        "s",
+        "aw/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發 /i/；aw 發 /ɔ/。"
     },
     {
       "number": "🏫 高中",
       "word": "senior high school",
       "ipa": "/ˈsinjɚ haɪ skul/",
-      "graphemes": ["s", "e", "n", "i", "or", " ", "h", "igh", " ", "s","ch", "oo", "l"],
-      "phonemes": ["/'s", "i", "n", "j", "ɚ", " ", "h", "aɪ", " ", "s", "k", "u", "l/"],
-      "phonics": ["/'s", "ē", "n", "y", "er", " ", "h", "ī", " ", "s", "k", "ū", "l/"],
-      "tags": ["open", "digraph"],
-      "hearts": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "s",
+        "e",
+        "n",
+        "i",
+        "or",
+        " ",
+        "h",
+        "igh",
+        " ",
+        "s",
+        "ch",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/'s",
+        "i",
+        "n",
+        "j",
+        "ɚ",
+        " ",
+        "h",
+        "aɪ",
+        " ",
+        "s",
+        "k",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/'s",
+        "ē",
+        "n",
+        "y",
+        "er",
+        " ",
+        "h",
+        "ī",
+        " ",
+        "s",
+        "k",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "open",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "e 發 /i/；igh 發 /aɪ/。"
     },
     {
       "number": "🛝 溜滑梯",
       "word": "slide",
       "ipa": "/slaɪd/",
-      "graphemes": ["s", "l", "i", "d", "e"],
-      "phonemes": ["/s", "l", "aɪ", "d", "-/"],
-      "phonics": ["/s", "l", "ī", "d", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "l",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "l",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "l",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發 /aɪ/。"
     },
     {
       "number": "🎓 大學",
       "word": "university",
       "ipa": "/ˌjunəˈvɝsəti/",
-      "graphemes": ["u", "n", "i", "v", "er", "s", "i", "t", "y"],
-      "phonemes": ["/ju", "n", "ə", "'v", "ɝ", "s", "ə", "t", "i/"],
-      "phonics": ["/yū", "n", "ə", "'v", "er", "s", "ə", "t", "ē/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "u",
+        "n",
+        "i",
+        "v",
+        "er",
+        "s",
+        "i",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/ju",
+        "n",
+        "ə",
+        "'v",
+        "ɝ",
+        "s",
+        "ə",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/yū",
+        "n",
+        "ə",
+        "'v",
+        "er",
+        "s",
+        "ə",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "er 在重音節發 /ɝ/。"
     }
   ]

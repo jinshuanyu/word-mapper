@@ -4,286 +4,946 @@
       "number": "🎸 樂團",
       "word": "band",
       "ipa": "/bænd/",
-      "graphemes": ["b", "a", "n", "d"],
-      "phonemes": ["/b", "æ", "n", "d/"],
-      "phonics": ["/b", "ă", "n", "d/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/b",
+        "æ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/b",
+        "ă",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🃏 卡片",
       "word": "card",
       "ipa": "/kɑrd/",
-      "graphemes": ["c", "ar", "d"],
-      "phonemes": ["/k", "ɑr", "d/"],
-      "phonics": ["/k", "ɑr", "d/"],
-      "tags": ["rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "ar",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "ɑr",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "ɑr",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ar 發 /ɑr/。"
     },
     {
       "number": "📺 卡通",
       "word": "cartoon",
       "ipa": "/kɑrˈtun/",
-      "graphemes": ["c", "ar", "t", "oo", "n"],
-      "phonemes": ["/k", "ɑr", "'t", "u", "n/"],
-      "phonics": ["/k", "ɑr", "'t", "ū", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "ar",
+        "t",
+        "oo",
+        "n"
+      ],
+      "phonemes": [
+        "/k",
+        "ɑr",
+        "'t",
+        "u",
+        "n/"
+      ],
+      "phonics": [
+        "/k",
+        "ɑr",
+        "'t",
+        "ū",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -toon；oo 發 /ū/。"
     },
     {
       "number": "📖 漫畫",
       "word": "comic",
       "ipa": "/ˈkɑmɪk/",
-      "graphemes": ["c", "o", "m", "i", "c"],
-      "phonemes": ["/'k", "ɑ", "m", "ɪ", "k/"],
-      "phonics": ["/'k", "ŏ", "m", "ĭ", "k/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "m",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "m",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "m",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 發 /ɑ/。"
     },
     {
       "number": "🎮 電腦遊戲",
       "word": "computer game",
       "ipa": "/kəmˈpjutɚ ɡeɪm/",
-      "graphemes": ["c", "o", "m", "p", "u", "t", "er", " ", "g", "a", "m", "e"],
-      "phonemes": ["/k", "ə", "m", "'p", "ju", "t", "ɚ", " ", "ɡ", "eɪ", "m", "-/"],
-      "phonics": ["/k", "ə", "m", "'p", "yū", "t", "er", " ", "ɡ", "ā", "m", "-/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "m",
+        "p",
+        "u",
+        "t",
+        "er",
+        " ",
+        "g",
+        "a",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "m",
+        "'p",
+        "ju",
+        "t",
+        "ɚ",
+        " ",
+        "ɡ",
+        "eɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "m",
+        "'p",
+        "yū",
+        "t",
+        "er",
+        " ",
+        "ɡ",
+        "ā",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -pu-；u 發 /yū/；o 弱化為 /ə/。"
     },
     {
       "number": "🎎 洋娃娃",
       "word": "doll",
       "ipa": "/dɑl/",
-      "graphemes": ["d", "o", "ll"],
-      "phonemes": ["/d", "ɑ", "l/"],
-      "phonics": ["/d", "ŏ", "l/"],
-      "tags": ["cvc","floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "d",
+        "o",
+        "ll"
+      ],
+      "phonemes": [
+        "/d",
+        "ɑ",
+        "l/"
+      ],
+      "phonics": [
+        "/d",
+        "ŏ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🎭 戲劇",
       "word": "drama",
       "ipa": "/ˈdrɑmə/",
-      "graphemes": ["d", "r", "a", "m", "a"],
-      "phonemes": ["/'d", "r", "ɑ", "m", "ə/"],
-      "phonics": ["/'d", "r", "ŏ", "m", "ə/"],
-      "tags": ["cluster", "irregular"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "a",
+        "m",
+        "a"
+      ],
+      "phonemes": [
+        "/'d",
+        "r",
+        "ɑ",
+        "m",
+        "ə/"
+      ],
+      "phonics": [
+        "/'d",
+        "r",
+        "ŏ",
+        "m",
+        "ə/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 dra-；a 分別發 /ɑ/ 和 /ə/。"
     },
     {
       "number": "🥁 鼓",
       "word": "drum",
       "ipa": "/drʌm/",
-      "graphemes": ["d", "r", "u", "m"],
-      "phonemes": ["/d", "r", "ʌ", "m/"],
-      "phonics": ["/d", "r", "ŭ", "m/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "u",
+        "m"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ʌ",
+        "m/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ŭ",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🎞 電影",
       "word": "film",
       "ipa": "/fɪlm/",
-      "graphemes": ["f", "i", "l", "m"],
-      "phonemes": ["/f", "ɪ", "l", "m/"],
-      "phonics": ["/f", "ĭ", "l", "m/"],
-      "tags": ["cvc","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "i",
+        "l",
+        "m"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪ",
+        "l",
+        "m/"
+      ],
+      "phonics": [
+        "/f",
+        "ĭ",
+        "l",
+        "m/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🎼 長笛",
       "word": "flute",
       "ipa": "/flut/",
-      "graphemes": ["f", "l", "u", "t", "e"],
-      "phonemes": ["/f", "l", "u", "t", "-/"],
-      "phonics": ["/f", "l", "ū", "t", "-/"],
-      "tags": ["cluster", "magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "l",
+        "u",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "u",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ū",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u_e 發 /ū/。"
     },
     {
       "number": "🎸 吉他",
       "word": "guitar",
       "ipa": "/ɡɪˈtɑr/",
-      "graphemes": ["g", "ui", "t", "ar"],
-      "phonemes": ["/ɡ", "ɪ", "'t", "ɑr/"],
-      "phonics": ["/ɡ", "ĭ", "'t", "ɑr/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "g",
+        "ui",
+        "t",
+        "ar"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɪ",
+        "'t",
+        "ɑr/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ĭ",
+        "'t",
+        "ɑr/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "重音在 -tar；ar 發 /ɑr/；ui 在此發 /ɪ/。"
     },
     {
       "number": "🎷 樂器",
       "word": "instrument",
       "ipa": "/ˈɪnstrəmənt/",
-      "graphemes": ["i", "n", "s", "t", "r", "u", "m", "e", "n", "t"],
-      "phonemes": ["/'ɪ", "n", "s", "t", "r", "ə", "m", "ə", "n", "t/"],
-      "phonics": ["/'ĭ", "n", "s", "t", "r", "ə", "m", "ə", "n", "t/"],
-      "tags": [ "closed","cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "i",
+        "n",
+        "s",
+        "t",
+        "r",
+        "u",
+        "m",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "s",
+        "t",
+        "r",
+        "ə",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "s",
+        "t",
+        "r",
+        "ə",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "str 為混合音；u、e 弱化為 /ə/。"
     },
     {
       "number": "🎷 爵士樂",
       "word": "jazz",
       "ipa": "/dʒæz/",
-      "graphemes": ["j", "a", "zz"],
-      "phonemes": ["/dʒ", "æ", "z/"],
-      "phonics": ["/j", "ă", "z/"],
-      "tags": ["cvc","floss"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "j",
+        "a",
+        "zz"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "æ",
+        "z/"
+      ],
+      "phonics": [
+        "/j",
+        "ă",
+        "z/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🪁 風箏",
       "word": "kite",
       "ipa": "/kaɪt/",
-      "graphemes": ["k", "i", "t", "e"],
-      "phonemes": ["/k", "aɪ", "t", "-/"],
-      "phonics": ["/k", "ī", "t", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "k",
+        "i",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "aɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ī",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發 /ī/（/aɪ/）。"
     },
     {
       "number": "🎬 電影",
       "word": "movie",
       "ipa": "/ˈmuvi/",
-      "graphemes": ["m", "o", "v", "ie"],
-      "phonemes": ["/'m", "u", "v", "i/"],
-      "phonics": ["/'m", "ū", "v", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 1],
+      "graphemes": [
+        "m",
+        "o",
+        "v",
+        "ie"
+      ],
+      "phonemes": [
+        "/'m",
+        "u",
+        "v",
+        "i/"
+      ],
+      "phonics": [
+        "/'m",
+        "ū",
+        "v",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "o 在此發 /ū/；ie 發 /ē/。"
     },
     {
       "number": "🎶 音樂",
       "word": "music",
       "ipa": "/ˈmjuzɪk/",
-      "graphemes": ["m", "u", "s", "i", "c"],
-      "phonemes": ["/'m", "ju", "z", "ɪ", "k/"],
-      "phonics": ["/'m", "yū", "z", "ĭ", "k/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "m",
+        "u",
+        "s",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'m",
+        "ju",
+        "z",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'m",
+        "yū",
+        "z",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "u 發 /yū/；s 在此發 /z/。"
     },
     {
       "number": "📕 小說",
       "word": "novel",
       "ipa": "/ˈnɑvəl/",
-      "graphemes": ["n", "o", "v", "e","l"],
-      "phonemes": ["/'n", "ɑ", "v", "ə","l/"],
-      "phonics": ["/'n", "ŏ", "v", "ə","l/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "o",
+        "v",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/'n",
+        "ɑ",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'n",
+        "ŏ",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 發 /ɑ/；el 弱化為 /əl/。"
     },
     {
       "number": "🎨 繪畫",
       "word": "paint",
       "ipa": "/peɪnt/",
-      "graphemes": ["p", "ai", "n", "t"],
-      "phonemes": ["/p", "eɪ", "n", "t/"],
-      "phonics": ["/p", "ā", "n", "t/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "ai",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/p",
+        "eɪ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/p",
+        "ā",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ai 發 /ā/（/eɪ/）。"
     },
     {
       "number": "🎹 鋼琴",
       "word": "piano",
       "ipa": "/piˈænoʊ/",
-      "graphemes": ["p", "i", "a", "n", "o"],
-      "phonemes": ["/p", "i", "'æ", "n", "oʊ/"],
-      "phonics": ["/p", "ē", "'ă", "n", "ō/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "i",
+        "a",
+        "n",
+        "o"
+      ],
+      "phonemes": [
+        "/p",
+        "i",
+        "'æ",
+        "n",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/p",
+        "ē",
+        "'ă",
+        "n",
+        "ō/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -a-；a 發 /ă/；o 發 /ō/（/oʊ/）。"
     },
     {
       "number": "🧩 拼圖",
       "word": "puzzle",
       "ipa": "/ˈpʌzəl/",
-      "graphemes": ["p", "u", "zz", "le"],
-      "phonemes": ["/'p", "ʌ", "z", "əl/"],
-      "phonics": ["/'p", "ŭ", "z", "əl/"],
-      "tags": ["closed", "cle"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "u",
+        "zz",
+        "le"
+      ],
+      "phonemes": [
+        "/'p",
+        "ʌ",
+        "z",
+        "əl/"
+      ],
+      "phonics": [
+        "/'p",
+        "ŭ",
+        "z",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發 /ŭ/；le 發 /əl/。"
     },
-        {
+    {
       "number": "🤖 機器人",
       "word": "robot",
       "ipa": "/ˈroʊbɑt/",
-      "graphemes": ["r", "o", "b", "o", "t"],
-      "phonemes": ["/'r", "oʊ", "b", "ɑ", "t/"],
-      "phonics": ["/'r", "ō", "b", "ŏ", "t/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 1, 0],
+      "graphemes": [
+        "r",
+        "o",
+        "b",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/'r",
+        "oʊ",
+        "b",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/'r",
+        "ō",
+        "b",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "ro- 是開音節 o→/ō/；-bot 是閉音節 o→/ŏ/（不規則需記）。"
     },
     {
       "number": "🎤 歌曲",
       "word": "song",
       "ipa": "/sɔŋ/",
-      "graphemes": ["s", "o", "ng"],
-      "phonemes": ["/s", "ɔ", "ŋ/"],
-      "phonics": ["/s", "aw", "ŋ/"],
-      "tags": ["cvc","digraph"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "o",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "aw",
+        "ŋ/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ng 對應 /ŋ/；o 在此對應 /aw/（/ɔ/）。"
     },
     {
       "number": "🎪 帳篷",
       "word": "tent",
       "ipa": "/tɛnt/",
-      "graphemes": ["t", "e", "n", "t"],
-      "phonemes": ["/t", "ɛ", "n", "t/"],
-      "phonics": ["/t", "ĕ", "n", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/t",
+        "ɛ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/t",
+        "ĕ",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🧸 玩具",
       "word": "toy",
       "ipa": "/tɔɪ/",
-      "graphemes": ["t", "oy"],
-      "phonemes": ["/t", "ɔɪ/"],
-      "phonics": ["/t", "oi/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "t",
+        "oy"
+      ],
+      "phonemes": [
+        "/t",
+        "ɔɪ/"
+      ],
+      "phonics": [
+        "/t",
+        "oi/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "oy 發 /oi/（/ɔɪ/）。"
     },
     {
       "number": "🎻 小提琴",
       "word": "violin",
       "ipa": "/vaɪəˈlɪn/",
-      "graphemes": ["v", "i", "o", "l", "i", "n"],
-      "phonemes": ["/v", "aɪ", "ə", "'l", "ɪ", "n/"],
-      "phonics": ["/v", "ī", "ə", "'l", "ĭ", "n/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "v",
+        "i",
+        "o",
+        "l",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/v",
+        "aɪ",
+        "ə",
+        "'l",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/v",
+        "ī",
+        "ə",
+        "'l",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "刪除次重音；重音在 -lin；o 弱化為 /ə/。"
     },
-        {
+    {
       "number": "🪀 溜溜球",
       "word": "yo-yo",
       "ipa": "/ˈjoʊˌjoʊ/",
-      "graphemes": ["y", "o", "-", "y", "o"],
-      "phonemes": ["/'j", "oʊ", "-", "j", "oʊ/"],
-      "phonics": ["/'y", "ō", "-", "y", "ō/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "y",
+        "o",
+        "-",
+        "y",
+        "o"
+      ],
+      "phonemes": [
+        "/'j",
+        "oʊ",
+        "-",
+        "j",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'y",
+        "ō",
+        "-",
+        "y",
+        "ō/"
+      ],
+      "tags": [
+        "open",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "y 在字首為子音 /y/；o 為開音節長音 /ō/；連字號用 '-'。"
     }
   ]

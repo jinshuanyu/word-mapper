@@ -104,7 +104,8 @@
         "k/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -183,7 +184,8 @@
         "aw/"
       ],
       "tags": [
-        "vowel_team"
+        "vowel_team",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -403,7 +405,8 @@
         "-/"
       ],
       "tags": [
-        "magic_e"
+        "magic_e",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -702,7 +705,7 @@
         "z/"
       ],
       "tags": [
-        "closed"
+        "cvc"
       ],
       "hearts": [
         0,
@@ -830,7 +833,8 @@
         "ē/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,

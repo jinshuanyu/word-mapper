@@ -837,7 +837,8 @@
       ],
       "tags": [
         "digraph",
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -1002,7 +1003,8 @@
       ],
       "tags": [
         "irregular",
-        "silent_consonant"
+        "silent_consonant",
+        "cluster"
       ],
       "hearts": [
         0,

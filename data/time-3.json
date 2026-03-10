@@ -4,110 +4,386 @@
       "number": "🔴 星期一",
       "word": "Monday",
       "ipa": "/ˈmʌndeɪ/",
-      "graphemes": ["M", "o", "n", "d", "ay"],
-      "phonemes": ["/'m", "ʌ", "n", "d", "eɪ/"],
-      "phonics": ["/'m", "ŭ", "n", "d", "ā/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "M",
+        "o",
+        "n",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'m",
+        "ʌ",
+        "n",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ŭ",
+        "n",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "o 不規則發 /ŭ/；ay 發 /ā/。"
     },
     {
       "number": "🟠 星期二",
       "word": "Tuesday",
       "ipa": "/ˈtuzdeɪ/",
-      "graphemes": ["T", "ue", "s", "d", "ay"],
-      "phonemes": ["/'t", "u", "z", "d", "eɪ/"],
-      "phonics": ["/'t", "ū", "z", "d", "ā/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "T",
+        "ue",
+        "s",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'t",
+        "u",
+        "z",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ū",
+        "z",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "ue 發 /ū/；s 發 /z/。"
     },
     {
       "number": "🟡 星期三",
       "word": "Wednesday",
       "ipa": "/ˈwɛnzdeɪ/",
-      "graphemes": ["W", "e", "d", "n", "e", "s", "d", "ay"],
-      "phonemes": ["/'w", "ɛ", "-", "n", "-", "z", "d", "eɪ/"],
-      "phonics": ["/'w", "ĕ", "-", "n", "-", "z", "d", "ā/"],
-      "tags": [ "silent_consonant", "irregular"],
-      "hearts": [0, 0, 1, 0, 1, 1, 0, 0],
+      "graphemes": [
+        "W",
+        "e",
+        "d",
+        "n",
+        "e",
+        "s",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɛ",
+        "-",
+        "n",
+        "-",
+        "z",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĕ",
+        "-",
+        "n",
+        "-",
+        "z",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        1,
+        0,
+        0
+      ],
       "hint": "d 和第二個 e 不發音；s 發 /z/。"
     },
     {
       "number": "🟢 星期四",
       "word": "Thursday",
       "ipa": "/ˈθɝzdeɪ/",
-      "graphemes": ["Th", "ur", "s", "d", "ay"],
-      "phonemes": ["/'θ", "ɝ", "z", "d", "eɪ/"],
-      "phonics": ["/'th", "er", "z", "d", "ā/"],
-      "tags": ["digraph", "rcontrolled"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "Th",
+        "ur",
+        "s",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'θ",
+        "ɝ",
+        "z",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'th",
+        "er",
+        "z",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "th 發無聲 /th/；ur 發 /er/；s 發 /z/。"
     },
     {
       "number": "🔵 星期五",
       "word": "Friday",
       "ipa": "/ˈfraɪdeɪ/",
-      "graphemes": ["F", "r", "i", "d", "ay"],
-      "phonemes": ["/'f", "r", "aɪ", "d", "eɪ/"],
-      "phonics": ["/'f", "r", "ī", "d", "ā/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "F",
+        "r",
+        "i",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'f",
+        "r",
+        "aɪ",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'f",
+        "r",
+        "ī",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 在開音節發 /ī/。"
     },
     {
       "number": "🟣 星期六",
       "word": "Saturday",
       "ipa": "/ˈsætɚdeɪ/",
-      "graphemes": ["S", "a", "t", "ur", "d", "ay"],
-      "phonemes": ["/'s", "æ", "t", "ɚ", "d", "eɪ/"],
-      "phonics": ["/'s", "ă", "t", "er", "d", "ā/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "S",
+        "a",
+        "t",
+        "ur",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'s",
+        "æ",
+        "t",
+        "ɚ",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ă",
+        "t",
+        "er",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ur 發 /er/。"
     },
     {
       "number": "🟣 星期日",
       "word": "Sunday",
       "ipa": "/ˈsʌndeɪ/",
-      "graphemes": ["S", "u", "n", "d", "ay"],
-      "phonemes": ["/'s", "ʌ", "n", "d", "eɪ/"],
-      "phonics": ["/'s", "ŭ", "n", "d", "ā/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "S",
+        "u",
+        "n",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'s",
+        "ʌ",
+        "n",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŭ",
+        "n",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短母音 /ŭ/。"
     },
     {
       "number": "📅 週",
       "word": "week",
       "ipa": "/wik/",
-      "graphemes": ["w", "ee", "k"],
-      "phonemes": ["/w", "i", "k/"],
-      "phonics": ["/w", "ē", "k/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "w",
+        "ee",
+        "k"
+      ],
+      "phonemes": [
+        "/w",
+        "i",
+        "k/"
+      ],
+      "phonics": [
+        "/w",
+        "ē",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發長母音 /ē/。"
     },
     {
       "number": "💼 平日",
       "word": "weekday",
       "ipa": "/ˈwikdeɪ/",
-      "graphemes": ["w", "ee", "k", "d", "ay"],
-      "phonemes": ["/'w", "i", "k", "d", "eɪ/"],
-      "phonics": ["/'w", "ē", "k", "d", "ā/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "ee",
+        "k",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'w",
+        "i",
+        "k",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ē",
+        "k",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發 /ē/；ay 發 /ā/。"
     },
     {
       "number": "🎉 週末",
       "word": "weekend",
       "ipa": "/ˈwikɛnd/",
-      "graphemes": ["w", "ee", "k", "e", "n", "d"],
-      "phonemes": ["/'w", "i", "k", "ɛ", "n", "d/"],
-      "phonics": ["/'w", "ē", "k", "ĕ", "n", "d/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "ee",
+        "k",
+        "e",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/'w",
+        "i",
+        "k",
+        "ɛ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/'w",
+        "ē",
+        "k",
+        "ĕ",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "week + end。"
     }
   ]

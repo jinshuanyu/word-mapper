@@ -141,7 +141,7 @@
         "t/"
       ],
       "tags": [
-        "closed",
+        "cvc",
         "cluster"
       ],
       "hearts": [
@@ -297,7 +297,9 @@
         "s",
         "t/"
       ],
-      "tags": [],
+      "tags": [
+        "cluster"
+      ],
       "hearts": [
         0,
         0,
@@ -347,9 +349,8 @@
         "d/"
       ],
       "tags": [
-        "cluster",
         "closed",
-        "rcontrolled"
+        "cluster"
       ],
       "hearts": [
         0,

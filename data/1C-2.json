@@ -316,8 +316,7 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
-        "open"
+        "magic_e"
       ],
       "hearts": [
         0,
@@ -400,7 +399,8 @@
         "d/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -649,8 +649,7 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
-        "open"
+        "magic_e"
       ],
       "hearts": [
         0,
@@ -1041,8 +1040,7 @@
         "ō/"
       ],
       "tags": [
-        "closed",
-        "vowel_team"
+        "closed"
       ],
       "hearts": [
         0,

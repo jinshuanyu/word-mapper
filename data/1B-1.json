@@ -20,7 +20,8 @@
         "k/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -409,7 +410,8 @@
       ],
       "tags": [
         "cluster",
-        "cvc"
+        "cvc",
+        "floss"
       ],
       "hearts": [
         0,
@@ -634,7 +636,8 @@
         "p/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -825,7 +828,8 @@
         "p/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -951,7 +955,6 @@
       ],
       "tags": [
         "irregular",
-        "cvc",
         "silent_consonant"
       ],
       "hearts": [

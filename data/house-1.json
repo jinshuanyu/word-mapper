@@ -73,7 +73,8 @@
         "t/"
       ],
       "tags": [
-        "rcontrolled"
+        "rcontrolled",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -167,7 +168,8 @@
         "t/"
       ],
       "tags": [
-        "magic_e"
+        "magic_e",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -495,7 +497,6 @@
         "s/"
       ],
       "tags": [
-        "closed",
         "irregular"
       ],
       "hearts": [

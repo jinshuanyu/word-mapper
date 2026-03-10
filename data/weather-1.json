@@ -4,176 +4,548 @@
       "number": "🌦 天氣",
       "word": "weather",
       "ipa": "/ˈwɛðɚ/",
-      "graphemes": ["w", "ea", "th", "er"],
-      "phonemes": ["/'w", "ɛ", "ð", "ɚ/"],
-      "phonics": ["/'w", "ĕ", "<u>th</u>", "er/"],
-      "tags": ["irregular", "digraph"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "w",
+        "ea",
+        "th",
+        "er"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɛ",
+        "ð",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĕ",
+        "<u>th</u>",
+        "er/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "ea 在此不規則發 /ɛ/；th 為濁音 /ð/（請用底線 th）。"
     },
- {
-  "number": "🌤 放晴",
-  "word": "clear",
-  "ipa": "/klɪr/",
-  "graphemes": ["c", "l", "ea", "r"],
-  "phonemes": ["/k", "l", "ɪ", "r/"],
-  "phonics": ["/k", "l", "ĭ", "r/"],
-  "tags": ["vowel_team","rcontrolled"],
-  "hearts": [0, 0, 1, 0],
-  "hint": "這個 /ɪr/ 要拆成 /ɪ/ + /r/；拼字也拆 ea + r（需記）。"
-},
+    {
+      "number": "🌤 放晴",
+      "word": "clear",
+      "ipa": "/klɪr/",
+      "graphemes": [
+        "c",
+        "l",
+        "ea",
+        "r"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ĭ",
+        "r/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "這個 /ɪr/ 要拆成 /ɪ/ + /r/；拼字也拆 ea + r（需記）。"
+    },
     {
       "number": "☁️ 多雲",
       "word": "cloudy",
       "ipa": "/ˈklaʊdi/",
-      "graphemes": ["c", "l", "ou", "d", "y"],
-      "phonemes": ["/'k", "l", "aʊ", "d", "i/"],
-      "phonics": ["/'k", "l", "ow", "d", "ē/"],
-      "tags": ["cluster", "vowel_team","suffix"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "ou",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'k",
+        "l",
+        "aʊ",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'k",
+        "l",
+        "ow",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 對應 /aʊ/；字尾 y 發 /i/。"
     },
     {
       "number": "🏜 乾燥",
       "word": "dry",
       "ipa": "/draɪ/",
-      "graphemes": ["d", "r", "y"],
-      "phonemes": ["/d", "r", "aɪ/"],
-      "phonics": ["/d", "r", "ī/"],
-      "tags": ["cluster","open"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "d",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ī/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "字尾 y 在此對應 /aɪ/（用 ī 表示）。"
     },
     {
       "number": "💦 潮濕",
       "word": "humid",
       "ipa": "/ˈhjumɪd/",
-      "graphemes": ["h", "u", "m", "i", "d"],
-      "phonemes": ["/'h", "ju", "m", "ɪ", "d/"],
-      "phonics": ["/'h", "yū", "m", "ĭ", "d/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "h",
+        "u",
+        "m",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/'h",
+        "ju",
+        "m",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/'h",
+        "yū",
+        "m",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 在此對應 /ju/（yū）。"
     },
     {
       "number": "💧 濕的",
       "word": "wet",
       "ipa": "/wɛt/",
-      "graphemes": ["w", "e", "t"],
-      "phonemes": ["/w", "ɛ", "t/"],
-      "phonics": ["/w", "ĕ", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "w",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/w",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🍃 有風的",
       "word": "windy",
       "ipa": "/ˈwɪndi/",
-      "graphemes": ["w", "i", "n", "d", "y"],
-      "phonemes": ["/'w", "ɪ", "n", "d", "i/"],
-      "phonics": ["/'w", "ĭ", "n", "d", "ē/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "n",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɪ",
+        "n",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĭ",
+        "n",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "字尾 y 發 /i/。"
     },
     {
       "number": "🥶 寒冷",
       "word": "cold",
       "ipa": "/koʊld/",
-      "graphemes": ["c", "o", "l", "d"],
-      "phonemes": ["/k", "oʊ", "l", "d/"],
-      "phonics": ["/k", "ō", "l", "d/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "oʊ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "ō",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "o 在此對應長音 /oʊ/（ō）。"
     },
     {
       "number": "😎 涼爽",
       "word": "cool",
       "ipa": "/kul/",
-      "graphemes": ["c", "oo", "l"],
-      "phonemes": ["/k", "u", "l/"],
-      "phonics": ["/k", "ū", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "c",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/k",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/k",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "oo 發 /u/。"
     },
     {
       "number": "🧊 結冰的",
       "word": "freezing",
       "ipa": "/ˈfrizɪŋ/",
-      "graphemes": ["f", "r", "ee", "z", "i", "ng"],
-      "phonemes": ["/'f", "r", "i", "z", "ɪ", "ŋ/"],
-      "phonics": ["/'f", "r", "ē", "z", "ĭ", "ŋ/"],
-      "tags": ["cluster","vowel_team", "suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "r",
+        "ee",
+        "z",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'f",
+        "r",
+        "i",
+        "z",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'f",
+        "r",
+        "ē",
+        "z",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "suffix",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ee 發 /i/（ē）；ng 發 /ŋ/。"
     },
     {
       "number": "🧣 溫暖",
       "word": "warm",
       "ipa": "/wɔrm/",
-      "graphemes": ["w", "ar", "m"],
-      "phonemes": ["/w", "ɔr", "m/"],
-      "phonics": ["/w", "or", "m/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "w",
+        "ar",
+        "m"
+      ],
+      "phonemes": [
+        "/w",
+        "ɔr",
+        "m/"
+      ],
+      "phonics": [
+        "/w",
+        "or",
+        "m/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "規則：ar 的 UFLI phonics 固定寫 /ɑr/；但 warm 實際讀音常變成 /ɔr/（例外需記）。"
     },
     {
       "number": "🥵 炎熱",
       "word": "hot",
       "ipa": "/hɑt/",
-      "graphemes": ["h", "o", "t"],
-      "phonemes": ["/h", "ɑ", "t/"],
-      "phonics": ["/h", "ŏ", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "h",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/h",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/h",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🌧 下雨的",
       "word": "rainy",
       "ipa": "/ˈreɪni/",
-      "graphemes": ["r", "ai", "n", "y"],
-      "phonemes": ["/'r", "eɪ", "n", "i/"],
-      "phonics": ["/'r", "ā", "n", "ē/"],
-      "tags": ["vowel_team", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "ai",
+        "n",
+        "y"
+      ],
+      "phonemes": [
+        "/'r",
+        "eɪ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'r",
+        "ā",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ai 發 /eɪ/（ā）；字尾 y 發 /i/。"
     },
     {
       "number": "❄️ 下雪的",
       "word": "snowy",
       "ipa": "/ˈsnoʊi/",
-      "graphemes": ["s", "n", "ow", "y"],
-      "phonemes": ["/'s", "n", "oʊ", "i/"],
-      "phonics": ["/'s", "n", "ō", "ē/"],
-      "tags": ["cluster","vowel_team", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "n",
+        "ow",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "n",
+        "oʊ",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "n",
+        "ō",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ow 在此發 /oʊ/（ō）。"
     },
     {
       "number": "⛈ 暴風雨的",
       "word": "stormy",
       "ipa": "/ˈstɔrmi/",
-      "graphemes": ["s", "t", "or", "m", "y"],
-      "phonemes": ["/'s", "t", "ɔr", "m", "i/"],
-      "phonics": ["/'s", "t", "or", "m", "ē/"],
-      "tags": ["cluster", "rcontrolled", "suffix"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "or",
+        "m",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ɔr",
+        "m",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "or",
+        "m",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "or 發 /ɔr/；字尾 y 發 /i/。"
     },
     {
       "number": "☀️ 晴天的",
       "word": "sunny",
       "ipa": "/ˈsʌni/",
-      "graphemes": ["s", "u", "nn", "y"],
-      "phonemes": ["/'s", "ʌ", "n", "i/"],
-      "phonics": ["/'s", "ŭ", "n", "ē/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "u",
+        "nn",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "ʌ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŭ",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "nn 只是拼字規則；字尾 y 發 /i/。"
     }
   ]

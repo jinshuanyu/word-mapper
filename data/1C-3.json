@@ -115,7 +115,6 @@
       ],
       "tags": [
         "irregular",
-        "cvc",
         "floss"
       ],
       "hearts": [
@@ -151,7 +150,8 @@
         "əl/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cle"
       ],
       "hearts": [
         0,
@@ -471,9 +471,8 @@
         "-/"
       ],
       "tags": [
-        "cluster",
         "magic_e",
-        "open"
+        "cluster"
       ],
       "hearts": [
         0,
@@ -521,7 +520,8 @@
         "t/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -815,7 +815,8 @@
         "d/"
       ],
       "tags": [
-        "open"
+        "open",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -877,8 +878,7 @@
         "-/"
       ],
       "tags": [
-        "irregular",
-        "magic_e"
+        "irregular"
       ],
       "hearts": [
         0,
@@ -908,7 +908,6 @@
         "ā/"
       ],
       "tags": [
-        "open",
         "vowel_team"
       ],
       "hearts": [

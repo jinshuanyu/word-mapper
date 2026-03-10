@@ -32,9 +32,8 @@
         "er/"
       ],
       "tags": [
-        "closed",
-        "digraph",
         "irregular",
+        "digraph",
         "suffix"
       ],
       "hearts": [
@@ -83,8 +82,7 @@
         "s/"
       ],
       "tags": [
-        "closed",
-        "floss"
+        "closed"
       ],
       "hearts": [
         0,
@@ -136,8 +134,7 @@
         "ē/"
       ],
       "tags": [
-        "closed",
-        "floss"
+        "closed"
       ],
       "hearts": [
         0,
@@ -187,7 +184,6 @@
         "s/"
       ],
       "tags": [
-        "closed",
         "rcontrolled"
       ],
       "hearts": [
@@ -238,8 +234,7 @@
       ],
       "tags": [
         "closed",
-        "cluster",
-        "open"
+        "cluster"
       ],
       "hearts": [
         0,
@@ -285,11 +280,8 @@
         "shən/"
       ],
       "tags": [
-        "closed",
-        "digraph",
         "irregular",
-        "open",
-        "rcontrolled"
+        "digraph"
       ],
       "hearts": [
         0,
@@ -325,7 +317,8 @@
         "d/"
       ],
       "tags": [
-        "open"
+        "open",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -359,7 +352,6 @@
       ],
       "tags": [
         "closed",
-        "floss",
         "suffix"
       ],
       "hearts": [
@@ -390,7 +382,7 @@
         "s/"
       ],
       "tags": [
-        "closed",
+        "cvc",
         "floss"
       ],
       "hearts": [
@@ -424,7 +416,6 @@
       ],
       "tags": [
         "closed",
-        "floss",
         "suffix"
       ],
       "hearts": [
@@ -461,9 +452,8 @@
         "ŋ/"
       ],
       "tags": [
-        "closed",
-        "digraph",
-        "vowel_team"
+        "vowel_team",
+        "digraph"
       ],
       "hearts": [
         0,
@@ -535,7 +525,8 @@
         "d/"
       ],
       "tags": [
-        "open"
+        "open",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -617,7 +608,6 @@
       ],
       "tags": [
         "closed",
-        "floss",
         "suffix"
       ],
       "hearts": [
@@ -665,7 +655,8 @@
       ],
       "tags": [
         "closed",
-        "cluster"
+        "cluster",
+        "cle"
       ],
       "hearts": [
         0,
@@ -702,7 +693,7 @@
         "s/"
       ],
       "tags": [
-        "closed"
+        "cvc"
       ],
       "hearts": [
         0,
@@ -733,7 +724,6 @@
       ],
       "tags": [
         "digraph",
-        "silent_consonant",
         "vowel_team"
       ],
       "hearts": [

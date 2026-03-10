@@ -444,7 +444,7 @@
         "ɡ/"
       ],
       "tags": [
-        "cvc"
+        "closed"
       ],
       "hearts": [
         0,
@@ -1026,7 +1026,8 @@
         "ē/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -1062,7 +1063,8 @@
         "k/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         0,

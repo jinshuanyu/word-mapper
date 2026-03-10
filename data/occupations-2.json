@@ -38,7 +38,6 @@
         "er/"
       ],
       "tags": [
-        "floss",
         "open"
       ],
       "hearts": [
@@ -123,10 +122,9 @@
         "er/"
       ],
       "tags": [
+        "vowel_team",
         "floss",
-        "rcontrolled",
-        "suffix",
-        "vowel_team"
+        "suffix"
       ],
       "hearts": [
         0,
@@ -160,7 +158,6 @@
         "k/"
       ],
       "tags": [
-        "closed",
         "vowel_team"
       ],
       "hearts": [
@@ -282,8 +279,7 @@
       "tags": [
         "closed",
         "digraph",
-        "suffix",
-        "vowel_team"
+        "suffix"
       ],
       "hearts": [
         0,
@@ -366,7 +362,8 @@
       ],
       "tags": [
         "closed",
-        "suffix"
+        "suffix",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -410,7 +407,8 @@
       ],
       "tags": [
         "rcontrolled",
-        "suffix"
+        "suffix",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -636,7 +634,8 @@
       ],
       "tags": [
         "closed",
-        "suffix"
+        "suffix",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -730,6 +729,35 @@
         0
       ],
       "hint": "重音在 hos（閉音節）；al 弱化為 /əl/。"
+    },
+    {
+      "number": "🐾 獸醫",
+      "word": "vet",
+      "ipa": "/vɛt/",
+      "graphemes": [
+        "v",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/v",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/v",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發短母音 /ĕ/。"
     }
   ]
 }

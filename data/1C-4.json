@@ -394,7 +394,8 @@
         "p/"
       ],
       "tags": [
-        "cvc"
+        "cvc",
+        "cluster"
       ],
       "hearts": [
         0,
@@ -468,8 +469,7 @@
         "-/"
       ],
       "tags": [
-        "vowel_team",
-        "open"
+        "vowel_team"
       ],
       "hearts": [
         0,
@@ -552,7 +552,8 @@
         "əl/"
       ],
       "tags": [
-        "open"
+        "open",
+        "cle"
       ],
       "hearts": [
         0,
@@ -717,8 +718,7 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
-        "open"
+        "magic_e"
       ],
       "hearts": [
         0,

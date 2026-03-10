@@ -23,7 +23,8 @@
         "d/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         false,
@@ -71,7 +72,8 @@
         "əl/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cle"
       ],
       "hearts": [
         false,
@@ -319,7 +321,8 @@
       ],
       "tags": [
         "irregular",
-        "digraph"
+        "digraph",
+        "cluster"
       ],
       "hearts": [
         false,
@@ -551,7 +554,6 @@
         "-/"
       ],
       "tags": [
-        "magic_e",
         "rcontrolled"
       ],
       "hearts": [
@@ -588,7 +590,7 @@
       ],
       "tags": [
         "cluster",
-        "closed",
+        "cvc",
         "digraph"
       ],
       "hearts": [

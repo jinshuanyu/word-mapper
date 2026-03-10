@@ -4,176 +4,612 @@
       "number": "⏰ 上午",
       "word": "a.m.",
       "ipa": "/ˌeɪˈɛm/",
-      "graphemes": ["a", ".", "m", "."],
-      "phonemes": ["/'eɪ", "-", "'ɛm","-/"],
-      "phonics": ["/'ā", "-", "'ĕm","-/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 1],
+      "graphemes": [
+        "a",
+        ".",
+        "m",
+        "."
+      ],
+      "phonemes": [
+        "/'eɪ",
+        "-",
+        "'ɛm",
+        "-/"
+      ],
+      "phonics": [
+        "/'ā",
+        "-",
+        "'ĕm",
+        "-/"
+      ],
+      "tags": [
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "Ante Meridiem 縮寫。"
     },
     {
       "number": "⏰ 下午",
       "word": "p.m.",
       "ipa": "/ˌpiˈɛm/",
-      "graphemes": ["p", ".", "m", "."],
-      "phonemes": ["/'pi", "-", "'ɛm","-/"],
-      "phonics": ["/'pē", "-", "'ĕm","-/"],
-      "tags": ["irregular"],
-      "hearts": [0,  1, 0, 1],
+      "graphemes": [
+        "p",
+        ".",
+        "m",
+        "."
+      ],
+      "phonemes": [
+        "/'pi",
+        "-",
+        "'ɛm",
+        "-/"
+      ],
+      "phonics": [
+        "/'pē",
+        "-",
+        "'ĕm",
+        "-/"
+      ],
+      "tags": [
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
       "hint": "Post Meridiem 縮寫。"
     },
     {
       "number": "⏰ 鬧鐘",
       "word": "alarm clock",
       "ipa": "/əˈlɑrm klɑk/",
-      "graphemes": ["a", "l", "ar", "m", " ", "c", "l", "o", "ck"],
-      "phonemes": ["/ə", "'l", "ɑr", "m", " ", "k", "l", "ɑ", "k/"],
-      "phonics": ["/ə", "'l", "ɑr", "m", " ", "k", "l", "ŏ", "k/"],
-      "tags": ["rcontrolled", "closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "ar",
+        "m",
+        " ",
+        "c",
+        "l",
+        "o",
+        "ck"
+      ],
+      "phonemes": [
+        "/ə",
+        "'l",
+        "ɑr",
+        "m",
+        " ",
+        "k",
+        "l",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/ə",
+        "'l",
+        "ɑr",
+        "m",
+        " ",
+        "k",
+        "l",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "首字 a 弱化；ar 發 /ar/；ck 發 /k/。"
     },
     {
       "number": "📅 ⽉曆",
       "word": "calendar",
       "ipa": "/ˈkæləndɚ/",
-      "graphemes": ["c", "a", "l", "e", "n", "d", "ar"],
-      "phonemes": ["/'k", "æ", "l", "ə", "n", "d", "ɚ/"],
-      "phonics": ["/'k", "ă", "l", "ə", "n", "d", "er/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0, 1],
+      "graphemes": [
+        "c",
+        "a",
+        "l",
+        "e",
+        "n",
+        "d",
+        "ar"
+      ],
+      "phonemes": [
+        "/'k",
+        "æ",
+        "l",
+        "ə",
+        "n",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ă",
+        "l",
+        "ə",
+        "n",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "e 弱化；ar 弱化發 /er/。"
     },
     {
       "number": "🕰 時鐘",
       "word": "clock",
       "ipa": "/klɑk/",
-      "graphemes": ["c", "l", "o", "ck"],
-      "phonemes": ["/k", "l", "ɑ", "k/"],
-      "phonics": ["/k", "l", "ŏ", "k/"],
-      "tags": ["cluster","cvc", "digraph"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "o",
+        "ck"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ck 發 /k/。"
     },
     {
       "number": "🌗 一半",
       "word": "half",
       "ipa": "/hæf/",
-      "graphemes": ["h", "a", "l", "f"],
-      "phonemes": ["/h", "æ", "-", "f/"],
-      "phonics": ["/h", "ă", "-", "f/"],
-      "tags": [ "closed","silent_consonant"],
-      "hearts": [0, 0, 1, 0],
+      "graphemes": [
+        "h",
+        "a",
+        "l",
+        "f"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "-",
+        "f/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "-",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "silent_consonant",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "l 不發音。"
     },
     {
       "number": "⏳ 小時",
       "word": "hour",
       "ipa": "/aʊr/",
-      "graphemes": ["h", "ou", "r"],
-      "phonemes": ["/-", "aʊ", "r/"],
-      "phonics": ["/-", "ow", "r/"],
-      "tags": ["silent_consonant", "vowel_team"],
-      "hearts": [1, 0, 0],
+      "graphemes": [
+        "h",
+        "ou",
+        "r"
+      ],
+      "phonemes": [
+        "/-",
+        "aʊ",
+        "r/"
+      ],
+      "phonics": [
+        "/-",
+        "ow",
+        "r/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "vowel_team"
+      ],
+      "hearts": [
+        1,
+        0,
+        0
+      ],
       "hint": "h 不發音；ou 發 /ow/。"
     },
     {
       "number": "⏱ 分鐘",
       "word": "minute",
       "ipa": "/ˈmɪnɪt/",
-      "graphemes": ["m", "i", "n", "u", "t", "e"],
-      "phonemes": ["/'m", "ɪ", "n", "ɪ", "t", "-/"],
-      "phonics": ["/'m", "ĭ", "n", "ĭ", "t", "-/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "m",
+        "i",
+        "n",
+        "u",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɪ",
+        "n",
+        "ɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĭ",
+        "n",
+        "ĭ",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "u 弱化發 /ĭ/；字尾 e 不發音。"
     },
     {
       "number": "⚡ 時刻",
       "word": "moment",
       "ipa": "/ˈmoʊmənt/",
-      "graphemes": ["m", "o", "m", "e", "n", "t"],
-      "phonemes": ["/'m", "oʊ", "m", "ə", "n", "t/"],
-      "phonics": ["/'m", "ō", "m", "ə", "n", "t/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "m",
+        "o",
+        "m",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'m",
+        "oʊ",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'m",
+        "ō",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 發長音 /ō/；e 弱化。"
     },
     {
       "number": "🕛 點鐘",
       "word": "o'clock",
       "ipa": "/əˈklɑk/",
-      "graphemes": ["o", "'", "c", "l", "o", "ck"],
-      "phonemes": ["/ə", "-", "k", "l", "ɑ", "k/"],
-      "phonics": ["/ə", "-", "k", "l", "ŏ", "k/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [1, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "o",
+        "'",
+        "c",
+        "l",
+        "o",
+        "ck"
+      ],
+      "phonemes": [
+        "/ə",
+        "-",
+        "k",
+        "l",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/ə",
+        "-",
+        "k",
+        "l",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "silent_consonant"
+      ],
+      "hearts": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化；' 不發音；ck 發 /k/。"
     },
     {
       "number": "⏮ 經過/過去",
       "word": "past",
       "ipa": "/pæst/",
-      "graphemes": ["p", "a", "s", "t"],
-      "phonemes": ["/p", "æ", "s", "t/"],
-      "phonics": ["/p", "ă", "s", "t/"],
-      "tags": [ "cvc","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "p",
+        "a",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /ă/。"
     },
     {
       "number": "¼ 15分鐘/一刻",
       "word": "quarter",
       "ipa": "/ˈkwɔrtɚ/",
-      "graphemes": ["qu", "ar", "t", "er"],
-      "phonemes": ["/'kw", "ɔr", "t", "ɚ/"],
-      "phonics": ["/'kw", "or", "t", "er/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "qu",
+        "ar",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'kw",
+        "ɔr",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'kw",
+        "or",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "qu 發 /kw/；ar 在 w 後發 /or/。"
     },
     {
       "number": "⏱ 秒",
       "word": "second",
       "ipa": "/ˈsɛkənd/",
-      "graphemes": ["s", "e", "c", "o", "n", "d"],
-      "phonemes": ["/'s", "ɛ", "k", "ə", "n", "d/"],
-      "phonics": ["/'s", "ĕ", "k", "ə", "n", "d/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "e",
+        "c",
+        "o",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɛ",
+        "k",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĕ",
+        "k",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "o 弱化。"
     },
     {
       "number": "⏱ 碼錶",
       "word": "stopwatch",
       "ipa": "/ˈstɑpwɑtʃ/",
-      "graphemes": ["s", "t", "o", "p", "w", "a", "tch"],
-      "phonemes": ["/'s", "t", "ɑ", "p", "w", "ɑ", "tʃ/"],
-      "phonics": ["/'s", "t", "ŏ", "p", "w", "ŏ", "ch/"],
-      "tags": ["closed", "digraph"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "o",
+        "p",
+        "w",
+        "a",
+        "tch"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ɑ",
+        "p",
+        "w",
+        "ɑ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ŏ",
+        "p",
+        "w",
+        "ŏ",
+        "ch/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "a 在 w 後發 /ŏ/；tch 發 /ch/。"
     },
     {
       "number": "⏳ 時間",
       "word": "time",
       "ipa": "/taɪm/",
-      "graphemes": ["t", "i", "m", "e"],
-      "phonemes": ["/t", "aɪ", "m", "-/"],
-      "phonics": ["/t", "ī", "m", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "i",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "aɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "ī",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 發 /ī/。"
     },
     {
       "number": "⌚ 手錶",
       "word": "watch",
       "ipa": "/wɑtʃ/",
-      "graphemes": ["w", "a", "tch"],
-      "phonemes": ["/w", "ɑ", "tʃ/"],
-      "phonics": ["/w", "ŏ", "ch/"],
-      "tags": ["irregular", "digraph"],
-      "hearts": [0, 1, 1],
+      "graphemes": [
+        "w",
+        "a",
+        "tch"
+      ],
+      "phonemes": [
+        "/w",
+        "ɑ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/w",
+        "ŏ",
+        "ch/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        1
+      ],
       "hint": "a 在 w 後發 /ŏ/；tch 發 /ch/。"
     }
   ]

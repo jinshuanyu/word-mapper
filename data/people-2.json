@@ -4,209 +4,701 @@
       "number": "美麗的",
       "word": "beautiful",
       "ipa": "/ˈbjutəfəl/",
-      "graphemes": ["b", "eau", "t", "i", "f", "u", "l"],
-      "phonemes": ["/'b", "ju", "t", "ə", "f", "ə", "l/"],
-      "phonics": ["/'b", "yū", "t", "ə", "f", "ə", "l/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "b",
+        "eau",
+        "t",
+        "i",
+        "f",
+        "u",
+        "l"
+      ],
+      "phonemes": [
+        "/'b",
+        "ju",
+        "t",
+        "ə",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'b",
+        "yū",
+        "t",
+        "ə",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "eau 發 /yū/。"
     },
     {
       "number": "圓胖的",
       "word": "chubby",
       "ipa": "/ˈtʃʌbi/",
-      "graphemes": ["ch", "u", "bb", "y"],
-      "phonemes": ["/'tʃ", "ʌ", "b", "i/"],
-      "phonics": ["/'ch", "ŭ", "b", "ē/"],
-      "tags": ["digraph", "closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "ch",
+        "u",
+        "bb",
+        "y"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "ʌ",
+        "b",
+        "i/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ŭ",
+        "b",
+        "ē/"
+      ],
+      "tags": [
+        "digraph",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ch 發 /tʃ/；bb 發單音 /b/；y 發 /i/。"
     },
     {
       "number": "可愛的",
       "word": "cute",
       "ipa": "/kjut/",
-      "graphemes": ["c", "u", "t", "e"],
-      "phonemes": ["/k", "ju", "t", "-/"],
-      "phonics": ["/k", "yū", "t", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "u",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "ju",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "yū",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u_e 發長音 /yū/。"
     },
     {
       "number": "胖的",
       "word": "fat",
       "ipa": "/fæt/",
-      "graphemes": ["f", "a", "t"],
-      "phonemes": ["/f", "æ", "t/"],
-      "phonics": ["/f", "ă", "t/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "a",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "æ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "ă",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "a 發短母音 /æ/。"
     },
     {
       "number": "🤵 英俊的",
       "word": "handsome",
       "ipa": "/ˈhænsəm/",
-      "graphemes": ["h", "a", "n", "d", "s", "o", "m", "e"],
-      "phonemes": ["/'h", "æ", "n", "-", "s", "ə", "m", "-/"],
-      "phonics": ["/'h", "ă", "n", "-", "s", "ə", "m", "-/"],
-      "tags": ["closed","silent_consonant"],
-      "hearts": [0, 0, 0, 1, 0, 1, 0, 0],
+      "graphemes": [
+        "h",
+        "a",
+        "n",
+        "d",
+        "s",
+        "o",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/'h",
+        "æ",
+        "n",
+        "-",
+        "s",
+        "ə",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/'h",
+        "ă",
+        "n",
+        "-",
+        "s",
+        "ə",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "d 不發音；some 的 o 不規則發弱音。"
     },
     {
       "number": "重的",
       "word": "heavy",
       "ipa": "/ˈhɛvi/",
-      "graphemes": ["h", "ea", "v", "y"],
-      "phonemes": ["/'h", "ɛ", "v", "i/"],
-      "phonics": ["/'h", "ĕ", "v", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "h",
+        "ea",
+        "v",
+        "y"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɛ",
+        "v",
+        "i/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĕ",
+        "v",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "ea 發短音 /ɛ/。"
     },
     {
       "number": "好看的",
       "word": "nice looking",
       "ipa": "/naɪs ˈlʊkɪŋ/",
-      "graphemes": ["n", "i", "c", "e", " ", "l", "oo", "k", "i", "ng"],
-      "phonemes": ["/'n", "aɪ", "s", "-", " ", "'l", "ʊ", "k", "ɪ", "ŋ/"],
-      "phonics": ["/'n", "ī", "s", "-", " ", "'l", "oo", "k", "ĭ", "ŋ/"],
-      "tags": ["magic_e", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "n",
+        "i",
+        "c",
+        "e",
+        " ",
+        "l",
+        "oo",
+        "k",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'n",
+        "aɪ",
+        "s",
+        "-",
+        " ",
+        "'l",
+        "ʊ",
+        "k",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'n",
+        "ī",
+        "s",
+        "-",
+        " ",
+        "'l",
+        "oo",
+        "k",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "open",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "nice 為 magic e；oo 發短音 /ʊ/。"
     },
     {
       "number": "👴 老的",
       "word": "old",
       "ipa": "/oʊld/",
-      "graphemes": ["o", "l","d"],
-      "phonemes": ["/oʊ", "l","d/"],
-      "phonics": ["/ō", "l","d/"],
-      "tags": [ "irregular"],
-      "hearts": [1, 0],
+      "graphemes": [
+        "o",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/oʊ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/ō",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        1,
+        0
+      ],
       "hint": "o 在 ld 前發長音 /oʊ/。"
     },
     {
       "number": "過重的",
       "word": "overweight",
       "ipa": "/ˌoʊvɚˈweɪt/",
-      "graphemes": ["o", "v", "er", "w", "eigh", "t"],
-      "phonemes": ["/'oʊ", "v", "ɚ", "w", "eɪ", "t/"],
-      "phonics": ["/'ō", "v", "er", "w", "ā", "t/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "o",
+        "v",
+        "er",
+        "w",
+        "eigh",
+        "t"
+      ],
+      "phonemes": [
+        "/'oʊ",
+        "v",
+        "ɚ",
+        "w",
+        "eɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'ō",
+        "v",
+        "er",
+        "w",
+        "ā",
+        "t/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "eigh 發長母音 /eɪ/。"
     },
     {
       "number": "漂亮的",
       "word": "pretty",
       "ipa": "/ˈprɪti/",
-      "graphemes": ["p", "r", "e", "tt", "y"],
-      "phonemes": ["/'p", "r", "ɪ", "t", "i/"],
-      "phonics": ["/'p", "r", "ĭ", "t", "ē/"],
-      "tags": ["irregular"],
-      "hearts": [0, 0, 1, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "e",
+        "tt",
+        "y"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɪ",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ĭ",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "e 不規則發 /ɪ/。"
     },
     {
       "number": "矮的",
       "word": "short",
       "ipa": "/ʃɔrt/",
-      "graphemes": ["sh", "or", "t"],
-      "phonemes": ["/ʃ", "ɔr", "t/"],
-      "phonics": ["/sh", "or", "t/"],
-      "tags": ["digraph", "rcontrolled"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "sh",
+        "or",
+        "t"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ɔr",
+        "t/"
+      ],
+      "phonics": [
+        "/sh",
+        "or",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sh 發 /ʃ/；or 發 /ɔr/。"
     },
     {
       "number": "皮包骨的",
       "word": "skinny",
       "ipa": "/ˈskɪni/",
-      "graphemes": ["s", "k", "i", "nn", "y"],
-      "phonemes": ["/'s", "k", "ɪ", "n", "i/"],
-      "phonics": ["/'s", "k", "ĭ", "n", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "k",
+        "i",
+        "nn",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "k",
+        "ɪ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "k",
+        "ĭ",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "nn 發單音 /n/；y 發 /i/。"
     },
     {
       "number": "苗條的",
       "word": "slender",
       "ipa": "/ˈslɛndɚ/",
-      "graphemes": ["s", "l", "e", "n", "d", "er"],
-      "phonemes": ["/'s", "l", "ɛ", "n", "d", "ɚ/"],
-      "phonics": ["/'s", "l", "ĕ", "n", "d", "er/"],
-      "tags": ["cluster", "closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "l",
+        "e",
+        "n",
+        "d",
+        "er"
+      ],
+      "phonemes": [
+        "/'s",
+        "l",
+        "ɛ",
+        "n",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "l",
+        "ĕ",
+        "n",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "er 發卷舌音 /ɚ/。"
     },
     {
       "number": "纖細的",
       "word": "slim",
       "ipa": "/slɪm/",
-      "graphemes": ["s", "l", "i", "m"],
-      "phonemes": ["/s", "l", "ɪ", "m/"],
-      "phonics": ["/s", "l", "ĭ", "m/"],
-      "tags": ["cluster", "cvc"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "l",
+        "i",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "l",
+        "ɪ",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "l",
+        "ĭ",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i 發短母音 /ɪ/。"
     },
     {
       "number": "🦒 高的",
       "word": "tall",
       "ipa": "/tɔl/",
-      "graphemes": ["t", "a", "ll"],
-      "phonemes": ["/t", "ɔ", "l/"],
-      "phonics": ["/t", "aw", "l/"],
-      "tags": ["floss"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "t",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/t",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/t",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "floss"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "a 在 ll 前發 /ɔ/ (aw)。"
     },
     {
       "number": "瘦的",
       "word": "thin",
       "ipa": "/θɪn/",
-      "graphemes": ["th", "i", "n"],
-      "phonemes": ["/θ", "ɪ", "n/"],
-      "phonics": ["/th", "ĭ", "n/"],
-      "tags": ["digraph", "cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "th",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/θ",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/th",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "th 發無聲 /θ/。"
     },
     {
       "number": "醜陋的",
       "word": "ugly",
       "ipa": "/ˈʌɡli/",
-      "graphemes": ["u", "g", "l", "y"],
-      "phonemes": ["/'ʌ", "ɡ", "l", "i/"],
-      "phonics": ["/'ŭ", "ɡ", "l", "ē/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "u",
+        "g",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'ʌ",
+        "ɡ",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'ŭ",
+        "ɡ",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "u 發短音 /ʌ/；y 發 /i/。"
     },
     {
       "number": "過輕的",
       "word": "underweight",
       "ipa": "/ˌʌndɚˈweɪt/",
-      "graphemes": ["u", "n", "d", "er", "w", "eigh", "t"],
-      "phonemes": ["/'ʌ", "n", "d", "ɚ", "w", "eɪ", "t/"],
-      "phonics": ["/'ŭ", "n", "d", "er", "w", "ā", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 1, 0],
+      "graphemes": [
+        "u",
+        "n",
+        "d",
+        "er",
+        "w",
+        "eigh",
+        "t"
+      ],
+      "phonemes": [
+        "/'ʌ",
+        "n",
+        "d",
+        "ɚ",
+        "w",
+        "eɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'ŭ",
+        "n",
+        "d",
+        "er",
+        "w",
+        "ā",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
       "hint": "er 發 /ɚ/；eigh 發 /eɪ/。"
     },
     {
       "number": "👶 年輕的",
       "word": "young",
       "ipa": "/jʌŋ/",
-      "graphemes": ["y", "ou", "ng"],
-      "phonemes": ["/j", "ʌ", "ŋ/"],
-      "phonics": ["/y", "ŭ", "ŋ/"],
-      "tags": ["irregular","digraph"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "y",
+        "ou",
+        "ng"
+      ],
+      "phonemes": [
+        "/j",
+        "ʌ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/y",
+        "ŭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "ou 不規則發 /ʌ/；ng 發 /ŋ/。"
     }
   ]

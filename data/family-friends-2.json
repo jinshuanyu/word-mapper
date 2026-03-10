@@ -20,7 +20,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         true,
@@ -163,7 +164,8 @@
       ],
       "tags": [
         "cluster",
-        "closed"
+        "closed",
+        "silent_consonant"
       ],
       "hearts": [
         false,
@@ -223,7 +225,8 @@
       ],
       "tags": [
         "cluster",
-        "closed"
+        "closed",
+        "silent_consonant"
       ],
       "hearts": [
         false,
@@ -276,7 +279,8 @@
       ],
       "tags": [
         "cluster",
-        "closed"
+        "closed",
+        "silent_consonant"
       ],
       "hearts": [
         false,
@@ -353,7 +357,8 @@
       ],
       "tags": [
         "vowel_team",
-        "closed"
+        "cluster",
+        "silent_consonant"
       ],
       "hearts": [
         false,
@@ -398,7 +403,8 @@
         "d/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cluster"
       ],
       "hearts": [
         false,
@@ -622,7 +628,8 @@
         "t/"
       ],
       "tags": [
-        "rcontrolled"
+        "rcontrolled",
+        "cluster"
       ],
       "hearts": [
         false,
@@ -727,7 +734,8 @@
         "əl/"
       ],
       "tags": [
-        "closed"
+        "closed",
+        "cle"
       ],
       "hearts": [
         false,

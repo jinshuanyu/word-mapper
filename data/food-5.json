@@ -666,6 +666,17 @@
       "hint": "u 發 /ju/。"
     },
     {
+      "number": "☕ 馬克杯",
+      "word": "mug",
+      "ipa": "/mʌɡ/",
+      "graphemes": ["m", "u", "g"],
+      "phonemes": ["/m", "ʌ", "ɡ/"],
+      "phonics": ["/m", "ŭ", "ɡ/"],
+      "tags": ["cvc"],
+      "hearts": [0, 0, 0],
+      "hint": "u 發短母音 /ŭ/。"
+    },
+    {
       "number": "🧻 餐巾",
       "word": "napkin",
       "ipa": "/ˈnæpkɪn/",

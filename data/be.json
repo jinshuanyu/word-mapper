@@ -102,7 +102,9 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster",
+        "silent_consonant"
       ],
       "hearts": [
         false,
@@ -165,7 +167,9 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster",
+        "silent_consonant"
       ],
       "hearts": [
         false,
@@ -235,7 +239,9 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster",
+        "silent_consonant"
       ],
       "hearts": [
         false,
@@ -297,7 +303,9 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster",
+        "silent_consonant"
       ],
       "hearts": [
         false,

@@ -4,253 +4,819 @@
       "number": "✅ 能夠的",
       "word": "able",
       "ipa": "/ˈeɪbəl/",
-      "graphemes": ["a", "b","le"],
-      "phonemes": ["/'eɪ", "b","əl/"],
-      "phonics": ["/'ā", "b","əl/"],
-      "tags": ["open","cle"],
-      "hearts": [0, 0],
+      "graphemes": [
+        "a",
+        "b",
+        "le"
+      ],
+      "phonemes": [
+        "/'eɪ",
+        "b",
+        "əl/"
+      ],
+      "phonics": [
+        "/'ā",
+        "b",
+        "əl/"
+      ],
+      "tags": [
+        "open",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
       "hint": "重音在 a-；開音節長母音。"
     },
     {
       "number": "🚫 缺席的",
       "word": "absent",
       "ipa": "/ˈæbsənt/",
-      "graphemes": ["a", "b", "s", "e", "n","t"],
-      "phonemes": ["/'æ", "b", "s", "ə", "n","t/"],
-      "phonics": ["/'ă", "b", "s", "ə", "n","t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "b",
+        "s",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'æ",
+        "b",
+        "s",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'ă",
+        "b",
+        "s",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 ab-；閉音節短母音；-ent 字尾。"
     },
     {
       "number": "😨 害怕的",
       "word": "afraid",
       "ipa": "/əˈfreɪd/",
-      "graphemes": ["a", "f", "r", "ai", "d"],
-      "phonemes": ["/ə", "'f", "r", "eɪ", "d/"],
-      "phonics": ["/ə", "'f", "r", "ā", "d/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "f",
+        "r",
+        "ai",
+        "d"
+      ],
+      "phonemes": [
+        "/ə",
+        "'f",
+        "r",
+        "eɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/ə",
+        "'f",
+        "r",
+        "ā",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -fraid；fr 為 cluster；ai 對應 /eɪ/。"
     },
     {
       "number": "👯 相似的",
       "word": "alike",
       "ipa": "/əˈlaɪk/",
-      "graphemes": ["a", "l", "i", "k", "e"],
-      "phonemes": ["/ə", "'l", "aɪ", "k", "-/"],
-      "phonics": ["/ə", "'l", "ī", "k", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "i",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/ə",
+        "'l",
+        "aɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/ə",
+        "'l",
+        "ī",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -like；i_e 對應 /aɪ/。"
     },
     {
       "number": "💚 活著的",
       "word": "alive",
       "ipa": "/əˈlaɪv/",
-      "graphemes": ["a", "l", "i", "v", "e"],
-      "phonemes": ["/ə", "'l", "aɪ", "v", "-/"],
-      "phonics": ["/ə", "'l", "ī", "v", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/ə",
+        "'l",
+        "aɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/ə",
+        "'l",
+        "ī",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -live；i_e 對應 /aɪ/。"
     },
     {
       "number": "🧍 單獨的",
       "word": "alone",
       "ipa": "/əˈloʊn/",
-      "graphemes": ["a", "l", "o", "n", "e"],
-      "phonemes": ["/ə", "'l", "oʊ", "n", "-/"],
-      "phonics": ["/ə", "'l", "ō", "n", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "l",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/ə",
+        "'l",
+        "oʊ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/ə",
+        "'l",
+        "ō",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -lone；o_e 對應 /oʊ/。"
     },
     {
       "number": "😴 睡著的",
       "word": "asleep",
       "ipa": "/əˈslip/",
-      "graphemes": ["a", "s", "l", "ee", "p"],
-      "phonemes": ["/ə", "'s", "l", "i", "p/"],
-      "phonics": ["/ə", "'s", "l", "ē", "p/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "s",
+        "l",
+        "ee",
+        "p"
+      ],
+      "phonemes": [
+        "/ə",
+        "'s",
+        "l",
+        "i",
+        "p/"
+      ],
+      "phonics": [
+        "/ə",
+        "'s",
+        "l",
+        "ē",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -sleep；sl 為 cluster；ee 對應 /i/。"
     },
     {
       "number": "✔️ 可用的",
       "word": "available",
       "ipa": "/əˈveɪləbəl/",
-      "graphemes": ["a", "v", "ai", "l", "a", "b","le"],
-      "phonemes": ["/ə", "'v", "eɪ", "l", "ə", "b","əl/"],
-      "phonics": ["/ə", "'v", "ā", "l", "ə", "b","əl/"],
-      "tags": ["vowel_team", "cle","suffix"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "a",
+        "v",
+        "ai",
+        "l",
+        "a",
+        "b",
+        "le"
+      ],
+      "phonemes": [
+        "/ə",
+        "'v",
+        "eɪ",
+        "l",
+        "ə",
+        "b",
+        "əl/"
+      ],
+      "phonics": [
+        "/ə",
+        "'v",
+        "ā",
+        "l",
+        "ə",
+        "b",
+        "əl/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cle",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -vai-；ai 對應 /eɪ/；-able 字尾。"
     },
     {
       "number": "✅ 正確的",
       "word": "correct",
       "ipa": "/kəˈrɛkt/",
-      "graphemes": ["c", "o", "rr", "e", "c", "t"],
-      "phonemes": ["/k", "ə", "'r", "ɛ", "k", "t/"],
-      "phonics": ["/k", "ə", "'r", "ĕ", "k", "t/"],
-      "tags": ["closed"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "o",
+        "rr",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "'r",
+        "ɛ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "'r",
+        "ĕ",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 -rect；閉音節短母音。"
     },
     {
       "number": "💀 死的",
       "word": "dead",
       "ipa": "/dɛd/",
-      "graphemes": ["d", "ea", "d"],
-      "phonemes": ["/d", "ɛ", "d/"],
-      "phonics": ["/d", "ĕ", "d/"],
-      "tags": ["irregular"],
-      "hearts": [0, 1, 0],
+      "graphemes": [
+        "d",
+        "ea",
+        "d"
+      ],
+      "phonemes": [
+        "/d",
+        "ɛ",
+        "d/"
+      ],
+      "phonics": [
+        "/d",
+        "ĕ",
+        "d/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；ea 對應 /ɛ/（irregular）；閉音節。"
     },
     {
       "number": "↔️ 不同的",
       "word": "different",
       "ipa": "/ˈdɪfərənt/",
-      "graphemes": ["d", "i", "ff", "e", "r", "e", "n","t"],
-      "phonemes": ["/'d", "ɪ", "f", "ə", "r", "ə", "n","t/"],
-      "phonics": ["/'d", "ĭ", "f", "ə", "r", "ə", "n","t/"],
-      "tags": ["closed", "cluster"],
-      "hearts": [0, 0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "d",
+        "i",
+        "ff",
+        "e",
+        "r",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "f",
+        "ə",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "f",
+        "ə",
+        "r",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 dif-；閉音節短母音；-ent 字尾。"
     },
     {
       "number": "⚖️ 平等的",
       "word": "equal",
       "ipa": "/ˈikwəl/",
-      "graphemes": ["e", "qu", "a", "l"],
-      "phonemes": ["/'i", "kw", "ə", "l/"],
-      "phonics": ["/'ē", "kw", "ə", "l/"],
-      "tags": ["open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "e",
+        "qu",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'i",
+        "kw",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'ē",
+        "kw",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "重音在 e-；開音節長母音；qu 為 digraph。"
     },
     {
       "number": "❌ 錯誤的",
       "word": "false",
       "ipa": "/fɔls/",
-      "graphemes": ["f", "a", "l", "se"],
-      "phonemes": ["/f", "ɔ", "l", "s/"],
-      "phonics": ["/f", "aw", "l", "s/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 1],
+      "graphemes": [
+        "f",
+        "a",
+        "l",
+        "se"
+      ],
+      "phonemes": [
+        "/f",
+        "ɔ",
+        "l",
+        "s/"
+      ],
+      "phonics": [
+        "/f",
+        "aw",
+        "l",
+        "s/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
       "hint": "單音節；al 對應 /ɔ/。"
     },
     {
       "number": "🆓 自由的",
       "word": "free",
       "ipa": "/fri/",
-      "graphemes": ["f", "r", "ee"],
-      "phonemes": ["/f", "r", "i/"],
-      "phonics": ["/f", "r", "ē/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "r",
+        "ee"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；fr 為 cluster；ee 對應 /i/。"
     },
     {
       "number": "現在的",
       "word": "present",
       "ipa": "/ˈprɛzənt/",
-      "graphemes": ["p", "r", "e", "s", "e", "n","t"],
-      "phonemes": ["/'p", "r", "ɛ", "z", "ə", "n","t/"],
-      "phonics": ["/'p", "r", "ĕ", "z", "ə", "n","t/"],
-      "tags": ["cluster", "closed", "suffix"],
-      "hearts": [0, 0, 0, 1, 0, 0],
+      "graphemes": [
+        "p",
+        "r",
+        "e",
+        "s",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɛ",
+        "z",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ĕ",
+        "z",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "重音在 pre-；pr 為 cluster；閉音節短母音；-ent 字尾。"
     },
     {
       "number": "✔️ 準備好的",
       "word": "ready",
       "ipa": "/ˈrɛdi/",
-      "graphemes": ["r", "ea", "d", "y"],
-      "phonemes": ["/'r", "ɛ", "d", "i/"],
-      "phonics": ["/'r", "ĕ", "d", "ē/"],
-      "tags": [ "irregular"],
-      "hearts": [0, 1, 0, 0],
+      "graphemes": [
+        "r",
+        "ea",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
       "hint": "重音在 rea-；ea 對應 /ɛ/（irregular）；閉音節；-y 字尾。"
     },
     {
       "number": "💯 真實的",
       "word": "real",
       "ipa": "/ril/",
-      "graphemes": ["r", "ea", "l"],
-      "phonemes": ["/r", "i", "l/"],
-      "phonics": ["/r", "ē", "l/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "ea",
+        "l"
+      ],
+      "phonemes": [
+        "/r",
+        "i",
+        "l/"
+      ],
+      "phonics": [
+        "/r",
+        "ē",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；ea 對應 /i/。"
     },
     {
       "number": "👉 右邊的",
       "word": "right",
       "ipa": "/raɪt/",
-      "graphemes": ["r", "igh", "t"],
-      "phonemes": ["/r", "aɪ", "t/"],
-      "phonics": ["/r", "ī", "t/"],
+      "graphemes": [
+        "r",
+        "igh",
+        "t"
+      ],
+      "phonemes": [
+        "/r",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/r",
+        "ī",
+        "t/"
+      ],
       "tags": [],
-      "hearts": [0, 1, 0],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
       "hint": "單音節；igh 對應 /aɪ/。"
     },
     {
       "number": "🛡️ 安全的",
       "word": "safe",
       "ipa": "/seɪf/",
-      "graphemes": ["s", "a", "f", "e"],
-      "phonemes": ["/s", "eɪ", "f", "-/"],
-      "phonics": ["/s", "ā", "f", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "a",
+        "f",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "eɪ",
+        "f",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ā",
+        "f",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；a_e 對應 /eɪ/。"
     },
     {
       "number": "🟰 相同的",
       "word": "same",
       "ipa": "/seɪm/",
-      "graphemes": ["s", "a", "m", "e"],
-      "phonemes": ["/s", "eɪ", "m", "-/"],
-      "phonics": ["/s", "ā", "m", "-/"],
-      "tags": ["magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "a",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "eɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ā",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；a_e 對應 /eɪ/。"
     },
     {
       "number": "✔️ 真實的",
       "word": "true",
       "ipa": "/tru/",
-      "graphemes": ["t", "r", "ue"],
-      "phonemes": ["/t", "r", "u/"],
-      "phonics": ["/t", "r", "ū/"],
-      "tags": ["cluster", "open"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "r",
+        "ue"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "u/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ū/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；tr 為 cluster；u 在 e 前發長音 /u/。"
     },
     {
       "number": "🔵 完整的",
       "word": "whole",
       "ipa": "/hoʊl/",
-      "graphemes": ["wh", "o", "l", "e"],
-      "phonemes": ["/h", "oʊ", "l", "-/"],
-      "phonics": ["/h", "ō", "l", "-/"],
-      "tags": ["digraph",  "magic_e"],
-      "hearts": [1, 0, 0, 0],
+      "graphemes": [
+        "wh",
+        "o",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/h",
+        "oʊ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/h",
+        "ō",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；wh 對應 /h/（w 不發音，irregular）；o_e 對應 /oʊ/。"
     },
     {
       "number": "❌ 錯誤的",
       "word": "wrong",
       "ipa": "/rɔŋ/",
-      "graphemes": ["w", "r", "o", "ng"],
-      "phonemes": ["/-","r", "ɔ", "ŋ/"],
-      "phonics": ["/-","r", "aw", "ŋ/"],
-      "tags": [ "silent_consonant", "digraph"],
-      "hearts": [1, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "r",
+        "o",
+        "ng"
+      ],
+      "phonemes": [
+        "/-",
+        "r",
+        "ɔ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/-",
+        "r",
+        "aw",
+        "ŋ/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "digraph"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "單音節；wr 中 w 不發音（irregular）；閉音節；ng 為 digraph。"
     }
   ]

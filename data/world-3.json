@@ -214,7 +214,7 @@
       ],
       "tags": [
         "cluster",
-        "closed"
+        "cvc"
       ],
       "hearts": [
         0,
@@ -536,7 +536,8 @@
         "t/"
       ],
       "tags": [
-        "irregular"
+        "irregular",
+        "cluster"
       ],
       "hearts": [
         1,

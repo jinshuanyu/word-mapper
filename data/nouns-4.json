@@ -23,9 +23,8 @@
         "n/"
       ],
       "tags": [
-        "digraph",
         "irregular",
-        "open"
+        "digraph"
       ],
       "hearts": [
         0,
@@ -101,9 +100,7 @@
         "t/"
       ],
       "tags": [
-        "irregular",
-        "rcontrolled",
-        "vowel_team"
+        "irregular"
       ],
       "hearts": [
         0,
@@ -222,9 +219,8 @@
         "t/"
       ],
       "tags": [
-        "closed",
         "irregular",
-        "rcontrolled"
+        "cluster"
       ],
       "hearts": [
         0,
@@ -271,9 +267,7 @@
         "z/"
       ],
       "tags": [
-        "closed",
-        "irregular",
-        "open"
+        "irregular"
       ],
       "hearts": [
         0,
@@ -401,10 +395,8 @@
         "shən/"
       ],
       "tags": [
-        "closed",
-        "digraph",
         "irregular",
-        "open"
+        "digraph"
       ],
       "hearts": [
         0,
@@ -437,9 +429,8 @@
         "er/"
       ],
       "tags": [
-        "rcontrolled",
-        "suffix",
-        "vowel_team"
+        "vowel_team",
+        "suffix"
       ],
       "hearts": [
         0,
@@ -474,11 +465,9 @@
         "er/"
       ],
       "tags": [
-        "closed",
+        "irregular",
         "cluster",
-        "digraph",
-        "floss",
-        "irregular"
+        "digraph"
       ],
       "hearts": [
         0,
@@ -646,10 +635,7 @@
         "z/"
       ],
       "tags": [
-        "closed",
-        "irregular",
-        "open",
-        "vowel_team"
+        "irregular"
       ],
       "hearts": [
         0,
@@ -679,8 +665,7 @@
         "or/"
       ],
       "tags": [
-        "irregular",
-        "rcontrolled"
+        "irregular"
       ],
       "hearts": [
         0,
@@ -708,7 +693,7 @@
         "t/"
       ],
       "tags": [
-        "closed"
+        "cvc"
       ],
       "hearts": [
         0,
