@@ -199,6 +199,10 @@
         {
           "label": "餐具與用餐",
           "src": "data/food-5.json"
+        },
+        {
+          "label": "烹飪與味道",
+          "src": "data/food-6.json"
         }
       ]
     },

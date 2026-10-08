@@ -1164,6 +1164,327 @@
         0
       ],
       "hint": "water + melon。"
+    },
+    {
+      "number": "🥜 花生",
+      "word": "peanut",
+      "ipa": "/ˈpinʌt/",
+      "graphemes": [
+        "p",
+        "ea",
+        "n",
+        "u",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "i",
+        "n",
+        "ʌ",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "ē",
+        "n",
+        "ŭ",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "pea + nut；ea 發長母音 /i/。"
+    },
+    {
+      "number": "🧄 大蒜",
+      "word": "garlic",
+      "ipa": "/ˈɡɑrlɪk/",
+      "graphemes": [
+        "g",
+        "ar",
+        "l",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "ɑr",
+        "l",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "ar",
+        "l",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ar 發 /ɑr/；字尾 c 發 /k/。"
+    },
+    {
+      "number": "🫚 薑",
+      "word": "ginger",
+      "ipa": "/ˈdʒɪndʒɚ/",
+      "graphemes": [
+        "g",
+        "i",
+        "n",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "ɪ",
+        "n",
+        "dʒ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'j",
+        "ĭ",
+        "n",
+        "j",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "兩個 g 都發軟音 /dʒ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🌿 蔥",
+      "word": "green onion",
+      "ipa": "/ɡrin ˈʌnjən/",
+      "graphemes": [
+        "g",
+        "r",
+        "ee",
+        "n",
+        " ",
+        "o",
+        "n",
+        "i",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "i",
+        "n",
+        "-",
+        "'ʌ",
+        "n",
+        "j",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ē",
+        "n",
+        "-",
+        "'ŭ",
+        "n",
+        "y",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "ee 發長母音 /i/；onion 第一 o 發 /ʌ/，i 發 /j/。"
+    },
+    {
+      "number": "🍠 地瓜",
+      "word": "sweet potato",
+      "ipa": "/swit pəˈteɪtoʊ/",
+      "graphemes": [
+        "s",
+        "w",
+        "ee",
+        "t",
+        " ",
+        "p",
+        "o",
+        "t",
+        "a",
+        "t",
+        "o"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "i",
+        "t",
+        "-",
+        "p",
+        "ə",
+        "'t",
+        "eɪ",
+        "t",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ē",
+        "t",
+        "-",
+        "p",
+        "ə",
+        "'t",
+        "ā",
+        "t",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "sweet + potato；ee 發 /i/；potato 第一 o 弱化，a 發長母音 /eɪ/。"
+    },
+    {
+      "number": "🍄 香菇；蘑菇",
+      "word": "mushroom",
+      "ipa": "/ˈmʌʃrum/",
+      "graphemes": [
+        "m",
+        "u",
+        "sh",
+        "r",
+        "oo",
+        "m"
+      ],
+      "phonemes": [
+        "/'m",
+        "ʌ",
+        "ʃ",
+        "r",
+        "u",
+        "m/"
+      ],
+      "phonics": [
+        "/'m",
+        "ŭ",
+        "sh",
+        "r",
+        "ū",
+        "m/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sh 發 /ʃ/；oo 發長音 /u/。"
+    },
+    {
+      "number": "🥦 花椰菜",
+      "word": "broccoli",
+      "ipa": "/ˈbrɑkəli/",
+      "graphemes": [
+        "b",
+        "r",
+        "o",
+        "cc",
+        "o",
+        "l",
+        "i"
+      ],
+      "phonemes": [
+        "/'b",
+        "r",
+        "ɑ",
+        "k",
+        "ə",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'b",
+        "r",
+        "ŏ",
+        "k",
+        "ə",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "cc 發 /k/；第二個 o 弱化；字尾 i 發 /i/。"
     }
   ]
 }

@@ -1,0 +1,835 @@
+{
+  "items": [
+    {
+      "number": "🥯 烘烤",
+      "word": "bake",
+      "ipa": "/beɪk/",
+      "graphemes": [
+        "b",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "😖 苦的",
+      "word": "bitter",
+      "ipa": "/ˈbɪtɚ/",
+      "graphemes": [
+        "b",
+        "i",
+        "tt",
+        "er"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɪ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'b",
+        "ĭ",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "tt 發單音 /t/；er 發捲舌音 /ɚ/。"
+    },
+    {
+      "number": "🍲 煮沸",
+      "word": "boil",
+      "ipa": "/bɔɪl/",
+      "graphemes": [
+        "b",
+        "oi",
+        "l"
+      ],
+      "phonemes": [
+        "/b",
+        "ɔɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/b",
+        "oi",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/。"
+    },
+    {
+      "number": "🔥 燒焦",
+      "word": "burn",
+      "ipa": "/bɝn/",
+      "graphemes": [
+        "b",
+        "ur",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ɝ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "er",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ur 發 /ɝ/。"
+    },
+    {
+      "number": "🍳 烹飪",
+      "word": "cook",
+      "ipa": "/kʊk/",
+      "graphemes": [
+        "c",
+        "oo",
+        "k"
+      ],
+      "phonemes": [
+        "/k",
+        "ʊ",
+        "k/"
+      ],
+      "phonics": [
+        "/k",
+        "oo",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發短音 /ʊ/。"
+    },
+    {
+      "number": "😋 好吃的",
+      "word": "delicious",
+      "ipa": "/dɪˈlɪʃəs/",
+      "graphemes": [
+        "d",
+        "e",
+        "l",
+        "i",
+        "c",
+        "iou",
+        "s"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "'l",
+        "ɪ",
+        "ʃ",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "'l",
+        "ĭ",
+        "sh",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "ci 發 /ʃ/；ous 發 /əs/。"
+    },
+    {
+      "number": "🔪 切片",
+      "word": "slice",
+      "ipa": "/slaɪs/",
+      "graphemes": [
+        "s",
+        "l",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/s",
+        "l",
+        "aɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/s",
+        "l",
+        "ī",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發 /aɪ/；c 發軟音 /s/。"
+    },
+    {
+      "number": "👃 聞",
+      "word": "smell",
+      "ipa": "/smɛl/",
+      "graphemes": [
+        "s",
+        "m",
+        "e",
+        "ll"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "ɛ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ĕ",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ll 發單音 /l/。"
+    },
+    {
+      "number": "😖 酸的",
+      "word": "sour",
+      "ipa": "/ˈsaʊɚ/",
+      "graphemes": [
+        "s",
+        "ou",
+        "r"
+      ],
+      "phonemes": [
+        "/'s",
+        "aʊ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ow",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "our 發 /aʊɚ/。"
+    },
+    {
+      "number": "🍞 塗抹",
+      "word": "spread",
+      "ipa": "/sprɛd/",
+      "graphemes": [
+        "s",
+        "p",
+        "r",
+        "ea",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "r",
+        "ɛ",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "r",
+        "ĕ",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "ea 發短音 /ɛ/。"
+    },
+    {
+      "number": "🍬 甜的",
+      "word": "sweet",
+      "ipa": "/swit/",
+      "graphemes": [
+        "s",
+        "w",
+        "ee",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ee 發長母音 /i/。"
+    },
+    {
+      "number": "👅 嚐",
+      "word": "taste",
+      "ipa": "/teɪst/",
+      "graphemes": [
+        "t",
+        "a",
+        "s",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "eɪ",
+        "s",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "ā",
+        "s",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "😋 好吃的",
+      "word": "yummy",
+      "ipa": "/ˈjʌmi/",
+      "graphemes": [
+        "y",
+        "u",
+        "mm",
+        "y"
+      ],
+      "phonemes": [
+        "/'j",
+        "ʌ",
+        "m",
+        "i/"
+      ],
+      "phonics": [
+        "/'y",
+        "ŭ",
+        "m",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "y 字尾發 /i/。"
+    },
+    {
+      "number": "🧂 鹹的",
+      "word": "salty",
+      "ipa": "/ˈsɔlti/",
+      "graphemes": [
+        "s",
+        "a",
+        "l",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɔ",
+        "l",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "aw",
+        "l",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "a 在 l 前不規則發 /ɔ/ (aw)；y 字尾發 /i/。"
+    },
+    {
+      "number": "🌶️ 辣的",
+      "word": "spicy",
+      "ipa": "/ˈspaɪsi/",
+      "graphemes": [
+        "s",
+        "p",
+        "i",
+        "c",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "p",
+        "aɪ",
+        "s",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "p",
+        "ī",
+        "s",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "i 開音節發長母音 /aɪ/；c 發軟音 /s/；y 字尾發 /i/。"
+    },
+    {
+      "number": "🧸 軟的",
+      "word": "soft",
+      "ipa": "/sɔft/",
+      "graphemes": [
+        "s",
+        "o",
+        "f",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔ",
+        "f",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "aw",
+        "f",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發 /ɔ/ (aw)。"
+    },
+    {
+      "number": "🪨 硬的",
+      "word": "hard",
+      "ipa": "/hɑrd/",
+      "graphemes": [
+        "h",
+        "ar",
+        "d"
+      ],
+      "phonemes": [
+        "/h",
+        "ɑr",
+        "d/"
+      ],
+      "phonics": [
+        "/h",
+        "ar",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ar 發 /ɑr/。"
+    },
+    {
+      "number": "🍮 滑順的",
+      "word": "smooth",
+      "ipa": "/smuð/",
+      "graphemes": [
+        "s",
+        "m",
+        "oo",
+        "th"
+      ],
+      "phonemes": [
+        "/s",
+        "m",
+        "u",
+        "ð/"
+      ],
+      "phonics": [
+        "/s",
+        "m",
+        "ū",
+        "<u>th</u>/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "oo 發長音 /u/；th 發有聲吐舌音 /ð/。"
+    },
+    {
+      "number": "♨️ 蒸",
+      "word": "steam",
+      "ipa": "/stim/",
+      "graphemes": [
+        "s",
+        "t",
+        "ea",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "i",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ē",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發長母音 /i/。"
+    },
+    {
+      "number": "🥄 攪拌",
+      "word": "stir",
+      "ipa": "/stɝ/",
+      "graphemes": [
+        "s",
+        "t",
+        "ir"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɝ/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ir 發 /ɝ/。"
+    },
+    {
+      "number": "🫗 倒",
+      "word": "pour",
+      "ipa": "/pɔr/",
+      "graphemes": [
+        "p",
+        "our"
+      ],
+      "phonemes": [
+        "/p",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/p",
+        "or/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
+      "hint": "our 發 or /ɔr/。"
+    },
+    {
+      "number": "🔪 剁；切碎",
+      "word": "chop",
+      "ipa": "/tʃɑp/",
+      "graphemes": [
+        "ch",
+        "o",
+        "p"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "ɑ",
+        "p/"
+      ],
+      "phonics": [
+        "/ch",
+        "ŏ",
+        "p/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ch 發 /tʃ/。"
+    },
+    {
+      "number": "📖 食譜",
+      "word": "recipe",
+      "ipa": "/ˈrɛsəpi/",
+      "graphemes": [
+        "r",
+        "e",
+        "c",
+        "i",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "s",
+        "ə",
+        "p",
+        "i/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "s",
+        "ə",
+        "p",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "hint": "c 發軟音 /s/；i 弱化；字尾 e 發 /i/，不是靜音 e。"
+    },
+    {
+      "number": "🥣 材料",
+      "word": "ingredient",
+      "ipa": "/ɪnˈɡridiənt/",
+      "graphemes": [
+        "i",
+        "n",
+        "g",
+        "r",
+        "e",
+        "d",
+        "i",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "'ɡ",
+        "r",
+        "i",
+        "d",
+        "i",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "'ɡ",
+        "r",
+        "ē",
+        "d",
+        "ē",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 -gre-；e 開音節發長母音 /i/；第二個 e 弱化。"
+    }
+  ]
+}
