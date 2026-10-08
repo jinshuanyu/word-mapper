@@ -207,16 +207,6 @@
       ]
     },
     {
-      "slug": "geography",
-      "title": "Geography 地理",
-      "levels": [
-        {
-          "label": "All",
-          "src": "data/geography.json"
-        }
-      ]
-    },
-    {
       "slug": "health",
       "title": "Health 健康",
       "levels": [
