@@ -926,6 +926,164 @@
         false
       ],
       "hint": "or 發 er /ɝ/。"
+    },
+    {
+      "number": "🐦 鳥喙",
+      "word": "beak",
+      "ipa": "/bik/",
+      "graphemes": [
+        "b",
+        "ea",
+        "k"
+      ],
+      "phonemes": [
+        "/b",
+        "i",
+        "k/"
+      ],
+      "phonics": [
+        "/b",
+        "ē",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發長母音 /i/。"
+    },
+    {
+      "number": "🐓 公雞",
+      "word": "rooster",
+      "ipa": "/ˈrustɚ/",
+      "graphemes": [
+        "r",
+        "oo",
+        "s",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'r",
+        "u",
+        "s",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'r",
+        "ū",
+        "s",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發長音 /u/；st 子音群；er 發 /ɚ/。"
+    },
+    {
+      "number": "🐭 鼴鼠",
+      "word": "mole",
+      "ipa": "/moʊl/",
+      "graphemes": [
+        "m",
+        "o",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/m",
+        "oʊ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/m",
+        "ō",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o_e 發長母音 /oʊ/。"
+    },
+    {
+      "number": "🐟 鱈魚",
+      "word": "cod",
+      "ipa": "/kɑd/",
+      "graphemes": [
+        "c",
+        "o",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "ɑ",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "ŏ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發短母音 /ɑ/。"
+    },
+    {
+      "number": "🐻 幼獸",
+      "word": "cub",
+      "ipa": "/kʌb/",
+      "graphemes": [
+        "c",
+        "u",
+        "b"
+      ],
+      "phonemes": [
+        "/k",
+        "ʌ",
+        "b/"
+      ],
+      "phonics": [
+        "/k",
+        "ŭ",
+        "b/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 /ʌ/。"
     }
   ]
 }

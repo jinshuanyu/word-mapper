@@ -922,6 +922,41 @@
         0
       ],
       "hint": "重音在 -part-；e 弱化發 /ɪ/；ar 發 /ɑr/；-ment 字尾。"
+    },
+    {
+      "number": "🏪 攤位",
+      "word": "stall",
+      "ipa": "/stɔl/",
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "st 子音群；a 在 ll 前發 /ɔ/；ll 重複字母。"
     }
   ]
 }

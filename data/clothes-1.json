@@ -824,6 +824,36 @@
         1
       ],
       "hint": "sh 發 /ʃ/；oe 不規則發 /u/。"
+    },
+    {
+      "number": "🧦 襪子（單數）",
+      "word": "sock",
+      "ipa": "/sɑk/",
+      "graphemes": [
+        "s",
+        "o",
+        "ck"
+      ],
+      "phonemes": [
+        "/s",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ck 發 /k/。"
     }
   ]
 }

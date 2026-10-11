@@ -1345,6 +1345,44 @@
         0
       ],
       "hint": "重音在 sta-；a 開音節發 /eɪ/；tion 發 /ʃən/；y 字尾發 /i/。"
+    },
+    {
+      "number": "📍 地點",
+      "word": "location",
+      "ipa": "/loʊˈkeɪʃən/",
+      "graphemes": [
+        "l",
+        "o",
+        "c",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/l",
+        "oʊ",
+        "'k",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/l",
+        "ō",
+        "'k",
+        "ā",
+        "shən/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -ca-；o 和 a 都是開音節長母音；tion 發 /ʃən/。"
     }
   ]
 }

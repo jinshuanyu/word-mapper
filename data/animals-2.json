@@ -1090,6 +1090,68 @@
         false
       ],
       "hint": "ng 發 /ŋ/。"
+    },
+    {
+      "number": "🐰 小兔子",
+      "word": "bunny",
+      "ipa": "/ˈbʌni/",
+      "graphemes": [
+        "b",
+        "u",
+        "nn",
+        "y"
+      ],
+      "phonemes": [
+        "/'b",
+        "ʌ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŭ",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 bun-；nn 重複字母；y 字尾發 /i/。"
+    },
+    {
+      "number": "🦦 水獺",
+      "word": "otter",
+      "ipa": "/ˈɑtɚ/",
+      "graphemes": [
+        "o",
+        "tt",
+        "er"
+      ],
+      "phonemes": [
+        "/'ɑ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ŏ",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 ot-；tt 重複字母；er 發 /ɚ/。"
     }
   ]
 }

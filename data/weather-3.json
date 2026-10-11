@@ -751,6 +751,39 @@
         0
       ],
       "hint": "br 子音群；ch 發 /tʃ/。"
+    },
+    {
+      "number": "🌲 松樹",
+      "word": "pine",
+      "ipa": "/paɪn/",
+      "graphemes": [
+        "p",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發長母音 /aɪ/。"
     }
   ]
 }

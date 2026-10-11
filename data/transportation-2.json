@@ -1104,6 +1104,164 @@
         0
       ],
       "hint": "under + pass；u 發 /ʌ/；ss 重複字母。"
+    },
+    {
+      "number": "🅿️ 停車",
+      "word": "parking",
+      "ipa": "/ˈpɑrkɪŋ/",
+      "graphemes": [
+        "p",
+        "ar",
+        "k",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑr",
+        "k",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ɑr",
+        "k",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "park + ing；ar 發 /ɑr/；ng 發 /ŋ/。"
+    },
+    {
+      "number": "🚦 燈（複數；traffic lights 紅綠燈）",
+      "word": "lights",
+      "ipa": "/laɪts/",
+      "graphemes": [
+        "l",
+        "igh",
+        "t",
+        "s"
+      ],
+      "phonemes": [
+        "/l",
+        "aɪ",
+        "t",
+        "s/"
+      ],
+      "phonics": [
+        "/l",
+        "ī",
+        "t",
+        "s/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "light 的複數；igh 發 /aɪ/；字尾 s 發 /s/。"
+    },
+    {
+      "number": "🚸 行人穿越道",
+      "word": "crosswalk",
+      "ipa": "/ˈkrɔsˌwɔk/",
+      "graphemes": [
+        "c",
+        "r",
+        "o",
+        "ss",
+        "w",
+        "a",
+        "l",
+        "k"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "ɔ",
+        "s",
+        "w",
+        "ɔ",
+        "-",
+        "k/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "aw",
+        "s",
+        "w",
+        "aw",
+        "-",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular",
+        "floss",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "cross + walk；o 發 /ɔ/；walk 的 a 發 /ɔ/，l 不發音。"
+    },
+    {
+      "number": "🛣️ 車道；巷",
+      "word": "lane",
+      "ipa": "/leɪn/",
+      "graphemes": [
+        "l",
+        "a",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/l",
+        "eɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/l",
+        "ā",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
     }
   ]
 }

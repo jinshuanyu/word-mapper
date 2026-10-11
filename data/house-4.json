@@ -781,6 +781,197 @@
         0
       ],
       "hint": "oo 發短音 /ʊ/。"
+    },
+    {
+      "number": "💨 吹風機",
+      "word": "hairdryer",
+      "ipa": "/ˈhɛrˌdraɪɚ/",
+      "graphemes": [
+        "h",
+        "ai",
+        "r",
+        "d",
+        "r",
+        "y",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɛ",
+        "r",
+        "d",
+        "r",
+        "aɪ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĕ",
+        "r",
+        "d",
+        "r",
+        "ī",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "hair + dryer；ai 在 r 前發 /ɛ/；y 發 /aɪ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "📱 智慧型手機",
+      "word": "smartphone",
+      "ipa": "/ˈsmɑrtˌfoʊn/",
+      "graphemes": [
+        "s",
+        "m",
+        "ar",
+        "t",
+        "ph",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/'s",
+        "m",
+        "ɑr",
+        "t",
+        "f",
+        "oʊ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/'s",
+        "m",
+        "ɑr",
+        "t",
+        "f",
+        "ō",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "smart + phone；ar 發 /ɑr/；ph 發 /f/；o_e 發 /oʊ/。"
+    },
+    {
+      "number": "🥢 棍子；黏住",
+      "word": "stick",
+      "ipa": "/stɪk/",
+      "graphemes": [
+        "s",
+        "t",
+        "i",
+        "ck"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群；ck 發 /k/。"
+    },
+    {
+      "number": "🪣 水桶",
+      "word": "pail",
+      "ipa": "/peɪl/",
+      "graphemes": [
+        "p",
+        "ai",
+        "l"
+      ],
+      "phonemes": [
+        "/p",
+        "eɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/p",
+        "ā",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ai 發 /eɪ/。"
+    },
+    {
+      "number": "🛍️ 麻袋",
+      "word": "sack",
+      "ipa": "/sæk/",
+      "graphemes": [
+        "s",
+        "a",
+        "ck"
+      ],
+      "phonemes": [
+        "/s",
+        "æ",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "ă",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ck 發 /k/。"
     }
   ]
 }

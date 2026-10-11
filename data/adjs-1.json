@@ -1038,6 +1038,41 @@
         0
       ],
       "hint": "重音在 emp-；mpt 子音群；y 字尾發 /i/。"
+    },
+    {
+      "number": "🫗 充滿的（be filled with）",
+      "word": "filled",
+      "ipa": "/fɪld/",
+      "graphemes": [
+        "f",
+        "i",
+        "ll",
+        "ed"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪ",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/f",
+        "ĭ",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fill + ed；ll 重複字母；-ed 發 /d/。"
     }
   ]
 }

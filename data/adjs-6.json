@@ -990,6 +990,95 @@
         0
       ],
       "hint": "重音在 -prise；ur 弱化發 /ɚ/；s 發 /z/；-ed 發 /d/。"
+    },
+    {
+      "number": "😩 累人的",
+      "word": "tiring",
+      "ipa": "/ˈtaɪrɪŋ/",
+      "graphemes": [
+        "t",
+        "i",
+        "r",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'t",
+        "aɪ",
+        "r",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ī",
+        "r",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "tire + ing（去 e 加 ing）；第一個 i 發 /aɪ/。"
+    },
+    {
+      "number": "😮 令人驚訝的",
+      "word": "surprising",
+      "ipa": "/sɚˈpraɪzɪŋ/",
+      "graphemes": [
+        "s",
+        "ur",
+        "p",
+        "r",
+        "i",
+        "s",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "ɚ",
+        "'p",
+        "r",
+        "aɪ",
+        "z",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "er",
+        "'p",
+        "r",
+        "ī",
+        "z",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "surprise + ing；ur 弱化發 /ɚ/；s 發 /z/。"
     }
   ]
 }

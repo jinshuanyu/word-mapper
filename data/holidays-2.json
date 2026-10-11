@@ -1,0 +1,491 @@
+{
+  "items": [
+    {
+      "number": "🧙 女巫",
+      "word": "witch",
+      "ipa": "/wɪtʃ/",
+      "graphemes": [
+        "w",
+        "i",
+        "tch"
+      ],
+      "phonemes": [
+        "/w",
+        "ɪ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/w",
+        "ĭ",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "tch 發 /tʃ/。"
+    },
+    {
+      "number": "🧛 吸血鬼",
+      "word": "vampire",
+      "ipa": "/ˈvæmpaɪr/",
+      "graphemes": [
+        "v",
+        "a",
+        "m",
+        "p",
+        "i",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/'v",
+        "æ",
+        "m",
+        "p",
+        "aɪ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/'v",
+        "ă",
+        "m",
+        "p",
+        "ī",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 vam-；mp 子音群；i_e 發 /aɪ/。"
+    },
+    {
+      "number": "🧟 木乃伊",
+      "word": "mummy",
+      "ipa": "/ˈmʌmi/",
+      "graphemes": [
+        "m",
+        "u",
+        "mm",
+        "y"
+      ],
+      "phonemes": [
+        "/'m",
+        "ʌ",
+        "m",
+        "i/"
+      ],
+      "phonics": [
+        "/'m",
+        "ŭ",
+        "m",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 mum-；mm 重複字母；y 字尾發 /i/。"
+    },
+    {
+      "number": "🎃 南瓜燈",
+      "word": "jack-o'-lantern",
+      "ipa": "/ˈdʒækəˌlæntɚn/",
+      "graphemes": [
+        "j",
+        "a",
+        "ck",
+        "-",
+        "o",
+        "'",
+        "-",
+        "l",
+        "a",
+        "n",
+        "t",
+        "er",
+        "n"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "æ",
+        "k",
+        "-",
+        "ə",
+        "-",
+        "-",
+        "l",
+        "æ",
+        "n",
+        "t",
+        "ɚ",
+        "n/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ă",
+        "k",
+        "-",
+        "ə",
+        "-",
+        "-",
+        "l",
+        "ă",
+        "n",
+        "t",
+        "er",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "jack + o' + lantern；ck 發 /k/；o' 弱化發 /ə/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🎅 聖誕老人（Santa Claus）",
+      "word": "Santa",
+      "ipa": "/ˈsæntə/",
+      "graphemes": [
+        "S",
+        "a",
+        "n",
+        "t",
+        "a"
+      ],
+      "phonemes": [
+        "/'s",
+        "æ",
+        "n",
+        "t",
+        "ə/"
+      ],
+      "phonics": [
+        "/'s",
+        "ă",
+        "n",
+        "t",
+        "ə/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 San-；字尾 a 弱化。"
+    },
+    {
+      "number": "🎅 聖誕老人（Santa Claus）",
+      "word": "Claus",
+      "ipa": "/klɔz/",
+      "graphemes": [
+        "C",
+        "l",
+        "au",
+        "s"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "ɔ",
+        "z/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "aw",
+        "z/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "cl 子音群；au 發 /ɔ/；s 發 /z/。"
+    },
+    {
+      "number": "🧦 聖誕襪",
+      "word": "stocking",
+      "ipa": "/ˈstɑkɪŋ/",
+      "graphemes": [
+        "s",
+        "t",
+        "o",
+        "ck",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ɑ",
+        "k",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ŏ",
+        "k",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 stock-；ck 發 /k/；ng 發 /ŋ/。"
+    },
+    {
+      "number": "🍬 拐杖糖（candy cane）",
+      "word": "cane",
+      "ipa": "/keɪn/",
+      "graphemes": [
+        "c",
+        "a",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "eɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ā",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "🧨 鞭炮",
+      "word": "firecrackers",
+      "ipa": "/ˈfaɪrˌkrækɚz/",
+      "graphemes": [
+        "f",
+        "i",
+        "r",
+        "e",
+        "c",
+        "r",
+        "a",
+        "ck",
+        "er",
+        "s"
+      ],
+      "phonemes": [
+        "/'f",
+        "aɪ",
+        "r",
+        "-",
+        "k",
+        "r",
+        "æ",
+        "k",
+        "ɚ",
+        "z/"
+      ],
+      "phonics": [
+        "/'f",
+        "ī",
+        "r",
+        "-",
+        "k",
+        "r",
+        "ă",
+        "k",
+        "er",
+        "z/"
+      ],
+      "tags": [
+        "magic_e",
+        "cluster",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fire + cracker + s；i_e 發 /aɪ/；cr 子音群；ck 發 /k/。"
+    },
+    {
+      "number": "🧧 春聯",
+      "word": "couplet",
+      "ipa": "/ˈkʌplɪt/",
+      "graphemes": [
+        "c",
+        "ou",
+        "p",
+        "l",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʌ",
+        "p",
+        "l",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŭ",
+        "p",
+        "l",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 coup-；ou 不規則發 /ʌ/；e 弱化發 /ɪ/。"
+    },
+    {
+      "number": "🍊 橘子（複數）",
+      "word": "tangerines",
+      "ipa": "/ˌtændʒəˈrinz/",
+      "graphemes": [
+        "t",
+        "a",
+        "n",
+        "g",
+        "e",
+        "r",
+        "i",
+        "n",
+        "e",
+        "s"
+      ],
+      "phonemes": [
+        "/t",
+        "æ",
+        "n",
+        "dʒ",
+        "ə",
+        "'r",
+        "i",
+        "n",
+        "-",
+        "z/"
+      ],
+      "phonics": [
+        "/t",
+        "ă",
+        "n",
+        "-j",
+        "ə",
+        "'r",
+        "ē",
+        "n",
+        "-",
+        "z/"
+      ],
+      "tags": [
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "tangerine 的複數；g 發軟音 /dʒ/；i_e 發 /i/；字尾 s 發 /z/。"
+    }
+  ]
+}

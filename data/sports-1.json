@@ -947,6 +947,40 @@
         0
       ],
       "hint": "soft + ball；o 和 a 都發 /ɔ/。"
+    },
+    {
+      "number": "🏟️ 場地；田野",
+      "word": "field",
+      "ipa": "/fild/",
+      "graphemes": [
+        "f",
+        "ie",
+        "l",
+        "d"
+      ],
+      "phonemes": [
+        "/f",
+        "i",
+        "l",
+        "d/"
+      ],
+      "phonics": [
+        "/f",
+        "ē",
+        "l",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ie 發 /i/；ld 子音群。"
     }
   ]
 }

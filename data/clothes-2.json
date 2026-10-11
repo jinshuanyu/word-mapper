@@ -736,6 +736,72 @@
         1
       ],
       "hint": "gl 子音群；o 不規則發 /ʌ/；字尾 e 靜音。"
+    },
+    {
+      "number": "🦸 披風",
+      "word": "cape",
+      "ipa": "/keɪp/",
+      "graphemes": [
+        "c",
+        "a",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "eɪ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ā",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "🥋 長袍",
+      "word": "robe",
+      "ipa": "/roʊb/",
+      "graphemes": [
+        "r",
+        "o",
+        "b",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "oʊ",
+        "b",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ō",
+        "b",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o_e 發長母音 /oʊ/。"
     }
   ]
 }

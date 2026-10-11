@@ -774,6 +774,35 @@
         false
       ],
       "hint": "ay → /eɪ/；x → /ks/。"
+    },
+    {
+      "number": "🔴 青春痘（口語）",
+      "word": "zit",
+      "ipa": "/zɪt/",
+      "graphemes": [
+        "z",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/z",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/z",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短母音 /ɪ/。"
     }
   ]
 }

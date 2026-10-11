@@ -1279,6 +1279,52 @@
         0
       ],
       "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "🧴 強力膠",
+      "word": "superglue",
+      "ipa": "/ˈsupɚˌɡlu/",
+      "graphemes": [
+        "s",
+        "u",
+        "p",
+        "er",
+        "g",
+        "l",
+        "ue"
+      ],
+      "phonemes": [
+        "/'s",
+        "u",
+        "p",
+        "ɚ",
+        "ɡ",
+        "l",
+        "u/"
+      ],
+      "phonics": [
+        "/'s",
+        "ū",
+        "p",
+        "er",
+        "ɡ",
+        "l",
+        "ū/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "super + glue；u 開音節發 /u/；gl 子音群；ue 發 /u/。"
     }
   ]
 }

@@ -780,6 +780,123 @@
         0
       ],
       "hint": "i 發 /aɪ/；a 弱化；字尾 l 加 -ed 發 /d/。"
+    },
+    {
+      "number": "✅ 實現",
+      "word": "fulfill",
+      "ipa": "/fʊlˈfɪl/",
+      "graphemes": [
+        "f",
+        "u",
+        "l",
+        "f",
+        "i",
+        "ll"
+      ],
+      "phonemes": [
+        "/f",
+        "ʊ",
+        "l",
+        "'f",
+        "ɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/f",
+        "oo",
+        "l",
+        "'f",
+        "ĭ",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -fill；第一個 u 發 /ʊ/；字尾有聲子音加 -ed 發 /d/。"
+    },
+    {
+      "number": "🔗 結合",
+      "word": "combine",
+      "ipa": "/kəmˈbaɪn/",
+      "graphemes": [
+        "c",
+        "o",
+        "m",
+        "b",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "m",
+        "'b",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "m",
+        "'b",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -bine；o 弱化；i_e 發 /aɪ/；字尾 n 加 -ed 發 /d/。"
+    },
+    {
+      "number": "⚠️ 警告",
+      "word": "warn",
+      "ipa": "/wɔrn/",
+      "graphemes": [
+        "w",
+        "ar",
+        "n"
+      ],
+      "phonemes": [
+        "/w",
+        "ɔr",
+        "n/"
+      ],
+      "phonics": [
+        "/w",
+        "or",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "w 後面的 ar 發 /ɔr/（像 war、warm）；字尾 n 加 -ed 發 /d/。"
     }
   ]
 }

@@ -1074,6 +1074,40 @@
         0
       ],
       "hint": "a 不規則發 /ɑ/。"
+    },
+    {
+      "number": "🧋 泡泡（bubble tea 珍珠奶茶）",
+      "word": "bubble",
+      "ipa": "/ˈbʌbəl/",
+      "graphemes": [
+        "b",
+        "u",
+        "bb",
+        "le"
+      ],
+      "phonemes": [
+        "/'b",
+        "ʌ",
+        "b",
+        "əl/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŭ",
+        "b",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 bub-；bb 重複字母；ble 發 /bəl/。"
     }
   ]
 }

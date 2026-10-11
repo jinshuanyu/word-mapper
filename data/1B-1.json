@@ -1103,6 +1103,94 @@
         0
       ],
       "hint": "重音在 pun-；sh 發 /ʃ/；字尾無聲子音加 -ed 發 /t/。"
+    },
+    {
+      "number": "👆 輕拍；點擊",
+      "word": "tap",
+      "ipa": "/tæp/",
+      "graphemes": [
+        "t",
+        "a",
+        "p"
+      ],
+      "phonemes": [
+        "/t",
+        "æ",
+        "p/"
+      ],
+      "phonics": [
+        "/t",
+        "ă",
+        "p/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "字尾無聲子音加 -ed 發 /t/（tapped 要重複 p）。"
+    },
+    {
+      "number": "🛏️ 塞入",
+      "word": "tuck",
+      "ipa": "/tʌk/",
+      "graphemes": [
+        "t",
+        "u",
+        "ck"
+      ],
+      "phonemes": [
+        "/t",
+        "ʌ",
+        "k/"
+      ],
+      "phonics": [
+        "/t",
+        "ŭ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ck 發 /k/；字尾無聲子音加 -ed 發 /t/。"
+    },
+    {
+      "number": "🥤 小口喝",
+      "word": "sip",
+      "ipa": "/sɪp/",
+      "graphemes": [
+        "s",
+        "i",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "ɪ",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "ĭ",
+        "p/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "字尾無聲子音加 -ed 發 /t/（sipped 要重複 p）。"
     }
   ]
 }

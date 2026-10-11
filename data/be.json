@@ -347,6 +347,72 @@
         false
       ],
       "hint": "ee 發短母音 i /ɪ/。"
+    },
+    {
+      "number": "我是（I am）",
+      "word": "I'm",
+      "ipa": "/aɪm/",
+      "graphemes": [
+        "I",
+        "'",
+        "m"
+      ],
+      "phonemes": [
+        "/aɪ",
+        "-",
+        "m/"
+      ],
+      "phonics": [
+        "/ī",
+        "-",
+        "m/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "I + am；' 不發音。"
+    },
+    {
+      "number": "你是（you are）",
+      "word": "you're",
+      "ipa": "/jʊr/",
+      "graphemes": [
+        "y",
+        "ou",
+        "'",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/j",
+        "ʊ",
+        "-",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/y",
+        "oo",
+        "-",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "hint": "you + are；ou 發 /ʊ/；' 和字尾 e 不發音；與 your 同音。"
     }
   ]
 }

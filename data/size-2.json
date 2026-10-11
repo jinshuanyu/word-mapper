@@ -431,6 +431,39 @@
         0
       ],
       "hint": "ou 發雙母音 /ou/。"
+    },
+    {
+      "number": "🧊 立方體",
+      "word": "cube",
+      "ipa": "/kjub/",
+      "graphemes": [
+        "c",
+        "u",
+        "b",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "ju",
+        "b",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "yū",
+        "b",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "u_e 發 /ju/。"
     }
   ]
 }

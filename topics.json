@@ -225,8 +225,12 @@
       "title": "Holidays 假日",
       "levels": [
         {
-          "label": "All",
+          "label": "節日與活動",
           "src": "data/holidays.json"
+        },
+        {
+          "label": "節慶角色與物品",
+          "src": "data/holidays-2.json"
         }
       ]
     },

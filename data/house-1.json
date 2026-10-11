@@ -1172,6 +1172,84 @@
         0
       ],
       "hint": "oi 發 /ɔɪ/；e 弱化。"
+    },
+    {
+      "number": "🛋️ 起居的（living room 客廳）",
+      "word": "living",
+      "ipa": "/ˈlɪvɪŋ/",
+      "graphemes": [
+        "l",
+        "i",
+        "v",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɪ",
+        "v",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'l",
+        "ĭ",
+        "v",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "live + ing（去 e 加 ing）；ng 發 /ŋ/。"
+    },
+    {
+      "number": "🍽️ 用餐的（dining room 餐廳）",
+      "word": "dining",
+      "ipa": "/ˈdaɪnɪŋ/",
+      "graphemes": [
+        "d",
+        "i",
+        "n",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'d",
+        "aɪ",
+        "n",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ī",
+        "n",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "open",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dine + ing（去 e 加 ing）；第一個 i 發 /aɪ/。"
     }
   ]
 }

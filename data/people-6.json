@@ -299,6 +299,39 @@
         0
       ],
       "hint": "ir 發 /ɝ/。"
+    },
+    {
+      "number": "🤴 公爵",
+      "word": "duke",
+      "ipa": "/duk/",
+      "graphemes": [
+        "d",
+        "u",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/d",
+        "u",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/d",
+        "ū",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "u_e 發 /u/。"
     }
   ]
 }

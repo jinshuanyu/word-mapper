@@ -515,6 +515,69 @@
         false
       ],
       "hint": "縮寫為 T；ll 重複字母；i 發 y /j/，非獨立音節。"
+    },
+    {
+      "number": 25,
+      "word": "twenty-five",
+      "ipa": "/ˌtwɛntiˈfaɪv/",
+      "graphemes": [
+        "t",
+        "w",
+        "e",
+        "n",
+        "t",
+        "y",
+        "-",
+        "f",
+        "i",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "w",
+        "ɛ",
+        "n",
+        "t",
+        "i",
+        "-",
+        "'f",
+        "aɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "w",
+        "ĕ",
+        "n",
+        "t",
+        "ē",
+        "-",
+        "'f",
+        "ī",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "twenty + five；y 字尾發 /i/；five 為 magic e。"
     }
   ]
 }

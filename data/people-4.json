@@ -1152,6 +1152,48 @@
         0
       ],
       "hint": "al 發 /aw/；l 不發音；a 弱化。"
+    },
+    {
+      "number": "😤 嚴格的",
+      "word": "strict",
+      "ipa": "/strɪkt/",
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "i",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "ɪ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ĭ",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "str、ct 子音群。"
     }
   ]
 }

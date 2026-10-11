@@ -412,6 +412,45 @@
         false
       ],
       "hint": "i_e：i 發長母音 i /aɪ/，e 不發音。"
+    },
+    {
+      "number": "🙌 手（複數）",
+      "word": "hands",
+      "ipa": "/hændz/",
+      "graphemes": [
+        "h",
+        "a",
+        "n",
+        "d",
+        "s"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "n",
+        "d",
+        "z/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "n",
+        "d",
+        "z/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "hand 的複數；nd 子音群；字尾 s 發 /z/。"
     }
   ]
 }

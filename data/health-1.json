@@ -818,6 +818,56 @@
         0
       ],
       "hint": "重音在 en-；er 發 /ɚ/；g 發軟音 /dʒ/；y 字尾發 /i/。"
+    },
+    {
+      "number": "⏳ 壽命",
+      "word": "lifespan",
+      "ipa": "/ˈlaɪfˌspæn/",
+      "graphemes": [
+        "l",
+        "i",
+        "f",
+        "e",
+        "s",
+        "p",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'l",
+        "aɪ",
+        "f",
+        "-",
+        "s",
+        "p",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/'l",
+        "ī",
+        "f",
+        "-",
+        "s",
+        "p",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "magic_e",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "life + span；i_e 發 /aɪ/；sp 子音群。"
     }
   ]
 }

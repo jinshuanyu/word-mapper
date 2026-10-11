@@ -473,6 +473,45 @@
         0
       ],
       "hint": "重音在 -la-；t 在 u 前發 /tʃ/；tion 發 /ʃən/。"
+    },
+    {
+      "number": "🙏 謝謝",
+      "word": "thanks",
+      "ipa": "/θæŋks/",
+      "graphemes": [
+        "th",
+        "a",
+        "n",
+        "k",
+        "s"
+      ],
+      "phonemes": [
+        "/θ",
+        "æ",
+        "ŋ",
+        "k",
+        "s/"
+      ],
+      "phonics": [
+        "/th",
+        "ă",
+        "ŋ",
+        "k",
+        "s/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "th 發 /θ/；n 在 k 前發 /ŋ/。"
     }
   ]
 }

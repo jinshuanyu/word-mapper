@@ -769,6 +769,52 @@
         0
       ],
       "hint": "in + come；o 發 /ʌ/，字尾 e 靜音。"
+    },
+    {
+      "number": "🏷️ 折扣",
+      "word": "discount",
+      "ipa": "/ˈdɪskaʊnt/",
+      "graphemes": [
+        "d",
+        "i",
+        "s",
+        "c",
+        "ou",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "s",
+        "k",
+        "aʊ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "s",
+        "k",
+        "ow",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 dis-；sc 子音群；ou 發 /aʊ/。"
     }
   ]
 }

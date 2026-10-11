@@ -783,6 +783,49 @@
         0
       ],
       "hint": "peace + ful；ea 發 /i/；ce 發 /s/。"
+    },
+    {
+      "number": "🔊 聽起來…的",
+      "word": "sounding",
+      "ipa": "/ˈsaʊndɪŋ/",
+      "graphemes": [
+        "s",
+        "ou",
+        "n",
+        "d",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'s",
+        "aʊ",
+        "n",
+        "d",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ow",
+        "n",
+        "d",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sound + ing；ou 發 /aʊ/；nd 子音群。"
     }
   ]
 }

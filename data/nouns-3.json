@@ -1276,6 +1276,73 @@
         1
       ],
       "hint": "重音在 val-；ue 發 /ju/。"
+    },
+    {
+      "number": "🎡 主題",
+      "word": "theme",
+      "ipa": "/θim/",
+      "graphemes": [
+        "th",
+        "e",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/θ",
+        "i",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/th",
+        "ē",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "th 發 /θ/；e_e 發長母音 /i/。"
+    },
+    {
+      "number": "🔢 代碼；密碼",
+      "word": "code",
+      "ipa": "/koʊd/",
+      "graphemes": [
+        "c",
+        "o",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/k",
+        "oʊ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/k",
+        "ō",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o_e 發長母音 /oʊ/。"
     }
   ]
 }

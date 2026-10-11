@@ -815,6 +815,80 @@
         0
       ],
       "hint": "重音在 lock-；ck 發 /k/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🎒 初級的（junior high 國中）",
+      "word": "junior",
+      "ipa": "/ˈdʒunjɚ/",
+      "graphemes": [
+        "j",
+        "u",
+        "n",
+        "i",
+        "or"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "u",
+        "n",
+        "j",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ū",
+        "n",
+        "y",
+        "er/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "hint": "重音在 ju-；u 開音節發 /u/；i 發 /j/；or 字尾發 /ɚ/。"
+    },
+    {
+      "number": "🎓 高級的（senior high 高中）",
+      "word": "senior",
+      "ipa": "/ˈsinjɚ/",
+      "graphemes": [
+        "s",
+        "e",
+        "n",
+        "i",
+        "or"
+      ],
+      "phonemes": [
+        "/'s",
+        "i",
+        "n",
+        "j",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ē",
+        "n",
+        "y",
+        "er/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "hint": "重音在 se-；e 開音節發 /i/；i 發 /j/；or 字尾發 /ɚ/。"
     }
   ]
 }

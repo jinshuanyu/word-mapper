@@ -879,6 +879,35 @@
         0
       ],
       "hint": "roller 的 o 發 /oʊ/；bl 子音群；blade 為 magic e。"
+    },
+    {
+      "number": "🧳 旅行；巡迴",
+      "word": "tour",
+      "ipa": "/tʊr/",
+      "graphemes": [
+        "t",
+        "ou",
+        "r"
+      ],
+      "phonemes": [
+        "/t",
+        "ʊ",
+        "r/"
+      ],
+      "phonics": [
+        "/t",
+        "oo",
+        "r/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ou 發 /ʊ/（像 your）。"
     }
   ]
 }

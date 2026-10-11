@@ -742,6 +742,31 @@
         0
       ],
       "hint": "ir 發 /ɝ/；y 字尾發 /i/。"
+    },
+    {
+      "number": "🫙 罐子",
+      "word": "jar",
+      "ipa": "/dʒɑr/",
+      "graphemes": [
+        "j",
+        "ar"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "ɑr/"
+      ],
+      "phonics": [
+        "/-j",
+        "ɑr/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "j 發 /dʒ/；ar 發 /ɑr/。"
     }
   ]
 }

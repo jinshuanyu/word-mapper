@@ -616,6 +616,53 @@
         0
       ],
       "hint": "ew 發 /u/。"
+    },
+    {
+      "number": "🚗 迎面而來的",
+      "word": "oncoming",
+      "ipa": "/ˈɑnˌkʌmɪŋ/",
+      "graphemes": [
+        "o",
+        "n",
+        "c",
+        "o",
+        "m",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'ɑ",
+        "n",
+        "k",
+        "ʌ",
+        "m",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'ŏ",
+        "n",
+        "k",
+        "ŭ",
+        "m",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "on + coming；come 的 o 發 /ʌ/。"
     }
   ]
 }

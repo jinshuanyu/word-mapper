@@ -916,6 +916,35 @@
         0
       ],
       "hint": "sub + way；u 發 /ʌ/；ay 發 /eɪ/。"
+    },
+    {
+      "number": "✈️ 噴射機",
+      "word": "jet",
+      "ipa": "/dʒɛt/",
+      "graphemes": [
+        "j",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/-j",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "j 發 /dʒ/。"
     }
   ]
 }

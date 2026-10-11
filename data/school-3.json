@@ -1126,6 +1126,49 @@
         0
       ],
       "hint": "ea 發 /i/；er 發 /ɚ/。"
+    },
+    {
+      "number": "📚 學科（social studies 社會）",
+      "word": "studies",
+      "ipa": "/ˈstʌdiz/",
+      "graphemes": [
+        "s",
+        "t",
+        "u",
+        "d",
+        "ie",
+        "s"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ʌ",
+        "d",
+        "i",
+        "z/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ŭ",
+        "d",
+        "ē",
+        "z/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "study 的複數：y 改 ie 再加 s；字尾 s 發 /z/。"
     }
   ]
 }
