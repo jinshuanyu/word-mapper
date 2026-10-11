@@ -945,6 +945,349 @@
         0
       ],
       "hint": "y 在字首為子音 /y/；o 為開音節長音 /ō/；連字號用 '-'。"
+    },
+    {
+      "number": "🎨 嗜好",
+      "word": "hobby",
+      "ipa": "/ˈhɑbi/",
+      "graphemes": [
+        "h",
+        "o",
+        "bb",
+        "y"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɑ",
+        "b",
+        "i/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŏ",
+        "b",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 hob-；bb 重複字母；y 字尾發 /i/。"
+    },
+    {
+      "number": "🏛️ 社團",
+      "word": "club",
+      "ipa": "/klʌb/",
+      "graphemes": [
+        "c",
+        "l",
+        "u",
+        "b"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "ʌ",
+        "b/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ŭ",
+        "b/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cl 子音群；u 發 /ʌ/。"
+    },
+    {
+      "number": "🎉 樂趣",
+      "word": "fun",
+      "ipa": "/fʌn/",
+      "graphemes": [
+        "f",
+        "u",
+        "n"
+      ],
+      "phonemes": [
+        "/f",
+        "ʌ",
+        "n/"
+      ],
+      "phonics": [
+        "/f",
+        "ŭ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 /ʌ/。"
+    },
+    {
+      "number": "😂 笑話",
+      "word": "joke",
+      "ipa": "/dʒoʊk/",
+      "graphemes": [
+        "j",
+        "o",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "oʊ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/-j",
+        "ō",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "j 發 /dʒ/；o_e 發 /oʊ/。"
+    },
+    {
+      "number": "🪄 魔術",
+      "word": "magic",
+      "ipa": "/ˈmædʒɪk/",
+      "graphemes": [
+        "m",
+        "a",
+        "g",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'m",
+        "æ",
+        "dʒ",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'m",
+        "ă",
+        "-j",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 mag-；g 在 i 前發軟音 /dʒ/。"
+    },
+    {
+      "number": "📺 節目；程式",
+      "word": "program",
+      "ipa": "/ˈproʊɡræm/",
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "g",
+        "r",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "oʊ",
+        "ɡ",
+        "r",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ō",
+        "ɡ",
+        "r",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 pro-；o 開音節發 /oʊ/；pr、gr 子音群。"
+    },
+    {
+      "number": "♟️ 西洋棋",
+      "word": "chess",
+      "ipa": "/tʃɛs/",
+      "graphemes": [
+        "ch",
+        "e",
+        "ss"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "ɛ",
+        "s/"
+      ],
+      "phonics": [
+        "/ch",
+        "ĕ",
+        "s/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ch 發 /tʃ/；ss 重複字母。"
+    },
+    {
+      "number": "🎤 流行音樂",
+      "word": "pop music",
+      "ipa": "/ˈpɑp ˌmjuzɪk/",
+      "graphemes": [
+        "p",
+        "o",
+        "p",
+        " ",
+        "m",
+        "u",
+        "s",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑ",
+        "p",
+        " ",
+        "m",
+        "ju",
+        "z",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'p",
+        "ŏ",
+        "p",
+        " ",
+        "m",
+        "yū",
+        "z",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "pop 為 cvc；music 的 u 發 /ju/，s 發 /z/。"
+    },
+    {
+      "number": "🎺 小號",
+      "word": "trumpet",
+      "ipa": "/ˈtrʌmpɪt/",
+      "graphemes": [
+        "t",
+        "r",
+        "u",
+        "m",
+        "p",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "ʌ",
+        "m",
+        "p",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ŭ",
+        "m",
+        "p",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 trum-；tr、mp 子音群；e 弱化發 /ɪ/。"
     }
   ]
 }

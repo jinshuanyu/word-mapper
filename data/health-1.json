@@ -744,6 +744,77 @@
         false
       ],
       "hint": "e 發短母音 e /ɛ/；ll 重複字母。"
+    },
+    {
+      "number": "🩸 血",
+      "word": "blood",
+      "ipa": "/blʌd/",
+      "graphemes": [
+        "b",
+        "l",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "ʌ",
+        "d/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ŭ",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "bl 子音群；oo 不規則發 /ʌ/。"
+    },
+    {
+      "number": "⚡ 精力；能量",
+      "word": "energy",
+      "ipa": "/ˈɛnɚdʒi/",
+      "graphemes": [
+        "e",
+        "n",
+        "er",
+        "g",
+        "y"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "n",
+        "ɚ",
+        "dʒ",
+        "i/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "n",
+        "er",
+        "-j",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 en-；er 發 /ɚ/；g 發軟音 /dʒ/；y 字尾發 /i/。"
     }
   ]
 }

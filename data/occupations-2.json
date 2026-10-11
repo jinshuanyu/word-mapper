@@ -758,6 +758,99 @@
         0
       ],
       "hint": "e 發短母音 /ĕ/。"
+    },
+    {
+      "number": "💇 美髮師",
+      "word": "hair dresser",
+      "ipa": "/ˈhɛr ˌdrɛsɚ/",
+      "graphemes": [
+        "h",
+        "ai",
+        "r",
+        " ",
+        "d",
+        "r",
+        "e",
+        "ss",
+        "er"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɛ",
+        "r",
+        " ",
+        "d",
+        "r",
+        "ɛ",
+        "s",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ĕ",
+        "r",
+        " ",
+        "d",
+        "r",
+        "ĕ",
+        "s",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "hair 的 ai 在 r 前發 /ɛ/；dr 子音群；ss 重複字母。"
+    },
+    {
+      "number": "🛒 小販",
+      "word": "vendor",
+      "ipa": "/ˈvɛndɚ/",
+      "graphemes": [
+        "v",
+        "e",
+        "n",
+        "d",
+        "or"
+      ],
+      "phonemes": [
+        "/'v",
+        "ɛ",
+        "n",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'v",
+        "ĕ",
+        "n",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "重音在 ven-；nd 子音群；or 字尾發 /ɚ/。"
     }
   ]
 }

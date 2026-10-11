@@ -775,6 +775,329 @@
         0
       ],
       "hint": "單音節；tr 為 cluster；u 發長音 /ū/（開音節）；th 為 digraph。"
+    },
+    {
+      "number": "🎯 興趣",
+      "word": "interest",
+      "ipa": "/ˈɪntrəst/",
+      "graphemes": [
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "t",
+        "-",
+        "r",
+        "ə",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "t",
+        "-",
+        "r",
+        "ə",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 in-；第一個 e 常省略；st 子音群。"
+    },
+    {
+      "number": "😊 喜悅",
+      "word": "joy",
+      "ipa": "/dʒɔɪ/",
+      "graphemes": [
+        "j",
+        "oy"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "ɔɪ/"
+      ],
+      "phonics": [
+        "/-j",
+        "oi/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "j 發 /dʒ/；oy 發 /ɔɪ/。"
+    },
+    {
+      "number": "😰 麻煩",
+      "word": "trouble",
+      "ipa": "/ˈtrʌbəl/",
+      "graphemes": [
+        "t",
+        "r",
+        "ou",
+        "b",
+        "le"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "ʌ",
+        "b",
+        "əl/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ŭ",
+        "b",
+        "əl/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "tr 子音群；ou 不規則發 /ʌ/；ble 發 /bəl/。"
+    },
+    {
+      "number": "😠 憤怒",
+      "word": "anger",
+      "ipa": "/ˈæŋɡɚ/",
+      "graphemes": [
+        "a",
+        "n",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'æ",
+        "ŋ",
+        "ɡ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ă",
+        "ŋ",
+        "ɡ",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 an-；n 在 g 前發 /ŋ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "⚠️ 過錯",
+      "word": "fault",
+      "ipa": "/fɔlt/",
+      "graphemes": [
+        "f",
+        "au",
+        "l",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "ɔ",
+        "l",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "aw",
+        "l",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "au 發 /ɔ/；lt 子音群。"
+    },
+    {
+      "number": "🕊️ 和平",
+      "word": "peace",
+      "ipa": "/pis/",
+      "graphemes": [
+        "p",
+        "ea",
+        "ce"
+      ],
+      "phonemes": [
+        "/p",
+        "i",
+        "s/"
+      ],
+      "phonics": [
+        "/p",
+        "ē",
+        "s/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發 /i/；ce 發 /s/。"
+    },
+    {
+      "number": "🤫 沉默",
+      "word": "silence",
+      "ipa": "/ˈsaɪləns/",
+      "graphemes": [
+        "s",
+        "i",
+        "l",
+        "e",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/'s",
+        "aɪ",
+        "l",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/'s",
+        "ī",
+        "l",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 si-；i 開音節發 /aɪ/；e 弱化；ce 發 /s/。"
+    },
+    {
+      "number": "💫 靈魂",
+      "word": "soul",
+      "ipa": "/soʊl/",
+      "graphemes": [
+        "s",
+        "ou",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "oʊ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "ō",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ou 在此發 /oʊ/。"
+    },
+    {
+      "number": "✨ 精神",
+      "word": "spirit",
+      "ipa": "/ˈspɪrɪt/",
+      "graphemes": [
+        "s",
+        "p",
+        "i",
+        "r",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/'s",
+        "p",
+        "ɪ",
+        "r",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'s",
+        "p",
+        "ĭ",
+        "r",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 spir-；sp 子音群；兩個 i 都發 /ɪ/。"
     }
   ]
 }

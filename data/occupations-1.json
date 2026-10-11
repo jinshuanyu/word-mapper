@@ -687,6 +687,44 @@
         0
       ],
       "hint": "movie 的 o 對應 /u/（需記）；ar 對應 /ɑr/。"
+    },
+    {
+      "number": "🎨 畫家",
+      "word": "painter",
+      "ipa": "/ˈpeɪntɚ/",
+      "graphemes": [
+        "p",
+        "ai",
+        "n",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'p",
+        "eɪ",
+        "n",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ā",
+        "n",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "paint + er；ai 發 /eɪ/。"
     }
   ]
 }

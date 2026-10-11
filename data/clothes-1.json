@@ -770,6 +770,35 @@
         false
       ],
       "hint": "ea 在此發短母音 e /ɛ/。"
+    },
+    {
+      "number": "🤵 西裝",
+      "word": "suit",
+      "ipa": "/sut/",
+      "graphemes": [
+        "s",
+        "ui",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "u",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "ū",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ui 發 /u/。"
     }
   ]
 }

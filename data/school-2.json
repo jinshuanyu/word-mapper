@@ -1116,6 +1116,167 @@
         0
       ],
       "hint": "or 在 w 後發 /er/。"
+    },
+    {
+      "number": "📁 檔案",
+      "word": "file",
+      "ipa": "/faɪl/",
+      "graphemes": [
+        "f",
+        "i",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "aɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "ī",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發長母音 /aɪ/。"
+    },
+    {
+      "number": "📝 筆記",
+      "word": "note",
+      "ipa": "/noʊt/",
+      "graphemes": [
+        "n",
+        "o",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/n",
+        "oʊ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/n",
+        "ō",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o_e 發長母音 /oʊ/。"
+    },
+    {
+      "number": "📄 頁",
+      "word": "page",
+      "ipa": "/peɪdʒ/",
+      "graphemes": [
+        "p",
+        "a",
+        "g",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "eɪ",
+        "dʒ",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "ā",
+        "-j",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發 /eɪ/；g 發軟音 /dʒ/。"
+    },
+    {
+      "number": "📌 大頭針",
+      "word": "pin",
+      "ipa": "/pɪn/",
+      "graphemes": [
+        "p",
+        "i",
+        "n"
+      ],
+      "phonemes": [
+        "/p",
+        "ɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/p",
+        "ĭ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短母音 /ɪ/。"
+    },
+    {
+      "number": "📼 膠帶",
+      "word": "tape",
+      "ipa": "/teɪp/",
+      "graphemes": [
+        "t",
+        "a",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/t",
+        "eɪ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/t",
+        "ā",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
     }
   ]
 }

@@ -725,6 +725,159 @@
         0
       ],
       "hint": "tr 為混合音；i 為短母音 /ĭ/。"
+    },
+    {
+      "number": "🛝 鞦韆",
+      "word": "swing",
+      "ipa": "/swɪŋ/",
+      "graphemes": [
+        "s",
+        "w",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 子音群；ng 發 /ŋ/。"
+    },
+    {
+      "number": "⛸️ 四輪溜冰鞋",
+      "word": "roller skate",
+      "ipa": "/ˈroʊlɚ skeɪt/",
+      "graphemes": [
+        "r",
+        "o",
+        "ll",
+        "er",
+        " ",
+        "s",
+        "k",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/'r",
+        "oʊ",
+        "l",
+        "ɚ",
+        " ",
+        "s",
+        "k",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/'r",
+        "ō",
+        "l",
+        "er",
+        " ",
+        "s",
+        "k",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "open",
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "roller 的 o 開音節發 /oʊ/；ll 重複字母；skate 為 magic e。"
+    },
+    {
+      "number": "🛼 直排輪",
+      "word": "roller blade",
+      "ipa": "/ˈroʊlɚ bleɪd/",
+      "graphemes": [
+        "r",
+        "o",
+        "ll",
+        "er",
+        " ",
+        "b",
+        "l",
+        "a",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/'r",
+        "oʊ",
+        "l",
+        "ɚ",
+        " ",
+        "b",
+        "l",
+        "eɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/'r",
+        "ō",
+        "l",
+        "er",
+        " ",
+        "b",
+        "l",
+        "ā",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "open",
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "roller 的 o 發 /oʊ/；bl 子音群；blade 為 magic e。"
     }
   ]
 }

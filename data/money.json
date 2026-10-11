@@ -640,6 +640,135 @@
         0
       ],
       "hint": "sp 為混合音；e 發短音 /ĕ/。"
+    },
+    {
+      "number": "🏷️ 特價；拍賣",
+      "word": "sale",
+      "ipa": "/seɪl/",
+      "graphemes": [
+        "s",
+        "a",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "eɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ā",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "💵 小費；秘訣",
+      "word": "tip",
+      "ipa": "/tɪp/",
+      "graphemes": [
+        "t",
+        "i",
+        "p"
+      ],
+      "phonemes": [
+        "/t",
+        "ɪ",
+        "p/"
+      ],
+      "phonics": [
+        "/t",
+        "ĭ",
+        "p/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短母音 /ɪ/。"
+    },
+    {
+      "number": "💰 費用",
+      "word": "fee",
+      "ipa": "/fi/",
+      "graphemes": [
+        "f",
+        "ee"
+      ],
+      "phonemes": [
+        "/f",
+        "i/"
+      ],
+      "phonics": [
+        "/f",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ee 發長母音 /i/。"
+    },
+    {
+      "number": "💵 收入",
+      "word": "income",
+      "ipa": "/ˈɪnˌkʌm/",
+      "graphemes": [
+        "i",
+        "n",
+        "c",
+        "o",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "k",
+        "ʌ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "k",
+        "ŭ",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "in + come；o 發 /ʌ/，字尾 e 靜音。"
     }
   ]
 }

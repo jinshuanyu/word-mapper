@@ -646,6 +646,464 @@
         0
       ],
       "hint": "簡單閉音節，a 發短母音 /ă/（/æ/）。"
+    },
+    {
+      "number": "💺 座位",
+      "word": "seat",
+      "ipa": "/sit/",
+      "graphemes": [
+        "s",
+        "ea",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發長母音 /i/。"
+    },
+    {
+      "number": "🎫 票",
+      "word": "ticket",
+      "ipa": "/ˈtɪkɪt/",
+      "graphemes": [
+        "t",
+        "i",
+        "ck",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɪ",
+        "k",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'t",
+        "ĭ",
+        "k",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 tick-；ck 發 /k/；e 弱化發 /ɪ/。"
+    },
+    {
+      "number": "⚙️ 引擎",
+      "word": "engine",
+      "ipa": "/ˈɛndʒɪn/",
+      "graphemes": [
+        "e",
+        "n",
+        "g",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "n",
+        "dʒ",
+        "ɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "n",
+        "-j",
+        "ĭ",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "重音在 en-；g 發軟音 /dʒ/；i_e 不發長音，e 靜音。"
+    },
+    {
+      "number": "🛫 航班",
+      "word": "flight",
+      "ipa": "/flaɪt/",
+      "graphemes": [
+        "f",
+        "l",
+        "igh",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ī",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 子音群；igh 發 /aɪ/。"
+    },
+    {
+      "number": "🛞 爆胎",
+      "word": "flat tire",
+      "ipa": "/ˌflæt ˈtaɪr/",
+      "graphemes": [
+        "f",
+        "l",
+        "a",
+        "t",
+        " ",
+        "t",
+        "i",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "æ",
+        "t",
+        " ",
+        "'t",
+        "aɪ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ă",
+        "t",
+        " ",
+        "'t",
+        "ī",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "flat 為 cvc；tire 的 i_e 發 /aɪ/。"
+    },
+    {
+      "number": "🅿️ 停車場",
+      "word": "parking lot",
+      "ipa": "/ˈpɑrkɪŋ ˌlɑt/",
+      "graphemes": [
+        "p",
+        "ar",
+        "k",
+        "i",
+        "ng",
+        " ",
+        "l",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑr",
+        "k",
+        "ɪ",
+        "ŋ",
+        " ",
+        "l",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "ɑr",
+        "k",
+        "ĭ",
+        "ŋ",
+        " ",
+        "l",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph",
+        "suffix",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "park + ing；ar 發 /ɑr/；lot 為 cvc。"
+    },
+    {
+      "number": "🚉 月台",
+      "word": "platform",
+      "ipa": "/ˈplætˌfɔrm/",
+      "graphemes": [
+        "p",
+        "l",
+        "a",
+        "t",
+        "f",
+        "or",
+        "m"
+      ],
+      "phonemes": [
+        "/'p",
+        "l",
+        "æ",
+        "t",
+        "f",
+        "ɔr",
+        "m/"
+      ],
+      "phonics": [
+        "/'p",
+        "l",
+        "ă",
+        "t",
+        "f",
+        "or",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 plat-；pl 子音群；or 發 /ɔr/。"
+    },
+    {
+      "number": "🛤️ 鐵路",
+      "word": "railroad",
+      "ipa": "/ˈreɪlˌroʊd/",
+      "graphemes": [
+        "r",
+        "ai",
+        "l",
+        "r",
+        "oa",
+        "d"
+      ],
+      "phonemes": [
+        "/'r",
+        "eɪ",
+        "l",
+        "r",
+        "oʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/'r",
+        "ā",
+        "l",
+        "r",
+        "ō",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "rail + road；ai 發 /eɪ/；oa 發 /oʊ/。"
+    },
+    {
+      "number": "⚡ 速度",
+      "word": "speed",
+      "ipa": "/spid/",
+      "graphemes": [
+        "s",
+        "p",
+        "ee",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "i",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ē",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 子音群；ee 發 /i/。"
+    },
+    {
+      "number": "🚇 隧道",
+      "word": "tunnel",
+      "ipa": "/ˈtʌnəl/",
+      "graphemes": [
+        "t",
+        "u",
+        "nn",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/'t",
+        "ʌ",
+        "n",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'t",
+        "ŭ",
+        "n",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 tun-；nn 重複字母；e 弱化。"
+    },
+    {
+      "number": "🚶 地下道",
+      "word": "underpass",
+      "ipa": "/ˈʌndɚˌpæs/",
+      "graphemes": [
+        "u",
+        "n",
+        "d",
+        "er",
+        "p",
+        "a",
+        "ss"
+      ],
+      "phonemes": [
+        "/'ʌ",
+        "n",
+        "d",
+        "ɚ",
+        "p",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/'ŭ",
+        "n",
+        "d",
+        "er",
+        "p",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "under + pass；u 發 /ʌ/；ss 重複字母。"
     }
   ]
 }

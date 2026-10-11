@@ -996,6 +996,113 @@
         0
       ],
       "hint": "單音節；i_e 對應 /aɪ/；字尾無聲子音加 -ed 發 /t/。"
+    },
+    {
+      "number": "🚸 穿越",
+      "word": "cross",
+      "ipa": "/krɔs/",
+      "graphemes": [
+        "c",
+        "r",
+        "o",
+        "ss"
+      ],
+      "phonemes": [
+        "/k",
+        "r",
+        "ɔ",
+        "s/"
+      ],
+      "phonics": [
+        "/k",
+        "r",
+        "aw",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cr 子音群；o 發 /ɔ/；ss 重複字母；字尾無聲子音加 -ed 發 /t/。"
+    },
+    {
+      "number": "🗣️ 說話",
+      "word": "talk",
+      "ipa": "/tɔk/",
+      "graphemes": [
+        "t",
+        "a",
+        "l",
+        "k"
+      ],
+      "phonemes": [
+        "/t",
+        "ɔ",
+        "-",
+        "k/"
+      ],
+      "phonics": [
+        "/t",
+        "aw",
+        "-",
+        "k/"
+      ],
+      "tags": [
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "a 在 l 前發 /ɔ/；l 不發音；字尾 k 加 -ed 發 /t/。"
+    },
+    {
+      "number": "⚖️ 處罰",
+      "word": "punish",
+      "ipa": "/ˈpʌnɪʃ/",
+      "graphemes": [
+        "p",
+        "u",
+        "n",
+        "i",
+        "sh"
+      ],
+      "phonemes": [
+        "/'p",
+        "ʌ",
+        "n",
+        "ɪ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ŭ",
+        "n",
+        "ĭ",
+        "sh/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 pun-；sh 發 /ʃ/；字尾無聲子音加 -ed 發 /t/。"
     }
   ]
 }

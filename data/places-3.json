@@ -1227,6 +1227,68 @@
         0
       ],
       "hint": "tion 發 /shən/，al 發弱化音。"
+    },
+    {
+      "number": "🗺️ 區域",
+      "word": "area",
+      "ipa": "/ˈɛriə/",
+      "graphemes": [
+        "a",
+        "r",
+        "e",
+        "a"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "r",
+        "i",
+        "ə/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "r",
+        "ē",
+        "ə/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 ar-；a 在 r 前發 /ɛ/；e 發 /i/，a 弱化。"
+    },
+    {
+      "number": "🗼 塔",
+      "word": "tower",
+      "ipa": "/ˈtaʊɚ/",
+      "graphemes": [
+        "t",
+        "ow",
+        "er"
+      ],
+      "phonemes": [
+        "/'t",
+        "aʊ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ow",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ow 發 /aʊ/；er 發 /ɚ/。"
     }
   ]
 }

@@ -547,6 +547,151 @@
         0
       ],
       "hint": "o 發短母音 /ŏ/。"
+    },
+    {
+      "number": "⬇️ 底部",
+      "word": "bottom",
+      "ipa": "/ˈbɑtəm/",
+      "graphemes": [
+        "b",
+        "o",
+        "tt",
+        "o",
+        "m"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɑ",
+        "t",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŏ",
+        "t",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 bot-；tt 重複字母；第二個 o 弱化。"
+    },
+    {
+      "number": "📐 角落",
+      "word": "corner",
+      "ipa": "/ˈkɔrnɚ/",
+      "graphemes": [
+        "c",
+        "or",
+        "n",
+        "er"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɔr",
+        "n",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "or",
+        "n",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 cor-；or 發 /ɔr/；er 發 /ɚ/。"
+    },
+    {
+      "number": "↔️ 邊；側",
+      "word": "side",
+      "ipa": "/saɪd/",
+      "graphemes": [
+        "s",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發長母音 /aɪ/。"
+    },
+    {
+      "number": "🧭 方向",
+      "word": "direction",
+      "ipa": "/dəˈrɛkʃən/",
+      "graphemes": [
+        "d",
+        "i",
+        "r",
+        "e",
+        "c",
+        "tion"
+      ],
+      "phonemes": [
+        "/d",
+        "ə",
+        "'r",
+        "ɛ",
+        "k",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/d",
+        "ə",
+        "'r",
+        "ĕ",
+        "k",
+        "shən/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -rec-；i 弱化；tion 發 /ʃən/。"
     }
   ]
 }

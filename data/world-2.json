@@ -613,6 +613,72 @@
         0
       ],
       "hint": "ew 對應 /ū/（不規則）；重音在 Zea-；ea 對應 /ē/；a 弱化為 /ə/。"
+    },
+    {
+      "number": "🇹🇼 中華民國（縮寫）",
+      "word": "R.O.C.",
+      "ipa": "/ˌɑroʊˈsi/",
+      "graphemes": [
+        "R",
+        ".",
+        "O",
+        ".",
+        "C",
+        "."
+      ],
+      "phonemes": [
+        "/ɑr",
+        "-",
+        "oʊ",
+        "-",
+        "'si",
+        "-/"
+      ],
+      "phonics": [
+        "/ɑr",
+        "-",
+        "ō",
+        "-",
+        "'sē",
+        "-/"
+      ],
+      "tags": [],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "字母唸法 R-O-C；Republic of China 縮寫。"
+    },
+    {
+      "number": "🇹🇼 中華民國（縮寫）",
+      "word": "ROC",
+      "ipa": "/ˌɑroʊˈsi/",
+      "graphemes": [
+        "R",
+        "O",
+        "C"
+      ],
+      "phonemes": [
+        "/ɑr",
+        "oʊ",
+        "'si/"
+      ],
+      "phonics": [
+        "/ɑr",
+        "ō",
+        "'sē/"
+      ],
+      "tags": [],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "字母唸法 R-O-C；Republic of China 縮寫。"
     }
   ]
 }

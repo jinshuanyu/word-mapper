@@ -913,6 +913,228 @@
         0
       ],
       "hint": "ou 發 /u/。"
+    },
+    {
+      "number": "🎂 年齡",
+      "word": "age",
+      "ipa": "/eɪdʒ/",
+      "graphemes": [
+        "a",
+        "g",
+        "e"
+      ],
+      "phonemes": [
+        "/eɪ",
+        "dʒ",
+        "-/"
+      ],
+      "phonics": [
+        "/ā",
+        "-j",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/；g 發軟音 /dʒ/。"
+    },
+    {
+      "number": "🌍 外國人",
+      "word": "foreigner",
+      "ipa": "/ˈfɔrənɚ/",
+      "graphemes": [
+        "f",
+        "or",
+        "eig",
+        "n",
+        "er"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɔr",
+        "ə",
+        "n",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'f",
+        "or",
+        "ə",
+        "n",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 for-；eig 弱化發 /ə/；er 發 /ɚ/。"
+    },
+    {
+      "number": "👥 成員",
+      "word": "member",
+      "ipa": "/ˈmɛmbɚ/",
+      "graphemes": [
+        "m",
+        "e",
+        "m",
+        "b",
+        "er"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "m",
+        "b",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "m",
+        "b",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 mem-；閉音節短母音；er 發 /ɚ/。"
+    },
+    {
+      "number": "🔰 初學者",
+      "word": "beginner",
+      "ipa": "/bɪˈɡɪnɚ/",
+      "graphemes": [
+        "b",
+        "e",
+        "g",
+        "i",
+        "nn",
+        "er"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "'ɡ",
+        "ɪ",
+        "n",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "'ɡ",
+        "ĭ",
+        "n",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -gin-；e 弱化發 /ɪ/；nn 重複字母。"
+    },
+    {
+      "number": "👩 女性",
+      "word": "female",
+      "ipa": "/ˈfimeɪl/",
+      "graphemes": [
+        "f",
+        "e",
+        "m",
+        "a",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/'f",
+        "i",
+        "m",
+        "eɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/'f",
+        "ē",
+        "m",
+        "ā",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 fe-；e 開音節發 /i/；a_e 發 /eɪ/。"
+    },
+    {
+      "number": "🧑 人類",
+      "word": "human",
+      "ipa": "/ˈhjumən/",
+      "graphemes": [
+        "h",
+        "u",
+        "m",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'h",
+        "ju",
+        "m",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'h",
+        "yū",
+        "m",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 hu-；u 開音節發 /ju/；a 弱化。"
     }
   ]
 }

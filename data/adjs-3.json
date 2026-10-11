@@ -1003,6 +1003,315 @@
         0
       ],
       "hint": "重音在 won-；閉音節短母音；-ful 字尾。"
+    },
+    {
+      "number": "😓 困難的",
+      "word": "difficult",
+      "ipa": "/ˈdɪfɪkəlt/",
+      "graphemes": [
+        "d",
+        "i",
+        "ff",
+        "i",
+        "c",
+        "u",
+        "l",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "f",
+        "ɪ",
+        "k",
+        "ə",
+        "l",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "f",
+        "ĭ",
+        "k",
+        "ə",
+        "l",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 dif-；ff 重複字母；u 弱化；lt 子音群。"
+    },
+    {
+      "number": "💪 勤勞的",
+      "word": "hard-working",
+      "ipa": "/ˌhɑrdˈwɝkɪŋ/",
+      "graphemes": [
+        "h",
+        "ar",
+        "d",
+        "-",
+        "w",
+        "or",
+        "k",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/h",
+        "ɑr",
+        "d",
+        "-",
+        "'w",
+        "ɝ",
+        "k",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/h",
+        "ɑr",
+        "d",
+        "-",
+        "'w",
+        "er",
+        "k",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "hard + working；w 後的 or 發 /ɝ/；ng 發 /ŋ/。"
+    },
+    {
+      "number": "🤔 有趣的",
+      "word": "interesting",
+      "ipa": "/ˈɪntrəstɪŋ/",
+      "graphemes": [
+        "i",
+        "n",
+        "t",
+        "e",
+        "r",
+        "e",
+        "s",
+        "t",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "t",
+        "-",
+        "r",
+        "ə",
+        "s",
+        "t",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "t",
+        "-",
+        "r",
+        "ə",
+        "s",
+        "t",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 in-；第一個 e 常省略不發音；st 子音群；ing 字尾。"
+    },
+    {
+      "number": "⭐ 主要的",
+      "word": "main",
+      "ipa": "/meɪn/",
+      "graphemes": [
+        "m",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/m",
+        "eɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/m",
+        "ā",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ai 發 /eɪ/。"
+    },
+    {
+      "number": "🌟 受歡迎的",
+      "word": "popular",
+      "ipa": "/ˈpɑpjəlɚ/",
+      "graphemes": [
+        "p",
+        "o",
+        "p",
+        "u",
+        "l",
+        "ar"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑ",
+        "p",
+        "jə",
+        "l",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ŏ",
+        "p",
+        "yə",
+        "l",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "重音在 pop-；u 發 /jə/；ar 字尾發 /ɚ/。"
+    },
+    {
+      "number": "🛠️ 有用的",
+      "word": "useful",
+      "ipa": "/ˈjusfəl/",
+      "graphemes": [
+        "u",
+        "s",
+        "e",
+        "f",
+        "u",
+        "l"
+      ],
+      "phonemes": [
+        "/'ju",
+        "s",
+        "-",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'yū",
+        "s",
+        "-",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "use + ful；u_e 發 /ju/；ful 的 u 弱化。"
+    },
+    {
+      "number": "🤍 樸素的；平原",
+      "word": "plain",
+      "ipa": "/pleɪn/",
+      "graphemes": [
+        "p",
+        "l",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "eɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ā",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "pl 子音群；ai 發 /eɪ/。"
     }
   ]
 }

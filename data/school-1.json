@@ -691,6 +691,128 @@
         0
       ],
       "hint": "er 在重音節發 /ɝ/。"
+    },
+    {
+      "number": "🔔 鐘",
+      "word": "bell",
+      "ipa": "/bɛl/",
+      "graphemes": [
+        "b",
+        "e",
+        "ll"
+      ],
+      "phonemes": [
+        "/b",
+        "ɛ",
+        "l/"
+      ],
+      "phonics": [
+        "/b",
+        "ĕ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ll 重複字母 (FLOSS)。"
+    },
+    {
+      "number": "🧒 幼兒園",
+      "word": "kindergarten",
+      "ipa": "/ˈkɪndɚˌɡɑrtən/",
+      "graphemes": [
+        "k",
+        "i",
+        "n",
+        "d",
+        "er",
+        "g",
+        "ar",
+        "t",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɪ",
+        "n",
+        "d",
+        "ɚ",
+        "ɡ",
+        "ɑr",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĭ",
+        "n",
+        "d",
+        "er",
+        "ɡ",
+        "ɑr",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 kin-；閉音節；er 發 /ɚ/，ar 發 /ɑr/。"
+    },
+    {
+      "number": "🔒 置物櫃",
+      "word": "locker",
+      "ipa": "/ˈlɑkɚ/",
+      "graphemes": [
+        "l",
+        "o",
+        "ck",
+        "er"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɑ",
+        "k",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'l",
+        "ŏ",
+        "k",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 lock-；ck 發 /k/；er 發 /ɚ/。"
     }
   ]
 }

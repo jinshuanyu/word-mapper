@@ -818,6 +818,222 @@
         0
       ],
       "hint": "單音節；wr 中 w 不發音（irregular）；閉音節；ng 為 digraph。"
+    },
+    {
+      "number": "⚠️ 危險的",
+      "word": "dangerous",
+      "ipa": "/ˈdeɪndʒərəs/",
+      "graphemes": [
+        "d",
+        "a",
+        "n",
+        "g",
+        "e",
+        "r",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/'d",
+        "eɪ",
+        "n",
+        "dʒ",
+        "ə",
+        "r",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'d",
+        "ā",
+        "n",
+        "-j",
+        "ə",
+        "r",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 dan-；a 發 /eɪ/；g 發軟音；ous 發 /əs/。"
+    },
+    {
+      "number": "🔊 大聲的",
+      "word": "loud",
+      "ipa": "/laʊd/",
+      "graphemes": [
+        "l",
+        "ou",
+        "d"
+      ],
+      "phonemes": [
+        "/l",
+        "aʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/l",
+        "ow",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ou 發 /aʊ/。"
+    },
+    {
+      "number": "📢 吵鬧的",
+      "word": "noisy",
+      "ipa": "/ˈnɔɪzi/",
+      "graphemes": [
+        "n",
+        "oi",
+        "s",
+        "y"
+      ],
+      "phonemes": [
+        "/'n",
+        "ɔɪ",
+        "z",
+        "i/"
+      ],
+      "phonics": [
+        "/'n",
+        "oi",
+        "z",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/；s 發 /z/；y 字尾發 /i/。"
+    },
+    {
+      "number": "⚡ 快的",
+      "word": "quick",
+      "ipa": "/kwɪk/",
+      "graphemes": [
+        "qu",
+        "i",
+        "ck"
+      ],
+      "phonemes": [
+        "/kw",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/kw",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "qu 發 /kw/；ck 發 /k/。"
+    },
+    {
+      "number": "✅ 確定的",
+      "word": "certain",
+      "ipa": "/ˈsɝtən/",
+      "graphemes": [
+        "c",
+        "er",
+        "t",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɝ",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'s",
+        "er",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 cer-；c 發軟音 /s/；ai 弱化發 /ə/。"
+    },
+    {
+      "number": "🫙 空的",
+      "word": "empty",
+      "ipa": "/ˈɛmpti/",
+      "graphemes": [
+        "e",
+        "m",
+        "p",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "m",
+        "p",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "m",
+        "p",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 emp-；mpt 子音群；y 字尾發 /i/。"
     }
   ]
 }

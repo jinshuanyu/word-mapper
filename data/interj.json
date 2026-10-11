@@ -349,6 +349,130 @@
         true
       ],
       "hint": "y 發長母音 i /aɪ/；e 不發音。"
+    },
+    {
+      "number": "👋 再見",
+      "word": "goodbye",
+      "ipa": "/ˌɡʊdˈbaɪ/",
+      "graphemes": [
+        "g",
+        "oo",
+        "d",
+        "b",
+        "ye"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ʊ",
+        "d",
+        "'b",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "oo",
+        "d",
+        "'b",
+        "ī/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "hint": "good + bye；oo 發 /ʊ/；ye 發 /aɪ/。"
+    },
+    {
+      "number": "👍 是啊",
+      "word": "yeah",
+      "ipa": "/jɛ/",
+      "graphemes": [
+        "y",
+        "eah"
+      ],
+      "phonemes": [
+        "/j",
+        "ɛ/"
+      ],
+      "phonics": [
+        "/y",
+        "ĕ/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
+      "hint": "口語用法；eah 發 /ɛ/。"
+    },
+    {
+      "number": "🎊 恭喜",
+      "word": "congratulation",
+      "ipa": "/kənˌɡrætʃəˈleɪʃən/",
+      "graphemes": [
+        "c",
+        "o",
+        "n",
+        "g",
+        "r",
+        "a",
+        "t",
+        "u",
+        "l",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "n",
+        "ɡ",
+        "r",
+        "æ",
+        "tʃ",
+        "ə",
+        "'l",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "n",
+        "ɡ",
+        "r",
+        "ă",
+        "ch",
+        "ə",
+        "'l",
+        "ā",
+        "shən/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -la-；t 在 u 前發 /tʃ/；tion 發 /ʃən/。"
     }
   ]
 }

@@ -713,6 +713,45 @@
         0
       ],
       "hint": "i 發短母音 /ɪ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🌿 樹枝",
+      "word": "branch",
+      "ipa": "/bræntʃ/",
+      "graphemes": [
+        "b",
+        "r",
+        "a",
+        "n",
+        "ch"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "æ",
+        "n",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ă",
+        "n",
+        "ch/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "br 子音群；ch 發 /tʃ/。"
     }
   ]
 }

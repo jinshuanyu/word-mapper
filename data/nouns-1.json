@@ -1035,6 +1035,280 @@
         0
       ],
       "hint": "單音節閉音節；tr 為 cluster；i 發短音 /ĭ/；ck 為 digraph。"
+    },
+    {
+      "number": "🙏 藉口",
+      "word": "excuse",
+      "ipa": "/ɪkˈskjus/",
+      "graphemes": [
+        "e",
+        "x",
+        "c",
+        "u",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "k",
+        "'s",
+        "ju",
+        "s",
+        "-/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "k",
+        "'s",
+        "yū",
+        "s",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -cuse；x 發 /k/，c 發 /s/；u_e 發 /ju/。"
+    },
+    {
+      "number": "💬 討論",
+      "word": "discussion",
+      "ipa": "/dɪˈskʌʃən/",
+      "graphemes": [
+        "d",
+        "i",
+        "s",
+        "c",
+        "u",
+        "ss",
+        "ion"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "'s",
+        "k",
+        "ʌ",
+        "ʃ",
+        "ən/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "'s",
+        "k",
+        "ŭ",
+        "sh",
+        "ən/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 -cus-；sc 子音群；ss 在 ion 前發 /ʃ/。"
+    },
+    {
+      "number": "🚫 缺乏",
+      "word": "lack",
+      "ipa": "/læk/",
+      "graphemes": [
+        "l",
+        "a",
+        "ck"
+      ],
+      "phonemes": [
+        "/l",
+        "æ",
+        "k/"
+      ],
+      "phonics": [
+        "/l",
+        "ă",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ck 發 /k/。"
+    },
+    {
+      "number": "🏃 動作；運動",
+      "word": "movement",
+      "ipa": "/ˈmuvmənt/",
+      "graphemes": [
+        "m",
+        "o",
+        "v",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/'m",
+        "u",
+        "v",
+        "-",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/'m",
+        "ū",
+        "v",
+        "-",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "move + ment；o 發 /u/；e 靜音；-ment 字尾。"
+    },
+    {
+      "number": "📼 紀錄",
+      "word": "record",
+      "ipa": "/ˈrɛkɚd/",
+      "graphemes": [
+        "r",
+        "e",
+        "c",
+        "or",
+        "d"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "k",
+        "ɚ",
+        "d/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "k",
+        "er",
+        "d/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "名詞重音在 rec-；or 弱化發 /ɚ/。"
+    },
+    {
+      "number": "🗣️ 演講",
+      "word": "speech",
+      "ipa": "/spitʃ/",
+      "graphemes": [
+        "s",
+        "p",
+        "ee",
+        "ch"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "i",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ē",
+        "ch/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 子音群；ee 發 /i/；ch 發 /tʃ/。"
+    },
+    {
+      "number": "👣 步驟；腳步",
+      "word": "step",
+      "ipa": "/stɛp/",
+      "graphemes": [
+        "s",
+        "t",
+        "e",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɛ",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ĕ",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群。"
     }
   ]
 }

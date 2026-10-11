@@ -1,0 +1,679 @@
+{
+  "items": [
+    {
+      "number": "⛰️ 小山",
+      "word": "hill",
+      "ipa": "/hɪl/",
+      "graphemes": [
+        "h",
+        "i",
+        "ll"
+      ],
+      "phonemes": [
+        "/h",
+        "ɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/h",
+        "ĭ",
+        "l/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ll 重複字母 (FLOSS)。"
+    },
+    {
+      "number": "🏔️ 山",
+      "word": "mountain",
+      "ipa": "/ˈmaʊntən/",
+      "graphemes": [
+        "m",
+        "ou",
+        "n",
+        "t",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/'m",
+        "aʊ",
+        "n",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'m",
+        "ow",
+        "n",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 moun-；ou 發 /aʊ/；ai 弱化發 /ə/。"
+    },
+    {
+      "number": "🏞️ 山谷",
+      "word": "valley",
+      "ipa": "/ˈvæli/",
+      "graphemes": [
+        "v",
+        "a",
+        "ll",
+        "ey"
+      ],
+      "phonemes": [
+        "/'v",
+        "æ",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'v",
+        "ă",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 val-；ll 重複字母；ey 字尾發 /i/。"
+    },
+    {
+      "number": "🏝️ 島",
+      "word": "island",
+      "ipa": "/ˈaɪlənd/",
+      "graphemes": [
+        "i",
+        "s",
+        "l",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/'aɪ",
+        "-",
+        "l",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/'ī",
+        "-",
+        "l",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "open",
+        "silent_consonant",
+        "cluster"
+      ],
+      "hearts": [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發 /aɪ/；s 不發音；a 弱化。"
+    },
+    {
+      "number": "🌍 陸地",
+      "word": "land",
+      "ipa": "/lænd/",
+      "graphemes": [
+        "l",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/l",
+        "æ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/l",
+        "ă",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "nd 子音群。"
+    },
+    {
+      "number": "🪨 岩石",
+      "word": "rock",
+      "ipa": "/rɑk/",
+      "graphemes": [
+        "r",
+        "o",
+        "ck"
+      ],
+      "phonemes": [
+        "/r",
+        "ɑ",
+        "k/"
+      ],
+      "phonics": [
+        "/r",
+        "ŏ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ck 發 /k/。"
+    },
+    {
+      "number": "🪨 石頭",
+      "word": "stone",
+      "ipa": "/stoʊn/",
+      "graphemes": [
+        "s",
+        "t",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "oʊ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ō",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群；o_e 發 /oʊ/。"
+    },
+    {
+      "number": "🏖️ 沙",
+      "word": "sand",
+      "ipa": "/sænd/",
+      "graphemes": [
+        "s",
+        "a",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "æ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "ă",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "nd 子音群。"
+    },
+    {
+      "number": "🟤 泥巴",
+      "word": "mud",
+      "ipa": "/mʌd/",
+      "graphemes": [
+        "m",
+        "u",
+        "d"
+      ],
+      "phonemes": [
+        "/m",
+        "ʌ",
+        "d/"
+      ],
+      "phonics": [
+        "/m",
+        "ŭ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 /ʌ/。"
+    },
+    {
+      "number": "🌊 海",
+      "word": "sea",
+      "ipa": "/si/",
+      "graphemes": [
+        "s",
+        "ea"
+      ],
+      "phonemes": [
+        "/s",
+        "i/"
+      ],
+      "phonics": [
+        "/s",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ea 發長母音 /i/。"
+    },
+    {
+      "number": "🌊 海洋",
+      "word": "ocean",
+      "ipa": "/ˈoʊʃən/",
+      "graphemes": [
+        "o",
+        "c",
+        "ea",
+        "n"
+      ],
+      "phonemes": [
+        "/'oʊ",
+        "ʃ",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ō",
+        "sh",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "open",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "重音在 o-；c 發 /ʃ/；ea 弱化發 /ə/。"
+    },
+    {
+      "number": "🏖️ 海岸",
+      "word": "coast",
+      "ipa": "/koʊst/",
+      "graphemes": [
+        "c",
+        "oa",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/k",
+        "oʊ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "ō",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "oa 發 /oʊ/；st 子音群。"
+    },
+    {
+      "number": "🏝️ 岸邊",
+      "word": "shore",
+      "ipa": "/ʃɔr/",
+      "graphemes": [
+        "sh",
+        "ore"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/sh",
+        "or/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "sh 發 /ʃ/；ore 發 /ɔr/。"
+    },
+    {
+      "number": "🏞️ 湖",
+      "word": "lake",
+      "ipa": "/leɪk/",
+      "graphemes": [
+        "l",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/l",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/l",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "🐸 池塘",
+      "word": "pond",
+      "ipa": "/pɑnd/",
+      "graphemes": [
+        "p",
+        "o",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/p",
+        "ɑ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/p",
+        "ŏ",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "nd 子音群。"
+    },
+    {
+      "number": "💧 小溪",
+      "word": "stream",
+      "ipa": "/strim/",
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "ea",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "i",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ē",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "str 子音群；ea 發 /i/。"
+    },
+    {
+      "number": "🌲 森林",
+      "word": "forest",
+      "ipa": "/ˈfɔrɪst/",
+      "graphemes": [
+        "f",
+        "or",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɔr",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'f",
+        "or",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 for-；or 發 /ɔr/；e 弱化發 /ɪ/。"
+    },
+    {
+      "number": "🌳 樹林",
+      "word": "woods",
+      "ipa": "/wʊdz/",
+      "graphemes": [
+        "w",
+        "oo",
+        "d",
+        "s"
+      ],
+      "phonemes": [
+        "/w",
+        "ʊ",
+        "d",
+        "z/"
+      ],
+      "phonics": [
+        "/w",
+        "oo",
+        "d",
+        "z/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "oo 發短音 /ʊ/；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🏜️ 沙漠",
+      "word": "desert",
+      "ipa": "/ˈdɛzɚt/",
+      "graphemes": [
+        "d",
+        "e",
+        "s",
+        "er",
+        "t"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɛ",
+        "z",
+        "ɚ",
+        "t/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĕ",
+        "z",
+        "er",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 des-；s 發 /z/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🛤️ 小路",
+      "word": "path",
+      "ipa": "/pæθ/",
+      "graphemes": [
+        "p",
+        "a",
+        "th"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "θ/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "th/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "th 發 /θ/。"
+    }
+  ]
+}

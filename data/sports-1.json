@@ -649,6 +649,305 @@
         0
       ],
       "hint": "o 發 /ū/；s 在此發 /z/。"
+    },
+    {
+      "number": "🏃 球員",
+      "word": "player",
+      "ipa": "/ˈpleɪɚ/",
+      "graphemes": [
+        "p",
+        "l",
+        "ay",
+        "er"
+      ],
+      "phonemes": [
+        "/'p",
+        "l",
+        "eɪ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'p",
+        "l",
+        "ā",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "pl 子音群；ay 發 /eɪ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "👥 隊伍",
+      "word": "team",
+      "ipa": "/tim/",
+      "graphemes": [
+        "t",
+        "ea",
+        "m"
+      ],
+      "phonemes": [
+        "/t",
+        "i",
+        "m/"
+      ],
+      "phonics": [
+        "/t",
+        "ē",
+        "m/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發長母音 /i/。"
+    },
+    {
+      "number": "🧢 教練",
+      "word": "coach",
+      "ipa": "/koʊtʃ/",
+      "graphemes": [
+        "c",
+        "oa",
+        "ch"
+      ],
+      "phonemes": [
+        "/k",
+        "oʊ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/k",
+        "ō",
+        "ch/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oa 發 /oʊ/；ch 發 /tʃ/。"
+    },
+    {
+      "number": "🥅 球門；目標",
+      "word": "goal",
+      "ipa": "/ɡoʊl/",
+      "graphemes": [
+        "g",
+        "oa",
+        "l"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "oʊ",
+        "l/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ō",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oa 發 /oʊ/。"
+    },
+    {
+      "number": "🏆 獎品",
+      "word": "prize",
+      "ipa": "/praɪz/",
+      "graphemes": [
+        "p",
+        "r",
+        "i",
+        "z",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "aɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ī",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "pr 子音群；i_e 發 /aɪ/。"
+    },
+    {
+      "number": "🏅 勝利",
+      "word": "victory",
+      "ipa": "/ˈvɪktəri/",
+      "graphemes": [
+        "v",
+        "i",
+        "c",
+        "t",
+        "o",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'v",
+        "ɪ",
+        "k",
+        "t",
+        "ə",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'v",
+        "ĭ",
+        "k",
+        "t",
+        "ə",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 vic-；ct 子音群；o 弱化；y 字尾發 /i/。"
+    },
+    {
+      "number": "🏐 躲避球",
+      "word": "dodge ball",
+      "ipa": "/ˈdɑdʒ bɔl/",
+      "graphemes": [
+        "d",
+        "o",
+        "dge",
+        " ",
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɑ",
+        "dʒ",
+        " ",
+        "b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŏ",
+        "-j",
+        " ",
+        "b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "dge 發 /dʒ/；ball 的 a 在 ll 前發 /ɔ/。"
+    },
+    {
+      "number": "🥎 壘球",
+      "word": "softball",
+      "ipa": "/ˈsɔftˌbɔl/",
+      "graphemes": [
+        "s",
+        "o",
+        "f",
+        "t",
+        "b",
+        "a",
+        "ll"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɔ",
+        "f",
+        "t",
+        "b",
+        "ɔ",
+        "l/"
+      ],
+      "phonics": [
+        "/'s",
+        "aw",
+        "f",
+        "t",
+        "b",
+        "aw",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "soft + ball；o 和 a 都發 /ɔ/。"
     }
   ]
 }

@@ -776,6 +776,146 @@
         0
       ],
       "hint": "ow 在此發長母音 /ō/（/oʊ/）。"
+    },
+    {
+      "number": "✈️ 飛機",
+      "word": "plane",
+      "ipa": "/pleɪn/",
+      "graphemes": [
+        "p",
+        "l",
+        "a",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "eɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ā",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "pl 子音群；a_e 發 /eɪ/。"
+    },
+    {
+      "number": "🚇 捷運；地鐵",
+      "word": "metro",
+      "ipa": "/ˈmɛtroʊ/",
+      "graphemes": [
+        "m",
+        "e",
+        "t",
+        "r",
+        "o"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "t",
+        "r",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "t",
+        "r",
+        "ō/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 met-；tr 子音群；o 字尾發 /oʊ/。"
+    },
+    {
+      "number": "🚇 捷運（縮寫）",
+      "word": "MRT",
+      "ipa": "/ˌɛmɑrˈti/",
+      "graphemes": [
+        "M",
+        "R",
+        "T"
+      ],
+      "phonemes": [
+        "/ɛm",
+        "ɑr",
+        "'ti/"
+      ],
+      "phonics": [
+        "/ĕm",
+        "ɑr",
+        "'tē/"
+      ],
+      "tags": [],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "字母唸法 M-R-T；Mass Rapid Transit 縮寫。"
+    },
+    {
+      "number": "🚇 地鐵",
+      "word": "subway",
+      "ipa": "/ˈsʌbˌweɪ/",
+      "graphemes": [
+        "s",
+        "u",
+        "b",
+        "w",
+        "ay"
+      ],
+      "phonemes": [
+        "/'s",
+        "ʌ",
+        "b",
+        "w",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŭ",
+        "b",
+        "w",
+        "ā/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sub + way；u 發 /ʌ/；ay 發 /eɪ/。"
     }
   ]
 }

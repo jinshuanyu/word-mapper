@@ -1100,6 +1100,80 @@
         0
       ],
       "hint": "ar 在重音節發 /ɑr/。"
+    },
+    {
+      "number": "🚗 車庫",
+      "word": "garage",
+      "ipa": "/ɡəˈrɑʒ/",
+      "graphemes": [
+        "g",
+        "a",
+        "r",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ə",
+        "'r",
+        "ɑ",
+        "ʒ/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ə",
+        "'r",
+        "ŏ",
+        "zh/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        1
+      ],
+      "hint": "重音在 -rage；第一個 a 弱化；a 發 /ɑ/，ge 發 /ʒ/。"
+    },
+    {
+      "number": "🚽 馬桶；廁所",
+      "word": "toilet",
+      "ipa": "/ˈtɔɪlət/",
+      "graphemes": [
+        "t",
+        "oi",
+        "l",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɔɪ",
+        "l",
+        "ə",
+        "t/"
+      ],
+      "phonics": [
+        "/'t",
+        "oi",
+        "l",
+        "ə",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/；e 弱化。"
     }
   ]
 }

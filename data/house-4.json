@@ -1,0 +1,786 @@
+{
+  "items": [
+    {
+      "number": "📱 手機",
+      "word": "cellphone",
+      "ipa": "/ˈsɛlˌfoʊn/",
+      "graphemes": [
+        "c",
+        "e",
+        "ll",
+        "ph",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɛ",
+        "l",
+        "f",
+        "oʊ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĕ",
+        "l",
+        "f",
+        "ō",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "cell + phone；c 發軟音 /s/；ph 發 /f/；o_e 發 /oʊ/。"
+    },
+    {
+      "number": "☎️ 電話",
+      "word": "phone",
+      "ipa": "/foʊn/",
+      "graphemes": [
+        "ph",
+        "o",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "oʊ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "ō",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "ph 發 /f/；o_e 發 /oʊ/。"
+    },
+    {
+      "number": "📧 電子郵件",
+      "word": "e-mail",
+      "ipa": "/ˈiˌmeɪl/",
+      "graphemes": [
+        "e",
+        "-",
+        "m",
+        "ai",
+        "l"
+      ],
+      "phonemes": [
+        "/'i",
+        "-",
+        "m",
+        "eɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/'ē",
+        "-",
+        "m",
+        "ā",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發 /i/；ai 發 /eɪ/。"
+    },
+    {
+      "number": "🌐 網際網路",
+      "word": "Internet",
+      "ipa": "/ˈɪntɚˌnɛt/",
+      "graphemes": [
+        "I",
+        "n",
+        "t",
+        "er",
+        "n",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "t",
+        "ɚ",
+        "n",
+        "ɛ",
+        "t/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "t",
+        "er",
+        "n",
+        "ĕ",
+        "t/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 In-；er 發 /ɚ/；net 為短母音。"
+    },
+    {
+      "number": "🖥️ 螢幕",
+      "word": "screen",
+      "ipa": "/skrin/",
+      "graphemes": [
+        "s",
+        "c",
+        "r",
+        "ee",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "r",
+        "i",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "r",
+        "ē",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "scr 子音群；ee 發 /i/。"
+    },
+    {
+      "number": "📺 電視（縮寫）",
+      "word": "TV",
+      "ipa": "/ˌtiˈvi/",
+      "graphemes": [
+        "T",
+        "V"
+      ],
+      "phonemes": [
+        "/ti",
+        "'vi/"
+      ],
+      "phonics": [
+        "/tē",
+        "'vē/"
+      ],
+      "tags": [],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "字母唸法 T-V；television 縮寫。"
+    },
+    {
+      "number": "📷 照片",
+      "word": "photo",
+      "ipa": "/ˈfoʊtoʊ/",
+      "graphemes": [
+        "ph",
+        "o",
+        "t",
+        "o"
+      ],
+      "phonemes": [
+        "/'f",
+        "oʊ",
+        "t",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'f",
+        "ō",
+        "t",
+        "ō/"
+      ],
+      "tags": [
+        "digraph",
+        "open"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "ph 發 /f/；兩個 o 都發 /oʊ/。"
+    },
+    {
+      "number": "💬 訊息",
+      "word": "message",
+      "ipa": "/ˈmɛsɪdʒ/",
+      "graphemes": [
+        "m",
+        "e",
+        "ss",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "s",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "s",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 mes-；ss 重複字母；a 弱化發 /ɪ/；ge 發 /dʒ/。"
+    },
+    {
+      "number": "🔗 連結",
+      "word": "link",
+      "ipa": "/lɪŋk/",
+      "graphemes": [
+        "l",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/l",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/l",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "n 在 k 前發 /ŋ/。"
+    },
+    {
+      "number": "🔦 手電筒",
+      "word": "flashlight",
+      "ipa": "/ˈflæʃˌlaɪt/",
+      "graphemes": [
+        "f",
+        "l",
+        "a",
+        "sh",
+        "l",
+        "igh",
+        "t"
+      ],
+      "phonemes": [
+        "/'f",
+        "l",
+        "æ",
+        "ʃ",
+        "l",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'f",
+        "l",
+        "ă",
+        "sh",
+        "l",
+        "ī",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "flash + light；sh 發 /ʃ/；igh 發 /aɪ/。"
+    },
+    {
+      "number": "📋 項目",
+      "word": "item",
+      "ipa": "/ˈaɪtəm/",
+      "graphemes": [
+        "i",
+        "t",
+        "e",
+        "m"
+      ],
+      "phonemes": [
+        "/'aɪ",
+        "t",
+        "ə",
+        "m/"
+      ],
+      "phonics": [
+        "/'ī",
+        "t",
+        "ə",
+        "m/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 i-；i 開音節發 /aɪ/；e 弱化。"
+    },
+    {
+      "number": "🔧 工具",
+      "word": "tool",
+      "ipa": "/tul/",
+      "graphemes": [
+        "t",
+        "oo",
+        "l"
+      ],
+      "phonemes": [
+        "/t",
+        "u",
+        "l/"
+      ],
+      "phonics": [
+        "/t",
+        "ū",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發長音 /u/。"
+    },
+    {
+      "number": "🪠 管子",
+      "word": "pipe",
+      "ipa": "/paɪp/",
+      "graphemes": [
+        "p",
+        "i",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "aɪ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "ī",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發 /aɪ/。"
+    },
+    {
+      "number": "🪢 繩子",
+      "word": "rope",
+      "ipa": "/roʊp/",
+      "graphemes": [
+        "r",
+        "o",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "oʊ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ō",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "o_e 發 /oʊ/。"
+    },
+    {
+      "number": "🧵 細繩",
+      "word": "string",
+      "ipa": "/strɪŋ/",
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "str 子音群；ng 發 /ŋ/。"
+    },
+    {
+      "number": "📮 郵票",
+      "word": "stamp",
+      "ipa": "/stæmp/",
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "m",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "æ",
+        "m",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ă",
+        "m",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st、mp 子音群。"
+    },
+    {
+      "number": "🫙 蓋子",
+      "word": "lid",
+      "ipa": "/lɪd/",
+      "graphemes": [
+        "l",
+        "i",
+        "d"
+      ],
+      "phonemes": [
+        "/l",
+        "ɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/l",
+        "ĭ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短母音 /ɪ/。"
+    },
+    {
+      "number": "🎈 氣球",
+      "word": "balloon",
+      "ipa": "/bəˈlun/",
+      "graphemes": [
+        "b",
+        "a",
+        "ll",
+        "oo",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "ə",
+        "'l",
+        "u",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "ə",
+        "'l",
+        "ū",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -loon；a 弱化；ll 重複字母；oo 發 /u/。"
+    },
+    {
+      "number": "🗑️ 垃圾",
+      "word": "garbage",
+      "ipa": "/ˈɡɑrbɪdʒ/",
+      "graphemes": [
+        "g",
+        "ar",
+        "b",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "ɑr",
+        "b",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "ɑr",
+        "b",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 gar-；ar 發 /ɑr/；a 弱化發 /ɪ/；ge 發 /dʒ/。"
+    },
+    {
+      "number": "🔩 金屬",
+      "word": "metal",
+      "ipa": "/ˈmɛtəl/",
+      "graphemes": [
+        "m",
+        "e",
+        "t",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "t",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "t",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 met-；a 弱化。"
+    },
+    {
+      "number": "🧤 橡膠",
+      "word": "rubber",
+      "ipa": "/ˈrʌbɚ/",
+      "graphemes": [
+        "r",
+        "u",
+        "bb",
+        "er"
+      ],
+      "phonemes": [
+        "/'r",
+        "ʌ",
+        "b",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'r",
+        "ŭ",
+        "b",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 rub-；bb 重複字母；er 發 /ɚ/。"
+    },
+    {
+      "number": "🪵 木頭",
+      "word": "wood",
+      "ipa": "/wʊd/",
+      "graphemes": [
+        "w",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/w",
+        "ʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/w",
+        "oo",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "oo 發短音 /ʊ/。"
+    }
+  ]
+}

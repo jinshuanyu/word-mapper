@@ -991,6 +991,48 @@
         0
       ],
       "hint": "複合字：space + ship。"
+    },
+    {
+      "number": "🪐 行星",
+      "word": "planet",
+      "ipa": "/ˈplænɪt/",
+      "graphemes": [
+        "p",
+        "l",
+        "a",
+        "n",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "l",
+        "æ",
+        "n",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "l",
+        "ă",
+        "n",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 plan-；pl 子音群；e 弱化發 /ɪ/。"
     }
   ]
 }

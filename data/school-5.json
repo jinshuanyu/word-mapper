@@ -1,0 +1,688 @@
+{
+  "items": [
+    {
+      "number": "📖 課",
+      "word": "lesson",
+      "ipa": "/ˈlɛsən/",
+      "graphemes": [
+        "l",
+        "e",
+        "ss",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɛ",
+        "s",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'l",
+        "ĕ",
+        "s",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 les-；ss 重複字母；o 弱化。"
+    },
+    {
+      "number": "📶 程度；等級",
+      "word": "level",
+      "ipa": "/ˈlɛvəl/",
+      "graphemes": [
+        "l",
+        "e",
+        "v",
+        "e",
+        "l"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɛ",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'l",
+        "ĕ",
+        "v",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 lev-；第二個 e 弱化。"
+    },
+    {
+      "number": "📝 測驗",
+      "word": "test",
+      "ipa": "/tɛst/",
+      "graphemes": [
+        "t",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/t",
+        "ɛ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/t",
+        "ĕ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群。"
+    },
+    {
+      "number": "❓ 問題",
+      "word": "question",
+      "ipa": "/ˈkwɛstʃən/",
+      "graphemes": [
+        "qu",
+        "e",
+        "s",
+        "t",
+        "io",
+        "n"
+      ],
+      "phonemes": [
+        "/'kw",
+        "ɛ",
+        "s",
+        "tʃ",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'kw",
+        "ĕ",
+        "s",
+        "ch",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "closed",
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "qu 發 /kw/；t 在 -tion 前發 /tʃ/；io 弱化。"
+    },
+    {
+      "number": "✔️ 記號；分數",
+      "word": "mark",
+      "ipa": "/mɑrk/",
+      "graphemes": [
+        "m",
+        "ar",
+        "k"
+      ],
+      "phonemes": [
+        "/m",
+        "ɑr",
+        "k/"
+      ],
+      "phonics": [
+        "/m",
+        "ɑr",
+        "k/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ar 發 /ɑr/。"
+    },
+    {
+      "number": "❌ 錯誤",
+      "word": "error",
+      "ipa": "/ˈɛrɚ/",
+      "graphemes": [
+        "e",
+        "rr",
+        "or"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "r",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "r",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1
+      ],
+      "hint": "重音在 er-；rr 重複字母；or 字尾發 /ɚ/。"
+    },
+    {
+      "number": "📊 報告",
+      "word": "report",
+      "ipa": "/rɪˈpɔrt/",
+      "graphemes": [
+        "r",
+        "e",
+        "p",
+        "or",
+        "t"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'p",
+        "ɔr",
+        "t/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'p",
+        "or",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -port；e 弱化發 /ɪ/；or 發 /ɔr/。"
+    },
+    {
+      "number": "✍️ 句子",
+      "word": "sentence",
+      "ipa": "/ˈsɛntəns/",
+      "graphemes": [
+        "s",
+        "e",
+        "n",
+        "t",
+        "e",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɛ",
+        "n",
+        "t",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĕ",
+        "n",
+        "t",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 sen-；第二個 e 弱化；ce 發 /s/。"
+    },
+    {
+      "number": "🔤 單字",
+      "word": "word",
+      "ipa": "/wɝd/",
+      "graphemes": [
+        "w",
+        "or",
+        "d"
+      ],
+      "phonemes": [
+        "/w",
+        "ɝ",
+        "d/"
+      ],
+      "phonics": [
+        "/w",
+        "er",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "w 後面的 or 發 /ɝ/（像 work、world）。"
+    },
+    {
+      "number": "🔡 拼字",
+      "word": "spell",
+      "ipa": "/spɛl/",
+      "graphemes": [
+        "s",
+        "p",
+        "e",
+        "ll"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ɛ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ĕ",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 子音群；ll 重複字母。"
+    },
+    {
+      "number": "📚 字彙",
+      "word": "vocabulary",
+      "ipa": "/voʊˈkæbjəˌlɛri/",
+      "graphemes": [
+        "v",
+        "o",
+        "c",
+        "a",
+        "b",
+        "u",
+        "l",
+        "a",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/v",
+        "oʊ",
+        "'k",
+        "æ",
+        "b",
+        "jə",
+        "l",
+        "ɛ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/v",
+        "ō",
+        "'k",
+        "ă",
+        "b",
+        "yə",
+        "l",
+        "ĕ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -cab-；u 發 /jə/；y 字尾發 /i/。"
+    },
+    {
+      "number": "💬 主題",
+      "word": "topic",
+      "ipa": "/ˈtɑpɪk/",
+      "graphemes": [
+        "t",
+        "o",
+        "p",
+        "i",
+        "c"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɑ",
+        "p",
+        "ɪ",
+        "k/"
+      ],
+      "phonics": [
+        "/'t",
+        "ŏ",
+        "p",
+        "ĭ",
+        "k/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 top-；兩個短母音；c 發 /k/。"
+    },
+    {
+      "number": "📈 圖表",
+      "word": "chart",
+      "ipa": "/tʃɑrt/",
+      "graphemes": [
+        "ch",
+        "ar",
+        "t"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "ɑr",
+        "t/"
+      ],
+      "phonics": [
+        "/ch",
+        "ɑr",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ch 發 /tʃ/；ar 發 /ɑr/。"
+    },
+    {
+      "number": "📋 專題",
+      "word": "project",
+      "ipa": "/ˈprɑdʒɛkt/",
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "j",
+        "e",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/'p",
+        "r",
+        "ɑ",
+        "dʒ",
+        "ɛ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/'p",
+        "r",
+        "ŏ",
+        "-j",
+        "ĕ",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 pro-；pr、ct 子音群；j 發 /dʒ/。"
+    },
+    {
+      "number": "🔁 複習",
+      "word": "review",
+      "ipa": "/rɪˈvju/",
+      "graphemes": [
+        "r",
+        "e",
+        "v",
+        "iew"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'v",
+        "ju/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'v",
+        "yū/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "重音在 -view；e 弱化發 /ɪ/；iew 發 /ju/。"
+    },
+    {
+      "number": "🗓️ 學期",
+      "word": "semester",
+      "ipa": "/səˈmɛstɚ/",
+      "graphemes": [
+        "s",
+        "e",
+        "m",
+        "e",
+        "s",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/s",
+        "ə",
+        "'m",
+        "ɛ",
+        "s",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/s",
+        "ə",
+        "'m",
+        "ĕ",
+        "s",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -mes-；第一個 e 弱化；st 子音群。"
+    },
+    {
+      "number": "📆 學期；術語",
+      "word": "term",
+      "ipa": "/tɝm/",
+      "graphemes": [
+        "t",
+        "er",
+        "m"
+      ],
+      "phonemes": [
+        "/t",
+        "ɝ",
+        "m/"
+      ],
+      "phonics": [
+        "/t",
+        "er",
+        "m/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "er 發 /ɝ/。"
+    },
+    {
+      "number": "📏 畫底線",
+      "word": "underline",
+      "ipa": "/ˈʌndɚˌlaɪn/",
+      "graphemes": [
+        "u",
+        "n",
+        "d",
+        "er",
+        "l",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/'ʌ",
+        "n",
+        "d",
+        "ɚ",
+        "l",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/'ŭ",
+        "n",
+        "d",
+        "er",
+        "l",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 un-；er 發 /ɚ/；i_e 發 /aɪ/。"
+    }
+  ]
+}

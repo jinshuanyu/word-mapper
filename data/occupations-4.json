@@ -683,6 +683,78 @@
         0
       ],
       "hint": "重音在 -port（閉音節）；or 為 r-controlled；-er 字尾。"
+    },
+    {
+      "number": "🧑‍✈️ 隊長；船長",
+      "word": "captain",
+      "ipa": "/ˈkæptən/",
+      "graphemes": [
+        "c",
+        "a",
+        "p",
+        "t",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/'k",
+        "æ",
+        "p",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'k",
+        "ă",
+        "p",
+        "t",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 cap-；pt 子音群；ai 弱化發 /ə/。"
+    },
+    {
+      "number": "🥷 小偷",
+      "word": "thief",
+      "ipa": "/θif/",
+      "graphemes": [
+        "th",
+        "ie",
+        "f"
+      ],
+      "phonemes": [
+        "/θ",
+        "i",
+        "f/"
+      ],
+      "phonics": [
+        "/th",
+        "ē",
+        "f/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "th 發 /θ/；ie 發 /i/。"
     }
   ]
 }

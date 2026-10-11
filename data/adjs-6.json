@@ -903,6 +903,91 @@
         0
       ],
       "hint": "單音節；str 為 cluster；a_e 對應 /eɪ/；ge 為 digraph 對應 /dʒ/。"
+    },
+    {
+      "number": "🍀 幸運的",
+      "word": "lucky",
+      "ipa": "/ˈlʌki/",
+      "graphemes": [
+        "l",
+        "u",
+        "ck",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "ʌ",
+        "k",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ŭ",
+        "k",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 luck-；ck 發 /k/；y 字尾發 /i/。"
+    },
+    {
+      "number": "😲 驚訝的",
+      "word": "surprised",
+      "ipa": "/sɚˈpraɪzd/",
+      "graphemes": [
+        "s",
+        "ur",
+        "p",
+        "r",
+        "i",
+        "s",
+        "e",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "ɚ",
+        "'p",
+        "r",
+        "aɪ",
+        "z",
+        "-",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "er",
+        "'p",
+        "r",
+        "ī",
+        "z",
+        "-",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 -prise；ur 弱化發 /ɚ/；s 發 /z/；-ed 發 /d/。"
     }
   ]
 }

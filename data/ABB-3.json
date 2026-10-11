@@ -826,6 +826,35 @@
         0
       ],
       "hint": "o 發短音 ŭ"
+    },
+    {
+      "number": "🔍 尋找(原形)",
+      "word": "seek",
+      "ipa": "/sik/",
+      "graphemes": [
+        "s",
+        "ee",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "i",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "ē",
+        "k/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ee 發 /i/；seek - sought - sought。"
     }
   ]
 }

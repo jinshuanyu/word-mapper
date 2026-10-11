@@ -711,6 +711,40 @@
         0
       ],
       "hint": "ou 在此不規則發 /ŭ/；th 在此發濁音 /th/（/ð/）；er 弱化為 /er/。"
+    },
+    {
+      "number": "🚩 旗子",
+      "word": "flag",
+      "ipa": "/flæɡ/",
+      "graphemes": [
+        "f",
+        "l",
+        "a",
+        "g"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "æ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ă",
+        "ɡ/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 子音群。"
     }
   ]
 }

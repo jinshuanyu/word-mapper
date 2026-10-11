@@ -1266,6 +1266,151 @@
         0
       ],
       "hint": "i_e 發 /aɪ/。"
+    },
+    {
+      "number": "🎂 生日",
+      "word": "birthday",
+      "ipa": "/ˈbɝθˌdeɪ/",
+      "graphemes": [
+        "b",
+        "ir",
+        "th",
+        "d",
+        "ay"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɝ",
+        "θ",
+        "d",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'b",
+        "er",
+        "th",
+        "d",
+        "ā/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "birth + day；ir 發 /ɝ/；th 發 /θ/；ay 發 /eɪ/。"
+    },
+    {
+      "number": "🎉 派對",
+      "word": "party",
+      "ipa": "/ˈpɑrti/",
+      "graphemes": [
+        "p",
+        "ar",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑr",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'p",
+        "ɑr",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 par-；ar 發 /ɑr/；y 字尾發 /i/。"
+    },
+    {
+      "number": "💒 婚禮",
+      "word": "wedding",
+      "ipa": "/ˈwɛdɪŋ/",
+      "graphemes": [
+        "w",
+        "e",
+        "dd",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɛ",
+        "d",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĕ",
+        "d",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 wed-；dd 重複字母；ng 發 /ŋ/。"
+    },
+    {
+      "number": "👻 鬼",
+      "word": "ghost",
+      "ipa": "/ɡoʊst/",
+      "graphemes": [
+        "gh",
+        "o",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "oʊ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ō",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "hint": "gh 發 /ɡ/（h 不發音）；o 在 st 前發長音 /oʊ/。"
     }
   ]
 }

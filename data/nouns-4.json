@@ -701,6 +701,394 @@
         0
       ],
       "hint": "單音節閉音節；e 發短音 /ĕ/。"
+    },
+    {
+      "number": "👥 群體",
+      "word": "group",
+      "ipa": "/ɡrup/",
+      "graphemes": [
+        "g",
+        "r",
+        "ou",
+        "p"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "u",
+        "p/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ū",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "gr 子音群；ou 不規則發 /u/。"
+    },
+    {
+      "number": "📏 規則",
+      "word": "rule",
+      "ipa": "/rul/",
+      "graphemes": [
+        "r",
+        "u",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "u",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ū",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "u_e 發 /u/。"
+    },
+    {
+      "number": "🙏 神",
+      "word": "god",
+      "ipa": "/ɡɑd/",
+      "graphemes": [
+        "g",
+        "o",
+        "d"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "ɑ",
+        "d/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ŏ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發短母音 /ɑ/。"
+    },
+    {
+      "number": "🪖 軍隊",
+      "word": "army",
+      "ipa": "/ˈɑrmi/",
+      "graphemes": [
+        "ar",
+        "m",
+        "y"
+      ],
+      "phonemes": [
+        "/'ɑr",
+        "m",
+        "i/"
+      ],
+      "phonics": [
+        "/'ɑr",
+        "m",
+        "ē/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ar 發 /ɑr/；y 字尾發 /i/。"
+    },
+    {
+      "number": "💥 損害",
+      "word": "damage",
+      "ipa": "/ˈdæmɪdʒ/",
+      "graphemes": [
+        "d",
+        "a",
+        "m",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/'d",
+        "æ",
+        "m",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/'d",
+        "ă",
+        "m",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 dam-；第二個 a 弱化發 /ɪ/；ge 發 /dʒ/。"
+    },
+    {
+      "number": "🎓 教育",
+      "word": "education",
+      "ipa": "/ˌɛdʒəˈkeɪʃən/",
+      "graphemes": [
+        "e",
+        "d",
+        "u",
+        "c",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/ɛ",
+        "dʒ",
+        "ə",
+        "'k",
+        "eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/ĕ",
+        "-j",
+        "ə",
+        "'k",
+        "ā",
+        "shən/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -ca-；d 在 u 前發 /dʒ/；tion 發 /ʃən/。"
+    },
+    {
+      "number": "🌱 環境",
+      "word": "environment",
+      "ipa": "/ɪnˈvaɪrənmənt/",
+      "graphemes": [
+        "e",
+        "n",
+        "v",
+        "i",
+        "r",
+        "o",
+        "n",
+        "m",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "'v",
+        "aɪ",
+        "r",
+        "ə",
+        "n",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "'v",
+        "ī",
+        "r",
+        "ə",
+        "n",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "open",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -vi-；i 發 /aɪ/；o、e 弱化；-ment 字尾。"
+    },
+    {
+      "number": "🏭 污染",
+      "word": "pollution",
+      "ipa": "/pəˈluʃən/",
+      "graphemes": [
+        "p",
+        "o",
+        "ll",
+        "u",
+        "tion"
+      ],
+      "phonemes": [
+        "/p",
+        "ə",
+        "'l",
+        "u",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/p",
+        "ə",
+        "'l",
+        "ū",
+        "shən/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -lu-；o 弱化；ll 重複字母；tion 發 /ʃən/。"
+    },
+    {
+      "number": "🦺 安全",
+      "word": "safety",
+      "ipa": "/ˈseɪfti/",
+      "graphemes": [
+        "s",
+        "a",
+        "f",
+        "e",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "eɪ",
+        "f",
+        "-",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "ā",
+        "f",
+        "-",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "safe + ty；a_e 發 /eɪ/；y 字尾發 /i/。"
+    },
+    {
+      "number": "🏮 傳統",
+      "word": "tradition",
+      "ipa": "/trəˈdɪʃən/",
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "d",
+        "i",
+        "tion"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "ə",
+        "'d",
+        "ɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ə",
+        "'d",
+        "ĭ",
+        "shən/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -di-；tr 子音群；a 弱化；tion 發 /ʃən/。"
     }
   ]
 }

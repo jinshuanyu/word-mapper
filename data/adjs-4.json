@@ -665,6 +665,123 @@
         0
       ],
       "hint": "單音節；i 在 ld 前發長音 /ī/（開音節規則）。"
+    },
+    {
+      "number": "🇹🇼 國家的",
+      "word": "national",
+      "ipa": "/ˈnæʃənəl/",
+      "graphemes": [
+        "n",
+        "a",
+        "tion",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'n",
+        "æ",
+        "ʃən",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'n",
+        "ă",
+        "shən",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 na-；a 發短母音 /æ/（不像 nation）；tion 發 /ʃən/。"
+    },
+    {
+      "number": "⬜ 空白的",
+      "word": "blank",
+      "ipa": "/blæŋk/",
+      "graphemes": [
+        "b",
+        "l",
+        "a",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "æ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ă",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "bl 子音群；n 在 k 前發 /ŋ/。"
+    },
+    {
+      "number": "☮️ 平靜的",
+      "word": "peaceful",
+      "ipa": "/ˈpisfəl/",
+      "graphemes": [
+        "p",
+        "ea",
+        "ce",
+        "f",
+        "u",
+        "l"
+      ],
+      "phonemes": [
+        "/'p",
+        "i",
+        "s",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'p",
+        "ē",
+        "s",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "peace + ful；ea 發 /i/；ce 發 /s/。"
     }
   ]
 }

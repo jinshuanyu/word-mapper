@@ -380,6 +380,52 @@
         false
       ],
       "hint": "them + selves；注意不是 “their + selves”；重音節 e 發短母音 e /ɛ/；最後一個 e 不發音；詞尾 s 讀 /z/。"
+    },
+    {
+      "number": "🙋 自己",
+      "word": "oneself",
+      "ipa": "/wʌnˈsɛlf/",
+      "graphemes": [
+        "o",
+        "n",
+        "e",
+        "s",
+        "e",
+        "l",
+        "f"
+      ],
+      "phonemes": [
+        "/wʌ",
+        "n",
+        "-",
+        "'s",
+        "ɛ",
+        "l",
+        "f/"
+      ],
+      "phonics": [
+        "/wŭ",
+        "n",
+        "-",
+        "'s",
+        "ĕ",
+        "l",
+        "f/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "one + self；one 不規則發 /wʌn/。"
     }
   ]
 }

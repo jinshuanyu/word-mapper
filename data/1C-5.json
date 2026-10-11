@@ -677,6 +677,110 @@
         0
       ],
       "hint": "單音節閉音節；ll 為 floss；字尾有聲子音加 -ed 發 /d/。"
+    },
+    {
+      "number": "📣 歡呼",
+      "word": "cheer",
+      "ipa": "/tʃɪr/",
+      "graphemes": [
+        "ch",
+        "ee",
+        "r"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/ch",
+        "ĭ",
+        "r/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ch 發 /tʃ/；eer 發 /ɪr/；字尾有聲子音加 -ed 發 /d/。"
+    },
+    {
+      "number": "🙇 行為表現",
+      "word": "behave",
+      "ipa": "/bɪˈheɪv/",
+      "graphemes": [
+        "b",
+        "e",
+        "h",
+        "a",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/b",
+        "ɪ",
+        "'h",
+        "eɪ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/b",
+        "ĭ",
+        "'h",
+        "ā",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -have；e 弱化發 /ɪ/；a_e 發 /eɪ/；字尾 v 加 -ed 發 /d/。"
+    },
+    {
+      "number": "📞 撥號",
+      "word": "dial",
+      "ipa": "/ˈdaɪəl/",
+      "graphemes": [
+        "d",
+        "i",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'d",
+        "aɪ",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'d",
+        "ī",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發 /aɪ/；a 弱化；字尾 l 加 -ed 發 /d/。"
     }
   ]
 }

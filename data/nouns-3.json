@@ -757,6 +757,525 @@
         0
       ],
       "hint": "單音節；ay 對應 /ā/。"
+    },
+    {
+      "number": "💡 想法",
+      "word": "idea",
+      "ipa": "/aɪˈdiə/",
+      "graphemes": [
+        "i",
+        "d",
+        "e",
+        "a"
+      ],
+      "phonemes": [
+        "/aɪ",
+        "'d",
+        "i",
+        "ə/"
+      ],
+      "phonics": [
+        "/ī",
+        "'d",
+        "ē",
+        "ə/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -de-；i 發 /aɪ/；e 發 /i/；a 弱化。"
+    },
+    {
+      "number": "🤔 理由",
+      "word": "reason",
+      "ipa": "/ˈrizən/",
+      "graphemes": [
+        "r",
+        "ea",
+        "s",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'r",
+        "i",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'r",
+        "ē",
+        "z",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 rea-；ea 發 /i/；s 發 /z/；o 弱化。"
+    },
+    {
+      "number": "✅ 事實",
+      "word": "fact",
+      "ipa": "/fækt/",
+      "graphemes": [
+        "f",
+        "a",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "æ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "ă",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ct 子音群。"
+    },
+    {
+      "number": "🔀 選擇",
+      "word": "choice",
+      "ipa": "/tʃɔɪs/",
+      "graphemes": [
+        "ch",
+        "oi",
+        "ce"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "ɔɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/ch",
+        "oi",
+        "s/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ch 發 /tʃ/；oi 發 /ɔɪ/；ce 發 /s/。"
+    },
+    {
+      "number": "🧳 經驗",
+      "word": "experience",
+      "ipa": "/ɪkˈspɪriəns/",
+      "graphemes": [
+        "e",
+        "x",
+        "p",
+        "e",
+        "r",
+        "i",
+        "e",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "ks",
+        "'p",
+        "ɪ",
+        "r",
+        "i",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "ks",
+        "'p",
+        "ĭ",
+        "r",
+        "ē",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -pe-；x 發 /ks/；e 在 r 前發 /ɪ/；ce 發 /s/。"
+    },
+    {
+      "number": "💭 夢；夢想",
+      "word": "dream",
+      "ipa": "/drim/",
+      "graphemes": [
+        "d",
+        "r",
+        "ea",
+        "m"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "i",
+        "m/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ē",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 子音群；ea 發 /i/。"
+    },
+    {
+      "number": "📖 故事",
+      "word": "story",
+      "ipa": "/ˈstɔri/",
+      "graphemes": [
+        "s",
+        "t",
+        "or",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ɔr",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "or",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群；or 發 /ɔr/；y 字尾發 /i/。"
+    },
+    {
+      "number": "📊 結果",
+      "word": "result",
+      "ipa": "/rɪˈzʌlt/",
+      "graphemes": [
+        "r",
+        "e",
+        "s",
+        "u",
+        "l",
+        "t"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'z",
+        "ʌ",
+        "l",
+        "t/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'z",
+        "ŭ",
+        "l",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -sult；e 弱化發 /ɪ/；s 發 /z/；lt 子音群。"
+    },
+    {
+      "number": "🛠️ 技能",
+      "word": "skill",
+      "ipa": "/skɪl/",
+      "graphemes": [
+        "s",
+        "k",
+        "i",
+        "ll"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "ɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ĭ",
+        "l/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sk 子音群；ll 重複字母。"
+    },
+    {
+      "number": "👗 風格",
+      "word": "style",
+      "ipa": "/staɪl/",
+      "graphemes": [
+        "s",
+        "t",
+        "y",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "aɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ī",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "st 子音群；y_e 發 /aɪ/（y 當母音）。"
+    },
+    {
+      "number": "🏆 成功",
+      "word": "success",
+      "ipa": "/səkˈsɛs/",
+      "graphemes": [
+        "s",
+        "u",
+        "c",
+        "c",
+        "e",
+        "ss"
+      ],
+      "phonemes": [
+        "/s",
+        "ə",
+        "k",
+        "'s",
+        "ɛ",
+        "s/"
+      ],
+      "phonics": [
+        "/s",
+        "ə",
+        "k",
+        "'s",
+        "ĕ",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -cess；u 弱化；第一個 c 發 /k/，第二個發 /s/；ss 重複字母。"
+    },
+    {
+      "number": "🔣 符號",
+      "word": "symbol",
+      "ipa": "/ˈsɪmbəl/",
+      "graphemes": [
+        "s",
+        "y",
+        "m",
+        "b",
+        "o",
+        "l"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɪ",
+        "m",
+        "b",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĭ",
+        "m",
+        "b",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 sym-；y 發 /ɪ/；o 弱化。"
+    },
+    {
+      "number": "🏷️ 標題",
+      "word": "title",
+      "ipa": "/ˈtaɪtəl/",
+      "graphemes": [
+        "t",
+        "i",
+        "t",
+        "le"
+      ],
+      "phonemes": [
+        "/'t",
+        "aɪ",
+        "t",
+        "əl/"
+      ],
+      "phonics": [
+        "/'t",
+        "ī",
+        "t",
+        "əl/"
+      ],
+      "tags": [
+        "open",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 ti-；i 開音節發 /aɪ/；tle 發 /təl/。"
+    },
+    {
+      "number": "💎 價值",
+      "word": "value",
+      "ipa": "/ˈvælju/",
+      "graphemes": [
+        "v",
+        "a",
+        "l",
+        "ue"
+      ],
+      "phonemes": [
+        "/'v",
+        "æ",
+        "l",
+        "ju/"
+      ],
+      "phonics": [
+        "/'v",
+        "ă",
+        "l",
+        "yū/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "重音在 val-；ue 發 /ju/。"
     }
   ]
 }

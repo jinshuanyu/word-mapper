@@ -679,6 +679,181 @@
         0
       ],
       "hint": "重音在 wor-；or 對應 /ɝ/（需記）；-er 字尾。"
+    },
+    {
+      "number": "🎤 面試；訪問",
+      "word": "interview",
+      "ipa": "/ˈɪntɚˌvju/",
+      "graphemes": [
+        "i",
+        "n",
+        "t",
+        "er",
+        "v",
+        "iew"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "n",
+        "t",
+        "ɚ",
+        "v",
+        "ju/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "n",
+        "t",
+        "er",
+        "v",
+        "yū/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "重音在 in-；er 發 /ɚ/；iew 發 /ju/。"
+    },
+    {
+      "number": "🛎️ 服務",
+      "word": "service",
+      "ipa": "/ˈsɝvɪs/",
+      "graphemes": [
+        "s",
+        "er",
+        "v",
+        "i",
+        "ce"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɝ",
+        "v",
+        "ɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/'s",
+        "er",
+        "v",
+        "ĭ",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 ser-；er 發 /ɝ/；ce 發 /s/。"
+    },
+    {
+      "number": "📜 合約",
+      "word": "contract",
+      "ipa": "/ˈkɑntrækt/",
+      "graphemes": [
+        "c",
+        "o",
+        "n",
+        "t",
+        "r",
+        "a",
+        "c",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "n",
+        "t",
+        "r",
+        "æ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "n",
+        "t",
+        "r",
+        "ă",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 con-；tr、ct 子音群。"
+    },
+    {
+      "number": "🏭 生產",
+      "word": "production",
+      "ipa": "/prəˈdʌkʃən/",
+      "graphemes": [
+        "p",
+        "r",
+        "o",
+        "d",
+        "u",
+        "c",
+        "tion"
+      ],
+      "phonemes": [
+        "/p",
+        "r",
+        "ə",
+        "'d",
+        "ʌ",
+        "k",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/p",
+        "r",
+        "ə",
+        "'d",
+        "ŭ",
+        "k",
+        "shən/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -duc-；o 弱化；tion 發 /ʃən/。"
     }
   ]
 }

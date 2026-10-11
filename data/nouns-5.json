@@ -981,6 +981,189 @@
         0
       ],
       "hint": "單音節閉音節；e 發短音 /ĕ/。"
+    },
+    {
+      "number": "📦 東西",
+      "word": "thing",
+      "ipa": "/θɪŋ/",
+      "graphemes": [
+        "th",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/θ",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/th",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "th 發 /θ/；ng 發 /ŋ/。"
+    },
+    {
+      "number": "⛽ 瓦斯；汽油",
+      "word": "gas",
+      "ipa": "/ɡæs/",
+      "graphemes": [
+        "g",
+        "a",
+        "s"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "æ",
+        "s/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "ă",
+        "s/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "a 發短母音 /æ/。"
+    },
+    {
+      "number": "🔊 噪音",
+      "word": "noise",
+      "ipa": "/nɔɪz/",
+      "graphemes": [
+        "n",
+        "oi",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/n",
+        "ɔɪ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/n",
+        "oi",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/；s 發 /z/，字尾 e 靜音。"
+    },
+    {
+      "number": "🗣️ 聲音",
+      "word": "voice",
+      "ipa": "/vɔɪs/",
+      "graphemes": [
+        "v",
+        "oi",
+        "ce"
+      ],
+      "phonemes": [
+        "/v",
+        "ɔɪ",
+        "s/"
+      ],
+      "phonics": [
+        "/v",
+        "oi",
+        "s/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/；ce 發 /s/。"
+    },
+    {
+      "number": "👁️ 視力；景象",
+      "word": "sight",
+      "ipa": "/saɪt/",
+      "graphemes": [
+        "s",
+        "igh",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "ī",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "igh 發 /aɪ/。"
+    },
+    {
+      "number": "🗂️ 一堆",
+      "word": "pile",
+      "ipa": "/paɪl/",
+      "graphemes": [
+        "p",
+        "i",
+        "l",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "aɪ",
+        "l",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "ī",
+        "l",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發 /aɪ/。"
     }
   ]
 }

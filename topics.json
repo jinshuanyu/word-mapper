@@ -245,6 +245,10 @@
         {
           "label": "用具與家事",
           "src": "data/house-3.json"
+        },
+        {
+          "label": "3C 與雜物",
+          "src": "data/house-4.json"
         }
       ]
     },
@@ -325,6 +329,10 @@
         {
           "label": "學習活動",
           "src": "data/school-4.json"
+        },
+        {
+          "label": "課業與語言",
+          "src": "data/school-5.json"
         }
       ]
     },
@@ -429,6 +437,10 @@
         {
           "label": "自然地球",
           "src": "data/weather-3.json"
+        },
+        {
+          "label": "地形與水域",
+          "src": "data/weather-4.json"
         }
       ]
     },

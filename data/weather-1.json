@@ -547,6 +547,35 @@
         0
       ],
       "hint": "nn 只是拼字規則；字尾 y 發 /i/。"
+    },
+    {
+      "number": "🔥 熱",
+      "word": "heat",
+      "ipa": "/hit/",
+      "graphemes": [
+        "h",
+        "ea",
+        "t"
+      ],
+      "phonemes": [
+        "/h",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/h",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發長母音 /i/。"
     }
   ]
 }
