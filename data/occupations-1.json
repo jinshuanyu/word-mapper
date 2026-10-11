@@ -729,6 +729,35 @@
         0
       ],
       "hint": "paint + er；ai 發 /eɪ/。"
+    },
+    {
+      "number": "🎵 流行音樂；流行的",
+      "word": "pop",
+      "ipa": "/pɑp/",
+      "graphemes": [
+        "p",
+        "o",
+        "p"
+      ],
+      "phonemes": [
+        "/p",
+        "ɑ",
+        "p/"
+      ],
+      "phonics": [
+        "/p",
+        "ŏ",
+        "p/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發短母音 /ɑ/。"
     }
   ]
 }

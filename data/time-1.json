@@ -611,6 +611,39 @@
         1
       ],
       "hint": "a 在 w 後發 /ŏ/；tch 發 /ch/。"
+    },
+    {
+      "number": "🚨 警報",
+      "word": "alarm",
+      "ipa": "/əˈlɑrm/",
+      "graphemes": [
+        "a",
+        "l",
+        "ar",
+        "m"
+      ],
+      "phonemes": [
+        "/ə",
+        "'l",
+        "ɑr",
+        "m/"
+      ],
+      "phonics": [
+        "/ə",
+        "'l",
+        "ɑr",
+        "m/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -larm；a 弱化；ar 發 /ɑr/。"
     }
   ]
 }

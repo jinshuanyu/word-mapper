@@ -1299,6 +1299,52 @@
         0
       ],
       "hint": "ow 發 /aʊ/；er 發 /ɚ/。"
+    },
+    {
+      "number": "✏️ 文具",
+      "word": "stationery",
+      "ipa": "/ˈsteɪʃəˌnɛri/",
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "tion",
+        "e",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "eɪ",
+        "ʃən",
+        "ɛ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ā",
+        "shən",
+        "ĕ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 sta-；a 開音節發 /eɪ/；tion 發 /ʃən/；y 字尾發 /i/。"
     }
   ]
 }

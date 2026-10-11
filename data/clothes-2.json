@@ -698,6 +698,44 @@
         false
       ],
       "hint": "u 發字母名 yū /ju/；or 發 /ɔr/。"
+    },
+    {
+      "number": "🧤 手套（單數）",
+      "word": "glove",
+      "ipa": "/ɡlʌv/",
+      "graphemes": [
+        "g",
+        "l",
+        "o",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "l",
+        "ʌ",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "l",
+        "ŭ",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "gl 子音群；o 不規則發 /ʌ/；字尾 e 靜音。"
     }
   ]
 }

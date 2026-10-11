@@ -1243,6 +1243,41 @@
         0
       ],
       "hint": "o 發 /ŏ/。"
+    },
+    {
+      "number": "🗑️ 垃圾",
+      "word": "trash",
+      "ipa": "/træʃ/",
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "sh"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "æ",
+        "ʃ/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ă",
+        "sh/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "tr 子音群；sh 發 /ʃ/。"
     }
   ]
 }

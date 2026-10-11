@@ -591,6 +591,31 @@
         1
       ],
       "hint": "重音在 -nique；第一音節開音節；nique 開音節長母音；que 為 digraph。"
+    },
+    {
+      "number": "🆕 新的",
+      "word": "new",
+      "ipa": "/nu/",
+      "graphemes": [
+        "n",
+        "ew"
+      ],
+      "phonemes": [
+        "/n",
+        "u/"
+      ],
+      "phonics": [
+        "/n",
+        "ū/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ew 發 /u/。"
     }
   ]
 }

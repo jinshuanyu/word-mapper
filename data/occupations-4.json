@@ -753,6 +753,117 @@
         0
       ],
       "hint": "th 發 /θ/；ie 發 /i/。"
+    },
+    {
+      "number": "🔥 火",
+      "word": "fire",
+      "ipa": "/faɪr/",
+      "graphemes": [
+        "f",
+        "i",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "aɪ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "ī",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發 /aɪ/；字尾 e 靜音。"
+    },
+    {
+      "number": "👮 警官；官員",
+      "word": "officer",
+      "ipa": "/ˈɔfɪsɚ/",
+      "graphemes": [
+        "o",
+        "ff",
+        "i",
+        "c",
+        "er"
+      ],
+      "phonemes": [
+        "/'ɔ",
+        "f",
+        "ɪ",
+        "s",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'aw",
+        "f",
+        "ĭ",
+        "s",
+        "er/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 of-；o 發 /ɔ/；ff 重複字母；c 發軟音 /s/；er 發 /ɚ/。"
+    },
+    {
+      "number": "👮 警察（總稱）",
+      "word": "police",
+      "ipa": "/pəˈlis/",
+      "graphemes": [
+        "p",
+        "o",
+        "l",
+        "i",
+        "c",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "ə",
+        "'l",
+        "i",
+        "s",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "ə",
+        "'l",
+        "ē",
+        "s",
+        "-/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "重音在 -lice；o 弱化；i 發 /i/（不是 /aɪ/）；字尾 e 靜音。"
     }
   ]
 }

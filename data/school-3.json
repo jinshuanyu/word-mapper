@@ -1093,6 +1093,39 @@
         1
       ],
       "hint": "重音在 -fes-；o 弱化；ss 重複字母；or 字尾發 /ɚ/。"
+    },
+    {
+      "number": "👑 領袖；領導者",
+      "word": "leader",
+      "ipa": "/ˈlidɚ/",
+      "graphemes": [
+        "l",
+        "ea",
+        "d",
+        "er"
+      ],
+      "phonemes": [
+        "/'l",
+        "i",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'l",
+        "ē",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ea 發 /i/；er 發 /ɚ/。"
     }
   ]
 }

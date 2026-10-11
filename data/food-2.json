@@ -1105,6 +1105,74 @@
         1
       ],
       "hint": ""
+    },
+    {
+      "number": "🍜 麵條（單數）",
+      "word": "noodle",
+      "ipa": "/ˈnudəl/",
+      "graphemes": [
+        "n",
+        "oo",
+        "d",
+        "le"
+      ],
+      "phonemes": [
+        "/'n",
+        "u",
+        "d",
+        "əl/"
+      ],
+      "phonics": [
+        "/'n",
+        "ū",
+        "d",
+        "əl/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發長音 /u/；dle 發 /dəl/。"
+    },
+    {
+      "number": "🍟 薯條",
+      "word": "fries",
+      "ipa": "/fraɪz/",
+      "graphemes": [
+        "f",
+        "r",
+        "ie",
+        "s"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "aɪ",
+        "z/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ī",
+        "z/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "fr 子音群；ie 發 /aɪ/；字尾 s 發 /z/。"
     }
   ]
 }

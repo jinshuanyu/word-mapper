@@ -798,6 +798,32 @@
         0
       ],
       "hint": "ui 發 /u/。"
+    },
+    {
+      "number": "👟 鞋子（單數）",
+      "word": "shoe",
+      "ipa": "/ʃu/",
+      "graphemes": [
+        "sh",
+        "oe"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "u/"
+      ],
+      "phonics": [
+        "/sh",
+        "ū/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
+      "hint": "sh 發 /ʃ/；oe 不規則發 /u/。"
     }
   ]
 }

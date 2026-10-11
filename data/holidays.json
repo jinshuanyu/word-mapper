@@ -1414,6 +1414,35 @@
         0
       ],
       "hint": "gh 發 /ɡ/（h 不發音）；o 在 st 前發長音 /oʊ/。"
+    },
+    {
+      "number": "🌙 前夕",
+      "word": "eve",
+      "ipa": "/iv/",
+      "graphemes": [
+        "e",
+        "v",
+        "e"
+      ],
+      "phonemes": [
+        "/i",
+        "v",
+        "-/"
+      ],
+      "phonics": [
+        "/ē",
+        "v",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "e_e 發長母音 /i/。"
     }
   ]
 }

@@ -832,6 +832,96 @@
         0
       ],
       "hint": "重音在 tel，e 發短母音 /ĕ/。"
+    },
+    {
+      "number": "🏢 中心",
+      "word": "center",
+      "ipa": "/ˈsɛntɚ/",
+      "graphemes": [
+        "c",
+        "e",
+        "n",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɛ",
+        "n",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĕ",
+        "n",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 cen-；c 發軟音 /s/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🏢 部門",
+      "word": "department",
+      "ipa": "/dɪˈpɑrtmənt/",
+      "graphemes": [
+        "d",
+        "e",
+        "p",
+        "ar",
+        "t",
+        "m",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "'p",
+        "ɑr",
+        "t",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "'p",
+        "ɑr",
+        "t",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -part-；e 弱化發 /ɪ/；ar 發 /ɑr/；-ment 字尾。"
     }
   ]
 }
