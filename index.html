@@ -139,6 +139,9 @@
    transition: all .2s; box-shadow: 0 4px 6px rgba(251,191,36,0.15);
   }
   .my-list-btn-home:hover { background: #fffbeb; transform: translateY(-2px); box-shadow: 0 6px 12px rgba(251,191,36,0.25); }
+  /* 課本字表入口：同按鈕樣式，改用 textbooks.html 的紫色系 */
+  .textbooks-btn-home { border-color: #887ea6; color: #5f5582; box-shadow: 0 4px 6px rgba(136,126,166,0.15); text-decoration: none; }
+  .textbooks-btn-home:hover { background: #f6f4fa; box-shadow: 0 6px 12px rgba(136,126,166,0.25); }
 
   .mylist-actions { display: flex; gap: 10px; justify-content: center; margin-bottom: 1.5rem; flex-wrap: wrap; }
   .action-btn { background: #fff; border: 1px solid #cbd5e1; padding: .5rem 1rem; border-radius: 8px; font-size: 0.9rem; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; color: #475569; font-weight: 600; }
@@ -309,7 +312,7 @@
   @media print {
     html, body { height: auto !important; margin: 0 !important; padding: 0 !important; overflow: visible !important; background: #fff !important; font-size: 12pt; }
     .container { box-shadow: none !important; max-width: 100% !important; width: 100% !important; padding: 0 !important; margin: 0 !important; min-height: 0 !important; border: none !important; }
-    .back-button, .searchbar, .home-progress-bar, .dropdown-container, .filter-bar, .filter-panel, .toggle-container, .attribution-note, .credits, .support-cta, .audio-button, .back-to-top, .star-btn, .mylist-actions, #searchMsg, .source-link-btn, #goMyListBtn, #batchInputBtn, .share-page-btn, #printBtn, #exportListBtn, #importListBtn, #oneClickSaveBtn { display: none !important; }
+    .back-button, .searchbar, .home-progress-bar, .dropdown-container, .filter-bar, .filter-panel, .toggle-container, .attribution-note, .credits, .support-cta, .audio-button, .back-to-top, .star-btn, .mylist-actions, #searchMsg, .source-link-btn, #goMyListBtn, #goTextbooksBtn, #batchInputBtn, .share-page-btn, #printBtn, #exportListBtn, #importListBtn, #oneClickSaveBtn { display: none !important; }
     #homePage { display: none !important; } 
     .page-section.active { display: block !important; }
     .topic-grid { display: block !important; }
@@ -398,6 +401,7 @@
     <ul id="topicList" class="topic-list"></ul>
 
     <button id="goMyListBtn" class="my-list-btn-home">⭐ 我的自選字表</button>
+    <a id="goTextbooksBtn" class="my-list-btn-home textbooks-btn-home" href="textbooks.html">📚 課本字表</a>
    </section>
 
    <section id="searchResultPage" class="page-section">
