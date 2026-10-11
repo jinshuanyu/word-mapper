@@ -685,6 +685,16 @@
           "src": "data/ABC-misc.json"
         }
       ]
+    },
+    {
+      "slug": "names",
+      "title": "Names 人名",
+      "levels": [
+        {
+          "label": "課本角色",
+          "src": "data/names-1.json"
+        }
+      ]
     }
   ]
 }

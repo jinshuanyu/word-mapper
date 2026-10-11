@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "number": "🧒 阿布（人名）",
+      "word": "Abu",
+      "ipa": "/ˈɑbu/",
+      "graphemes": [
+        "A",
+        "b",
+        "u"
+      ],
+      "phonemes": [
+        "/'ɑ",
+        "b",
+        "u/"
+      ],
+      "phonics": [
+        "/'ŏ",
+        "b",
+        "ū/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0,
+        1
+      ],
+      "hint": "A 發 /ɑ/、u 發 /u/，不照一般規則。"
+    },
+    {
+      "number": "🧑‍🔬 愛迪生（人名）",
+      "word": "Edison",
+      "ipa": "/ˈɛdɪsən/",
+      "graphemes": [
+        "E",
+        "d",
+        "i",
+        "s",
+        "o",
+        "n"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "d",
+        "ɪ",
+        "s",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "d",
+        "ĭ",
+        "s",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 Ed-；i 發 /ɪ/；o 弱化發 /ə/。"
+    },
+    {
+      "number": "🧒 洛基（人名）",
+      "word": "Rocky",
+      "ipa": "/ˈrɑki/",
+      "graphemes": [
+        "R",
+        "o",
+        "ck",
+        "y"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɑ",
+        "k",
+        "i/"
+      ],
+      "phonics": [
+        "/'r",
+        "ŏ",
+        "k",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ck 發 /k/；y 字尾發 /i/。"
+    },
+    {
+      "number": "👧 安柏（人名）",
+      "word": "Amber",
+      "ipa": "/ˈæmbɚ/",
+      "graphemes": [
+        "A",
+        "m",
+        "b",
+        "er"
+      ],
+      "phonemes": [
+        "/'æ",
+        "m",
+        "b",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ă",
+        "m",
+        "b",
+        "er/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 Am-；er 發 /ɚ/。"
+    },
+    {
+      "number": "👧 米亞（人名）",
+      "word": "Mia",
+      "ipa": "/ˈmiə/",
+      "graphemes": [
+        "M",
+        "i",
+        "a"
+      ],
+      "phonemes": [
+        "/'m",
+        "i",
+        "ə/"
+      ],
+      "phonics": [
+        "/'m",
+        "ē",
+        "ə/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "i 發 /i/；a 弱化。"
+    },
+    {
+      "number": "🧸 泰迪（人名）",
+      "word": "Teddy",
+      "ipa": "/ˈtɛdi/",
+      "graphemes": [
+        "T",
+        "e",
+        "dd",
+        "y"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɛ",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'t",
+        "ĕ",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dd 重複字母；y 字尾發 /i/。"
+    },
+    {
+      "number": "👦 彼特（人名）",
+      "word": "Pete",
+      "ipa": "/pit/",
+      "graphemes": [
+        "P",
+        "e",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "i",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "ē",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "e_e 發長母音 /i/。"
+    },
+    {
+      "number": "👦 泰德（人名）",
+      "word": "Ted",
+      "ipa": "/tɛd/",
+      "graphemes": [
+        "T",
+        "e",
+        "d"
+      ],
+      "phonemes": [
+        "/t",
+        "ɛ",
+        "d/"
+      ],
+      "phonics": [
+        "/t",
+        "ĕ",
+        "d/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發短母音 /ɛ/。"
+    },
+    {
+      "number": "👦 路克（人名）",
+      "word": "Luke",
+      "ipa": "/luk/",
+      "graphemes": [
+        "L",
+        "u",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/l",
+        "u",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/l",
+        "ū",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "u_e 發 /u/。"
+    },
+    {
+      "number": "👦 札克（人名）",
+      "word": "Zack",
+      "ipa": "/zæk/",
+      "graphemes": [
+        "Z",
+        "a",
+        "ck"
+      ],
+      "phonemes": [
+        "/z",
+        "æ",
+        "k/"
+      ],
+      "phonics": [
+        "/z",
+        "ă",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ck 發 /k/。"
+    }
+  ]
+}
