@@ -247,7 +247,9 @@
         false,
         true,
         true,
-        true
+        true,
+        0,
+        0
       ],
       "audio": "audio/be/wasnt.mp3",
       "hint": "was + not；a 發短母音 o /ɑ/；s 發 /z/。"

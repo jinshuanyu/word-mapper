@@ -642,6 +642,7 @@
       "hearts": [
         0,
         1,
+        0,
         0
       ],
       "hint": "i 在 nd 前發長音(wild old words 規則)"
@@ -673,6 +674,7 @@
         "cluster"
       ],
       "hearts": [
+        0,
         0,
         0,
         0

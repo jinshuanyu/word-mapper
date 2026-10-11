@@ -3,54 +3,166 @@
     {
       "number": "",
       "word": "a_e, ai, ay",
-      "graphemes": ["a_e", "ai", "ay"],
-      "phonemes": ["/eɪ/", "/eɪ/", "/eɪ/"],
-      "phonics": ["/ā/", "/ā/", "/ā/"],
-      "tags": ["magic_e", "vowel_team"],
+      "graphemes": [
+        "a_e",
+        "ai",
+        "ay"
+      ],
+      "phonemes": [
+        "/eɪ/",
+        "/eɪ/",
+        "/eɪ/"
+      ],
+      "phonics": [
+        "/ā/",
+        "/ā/",
+        "/ā/"
+      ],
+      "tags": [
+        "magic_e",
+        "vowel_team"
+      ],
       "hint": "發長母音 /ā/ (cake, rain, play)。",
-      "audio": "audio/phonemes/a_long.mp3"
+      "audio": "audio/phonemes/a_long.mp3",
+      "hearts": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "number": "",
       "word": "e_e, ee, ea",
-      "graphemes": ["e_e", "ee", "ea"],
-      "phonemes": ["/i/", "/i/", "/i/"],
-      "phonics": ["/ē/", "/ē/", "/ē/"],
-      "tags": ["magic_e", "vowel_team"],
+      "graphemes": [
+        "e_e",
+        "ee",
+        "ea"
+      ],
+      "phonemes": [
+        "/i/",
+        "/i/",
+        "/i/"
+      ],
+      "phonics": [
+        "/ē/",
+        "/ē/",
+        "/ē/"
+      ],
+      "tags": [
+        "magic_e",
+        "vowel_team"
+      ],
       "hint": "發長母音 /ē/ (feet, eat, pete)。",
-      "audio": "audio/phonemes/e_long.mp3"
+      "audio": "audio/phonemes/e_long.mp3",
+      "hearts": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "number": "",
       "word": "i_e, igh, ie, y",
-      "graphemes": ["i_e", "igh", "ie", "y"],
-      "phonemes": ["/aɪ/", "/aɪ/", "/aɪ/", "/aɪ/"],
-      "phonics": ["/ī/", "/ī/", "/ī/", "/ī/"],
-      "tags": ["magic_e", "vowel_team"],
+      "graphemes": [
+        "i_e",
+        "igh",
+        "ie",
+        "y"
+      ],
+      "phonemes": [
+        "/aɪ/",
+        "/aɪ/",
+        "/aɪ/",
+        "/aɪ/"
+      ],
+      "phonics": [
+        "/ī/",
+        "/ī/",
+        "/ī/",
+        "/ī/"
+      ],
+      "tags": [
+        "magic_e",
+        "vowel_team"
+      ],
       "hint": "發長母音 /ī/ (bike, night, pie, fly)。",
-      "audio": "audio/phonemes/i_long.mp3"
+      "audio": "audio/phonemes/i_long.mp3",
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ]
     },
     {
       "number": "",
       "word": "o_e, oa, oe, ow",
-      "graphemes": ["o_e", "oa", "oe", "ow"],
-      "phonemes": ["/oʊ/", "/oʊ/", "/oʊ/", "/oʊ/"],
-      "phonics": ["/ō/", "/ō/", "/ō/", "/ō/"],
-      "tags": ["magic_e", "vowel_team"],
+      "graphemes": [
+        "o_e",
+        "oa",
+        "oe",
+        "ow"
+      ],
+      "phonemes": [
+        "/oʊ/",
+        "/oʊ/",
+        "/oʊ/",
+        "/oʊ/"
+      ],
+      "phonics": [
+        "/ō/",
+        "/ō/",
+        "/ō/",
+        "/ō/"
+      ],
+      "tags": [
+        "magic_e",
+        "vowel_team"
+      ],
       "hint": "發長母音 /ō/ (home, boat, snow)。",
-      "audio": "audio/phonemes/o_long.mp3"
+      "audio": "audio/phonemes/o_long.mp3",
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ]
     },
     {
       "number": "",
       "word": "u_e, ui, ue, ew",
-      "graphemes": ["u_e", "ui",  "ue", "ew"],
-      "phonemes": ["/ju/", "/ju/", "/ju/", "/ju/"],
-      "phonics": ["/yū/", "/yū/", "/yū/", "/yū/"],
-      "tags": ["magic_e", "vowel_team"],
+      "graphemes": [
+        "u_e",
+        "ui",
+        "ue",
+        "ew"
+      ],
+      "phonemes": [
+        "/ju/",
+        "/ju/",
+        "/ju/",
+        "/ju/"
+      ],
+      "phonics": [
+        "/yū/",
+        "/yū/",
+        "/yū/",
+        "/yū/"
+      ],
+      "tags": [
+        "magic_e",
+        "vowel_team"
+      ],
       "hint": "發長母音 /yū/ (cute) 或 /ū/ (blue)。",
-      "audio": "audio/letters/U.mp3"
+      "audio": "audio/letters/U.mp3",
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ]
     },
-      {
+    {
       "number": "",
       "word": "au, aw",
       "graphemes": [
@@ -69,9 +181,13 @@
         "vowel_team"
       ],
       "hint": "發 /aw/。如 launch, saw。",
-      "audio": "audio/phonemes/aw.mp3"
+      "audio": "audio/phonemes/aw.mp3",
+      "hearts": [
+        0,
+        0
+      ]
     },
-     {
+    {
       "number": "",
       "word": "ou, ow",
       "graphemes": [
@@ -90,9 +206,13 @@
         "vowel_team"
       ],
       "hint": "發 /ow/。如 cloud, cow。",
-      "audio": "audio/phonemes/ow.mp3"
+      "audio": "audio/phonemes/ow.mp3",
+      "hearts": [
+        0,
+        0
+      ]
     },
-   {
+    {
       "number": "",
       "word": "oi, oy",
       "graphemes": [
@@ -111,19 +231,37 @@
         "vowel_team"
       ],
       "hint": "發 /oi/。oi 常用於字中 (boil)，oy 常用於字尾 (boy)。",
-      "audio": "audio/phonemes/oi.mp3"
+      "audio": "audio/phonemes/oi.mp3",
+      "hearts": [
+        0,
+        0
+      ]
     },
     {
       "number": "",
       "word": "oo",
-      "graphemes": ["oo【長】", "oo【短】"],
-      "phonemes": ["/u/", "/ʊ/"],
-      "phonics": ["/ū/", "/oo/"],
-      "tags": ["vowel_team"],
+      "graphemes": [
+        "oo【長】",
+        "oo【短】"
+      ],
+      "phonemes": [
+        "/u/",
+        "/ʊ/"
+      ],
+      "phonics": [
+        "/ū/",
+        "/oo/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
       "hint": "有兩種發音：長音 /ū/ (moon) 或短音 /oo/ (book)。",
-      "audio": "audio/phonemes/oo.mp3"
+      "audio": "audio/phonemes/oo.mp3",
+      "hearts": [
+        0,
+        0
+      ]
     },
-   
     {
       "number": "",
       "word": "ar",
@@ -140,25 +278,35 @@
         "rcontrolled"
       ],
       "hint": "發 /ar/ (car)。",
-      "audio": "audio/phonemes/ar.mp3"
+      "audio": "audio/phonemes/ar.mp3",
+      "hearts": [
+        0
+      ]
     },
     {
       "number": "",
       "word": "or, ore",
       "graphemes": [
-        "or","ore"
+        "or",
+        "ore"
       ],
       "phonemes": [
-        "/ɔr/","/ɔr/"
+        "/ɔr/",
+        "/ɔr/"
       ],
       "phonics": [
-        "/or/","/or/"
+        "/or/",
+        "/or/"
       ],
       "tags": [
         "rcontrolled"
       ],
       "hint": "發 /or/ (fork)。",
-      "audio": "audio/phonemes/or.mp3"
+      "audio": "audio/phonemes/or.mp3",
+      "hearts": [
+        0,
+        0
+      ]
     },
     {
       "number": "",
@@ -182,7 +330,12 @@
         "rcontrolled"
       ],
       "hint": "發捲舌音 /er/。如 her, bird, turn。",
-      "audio": "audio/phonemes/er_stressed.mp3"
+      "audio": "audio/phonemes/er_stressed.mp3",
+      "hearts": [
+        0,
+        0,
+        0
+      ]
     },
     {
       "number": "無聲吐舌",
@@ -200,7 +353,10 @@
         "digraph"
       ],
       "hint": "無聲 (Unvoiced)。發氣音 /th/ (thumb)。",
-      "audio": "audio/phonemes/c9.mp3"
+      "audio": "audio/phonemes/c9.mp3",
+      "hearts": [
+        0
+      ]
     },
     {
       "number": "有聲吐舌",
@@ -218,7 +374,10 @@
         "digraph"
       ],
       "hint": "有聲 (Voiced)。發震動音 /th/ (this)。",
-      "audio": "audio/phonemes/c10.mp3"
+      "audio": "audio/phonemes/c10.mp3",
+      "hearts": [
+        0
+      ]
     },
     {
       "number": "",
@@ -236,7 +395,10 @@
         "digraph"
       ],
       "hint": "發無聲子音 /sh/ (ship)。",
-      "audio": "audio/phonemes/c13.mp3"
+      "audio": "audio/phonemes/c13.mp3",
+      "hearts": [
+        0
+      ]
     },
     {
       "number": "",
@@ -260,9 +422,13 @@
         "digraph"
       ],
       "hint": "發音代號 /zh/。常見拼寫為 si (vision), s (measure), ge (beige)。",
-      "audio": "audio/phonemes/c14.mp3"
+      "audio": "audio/phonemes/c14.mp3",
+      "hearts": [
+        0,
+        0,
+        0
+      ]
     },
-    
     {
       "number": "",
       "word": "ch, tch",
@@ -282,9 +448,12 @@
         "digraph"
       ],
       "hint": "發子音 /ch/。ch 用於字首或長母音後 (chair)；tch 用於短母音後 (catch)。",
-      "audio": "audio/phonemes/c15.mp3"
+      "audio": "audio/phonemes/c15.mp3",
+      "hearts": [
+        0,
+        0
+      ]
     },
-
     {
       "number": "",
       "word": "ge, dge",
@@ -304,9 +473,12 @@
         "digraph"
       ],
       "hint": "發軟音 /j/。ge 常在長母音後 (cage)；dge 常在短母音後 (bridge)。",
-      "audio": "audio/phonemes/c16.mp3"
+      "audio": "audio/phonemes/c16.mp3",
+      "hearts": [
+        0,
+        0
+      ]
     },
-
     {
       "number": "",
       "word": "ng",
@@ -323,8 +495,10 @@
         "digraph"
       ],
       "hint": "發鼻音 /ng/ (ring)。",
-      "audio": "audio/phonemes/c20.mp3"
+      "audio": "audio/phonemes/c20.mp3",
+      "hearts": [
+        0
+      ]
     }
-   
   ]
 }

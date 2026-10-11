@@ -202,7 +202,9 @@
         false,
         true,
         false,
-        false
+        false,
+        0,
+        0
       ],
       "hint": "-old 中 o 常發長母音 o /oʊ/。"
     },

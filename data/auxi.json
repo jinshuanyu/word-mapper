@@ -534,7 +534,8 @@
         false,
         false,
         false,
-        false
+        false,
+        0
       ],
       "audio": "audio/auxi/cant.mp3",
       "hint": "a 發短母音 a /æ/。"

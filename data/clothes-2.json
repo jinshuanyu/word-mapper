@@ -79,7 +79,8 @@
         false,
         false,
         false,
-        false
+        false,
+        0
       ],
       "hint": "brace + let；a_e：a 發長母音 a /eɪ/，e 不發音。"
     },
@@ -199,7 +200,8 @@
         false,
         true,
         false,
-        true
+        true,
+        0
       ],
       "hint": "複數（兩隻）；o 發短母音 u /ʌ/；v 之後補字尾靜音 e；s 在有聲 v 後發 /z/。"
     },
@@ -427,8 +429,7 @@
         false,
         false,
         false,
-        true,
-        false
+        true
       ],
       "hint": "spot 的過去分詞，-ed 在 /t/ 後加一個音節，發 /ɪd/。"
     },

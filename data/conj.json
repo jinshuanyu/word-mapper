@@ -130,8 +130,6 @@
         false,
         false,
         false,
-        false,
-        true,
         false
       ],
       "hint": "i_e：i 發長母音 i /aɪ/，後面的 e 不發音；d+s 音如ㄗ。"
@@ -244,7 +242,6 @@
         "rcontrolled"
       ],
       "hearts": [
-        false,
         false
       ],
       "hint": "or 發 /ɔr/。"

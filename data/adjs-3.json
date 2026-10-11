@@ -46,6 +46,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "hint": "重音在 ex-；閉音節短母音；-ent 字尾。"
@@ -73,6 +74,7 @@
         "vowel_team"
       ],
       "hearts": [
+        0,
         0,
         0
       ],
@@ -500,6 +502,7 @@
         0,
         0,
         0,
+        0,
         0
       ],
       "hint": "重音在 -por-；第一音節閉音節；or 在重音音節 r-controlled；-ant 字尾。"
@@ -633,6 +636,7 @@
         1,
         1,
         0,
+        0,
         0
       ],
       "hint": "重音在 plea-；pl 為 cluster；ea 對應 /ɛ/（irregular）；-ant 字尾。"
@@ -719,7 +723,6 @@
         0,
         1,
         1,
-        0,
         0
       ],
       "hint": "重音在 pre-；pr 為 cluster；閉音節；ci 對應 /ʃ/；-ous 字尾。"
@@ -747,7 +750,6 @@
         "rcontrolled"
       ],
       "hearts": [
-        0,
         0,
         0,
         0
@@ -816,6 +818,7 @@
       "hearts": [
         1,
         0,
+        0,
         0
       ],
       "hint": "單音節；s 對應 /ʃ/（irregular）；ure 對應 /ʊr/；r-controlled。"
@@ -854,6 +857,7 @@
         "cle"
       ],
       "hearts": [
+        0,
         0,
         0,
         0,

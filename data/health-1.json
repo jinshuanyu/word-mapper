@@ -645,7 +645,9 @@
         false,
         false,
         false,
-        false
+        false,
+        0,
+        0
       ],
       "hint": "-ture 發 cher /tʃɚ/。"
     },
@@ -682,7 +684,8 @@
         false,
         false,
         false,
-        false
+        false,
+        0
       ],
       "hint": "d 發 /d/。"
     },

@@ -705,7 +705,8 @@
         false,
         false,
         false,
-        true
+        true,
+        0
       ],
       "hint": "oo → /u/；th → /θ/；ache → /eɪk/。"
     },
