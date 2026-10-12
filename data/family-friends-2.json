@@ -777,6 +777,39 @@
         false
       ],
       "hint": "i_e：i 發長母音 i /aɪ/，e 不發音。"
+    },
+    {
+      "number": "🤝 夥伴",
+      "word": "mate",
+      "ipa": "/meɪt/",
+      "graphemes": [
+        "m",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/m",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/m",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發長母音 /eɪ/（和 mat 對比）。"
     }
   ]
 }

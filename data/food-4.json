@@ -1108,6 +1108,64 @@
         0
       ],
       "hint": "重音在 bub-；bb 重複字母；ble 發 /bəl/。"
+    },
+    {
+      "number": "🍷 酒",
+      "word": "wine",
+      "ipa": "/waɪn/",
+      "graphemes": [
+        "w",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發長母音 /aɪ/（和 win 對比）。"
+    },
+    {
+      "number": "🫘 黃豆",
+      "word": "soy",
+      "ipa": "/sɔɪ/",
+      "graphemes": [
+        "s",
+        "oy"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔɪ/"
+      ],
+      "phonics": [
+        "/s",
+        "oi/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "oy 發 /ɔɪ/。"
     }
   ]
 }

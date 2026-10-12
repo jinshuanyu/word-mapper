@@ -972,6 +972,35 @@
         0
       ],
       "hint": "ck 發 /k/。"
+    },
+    {
+      "number": "👤 使用者",
+      "word": "user",
+      "ipa": "/ˈjuzɚ/",
+      "graphemes": [
+        "u",
+        "s",
+        "er"
+      ],
+      "phonemes": [
+        "/'ju",
+        "z",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'yū",
+        "z",
+        "er/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "u 開音節發 /ju/；s 發 /z/；er 發 /ɚ/。"
     }
   ]
 }

@@ -1094,6 +1094,44 @@
         0
       ],
       "hint": "重音在 spir-；sp 子音群；兩個 i 都發 /ɪ/。"
+    },
+    {
+      "number": "🤔 驚奇；想知道",
+      "word": "wonder",
+      "ipa": "/ˈwʌndɚ/",
+      "graphemes": [
+        "w",
+        "o",
+        "n",
+        "d",
+        "er"
+      ],
+      "phonemes": [
+        "/'w",
+        "ʌ",
+        "n",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'w",
+        "ŭ",
+        "n",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "o 不規則發 /ʌ/；nd 子音群；er 發 /ɚ/。"
     }
   ]
 }

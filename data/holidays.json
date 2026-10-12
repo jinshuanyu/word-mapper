@@ -1443,6 +1443,39 @@
         0
       ],
       "hint": "e_e 發長母音 /i/。"
+    },
+    {
+      "number": "🎄 快樂的（Merry Christmas）",
+      "word": "merry",
+      "ipa": "/ˈmɛri/",
+      "graphemes": [
+        "m",
+        "e",
+        "rr",
+        "y"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɛ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĕ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 mer-；rr 重複字母；y 字尾發 /i/。"
     }
   ]
 }

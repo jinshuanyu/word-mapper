@@ -437,6 +437,35 @@
         0
       ],
       "hint": "o 發長母音 o /oʊ/；t 美式發音近 /d/；a 弱讀 /ə/。"
+    },
+    {
+      "number": "許多（a lot of）；空地",
+      "word": "lot",
+      "ipa": "/lɑt/",
+      "graphemes": [
+        "l",
+        "o",
+        "t"
+      ],
+      "phonemes": [
+        "/l",
+        "ɑ",
+        "t/"
+      ],
+      "phonics": [
+        "/l",
+        "ŏ",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "o 發短母音 /ɑ/。"
     }
   ]
 }

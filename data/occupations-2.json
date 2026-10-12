@@ -880,6 +880,40 @@
         0
       ],
       "hint": "ai 發 /eɪ/。"
+    },
+    {
+      "number": "📮 郵件；郵寄",
+      "word": "post",
+      "ipa": "/poʊst/",
+      "graphemes": [
+        "p",
+        "o",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/p",
+        "oʊ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/p",
+        "ō",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "irregular",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "o 在 st 前發長音 /oʊ/（閉音節例外）。"
     }
   ]
 }
