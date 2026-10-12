@@ -349,7 +349,7 @@
       "hint": "ee 發短母音 i /ɪ/。"
     },
     {
-      "number": "我是（I am）",
+      "number": "我是",
       "word": "I'm",
       "ipa": "/aɪm/",
       "graphemes": [
@@ -378,7 +378,7 @@
       "hint": "I + am；' 不發音。"
     },
     {
-      "number": "你是（you are）",
+      "number": "你是",
       "word": "you're",
       "ipa": "/jʊr/",
       "graphemes": [

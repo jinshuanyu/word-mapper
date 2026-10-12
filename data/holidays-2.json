@@ -180,7 +180,7 @@
       "hint": "jack + o' + lantern；ck 發 /k/；o' 弱化發 /ə/；er 發 /ɚ/。"
     },
     {
-      "number": "🎅 聖誕老人（Santa Claus）",
+      "number": "🎅 聖誕老人",
       "word": "Santa",
       "ipa": "/ˈsæntə/",
       "graphemes": [
@@ -217,7 +217,7 @@
       "hint": "重音在 San-；字尾 a 弱化。"
     },
     {
-      "number": "🎅 聖誕老人（Santa Claus）",
+      "number": "🎅 聖誕老人",
       "word": "Claus",
       "ipa": "/klɔz/",
       "graphemes": [
@@ -295,7 +295,7 @@
       "hint": "重音在 stock-；ck 發 /k/；ng 發 /ŋ/。"
     },
     {
-      "number": "🦯 拐杖（candy cane 拐杖糖）",
+      "number": "🦯 拐杖",
       "word": "cane",
       "ipa": "/keɪn/",
       "graphemes": [
@@ -388,7 +388,7 @@
       "hint": "fire + cracker + s；i_e 發 /aɪ/；cr 子音群；ck 發 /k/。"
     },
     {
-      "number": "🧧 對句（spring couplet 春聯）",
+      "number": "🧧 對句",
       "word": "couplet",
       "ipa": "/ˈkʌplɪt/",
       "graphemes": [
@@ -488,79 +488,7 @@
       "hint": "tangerine 的複數；g 發軟音 /dʒ/；i_e 發 /i/；字尾 s 發 /z/。"
     },
     {
-      "number": "🎃 不給糖就搗蛋（go trick-or-treating）",
-      "word": "trick-or-treating",
-      "ipa": "/ˌtrɪkɔrˈtritɪŋ/",
-      "graphemes": [
-        "t",
-        "r",
-        "i",
-        "ck",
-        "-",
-        "or",
-        "-",
-        "t",
-        "r",
-        "ea",
-        "t",
-        "i",
-        "ng"
-      ],
-      "phonemes": [
-        "/t",
-        "r",
-        "ɪ",
-        "k",
-        "-",
-        "ɔr",
-        "-",
-        "'t",
-        "r",
-        "i",
-        "t",
-        "ɪ",
-        "ŋ/"
-      ],
-      "phonics": [
-        "/t",
-        "r",
-        "ĭ",
-        "k",
-        "-",
-        "or",
-        "-",
-        "'t",
-        "r",
-        "ē",
-        "t",
-        "ĭ",
-        "ŋ/"
-      ],
-      "tags": [
-        "cluster",
-        "digraph",
-        "vowel_team",
-        "suffix"
-      ],
-      "hearts": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "hint": "trick + or + treat + ing；ck 發 /k/；ea 發 /i/。"
-    },
-    {
-      "number": "👻 鬧鬼的（haunted house 鬼屋）",
+      "number": "👻 鬧鬼的",
       "word": "haunted",
       "ipa": "/ˈhɔntɪd/",
       "graphemes": [
@@ -597,6 +525,69 @@
         0
       ],
       "hint": "haunt + ed；au 發 /ɔ/；-ed 在 t 後發 /ɪd/。"
+    },
+    {
+      "number": "🎃 不給糖就搗蛋",
+      "word": "trick or treat",
+      "ipa": "/ˌtrɪk ɔr ˈtrit/",
+      "graphemes": [
+        "t",
+        "r",
+        "i",
+        "ck",
+        " ",
+        "or",
+        " ",
+        "t",
+        "r",
+        "ea",
+        "t"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "ɪ",
+        "k",
+        " ",
+        "ɔr",
+        " ",
+        "'t",
+        "r",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ĭ",
+        "k",
+        " ",
+        "or",
+        " ",
+        "'t",
+        "r",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "萬聖節討糖用語；ck 發 /k/；ea 發 /i/。"
     }
   ]
 }

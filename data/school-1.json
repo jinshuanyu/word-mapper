@@ -695,7 +695,7 @@
       "hint": "er 在重音節發 /ɝ/。"
     },
     {
-      "number": "🔔 鐘",
+      "number": "🔔 鐘；鈴",
       "word": "bell",
       "ipa": "/bɛl/",
       "graphemes": [
@@ -817,7 +817,7 @@
       "hint": "重音在 lock-；ck 發 /k/；er 發 /ɚ/。"
     },
     {
-      "number": "🎒 初級的（junior high 國中）",
+      "number": "🎒 初級的",
       "word": "junior",
       "ipa": "/ˈdʒunjɚ/",
       "graphemes": [
@@ -854,7 +854,7 @@
       "hint": "重音在 ju-；u 開音節發 /u/；i 發 /j/；or 字尾發 /ɚ/。"
     },
     {
-      "number": "🎓 高級的（senior high 高中）",
+      "number": "🎓 高級的",
       "word": "senior",
       "ipa": "/ˈsinjɚ/",
       "graphemes": [

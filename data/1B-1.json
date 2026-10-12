@@ -998,7 +998,7 @@
       "hint": "單音節；i_e 對應 /aɪ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
-      "number": "🚸 穿越",
+      "number": "🚸 跨越",
       "word": "cross",
       "ipa": "/krɔs/",
       "graphemes": [
@@ -1033,7 +1033,7 @@
       "hint": "cr 子音群；o 發 /ɔ/；ss 重複字母；字尾無聲子音加 -ed 發 /t/。"
     },
     {
-      "number": "🗣️ 說話",
+      "number": "🗣️ 講話",
       "word": "talk",
       "ipa": "/tɔk/",
       "graphemes": [
@@ -1105,7 +1105,7 @@
       "hint": "重音在 pun-；sh 發 /ʃ/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
-      "number": "👆 輕拍；點擊",
+      "number": "👆 輕觸",
       "word": "tap",
       "ipa": "/tæp/",
       "graphemes": [
@@ -1134,7 +1134,7 @@
       "hint": "字尾無聲子音加 -ed 發 /t/（tapped 要重複 p）。"
     },
     {
-      "number": "🛏️ 塞入",
+      "number": "🛏️ 把……塞進",
       "word": "tuck",
       "ipa": "/tʌk/",
       "graphemes": [
@@ -1164,7 +1164,7 @@
       "hint": "ck 發 /k/；字尾無聲子音加 -ed 發 /t/。"
     },
     {
-      "number": "🥤 小口喝",
+      "number": "🥤 啜飲",
       "word": "sip",
       "ipa": "/sɪp/",
       "graphemes": [

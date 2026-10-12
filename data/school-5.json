@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "number": "📖 課",
+      "number": "📖 課；課程",
       "word": "lesson",
       "ipa": "/ˈlɛsən/",
       "graphemes": [
@@ -38,7 +38,7 @@
       "hint": "重音在 les-；ss 重複字母；o 弱化。"
     },
     {
-      "number": "📶 程度；等級",
+      "number": "📶 高度；程度",
       "word": "level",
       "ipa": "/ˈlɛvəl/",
       "graphemes": [
@@ -153,7 +153,7 @@
       "hint": "qu 發 /kw/；t 在 -tion 前發 /tʃ/；io 弱化。"
     },
     {
-      "number": "✔️ 記號；分數",
+      "number": "✔️ 目標；標記",
       "word": "mark",
       "ipa": "/mɑrk/",
       "graphemes": [
@@ -211,7 +211,7 @@
       "hint": "重音在 er-；rr 重複字母；or 字尾發 /ɚ/。"
     },
     {
-      "number": "📊 報告",
+      "number": "📊 報導",
       "word": "report",
       "ipa": "/rɪˈpɔrt/",
       "graphemes": [
@@ -685,7 +685,7 @@
       "hint": "重音在 un-；er 發 /ɚ/；i_e 發 /aɪ/。"
     },
     {
-      "number": "💬 成語；慣用語",
+      "number": "💬 慣用語",
       "word": "idiom",
       "ipa": "/ˈɪdiəm/",
       "graphemes": [

@@ -881,7 +881,7 @@
       "hint": "roller 的 o 發 /oʊ/；bl 子音群；blade 為 magic e。"
     },
     {
-      "number": "🧳 旅行；巡迴",
+      "number": "🧳 旅遊行程",
       "word": "tour",
       "ipa": "/tʊr/",
       "graphemes": [
@@ -952,7 +952,7 @@
       "hint": "snow + board；ow 發 /oʊ/；oar 發 /ɔr/。"
     },
     {
-      "number": "🚴 騎單車（go biking）",
+      "number": "🚴 騎單車",
       "word": "biking",
       "ipa": "/ˈbaɪkɪŋ/",
       "graphemes": [
@@ -991,7 +991,7 @@
       "hint": "bike + ing（去 e 加 ing）；第一個 i 發 /aɪ/。"
     },
     {
-      "number": "🏃 慢跑（go jogging）",
+      "number": "🏃 慢跑",
       "word": "jogging",
       "ipa": "/ˈdʒɑɡɪŋ/",
       "graphemes": [
@@ -1030,7 +1030,7 @@
       "hint": "jog + ing，重複 g；ng 發 /ŋ/。"
     },
     {
-      "number": "⛵ 玩帆船；航行（go sailing）",
+      "number": "⛵ 玩帆船；航行",
       "word": "sailing",
       "ipa": "/ˈseɪlɪŋ/",
       "graphemes": [
@@ -1069,7 +1069,7 @@
       "hint": "sail + ing；ai 發 /eɪ/。"
     },
     {
-      "number": "🛍️ 購物（go shopping）",
+      "number": "🛍️ 購物",
       "word": "shopping",
       "ipa": "/ˈʃɑpɪŋ/",
       "graphemes": [
@@ -1108,7 +1108,7 @@
       "hint": "shop + ing，重複 p；sh 發 /ʃ/。"
     },
     {
-      "number": "🏄 衝浪（go surfing）",
+      "number": "🏄 衝浪",
       "word": "surfing",
       "ipa": "/ˈsɝfɪŋ/",
       "graphemes": [
@@ -1147,7 +1147,7 @@
       "hint": "surf + ing；ur 發 /ɝ/。"
     },
     {
-      "number": "🗺️ 觀光（go sightseeing）",
+      "number": "🗺️ 觀光",
       "word": "sightseeing",
       "ipa": "/ˈsaɪtˌsiɪŋ/",
       "graphemes": [

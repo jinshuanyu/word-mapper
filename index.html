@@ -589,6 +589,12 @@
               const item = hits[0].item;
               const folder = hits[0].folder;
               hydrated.push({ ...item, _folder: folder });
+          } else if (key.includes(' ')) {
+              // 片語在資料庫找不到時，退回逐字查（例如 take a photo → take, a, photo）
+              key.split(/\s+/).forEach(w => {
+                  const h = WORD_INDEX[w];
+                  if (h && h.length > 0) hydrated.push({ ...h[0].item, _folder: h[0].folder });
+              });
           }
       });
       return hydrated;
