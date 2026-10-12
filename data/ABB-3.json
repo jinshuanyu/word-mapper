@@ -870,6 +870,35 @@
         0
       ],
       "hint": "ee 發 /i/；seek - sought - sought。"
+    },
+    {
+      "number": "尋找(過去式/過去分詞)",
+      "word": "sought",
+      "ipa": "/sɔt/",
+      "graphemes": [
+        "s",
+        "ough",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔ",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "aw",
+        "t/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ough 發 /ɔ/（像 bought、thought）；seek - sought - sought。"
     }
   ]
 }
