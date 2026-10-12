@@ -486,6 +486,117 @@
         1
       ],
       "hint": "tangerine 的複數；g 發軟音 /dʒ/；i_e 發 /i/；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🎃 不給糖就搗蛋（go trick-or-treating）",
+      "word": "trick-or-treating",
+      "ipa": "/ˌtrɪkɔrˈtritɪŋ/",
+      "graphemes": [
+        "t",
+        "r",
+        "i",
+        "ck",
+        "-",
+        "or",
+        "-",
+        "t",
+        "r",
+        "ea",
+        "t",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/t",
+        "r",
+        "ɪ",
+        "k",
+        "-",
+        "ɔr",
+        "-",
+        "'t",
+        "r",
+        "i",
+        "t",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/t",
+        "r",
+        "ĭ",
+        "k",
+        "-",
+        "or",
+        "-",
+        "'t",
+        "r",
+        "ē",
+        "t",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "digraph",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "trick + or + treat + ing；ck 發 /k/；ea 發 /i/。"
+    },
+    {
+      "number": "👻 鬧鬼的（haunted house 鬼屋）",
+      "word": "haunted",
+      "ipa": "/ˈhɔntɪd/",
+      "graphemes": [
+        "h",
+        "au",
+        "n",
+        "t",
+        "ed"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɔ",
+        "n",
+        "t",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/'h",
+        "aw",
+        "n",
+        "t",
+        "ĭd/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "haunt + ed；au 發 /ɔ/；-ed 在 t 後發 /ɪd/。"
     }
   ]
 }

@@ -865,6 +865,44 @@
         0
       ],
       "hint": "CVC，i 發短母音 /ĭ/。"
+    },
+    {
+      "number": "👗 時尚",
+      "word": "fashion",
+      "ipa": "/ˈfæʃən/",
+      "graphemes": [
+        "f",
+        "a",
+        "sh",
+        "io",
+        "n"
+      ],
+      "phonemes": [
+        "/'f",
+        "æ",
+        "ʃ",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'f",
+        "ă",
+        "sh",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 fash-；sh 發 /ʃ/；io 弱化發 /ə/。"
     }
   ]
 }

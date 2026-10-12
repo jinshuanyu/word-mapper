@@ -854,6 +854,44 @@
         0
       ],
       "hint": "ck 發 /k/。"
+    },
+    {
+      "number": "👕 T 恤",
+      "word": "T-shirt",
+      "ipa": "/ˈtiˌʃɝt/",
+      "graphemes": [
+        "T",
+        "-",
+        "sh",
+        "ir",
+        "t"
+      ],
+      "phonemes": [
+        "/'ti",
+        "-",
+        "ʃ",
+        "ɝ",
+        "t/"
+      ],
+      "phonics": [
+        "/'tē",
+        "-",
+        "sh",
+        "er",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "字母 T + shirt；sh 發 /ʃ/；ir 發 /ɝ/。"
     }
   ]
 }

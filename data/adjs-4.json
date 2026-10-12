@@ -826,6 +826,56 @@
         0
       ],
       "hint": "sound + ing；ou 發 /aʊ/；nd 子音群。"
+    },
+    {
+      "number": "🤿 水下的",
+      "word": "underwater",
+      "ipa": "/ˌʌndɚˈwɔtɚ/",
+      "graphemes": [
+        "u",
+        "n",
+        "d",
+        "er",
+        "w",
+        "a",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/ʌ",
+        "n",
+        "d",
+        "ɚ",
+        "'w",
+        "ɔ",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/ŭ",
+        "n",
+        "d",
+        "er",
+        "'w",
+        "aw",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "under + water；重音在 wa-；water 的 a 發 /ɔ/。"
     }
   ]
 }

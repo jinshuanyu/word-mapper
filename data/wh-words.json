@@ -302,6 +302,44 @@
         false
       ],
       "hint": "wh 發 /w/；y 發長母音 i /aɪ/。"
+    },
+    {
+      "number": "什麼是（what is）",
+      "word": "what's",
+      "ipa": "/wʌts/",
+      "graphemes": [
+        "wh",
+        "a",
+        "t",
+        "'",
+        "s"
+      ],
+      "phonemes": [
+        "/w",
+        "ʌ",
+        "t",
+        "-",
+        "s/"
+      ],
+      "phonics": [
+        "/w",
+        "ŭ",
+        "t",
+        "-",
+        "s/"
+      ],
+      "tags": [
+        "digraph",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1,
+        0
+      ],
+      "hint": "what + is；wh 發 /w/；a 發 /ʌ/；' 不發音。"
     }
   ]
 }

@@ -908,6 +908,290 @@
         0
       ],
       "hint": "ou 發 /ʊ/（像 your）。"
+    },
+    {
+      "number": "🏂 滑雪板",
+      "word": "snowboard",
+      "ipa": "/ˈsnoʊˌbɔrd/",
+      "graphemes": [
+        "s",
+        "n",
+        "ow",
+        "b",
+        "oar",
+        "d"
+      ],
+      "phonemes": [
+        "/s",
+        "n",
+        "oʊ",
+        "b",
+        "ɔr",
+        "d/"
+      ],
+      "phonics": [
+        "/s",
+        "n",
+        "ō",
+        "b",
+        "or",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "snow + board；ow 發 /oʊ/；oar 發 /ɔr/。"
+    },
+    {
+      "number": "🚴 騎單車（go biking）",
+      "word": "biking",
+      "ipa": "/ˈbaɪkɪŋ/",
+      "graphemes": [
+        "b",
+        "i",
+        "k",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'b",
+        "aɪ",
+        "k",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'b",
+        "ī",
+        "k",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "open",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "bike + ing（去 e 加 ing）；第一個 i 發 /aɪ/。"
+    },
+    {
+      "number": "🏃 慢跑（go jogging）",
+      "word": "jogging",
+      "ipa": "/ˈdʒɑɡɪŋ/",
+      "graphemes": [
+        "j",
+        "o",
+        "gg",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'dʒ",
+        "ɑ",
+        "ɡ",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'-j",
+        "ŏ",
+        "ɡ",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "jog + ing，重複 g；ng 發 /ŋ/。"
+    },
+    {
+      "number": "⛵ 玩帆船；航行（go sailing）",
+      "word": "sailing",
+      "ipa": "/ˈseɪlɪŋ/",
+      "graphemes": [
+        "s",
+        "ai",
+        "l",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'s",
+        "eɪ",
+        "l",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ā",
+        "l",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sail + ing；ai 發 /eɪ/。"
+    },
+    {
+      "number": "🛍️ 購物（go shopping）",
+      "word": "shopping",
+      "ipa": "/ˈʃɑpɪŋ/",
+      "graphemes": [
+        "sh",
+        "o",
+        "pp",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'ʃ",
+        "ɑ",
+        "p",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'sh",
+        "ŏ",
+        "p",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "digraph",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "shop + ing，重複 p；sh 發 /ʃ/。"
+    },
+    {
+      "number": "🏄 衝浪（go surfing）",
+      "word": "surfing",
+      "ipa": "/ˈsɝfɪŋ/",
+      "graphemes": [
+        "s",
+        "ur",
+        "f",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɝ",
+        "f",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'s",
+        "er",
+        "f",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "surf + ing；ur 發 /ɝ/。"
+    },
+    {
+      "number": "🗺️ 觀光（go sightseeing）",
+      "word": "sightseeing",
+      "ipa": "/ˈsaɪtˌsiɪŋ/",
+      "graphemes": [
+        "s",
+        "igh",
+        "t",
+        "s",
+        "ee",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'s",
+        "aɪ",
+        "t",
+        "s",
+        "i",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'s",
+        "ī",
+        "t",
+        "s",
+        "ē",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sight + seeing；igh 發 /aɪ/；ee 發 /i/。"
     }
   ]
 }

@@ -1191,6 +1191,39 @@
         0
       ],
       "hint": "字尾無聲子音加 -ed 發 /t/（sipped 要重複 p）。"
+    },
+    {
+      "number": "🧽 擦拭",
+      "word": "wipe",
+      "ipa": "/waɪp/",
+      "graphemes": [
+        "w",
+        "i",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/w",
+        "aɪ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/w",
+        "ī",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "i_e 發 /aɪ/；字尾無聲子音加 -ed 發 /t/。"
     }
   ]
 }

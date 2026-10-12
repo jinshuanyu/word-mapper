@@ -758,6 +758,41 @@
         0
       ],
       "hint": "o 發短母音 /ɑ/。"
+    },
+    {
+      "number": "🎤 試鏡",
+      "word": "audition",
+      "ipa": "/ɔˈdɪʃən/",
+      "graphemes": [
+        "au",
+        "d",
+        "i",
+        "tion"
+      ],
+      "phonemes": [
+        "/ɔ",
+        "'d",
+        "ɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/aw",
+        "'d",
+        "ĭ",
+        "shən/"
+      ],
+      "tags": [
+        "vowel_team",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -di-；au 發 /ɔ/；tion 發 /ʃən/。"
     }
   ]
 }

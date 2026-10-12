@@ -981,6 +981,90 @@
         0
       ],
       "hint": "ie 發 /i/；ld 子音群。"
+    },
+    {
+      "number": "🏆 競賽",
+      "word": "contest",
+      "ipa": "/ˈkɑntɛst/",
+      "graphemes": [
+        "c",
+        "o",
+        "n",
+        "t",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "n",
+        "t",
+        "ɛ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "n",
+        "t",
+        "ĕ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 con-；兩個短母音；st 子音群。"
+    },
+    {
+      "number": "🏊 泳者",
+      "word": "swimmer",
+      "ipa": "/ˈswɪmɚ/",
+      "graphemes": [
+        "s",
+        "w",
+        "i",
+        "mm",
+        "er"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɪ",
+        "m",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ĭ",
+        "m",
+        "er/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "swim + er，重複 m；er 發 /ɚ/。"
     }
   ]
 }

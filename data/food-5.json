@@ -767,6 +767,41 @@
         0
       ],
       "hint": "j 發 /dʒ/；ar 發 /ɑr/。"
+    },
+    {
+      "number": "🍽️ 碗盤（複數；do the dishes 洗碗）",
+      "word": "dishes",
+      "ipa": "/ˈdɪʃɪz/",
+      "graphemes": [
+        "d",
+        "i",
+        "sh",
+        "es"
+      ],
+      "phonemes": [
+        "/'d",
+        "ɪ",
+        "ʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'d",
+        "ĭ",
+        "sh",
+        "ĭz/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dish 的複數：sh 後加 es，發 /ɪz/。"
     }
   ]
 }

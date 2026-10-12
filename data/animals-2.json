@@ -1152,6 +1152,57 @@
         0
       ],
       "hint": "重音在 ot-；tt 重複字母；er 發 /ɚ/。"
+    },
+    {
+      "number": "🦋 蝴蝶（複數）",
+      "word": "butterflies",
+      "ipa": "/ˈbʌtɚˌflaɪz/",
+      "graphemes": [
+        "b",
+        "u",
+        "tt",
+        "er",
+        "f",
+        "l",
+        "ie",
+        "s"
+      ],
+      "phonemes": [
+        "/'b",
+        "ʌ",
+        "t",
+        "ɚ",
+        "f",
+        "l",
+        "aɪ",
+        "z/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŭ",
+        "t",
+        "er",
+        "f",
+        "l",
+        "ī",
+        "z/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "butterfly 的複數：y 改 ie 加 s；字尾 s 發 /z/。"
     }
   ]
 }

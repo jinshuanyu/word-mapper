@@ -1079,6 +1079,44 @@
         0
       ],
       "hint": "surprise + ing；ur 弱化發 /ɚ/；s 發 /z/。"
+    },
+    {
+      "number": "😱 嚇人的",
+      "word": "scary",
+      "ipa": "/ˈskɛri/",
+      "graphemes": [
+        "s",
+        "c",
+        "a",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "k",
+        "ɛ",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "k",
+        "ĕ",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "scare + y（去 e）；a 在 r 前發 /ɛ/；y 字尾發 /i/。"
     }
   ]
 }

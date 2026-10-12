@@ -803,6 +803,58 @@
         0
       ],
       "hint": "i 發短母音 /ɪ/。"
+    },
+    {
+      "number": "🚶 夢遊",
+      "word": "sleepwalk",
+      "ipa": "/ˈslipˌwɔk/",
+      "graphemes": [
+        "s",
+        "l",
+        "ee",
+        "p",
+        "w",
+        "a",
+        "l",
+        "k"
+      ],
+      "phonemes": [
+        "/s",
+        "l",
+        "i",
+        "p",
+        "w",
+        "ɔ",
+        "-",
+        "k/"
+      ],
+      "phonics": [
+        "/s",
+        "l",
+        "ē",
+        "p",
+        "w",
+        "aw",
+        "-",
+        "k/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "irregular",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "sleep + walk；walk 的 a 發 /ɔ/，l 不發音。"
     }
   ]
 }

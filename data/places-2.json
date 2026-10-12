@@ -957,6 +957,44 @@
         0
       ],
       "hint": "st 子音群；a 在 ll 前發 /ɔ/；ll 重複字母。"
+    },
+    {
+      "number": "🛒 結帳處",
+      "word": "checkout",
+      "ipa": "/ˈtʃɛkˌaʊt/",
+      "graphemes": [
+        "ch",
+        "e",
+        "ck",
+        "ou",
+        "t"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "ɛ",
+        "k",
+        "aʊ",
+        "t/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ĕ",
+        "k",
+        "ow",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "check + out；ch 發 /tʃ/；ck 發 /k/；ou 發 /aʊ/。"
     }
   ]
 }

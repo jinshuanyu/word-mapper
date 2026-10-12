@@ -948,6 +948,43 @@
         0
       ],
       "hint": "重音在 pro-；u 弱化；ct 子音群。"
+    },
+    {
+      "number": "💼 職業；生涯",
+      "word": "career",
+      "ipa": "/kəˈrɪr/",
+      "graphemes": [
+        "c",
+        "a",
+        "r",
+        "ee",
+        "r"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "'r",
+        "ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "'r",
+        "ĭ",
+        "r/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 -reer；a 弱化；eer 發 /ɪr/。"
     }
   ]
 }
