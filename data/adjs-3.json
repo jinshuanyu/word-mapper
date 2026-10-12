@@ -1061,7 +1061,7 @@
     {
       "number": "💪 勤勞的",
       "word": "hard-working",
-      "ipa": "/ˌhɑrdˈwɝkɪŋ/",
+      "ipa": "/ˈhɑrdˈwɝkɪŋ/",
       "graphemes": [
         "h",
         "ar",
@@ -1074,7 +1074,7 @@
         "ng"
       ],
       "phonemes": [
-        "/h",
+        "/'h",
         "ɑr",
         "d",
         "-",
@@ -1085,7 +1085,7 @@
         "ŋ/"
       ],
       "phonics": [
-        "/h",
+        "/'h",
         "ɑr",
         "d",
         "-",
@@ -1111,7 +1111,7 @@
         0,
         0
       ],
-      "hint": "hard + working；w 後的 or 發 /ɝ/；ng 發 /ŋ/。"
+      "hint": "hard + working，兩個字都重音；w 後的 or 發 /ɝ/；ng 發 /ŋ/。"
     },
     {
       "number": "🤔 有趣的",
