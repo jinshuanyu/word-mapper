@@ -311,7 +311,7 @@ function renderGrade(grade, pub){
   $("crumb").innerHTML = GRADE_NUM[grade] + " 年級 英文課本字表<small>" + esc(grade) + "｜" + esc(YEAR) + "</small>";
   $("tabs").innerHTML = pubs.map(p =>
     `<button class="tab" type="button" role="tab" data-pub="${esc(p)}"
-       aria-selected="${p === pub}" ${has(p) ? "" : "disabled"}>${esc(p)}${has(p) ? "" : "（整理中）"}</button>`
+       aria-selected="${p === pub}" ${has(p) ? "" : "disabled"} title="${esc(p)}">${esc(PUB_SHORT[p] || p[0])}${has(p) ? "" : "（整理中）"}</button>`
   ).join("");
   $("tabs").querySelectorAll(".tab:not(:disabled)").forEach(t =>
     t.onclick = () => go(grade, t.dataset.pub));
