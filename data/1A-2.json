@@ -1295,6 +1295,36 @@
         0
       ],
       "hint": "單音節；a_e 對應 /eɪ/；字尾 t 加 -ed 發 /ɪd/。"
+    },
+    {
+      "number": "💬 談話；聊天",
+      "word": "chat",
+      "ipa": "/tʃæt/",
+      "graphemes": [
+        "ch",
+        "a",
+        "t"
+      ],
+      "phonemes": [
+        "/tʃ",
+        "æ",
+        "t/"
+      ],
+      "phonics": [
+        "/ch",
+        "ă",
+        "t/"
+      ],
+      "tags": [
+        "digraph",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ch 發 /tʃ/；字尾 t 加 -ed 發 /ɪd/（chatted 要重複 t）。"
     }
   ]
 }
