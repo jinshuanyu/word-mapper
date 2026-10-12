@@ -722,8 +722,10 @@
   }
 
   function fetchWithTimeout(url, opts = {}, timeout = 8000){
+    // 資料 json 每次都向伺服器確認是否更新（GitHub Pages 預設快取 10 分鐘，改完資料手機會看不到）；音檔維持快取
+    const o = String(url).includes('.json') ? { cache: 'no-cache', ...opts } : opts;
     return Promise.race([
-      fetch(url, opts),
+      fetch(url, o),
       new Promise((_, rej) => setTimeout(() => rej(new Error('Timeout')), timeout))
     ]);
   }
