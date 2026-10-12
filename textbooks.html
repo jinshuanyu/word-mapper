@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-<title>國中小英文課本 各課單字字表｜Word Mapper</title>
-<meta name="description" content="國小三年級到國中三年級英文課本各課單字字表，一鍵開啟 Word Mapper 看每個字的拼字與聲音對照。" />
+<title>國中小英文 各課單字有聲字表｜Word Mapper</title>
+<meta name="description" content="國小三年級到國中三年級英文各課單字有聲字表，一鍵開啟 Word Mapper 看每個字的拼字與聲音對照。" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700;900&family=Noto+Sans:wght@400;700;800&display=swap" rel="stylesheet" />
@@ -110,7 +110,7 @@
   <section id="viewGrades">
     <header class="hero">
       <a class="hero-back" href="./">← Word Mapper</a>
-      <h1>國中小英文課本<br>各課單字字表<small>英文拼字 × 聲音對照</small></h1>
+      <h1>國中小英文<br>各課單字有聲字表<small>英文拼字 × 聲音對照</small></h1>
       <p class="lead">3 ~ 9 年級，各版本各課有聲字表</p>
       <div class="steps">
         <span class="step"><b>1</b>年級</span><span class="step-arrow">›</span>
@@ -134,7 +134,6 @@
   <div class="inner" style="padding-top:0">
     <div class="note">
       <p>💡 字表可以生成 PDF，也可以分享給其他人。</p>
-      <p>本頁字表依各版本課本單字整理，僅供學習使用，課本內容版權屬各出版社。</p>
     </div>
     <footer><a href="./">Word Mapper</a>｜英文拼字 × 聲音對照</footer>
   </div>
@@ -308,7 +307,7 @@ function renderGrade(grade, pub){
   const has = p => booksFor(grade, p).length > 0;
   if (!pub || !has(pub)) pub = pubs.find(has);
 
-  $("crumb").innerHTML = GRADE_NUM[grade] + " 年級 英文課本字表<small>" + esc(grade) + "｜" + esc(YEAR) + "</small>";
+  $("crumb").innerHTML = GRADE_NUM[grade] + " 年級 各課單字有聲字表<small>" + esc(grade) + "｜" + esc(YEAR) + "</small>";
   $("tabs").innerHTML = pubs.map(p =>
     `<button class="tab" type="button" role="tab" data-pub="${esc(p)}"
        aria-selected="${p === pub}" ${has(p) ? "" : "disabled"}>${esc(PUB_SHORT[p] || p[0])}</button>`
