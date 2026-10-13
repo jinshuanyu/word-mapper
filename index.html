@@ -575,6 +575,13 @@
   function hydrateList(simpleList) {
       if(!simpleList || !Array.isArray(simpleList)) return [];
       const hydrated = [];
+      const seen = new Set();   // 同一份字表同一個字只出現一次（how old、year old 拆開後 old 不重複）
+      const push = (item, folder) => {
+          const k = String(item.word || '').toLowerCase();
+          if (seen.has(k)) return;
+          seen.add(k);
+          hydrated.push({ ...item, _folder: folder });
+      };
       simpleList.forEach(wordStr => {
           // 如果傳入的已經是物件(舊版相容)，直接用
           if(typeof wordStr === 'object' && wordStr.word) {
@@ -586,14 +593,12 @@
           const hits = WORD_INDEX[key];
           if(hits && hits.length > 0) {
               // 抓第一個符合的
-              const item = hits[0].item;
-              const folder = hits[0].folder;
-              hydrated.push({ ...item, _folder: folder });
+              push(hits[0].item, hits[0].folder);
           } else if (key.includes(' ')) {
               // 片語在資料庫找不到時，退回逐字查（例如 take a photo → take, a, photo）
               key.split(/\s+/).forEach(w => {
                   const h = WORD_INDEX[w];
-                  if (h && h.length > 0) hydrated.push({ ...h[0].item, _folder: h[0].folder });
+                  if (h && h.length > 0) push(h[0].item, h[0].folder);
               });
           }
       });
