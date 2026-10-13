@@ -793,6 +793,40 @@
         0
       ],
       "hint": "重音在 -di-；au 發 /ɔ/；tion 發 /ʃən/。"
+    },
+    {
+      "number": "🤡 小丑",
+      "word": "clown",
+      "ipa": "/klaʊn/",
+      "graphemes": [
+        "c",
+        "l",
+        "ow",
+        "n"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "aʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ow",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cl 子音群；ow 發 /aʊ/。"
     }
   ]
 }

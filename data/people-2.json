@@ -697,6 +697,35 @@
         0
       ],
       "hint": "ou 不規則發 /ʌ/；ng 發 /ŋ/。"
+    },
+    {
+      "number": "💇 燙髮",
+      "word": "perm",
+      "ipa": "/pɝm/",
+      "graphemes": [
+        "p",
+        "er",
+        "m"
+      ],
+      "phonemes": [
+        "/p",
+        "ɝ",
+        "m/"
+      ],
+      "phonics": [
+        "/p",
+        "er",
+        "m/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "er 發 /ɝ/。"
     }
   ]
 }

@@ -855,6 +855,39 @@
         0
       ],
       "hint": "sleep + walk；walk 的 a 發 /ɔ/，l 不發音。"
+    },
+    {
+      "number": "🤧 流鼻水的",
+      "word": "runny",
+      "ipa": "/ˈrʌni/",
+      "graphemes": [
+        "r",
+        "u",
+        "nn",
+        "y"
+      ],
+      "phonemes": [
+        "/'r",
+        "ʌ",
+        "n",
+        "i/"
+      ],
+      "phonics": [
+        "/'r",
+        "ŭ",
+        "n",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "run + y，重複 n；y 字尾發 /i/。"
     }
   ]
 }

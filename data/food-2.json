@@ -1173,6 +1173,110 @@
         1
       ],
       "hint": "fr 子音群；ie 發 /aɪ/；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🥪 三明治（複數）",
+      "word": "sandwiches",
+      "ipa": "/ˈsændwɪtʃɪz/",
+      "graphemes": [
+        "s",
+        "a",
+        "n",
+        "d",
+        "w",
+        "i",
+        "ch",
+        "es"
+      ],
+      "phonemes": [
+        "/'s",
+        "æ",
+        "n",
+        "d",
+        "w",
+        "ɪ",
+        "tʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'s",
+        "ă",
+        "n",
+        "d",
+        "w",
+        "ĭ",
+        "ch",
+        "ĭz/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sandwich 的複數：ch 後加 es，發 /ɪz/。"
+    },
+    {
+      "number": "🥟 水餃（複數）",
+      "word": "dumplings",
+      "ipa": "/ˈdʌmplɪŋz/",
+      "graphemes": [
+        "d",
+        "u",
+        "m",
+        "p",
+        "l",
+        "i",
+        "ng",
+        "s"
+      ],
+      "phonemes": [
+        "/'d",
+        "ʌ",
+        "m",
+        "p",
+        "l",
+        "ɪ",
+        "ŋ",
+        "z/"
+      ],
+      "phonics": [
+        "/'d",
+        "ŭ",
+        "m",
+        "p",
+        "l",
+        "ĭ",
+        "ŋ",
+        "z/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dumpling 的複數；ng 發 /ŋ/；字尾 s 發 /z/。"
     }
   ]
 }

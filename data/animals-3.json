@@ -1084,6 +1084,31 @@
         0
       ],
       "hint": "u 發短母音 /ʌ/。"
+    },
+    {
+      "number": "🦉 貓頭鷹",
+      "word": "owl",
+      "ipa": "/aʊl/",
+      "graphemes": [
+        "ow",
+        "l"
+      ],
+      "phonemes": [
+        "/aʊ",
+        "l/"
+      ],
+      "phonics": [
+        "/ow",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ow 發 /aʊ/。"
     }
   ]
 }
