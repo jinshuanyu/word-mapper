@@ -1250,6 +1250,40 @@
         0
       ],
       "hint": "dine + ing（去 e 加 ing）；第一個 i 發 /aɪ/。"
+    },
+    {
+      "number": "🧊 冰屋",
+      "word": "igloo",
+      "ipa": "/ˈɪɡlu/",
+      "graphemes": [
+        "i",
+        "g",
+        "l",
+        "oo"
+      ],
+      "phonemes": [
+        "/'ɪ",
+        "ɡ",
+        "l",
+        "u/"
+      ],
+      "phonics": [
+        "/'ĭ",
+        "ɡ",
+        "l",
+        "oo/"
+      ],
+      "tags": [
+        "closed",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ig-loo 兩個音節；oo 發長音 /u/。"
     }
   ]
 }

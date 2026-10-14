@@ -671,6 +671,40 @@
         0
       ],
       "hint": "重音在 per-；e 在 r 前發 /ɪ/；i 發 /i/，o 弱化。"
+    },
+    {
+      "number": "📅 年（複數）",
+      "word": "years",
+      "ipa": "/jɪrz/",
+      "graphemes": [
+        "y",
+        "ea",
+        "r",
+        "s"
+      ],
+      "phonemes": [
+        "/j",
+        "ɪ",
+        "r",
+        "z/"
+      ],
+      "phonics": [
+        "/y",
+        "ĭ",
+        "r",
+        "z/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "year 的複數；字尾 s 發 /z/。"
     }
   ]
 }
