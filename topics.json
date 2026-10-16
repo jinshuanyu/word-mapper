@@ -11,6 +11,14 @@
         {
           "label": "字母組合",
           "src": "data/combo.json"
+        },
+        {
+          "label": "母音音素",
+          "src": "data/vowels.json"
+        },
+        {
+          "label": "子音音素",
+          "src": "data/consonants.json"
         }
       ]
     },
