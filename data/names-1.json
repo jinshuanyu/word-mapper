@@ -323,6 +323,167 @@
         0
       ],
       "hint": "ck 發 /k/。"
+    },
+    {
+      "number": "👦 麥克（人名）",
+      "word": "Mike",
+      "ipa": "/maɪk/",
+      "graphemes": [
+        "M",
+        "i",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/m",
+        "aɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/m",
+        "ī",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "i_e 魔法 e：i 發長音 /aɪ/，e 不發音。"
+    },
+    {
+      "number": "👦 肯（人名）",
+      "word": "Ken",
+      "ipa": "/kɛn/",
+      "graphemes": [
+        "K",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/k",
+        "ɛ",
+        "n/"
+      ],
+      "phonics": [
+        "/k",
+        "ĕ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "CVC；e 發短母音 /ɛ/（ĕ）。"
+    },
+    {
+      "number": "👦 艾倫（人名）",
+      "word": "Alan",
+      "ipa": "/ˈælən/",
+      "graphemes": [
+        "A",
+        "l",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'æ",
+        "l",
+        "ə",
+        "n/"
+      ],
+      "phonics": [
+        "/'ă",
+        "l",
+        "ə",
+        "n/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 Al-；第二個 a 弱化發 /ə/。"
+    },
+    {
+      "number": "👧 艾瑪（人名）",
+      "word": "Emma",
+      "ipa": "/ˈɛmə/",
+      "graphemes": [
+        "E",
+        "mm",
+        "a"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "m",
+        "ə/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "m",
+        "ə/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        1
+      ],
+      "hint": "mm 只發一個 /m/；字尾 a 弱化發 /ə/。"
+    },
+    {
+      "number": "👧 溫蒂（人名）",
+      "word": "Wendy",
+      "ipa": "/ˈwɛndi/",
+      "graphemes": [
+        "W",
+        "e",
+        "n",
+        "d",
+        "y"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɛ",
+        "n",
+        "d",
+        "i/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĕ",
+        "n",
+        "d",
+        "ē/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "e 發短母音 /ɛ/；y 字尾發 /i/。"
     }
   ]
 }
