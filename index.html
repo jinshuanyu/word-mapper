@@ -135,6 +135,7 @@
   .my-list-btn-home {
    background: #fff; border: 2px solid #fbbf24; color: #b45309;
    font-weight: 700; font-size: 1.1rem; padding: .6rem 1.6rem; border-radius: 99px;
+   font-family: inherit; line-height: normal; /* button 與 a 共用同一行高，兩顆高度才一致 */
    margin-top: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: .5rem;
    transition: all .2s; box-shadow: 0 4px 6px rgba(251,191,36,0.15);
   }
@@ -788,6 +789,14 @@
   function phonemeUrl(raw){
     if (!PHONEME.files) return null;
     if (PHONEME.files[raw]) return PHONEME.files[raw];
+    // 先保留 <u> 查（<u>th</u> = 有聲 th），查不到再去掉所有標籤
+    const keyU = String(raw)
+      .replace(/<(?!\/?u>)[^>]+>/g,'')
+      .replace(/'/g,'')
+      .trim()
+      .replace(/^\/|\/$/g,'')
+      .replace(/\s+/g,'');
+    if (PHONEME.files[keyU]) return PHONEME.files[keyU];
     const key = String(raw)
       .replace(/<[^>]+>/g,'')
       .replace(/'/g,'')
@@ -1082,7 +1091,7 @@
         const phClass = isPhonicsMode ? 'is-phonics' : '';
         const pHtmlRaw = isPhonicsMode ? sanitizePhonemeHtml(p, true) : escapeHtml(p);
         const pHtml = colorizePhonemes(pHtmlRaw);
-        const cleanKey = String(p).replace(/<[^>]+>/g,'').trim();
+        const cleanKey = String(p).replace(/<(?!\/?u>)[^>]+>/g,'').trim(); // 保留 <u>，有聲 th 才查得到
         
         // 普通格子 (包含空格)，讓內容撐開，空格因為 padding 會有寬度
         cells +=
