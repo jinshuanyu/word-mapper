@@ -1165,6 +1165,96 @@
         0
       ],
       "hint": "o 發短母音 /ɑ/。"
+    },
+    {
+      "number": "🧍 生還者",
+      "word": "survivor",
+      "ipa": "/sɚˈvaɪvɚ/",
+      "graphemes": [
+        "s",
+        "ur",
+        "v",
+        "i",
+        "v",
+        "or"
+      ],
+      "phonemes": [
+        "/s",
+        "ɚ",
+        "'v",
+        "aɪ",
+        "v",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/s",
+        "er",
+        "'v",
+        "ī",
+        "v",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "open"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "survive + or；重音在 -vi-；or 弱化成 /ɚ/。"
+    },
+    {
+      "number": "🎭 角色扮演者",
+      "word": "cosplayer",
+      "ipa": "/ˈkɑzpleɪɚ/",
+      "graphemes": [
+        "c",
+        "o",
+        "s",
+        "p",
+        "l",
+        "ay",
+        "er"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "z",
+        "p",
+        "l",
+        "eɪ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "z",
+        "p",
+        "l",
+        "ā",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cos(tume) + player；s 發 /z/。"
     }
   ]
 }

@@ -1325,6 +1325,40 @@
         0
       ],
       "hint": "ch 發 /tʃ/；字尾 t 加 -ed 發 /ɪd/（chatted 要重複 t）。"
+    },
+    {
+      "number": "🎈 漂浮",
+      "word": "float",
+      "ipa": "/floʊt/",
+      "graphemes": [
+        "f",
+        "l",
+        "oa",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "oʊ",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ō",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 子音群；oa 發 /oʊ/。"
     }
   ]
 }

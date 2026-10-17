@@ -726,6 +726,51 @@
         0
       ],
       "hint": "er 發 /ɝ/。"
+    },
+    {
+      "number": "👀 外表",
+      "word": "appearance",
+      "ipa": "/əˈpɪrəns/",
+      "graphemes": [
+        "a",
+        "pp",
+        "ea",
+        "r",
+        "a",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/ə",
+        "'p",
+        "ɪ",
+        "r",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/ə",
+        "'p",
+        "ĭ",
+        "r",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "appear + ance；ear 發 /ɪr/；兩個 a 都弱化。"
     }
   ]
 }

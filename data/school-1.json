@@ -889,6 +889,35 @@
         1
       ],
       "hint": "重音在 se-；e 開音節發 /i/；i 發 /j/；or 字尾發 /ɚ/。"
+    },
+    {
+      "number": "🧪 實驗室",
+      "word": "lab",
+      "ipa": "/læb/",
+      "graphemes": [
+        "l",
+        "a",
+        "b"
+      ],
+      "phonemes": [
+        "/l",
+        "æ",
+        "b/"
+      ],
+      "phonics": [
+        "/l",
+        "ă",
+        "b/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "laboratory 的縮寫；CVC 短母音。"
     }
   ]
 }

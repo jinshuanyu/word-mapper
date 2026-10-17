@@ -1262,6 +1262,57 @@
         0
       ],
       "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "🛣️ 十字路口",
+      "word": "crossroads",
+      "ipa": "/ˈkrɔsˌroʊdz/",
+      "graphemes": [
+        "c",
+        "r",
+        "o",
+        "ss",
+        "r",
+        "oa",
+        "d",
+        "s"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "ɔ",
+        "s",
+        "r",
+        "oʊ",
+        "d",
+        "z/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "aw",
+        "s",
+        "r",
+        "ō",
+        "d",
+        "z/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cross + roads；o 發 /ɔ/，oa 發 /oʊ/。at a crossroads 面臨抉擇。"
     }
   ]
 }

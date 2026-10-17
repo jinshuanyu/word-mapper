@@ -1193,6 +1193,104 @@
         0
       ],
       "hint": "a 發短母音 /æ/。"
+    },
+    {
+      "number": "🧱 瓦礫",
+      "word": "rubble",
+      "ipa": "/ˈrʌbəl/",
+      "graphemes": [
+        "r",
+        "u",
+        "bb",
+        "le"
+      ],
+      "phonemes": [
+        "/'r",
+        "ʌ",
+        "b",
+        "əl/"
+      ],
+      "phonics": [
+        "/'r",
+        "ŭ",
+        "b",
+        "əl/"
+      ],
+      "tags": [
+        "closed",
+        "cle"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "bb 只發一個 /b/；-le 發 /əl/。"
+    },
+    {
+      "number": "🪵 雕刻",
+      "word": "carving",
+      "ipa": "/ˈkɑrvɪŋ/",
+      "graphemes": [
+        "c",
+        "ar",
+        "v",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑr",
+        "v",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ɑr",
+        "v",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "carve 去 e 加 ing；ar 發 /ɑr/。"
+    },
+    {
+      "number": "🏞️ 景色",
+      "word": "view",
+      "ipa": "/vju/",
+      "graphemes": [
+        "v",
+        "iew"
+      ],
+      "phonemes": [
+        "/v",
+        "ju/"
+      ],
+      "phonics": [
+        "/v",
+        "yū/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
+      "hint": "iew 發 /ju/，跟 few 同韻。"
     }
   ]
 }

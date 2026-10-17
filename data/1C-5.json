@@ -897,6 +897,74 @@
         0
       ],
       "hint": "w 後面的 ar 發 /ɔr/（像 war、warm）；字尾 n 加 -ed 發 /d/。"
+    },
+    {
+      "number": "🌬️ 搖擺",
+      "word": "sway",
+      "ipa": "/sweɪ/",
+      "graphemes": [
+        "s",
+        "w",
+        "ay"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ā/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 子音群；ay 發 /eɪ/。"
+    },
+    {
+      "number": "😱 使驚嚇",
+      "word": "scare",
+      "ipa": "/skɛr/",
+      "graphemes": [
+        "s",
+        "c",
+        "a",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "ɛ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ĕ",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "are 發 /ɛr/（像 care）。"
     }
   ]
 }

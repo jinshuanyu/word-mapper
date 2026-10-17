@@ -614,6 +614,70 @@
         1
       ],
       "hint": "ea 發短母音 /ĕ/，s 發 /zh/。"
+    },
+    {
+      "number": "⚖️ 重達",
+      "word": "weigh",
+      "ipa": "/weɪ/",
+      "graphemes": [
+        "w",
+        "eigh"
+      ],
+      "phonemes": [
+        "/w",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/w",
+        "ā/"
+      ],
+      "tags": [
+        "irregular",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1
+      ],
+      "hint": "eigh 發 /eɪ/，gh 不發音（像 eight）。"
+    },
+    {
+      "number": "✖️ 倍",
+      "word": "times",
+      "ipa": "/taɪmz/",
+      "graphemes": [
+        "t",
+        "i",
+        "m",
+        "e",
+        "s"
+      ],
+      "phonemes": [
+        "/t",
+        "aɪ",
+        "m",
+        "-",
+        "z/"
+      ],
+      "phonics": [
+        "/t",
+        "ī",
+        "m",
+        "-",
+        "z/"
+      ],
+      "tags": [
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "time 的複數；字尾 s 發 /z/。three times 三倍。"
     }
   ]
 }

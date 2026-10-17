@@ -1071,6 +1071,81 @@
         0
       ],
       "hint": "e 發短母音 /ɛ/。"
+    },
+    {
+      "number": "🌐 在網上",
+      "word": "online",
+      "ipa": "/ˌɑnˈlaɪn/",
+      "graphemes": [
+        "o",
+        "n",
+        "l",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/ɑ",
+        "n",
+        "'l",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/ŏ",
+        "n",
+        "'l",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "on + line；i_e 發 /aɪ/。"
+    },
+    {
+      "number": "😂 迷因",
+      "word": "meme",
+      "ipa": "/mim/",
+      "graphemes": [
+        "m",
+        "e",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/m",
+        "i",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/m",
+        "ē",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "e_e 發 /i/，不唸「咪咪」。"
     }
   ]
 }

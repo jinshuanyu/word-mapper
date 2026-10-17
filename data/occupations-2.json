@@ -951,6 +951,57 @@
         0
       ],
       "hint": "carry + er；rr 重複字母；i 發 /i/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🙋 志工",
+      "word": "volunteer",
+      "ipa": "/ˌvɑlənˈtɪr/",
+      "graphemes": [
+        "v",
+        "o",
+        "l",
+        "u",
+        "n",
+        "t",
+        "ee",
+        "r"
+      ],
+      "phonemes": [
+        "/v",
+        "ɑ",
+        "l",
+        "ə",
+        "n",
+        "'t",
+        "ɪ",
+        "r/"
+      ],
+      "phonics": [
+        "/v",
+        "ŏ",
+        "l",
+        "ə",
+        "n",
+        "'t",
+        "ĭ",
+        "r/"
+      ],
+      "tags": [
+        "closed",
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在最後；u 弱化；eer 發 /ɪr/。"
     }
   ]
 }

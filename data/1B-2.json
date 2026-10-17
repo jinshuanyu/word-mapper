@@ -1132,6 +1132,40 @@
         0
       ],
       "hint": "單音節；or 對應 /ɝ/（需記）；字尾無聲子音加 -ed 發 /t/。"
+    },
+    {
+      "number": "⏭️ 省略",
+      "word": "skip",
+      "ipa": "/skɪp/",
+      "graphemes": [
+        "s",
+        "k",
+        "i",
+        "p"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "ɪ",
+        "p/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ĭ",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sk 子音群；CVC 短母音。"
     }
   ]
 }

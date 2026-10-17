@@ -1074,6 +1074,52 @@
         false
       ],
       "hint": "o 和 e 都發短母音 i /ɪ/。"
+    },
+    {
+      "number": "👨‍👩‍👧 父母親",
+      "word": "parents",
+      "ipa": "/ˈpɛrənts/",
+      "graphemes": [
+        "p",
+        "a",
+        "r",
+        "e",
+        "n",
+        "t",
+        "s"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɛ",
+        "r",
+        "ə",
+        "n",
+        "t",
+        "s/"
+      ],
+      "phonics": [
+        "/'p",
+        "ĕ",
+        "r",
+        "ə",
+        "n",
+        "t",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "parent 的複數；a 在 r 前發 /ɛ/，第二個 e 弱化。"
     }
   ]
 }

@@ -479,6 +479,69 @@
         0
       ],
       "hint": "un 字首 + happy。"
+    },
+    {
+      "number": "😟 擔心的",
+      "word": "worried",
+      "ipa": "/ˈwɝid/",
+      "graphemes": [
+        "w",
+        "orr",
+        "ie",
+        "d"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɝ",
+        "i",
+        "d/"
+      ],
+      "phonics": [
+        "/'w",
+        "er",
+        "ē",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "worry 的 y 改 i 加 ed；w 後的 or 發 /ɝ/。"
+    },
+    {
+      "number": "🌤️ 心情",
+      "word": "mood",
+      "ipa": "/mud/",
+      "graphemes": [
+        "m",
+        "oo",
+        "d"
+      ],
+      "phonemes": [
+        "/m",
+        "u",
+        "d/"
+      ],
+      "phonics": [
+        "/m",
+        "oo",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發長音 /u/。"
     }
   ]
 }

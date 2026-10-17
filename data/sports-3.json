@@ -1322,6 +1322,266 @@
         0
       ],
       "hint": "a_e 發長母音 /eɪ/。"
+    },
+    {
+      "number": "🎤 韓國流行音樂",
+      "word": "K-pop",
+      "ipa": "/ˈkeɪpɑp/",
+      "graphemes": [
+        "K",
+        "-",
+        "p",
+        "o",
+        "p"
+      ],
+      "phonemes": [
+        "/'keɪ",
+        "-",
+        "p",
+        "ɑ",
+        "p/"
+      ],
+      "phonics": [
+        "/'kā",
+        "-",
+        "p",
+        "ŏ",
+        "p/"
+      ],
+      "tags": [
+        "irregular",
+        "cvc"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "K 唸字母名 /keɪ/；pop 是 CVC。"
+    },
+    {
+      "number": "🎵 音樂會",
+      "word": "concert",
+      "ipa": "/ˈkɑnsɚt/",
+      "graphemes": [
+        "c",
+        "o",
+        "n",
+        "c",
+        "er",
+        "t"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɑ",
+        "n",
+        "s",
+        "ɚ",
+        "t/"
+      ],
+      "phonics": [
+        "/'k",
+        "ŏ",
+        "n",
+        "s",
+        "er",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "第二個 c 在 e 前發 /s/；er 發 /ɚ/。"
+    },
+    {
+      "number": "🤝 見面會",
+      "word": "meet-and-greet",
+      "ipa": "/ˈmitənˈɡrit/",
+      "graphemes": [
+        "m",
+        "ee",
+        "t",
+        "-",
+        "a",
+        "n",
+        "d",
+        "-",
+        "g",
+        "r",
+        "ee",
+        "t"
+      ],
+      "phonemes": [
+        "/'m",
+        "i",
+        "t",
+        "-",
+        "ə",
+        "n",
+        "d",
+        "-",
+        "'ɡ",
+        "r",
+        "i",
+        "t/"
+      ],
+      "phonics": [
+        "/'m",
+        "ē",
+        "t",
+        "-",
+        "ə",
+        "n",
+        "d",
+        "-",
+        "'ɡ",
+        "r",
+        "ē",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "meet + and + greet；and 弱讀成 /ənd/。"
+    },
+    {
+      "number": "🎭 舞台",
+      "word": "stage",
+      "ipa": "/steɪdʒ/",
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "ge"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "eɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ā",
+        "j/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發 /eɪ/；ge 發 /dʒ/。"
+    },
+    {
+      "number": "🖼️ 畫作",
+      "word": "painting",
+      "ipa": "/ˈpeɪntɪŋ/",
+      "graphemes": [
+        "p",
+        "ai",
+        "n",
+        "t",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'p",
+        "eɪ",
+        "n",
+        "t",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'p",
+        "ā",
+        "n",
+        "t",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "paint + ing；ai 發 /eɪ/。"
+    },
+    {
+      "number": "📺 動畫片",
+      "word": "anime",
+      "ipa": "/ˈænəˌmeɪ/",
+      "graphemes": [
+        "a",
+        "n",
+        "i",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/'æ",
+        "n",
+        "ə",
+        "m",
+        "eɪ/"
+      ],
+      "phonics": [
+        "/'ă",
+        "n",
+        "ə",
+        "m",
+        "ā/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "來自日文；字尾 e 發 /eɪ/，不是魔法 e。"
     }
   ]
 }

@@ -1166,6 +1166,40 @@
         0
       ],
       "hint": "oy 發 /ɔɪ/。"
+    },
+    {
+      "number": "🍫 可可",
+      "word": "cocoa",
+      "ipa": "/ˈkoʊkoʊ/",
+      "graphemes": [
+        "c",
+        "o",
+        "c",
+        "oa"
+      ],
+      "phonemes": [
+        "/'k",
+        "oʊ",
+        "k",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ō",
+        "k",
+        "ō/"
+      ],
+      "tags": [
+        "open",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "兩個音節都發 /koʊ/；oa 發 /oʊ/。"
     }
   ]
 }

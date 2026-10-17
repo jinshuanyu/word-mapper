@@ -693,6 +693,44 @@
         0
       ],
       "hint": "重音在 -rec-；i 弱化；tion 發 /ʃən/。"
+    },
+    {
+      "number": "📍 附近",
+      "word": "nearby",
+      "ipa": "/ˌnɪrˈbaɪ/",
+      "graphemes": [
+        "n",
+        "ea",
+        "r",
+        "b",
+        "y"
+      ],
+      "phonemes": [
+        "/n",
+        "ɪ",
+        "r",
+        "'b",
+        "aɪ/"
+      ],
+      "phonics": [
+        "/n",
+        "ĭ",
+        "r",
+        "'b",
+        "ī/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "near + by；ear 發 /ɪr/，y 字尾發 /aɪ/。"
     }
   ]
 }

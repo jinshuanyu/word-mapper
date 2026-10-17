@@ -830,6 +830,124 @@
         0
       ],
       "hint": "重音在 -gre-；e 開音節發長母音 /i/；第二個 e 弱化。"
+    },
+    {
+      "number": "🍟 酥脆的",
+      "word": "crispy",
+      "ipa": "/ˈkrɪspi/",
+      "graphemes": [
+        "c",
+        "r",
+        "i",
+        "s",
+        "p",
+        "y"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "ɪ",
+        "s",
+        "p",
+        "i/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "ĭ",
+        "s",
+        "p",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "crisp + y；y 字尾發 /i/。"
+    },
+    {
+      "number": "🍳 油炸的",
+      "word": "fried",
+      "ipa": "/fraɪd/",
+      "graphemes": [
+        "f",
+        "r",
+        "i",
+        "ed"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "aɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ī",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "fry 的 y 改 i 加 ed；i 發 /aɪ/。fried chicken 炸雞。"
+    },
+    {
+      "number": "🤢 臭的",
+      "word": "stinky",
+      "ipa": "/ˈstɪŋki/",
+      "graphemes": [
+        "s",
+        "t",
+        "i",
+        "n",
+        "k",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ɪ",
+        "ŋ",
+        "k",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ĭ",
+        "ŋ",
+        "k",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "n 在 k 前發 /ŋ/。stinky tofu 臭豆腐。"
     }
   ]
 }

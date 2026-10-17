@@ -1343,6 +1343,124 @@
         0
       ],
       "hint": "o_e 發長母音 /oʊ/。"
+    },
+    {
+      "number": "🏷️ 刻板印象",
+      "word": "stereotype",
+      "ipa": "/ˈstɛriəˌtaɪp/",
+      "graphemes": [
+        "s",
+        "t",
+        "e",
+        "r",
+        "e",
+        "o",
+        "t",
+        "y",
+        "p",
+        "e"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "ɛ",
+        "r",
+        "i",
+        "ə",
+        "t",
+        "aɪ",
+        "p",
+        "-/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "ĕ",
+        "r",
+        "ē",
+        "ə",
+        "t",
+        "ī",
+        "p",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "stereo + type；y_e 發 /aɪ/。"
+    },
+    {
+      "number": "🔎 來源",
+      "word": "source",
+      "ipa": "/sɔrs/",
+      "graphemes": [
+        "s",
+        "our",
+        "ce"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔr",
+        "s/"
+      ],
+      "phonics": [
+        "/s",
+        "or",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "our 發 /ɔr/；ce 發 /s/。"
+    },
+    {
+      "number": "🙏 信仰",
+      "word": "faith",
+      "ipa": "/feɪθ/",
+      "graphemes": [
+        "f",
+        "ai",
+        "th"
+      ],
+      "phonemes": [
+        "/f",
+        "eɪ",
+        "θ/"
+      ],
+      "phonics": [
+        "/f",
+        "ā",
+        "th/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ai 發 /eɪ/；th 無聲。"
     }
   ]
 }

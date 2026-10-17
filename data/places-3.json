@@ -1379,6 +1379,70 @@
         0
       ],
       "hint": "重音在 -ca-；o 和 a 都是開音節長母音；tion 發 /ʃən/。"
+    },
+    {
+      "number": "🏪 攤位",
+      "word": "booth",
+      "ipa": "/buθ/",
+      "graphemes": [
+        "b",
+        "oo",
+        "th"
+      ],
+      "phonemes": [
+        "/b",
+        "u",
+        "θ/"
+      ],
+      "phonics": [
+        "/b",
+        "oo",
+        "th/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oo 發長音 /u/；th 無聲。"
+    },
+    {
+      "number": "🏛️ 名勝",
+      "word": "sights",
+      "ipa": "/saɪts/",
+      "graphemes": [
+        "s",
+        "igh",
+        "t",
+        "s"
+      ],
+      "phonemes": [
+        "/s",
+        "aɪ",
+        "t",
+        "s/"
+      ],
+      "phonics": [
+        "/s",
+        "ī",
+        "t",
+        "s/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "sight 的複數；igh 發 /aɪ/。the sights 名勝。"
     }
   ]
 }

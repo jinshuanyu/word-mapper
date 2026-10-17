@@ -1316,6 +1316,356 @@
         0
       ],
       "hint": "pl 子音群；ai 發 /eɪ/。"
+    },
+    {
+      "number": "⚖️ 均衡的",
+      "word": "balanced",
+      "ipa": "/ˈbælənst/",
+      "graphemes": [
+        "b",
+        "a",
+        "l",
+        "a",
+        "n",
+        "c",
+        "ed"
+      ],
+      "phonemes": [
+        "/'b",
+        "æ",
+        "l",
+        "ə",
+        "n",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'b",
+        "ă",
+        "l",
+        "ə",
+        "n",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        1
+      ],
+      "hint": "balance + d；c 發 /s/，ed 發 /t/。"
+    },
+    {
+      "number": "🎭 假的",
+      "word": "fake",
+      "ipa": "/feɪk/",
+      "graphemes": [
+        "f",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/f",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/f",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發 /eɪ/。"
+    },
+    {
+      "number": "🌟 有才華的",
+      "word": "talented",
+      "ipa": "/ˈtæləntɪd/",
+      "graphemes": [
+        "t",
+        "a",
+        "l",
+        "e",
+        "n",
+        "t",
+        "ed"
+      ],
+      "phonemes": [
+        "/'t",
+        "æ",
+        "l",
+        "ə",
+        "n",
+        "t",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/'t",
+        "ă",
+        "l",
+        "ə",
+        "n",
+        "t",
+        "ĭd/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "talent + ed；t 後的 ed 發 /ɪd/。"
+    },
+    {
+      "number": "🏴‍☠️ 盜版的",
+      "word": "pirated",
+      "ipa": "/ˈpaɪrətɪd/",
+      "graphemes": [
+        "p",
+        "i",
+        "r",
+        "a",
+        "t",
+        "ed"
+      ],
+      "phonemes": [
+        "/'p",
+        "aɪ",
+        "r",
+        "ə",
+        "t",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/'p",
+        "ī",
+        "r",
+        "ə",
+        "t",
+        "ĭd/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "pirate + d；i 發 /aɪ/，a 弱化，ed 發 /ɪd/。"
+    },
+    {
+      "number": "✅ 查證事實的",
+      "word": "fact-checking",
+      "ipa": "/ˈfæktˌtʃɛkɪŋ/",
+      "graphemes": [
+        "f",
+        "a",
+        "c",
+        "t",
+        "-",
+        "ch",
+        "e",
+        "ck",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'f",
+        "æ",
+        "k",
+        "t",
+        "-",
+        "tʃ",
+        "ɛ",
+        "k",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'f",
+        "ă",
+        "k",
+        "t",
+        "-",
+        "ch",
+        "ĕ",
+        "k",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fact + checking；ch 發 /tʃ/，ck 發 /k/。"
+    },
+    {
+      "number": "🗑️ 無價值的",
+      "word": "worthless",
+      "ipa": "/ˈwɝθləs/",
+      "graphemes": [
+        "w",
+        "or",
+        "th",
+        "l",
+        "e",
+        "ss"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɝ",
+        "θ",
+        "l",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/'w",
+        "er",
+        "th",
+        "l",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "worth + less；w 後的 or 發 /ɝ/。"
+    },
+    {
+      "number": "🛠️ 職業的",
+      "word": "vocational",
+      "ipa": "/voʊˈkeɪʃənəl/",
+      "graphemes": [
+        "v",
+        "o",
+        "c",
+        "a",
+        "tion",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/v",
+        "oʊ",
+        "'k",
+        "eɪ",
+        "ʃən",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/v",
+        "ō",
+        "'k",
+        "ā",
+        "shən",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "vocation + al；重音在 -ca-；tion 發 /ʃən/。"
+    },
+    {
+      "number": "🥇 最好的",
+      "word": "best",
+      "ipa": "/bɛst/",
+      "graphemes": [
+        "b",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/b",
+        "ɛ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/b",
+        "ĕ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "good 的最高級；st 字尾子音群。"
     }
   ]
 }

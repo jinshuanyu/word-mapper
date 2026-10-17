@@ -913,6 +913,137 @@
         0
       ],
       "hint": "wr 為二合字母，w 不發音。"
+    },
+    {
+      "number": "🎓 畢業（動詞）",
+      "word": "graduate",
+      "ipa": "/ˈɡrædʒuˌeɪt/",
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "d",
+        "u",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "æ",
+        "dʒ",
+        "u",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ă",
+        "j",
+        "oo",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "d 在 u 前發 /dʒ/；字尾 a_e 發 /eɪ/。"
+    },
+    {
+      "number": "🎓 畢業（名詞）",
+      "word": "graduation",
+      "ipa": "/ˌɡrædʒuˈeɪʃən/",
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "d",
+        "u",
+        "a",
+        "tion"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "æ",
+        "dʒ",
+        "u",
+        "'eɪ",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ă",
+        "j",
+        "oo",
+        "'ā",
+        "shən/"
+      ],
+      "tags": [
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "graduate + tion；重音移到 -a-；tion 發 /ʃən/。"
+    },
+    {
+      "number": "📚 硬塞；死記",
+      "word": "cram",
+      "ipa": "/kræm/",
+      "graphemes": [
+        "c",
+        "r",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/k",
+        "r",
+        "æ",
+        "m/"
+      ],
+      "phonics": [
+        "/k",
+        "r",
+        "ă",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cr 子音群；a 發短母音。cram school 補習班。"
     }
   ]
 }

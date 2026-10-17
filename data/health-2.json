@@ -888,6 +888,44 @@
         0
       ],
       "hint": "run + y，重複 n；y 字尾發 /i/。"
+    },
+    {
+      "number": "📱 成癮",
+      "word": "addiction",
+      "ipa": "/əˈdɪkʃən/",
+      "graphemes": [
+        "a",
+        "dd",
+        "i",
+        "c",
+        "tion"
+      ],
+      "phonemes": [
+        "/ə",
+        "'d",
+        "ɪ",
+        "k",
+        "ʃən/"
+      ],
+      "phonics": [
+        "/ə",
+        "'d",
+        "ĭ",
+        "k",
+        "shən/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "addict + ion；a 弱化；dd 只發一個 /d/。"
     }
   ]
 }

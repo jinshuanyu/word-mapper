@@ -506,6 +506,396 @@
         0
       ],
       "hint": "sad + ly；y 字尾發 /i/。"
+    },
+    {
+      "number": "🍀 幸運地",
+      "word": "luckily",
+      "ipa": "/ˈlʌkəli/",
+      "graphemes": [
+        "l",
+        "u",
+        "ck",
+        "i",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "ʌ",
+        "k",
+        "ə",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ŭ",
+        "k",
+        "ə",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "lucky → luckily，y 改 i 再加 ly。"
+    },
+    {
+      "number": "♾️ 永遠",
+      "word": "forever",
+      "ipa": "/fɚˈɛvɚ/",
+      "graphemes": [
+        "f",
+        "or",
+        "e",
+        "v",
+        "er"
+      ],
+      "phonemes": [
+        "/f",
+        "ɚ",
+        "'ɛ",
+        "v",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/f",
+        "er",
+        "'ĕ",
+        "v",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "for + ever；重音在 ev-，for 弱讀成 /fɚ/。"
+    },
+    {
+      "number": "📢 大聲地",
+      "word": "loudly",
+      "ipa": "/ˈlaʊdli/",
+      "graphemes": [
+        "l",
+        "ou",
+        "d",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "aʊ",
+        "d",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ow",
+        "d",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "loud + ly；ou 發 /aʊ/。"
+    },
+    {
+      "number": "⚡ 快地",
+      "word": "quickly",
+      "ipa": "/ˈkwɪkli/",
+      "graphemes": [
+        "qu",
+        "i",
+        "ck",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'kw",
+        "ɪ",
+        "k",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'kw",
+        "ĭ",
+        "k",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "digraph",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "quick + ly；qu 發 /kw/。"
+    },
+    {
+      "number": "🦁 勇敢地",
+      "word": "bravely",
+      "ipa": "/ˈbreɪvli/",
+      "graphemes": [
+        "b",
+        "r",
+        "a",
+        "v",
+        "e",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'b",
+        "r",
+        "eɪ",
+        "v",
+        "-",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'b",
+        "r",
+        "ā",
+        "v",
+        "-",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "brave + ly；a_e 發 /eɪ/，e 不發音。"
+    },
+    {
+      "number": "💥 突然",
+      "word": "suddenly",
+      "ipa": "/ˈsʌdənli/",
+      "graphemes": [
+        "s",
+        "u",
+        "dd",
+        "e",
+        "n",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "ʌ",
+        "d",
+        "ə",
+        "n",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "ŭ",
+        "d",
+        "ə",
+        "n",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "sudden + ly；dd 只發一個 /d/，e 弱化。"
+    },
+    {
+      "number": "🕐 最近",
+      "word": "lately",
+      "ipa": "/ˈleɪtli/",
+      "graphemes": [
+        "l",
+        "a",
+        "t",
+        "e",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "eɪ",
+        "t",
+        "-",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "ā",
+        "t",
+        "-",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "late + ly；a_e 發 /eɪ/。"
+    },
+    {
+      "number": "🧐 批判地",
+      "word": "critically",
+      "ipa": "/ˈkrɪtɪkli/",
+      "graphemes": [
+        "c",
+        "r",
+        "i",
+        "t",
+        "i",
+        "c",
+        "a",
+        "ll",
+        "y"
+      ],
+      "phonemes": [
+        "/'k",
+        "r",
+        "ɪ",
+        "t",
+        "ɪ",
+        "k",
+        "-",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'k",
+        "r",
+        "ĭ",
+        "t",
+        "ĭ",
+        "k",
+        "-",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "critical + ly；-cally 的 a 通常不發音。"
+    },
+    {
+      "number": "✨ 簡單地",
+      "word": "simply",
+      "ipa": "/ˈsɪmpli/",
+      "graphemes": [
+        "s",
+        "i",
+        "m",
+        "p",
+        "l",
+        "y"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɪ",
+        "m",
+        "p",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĭ",
+        "m",
+        "p",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "simple 去 e 加 y；y 字尾發 /i/。"
     }
   ]
 }

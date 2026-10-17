@@ -1073,6 +1073,45 @@
         0
       ],
       "hint": "fill + ed；ll 重複字母；-ed 發 /d/。"
+    },
+    {
+      "number": "🔍 失蹤的",
+      "word": "missing",
+      "ipa": "/ˈmɪsɪŋ/",
+      "graphemes": [
+        "m",
+        "i",
+        "ss",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'m",
+        "ɪ",
+        "s",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'m",
+        "ĭ",
+        "s",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "miss + ing；ss 只發一個 /s/。"
     }
   ]
 }

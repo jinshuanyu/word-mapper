@@ -949,6 +949,40 @@
         0
       ],
       "hint": "ie 發長母音 /ē/，ce 發 /s/。"
+    },
+    {
+      "number": "📏 跨度",
+      "word": "span",
+      "ipa": "/spæn/",
+      "graphemes": [
+        "s",
+        "p",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 子音群。attention span 注意力持續時間。"
     }
   ]
 }

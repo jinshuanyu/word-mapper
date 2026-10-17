@@ -663,6 +663,49 @@
         0
       ],
       "hint": "on + coming；come 的 o 發 /ʌ/。"
+    },
+    {
+      "number": "⬇️ 以下的",
+      "word": "following",
+      "ipa": "/ˈfɑloʊɪŋ/",
+      "graphemes": [
+        "f",
+        "o",
+        "ll",
+        "ow",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɑ",
+        "l",
+        "oʊ",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'f",
+        "ŏ",
+        "l",
+        "ō",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "follow + ing；ow 字尾發 /oʊ/。"
     }
   ]
 }

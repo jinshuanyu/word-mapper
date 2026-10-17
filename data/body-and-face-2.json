@@ -593,6 +593,40 @@
         0
       ],
       "hint": "u 發短母音 /ʌ/。"
+    },
+    {
+      "number": "🧠 頭腦",
+      "word": "brain",
+      "ipa": "/breɪn/",
+      "graphemes": [
+        "b",
+        "r",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/b",
+        "r",
+        "eɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/b",
+        "r",
+        "ā",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "br 子音群；ai 發 /eɪ/。"
     }
   ]
 }

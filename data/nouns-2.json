@@ -1132,6 +1132,160 @@
         0
       ],
       "hint": "o 不規則發 /ʌ/；nd 子音群；er 發 /ɚ/。"
+    },
+    {
+      "number": "⚖️ 平衡",
+      "word": "balance",
+      "ipa": "/ˈbæləns/",
+      "graphemes": [
+        "b",
+        "a",
+        "l",
+        "a",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/'b",
+        "æ",
+        "l",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/'b",
+        "ă",
+        "l",
+        "ə",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "第二個 a 弱化；ce 發 /s/。"
+    },
+    {
+      "number": "🪞 自我",
+      "word": "self",
+      "ipa": "/sɛlf/",
+      "graphemes": [
+        "s",
+        "e",
+        "l",
+        "f"
+      ],
+      "phonemes": [
+        "/s",
+        "ɛ",
+        "l",
+        "f/"
+      ],
+      "phonics": [
+        "/s",
+        "ĕ",
+        "l",
+        "f/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "lf 字尾子音群。"
+    },
+    {
+      "number": "💪 能力",
+      "word": "ability",
+      "ipa": "/əˈbɪləti/",
+      "graphemes": [
+        "a",
+        "b",
+        "i",
+        "l",
+        "i",
+        "t",
+        "y"
+      ],
+      "phonemes": [
+        "/ə",
+        "'b",
+        "ɪ",
+        "l",
+        "ə",
+        "t",
+        "i/"
+      ],
+      "phonics": [
+        "/ə",
+        "'b",
+        "ĭ",
+        "l",
+        "ə",
+        "t",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "able + ity；重音在 -bil-，兩頭母音弱化。"
+    },
+    {
+      "number": "👻 恐怖",
+      "word": "horror",
+      "ipa": "/ˈhɔrɚ/",
+      "graphemes": [
+        "h",
+        "or",
+        "r",
+        "or"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɔr",
+        "-",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'h",
+        "or",
+        "-",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        1
+      ],
+      "hint": "第一個 or 發 /ɔr/，第二個弱化成 /ɚ/。"
     }
   ]
 }

@@ -674,6 +674,152 @@
         0
       ],
       "hint": "th 發 /θ/。"
+    },
+    {
+      "number": "🌴 雨林",
+      "word": "rainforest",
+      "ipa": "/ˈreɪnˌfɔrɪst/",
+      "graphemes": [
+        "r",
+        "ai",
+        "n",
+        "f",
+        "or",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'r",
+        "eɪ",
+        "n",
+        "f",
+        "ɔr",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'r",
+        "ā",
+        "n",
+        "f",
+        "or",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "rain + forest；ai 發 /eɪ/，e 弱讀 /ɪ/。"
+    },
+    {
+      "number": "🌴 棕櫚",
+      "word": "palm",
+      "ipa": "/pɑm/",
+      "graphemes": [
+        "p",
+        "a",
+        "l",
+        "m"
+      ],
+      "phonemes": [
+        "/p",
+        "ɑ",
+        "-",
+        "m/"
+      ],
+      "phonics": [
+        "/p",
+        "ŏ",
+        "-",
+        "m/"
+      ],
+      "tags": [
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "l 不發音（像 calm）；a 發 /ɑ/。"
+    },
+    {
+      "number": "🪸 珊瑚",
+      "word": "coral",
+      "ipa": "/ˈkɔrəl/",
+      "graphemes": [
+        "c",
+        "or",
+        "a",
+        "l"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɔr",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'k",
+        "or",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "or 發 /ɔr/；a 弱化。coral reef 珊瑚礁。"
+    },
+    {
+      "number": "🪸 礁",
+      "word": "reef",
+      "ipa": "/rif/",
+      "graphemes": [
+        "r",
+        "ee",
+        "f"
+      ],
+      "phonemes": [
+        "/r",
+        "i",
+        "f/"
+      ],
+      "phonics": [
+        "/r",
+        "ē",
+        "f/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ee 發 /i/。"
     }
   ]
 }

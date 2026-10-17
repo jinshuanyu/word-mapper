@@ -903,6 +903,36 @@
         0
       ],
       "hint": "重音在 fash-；sh 發 /ʃ/；io 弱化發 /ə/。"
+    },
+    {
+      "number": "🦪 珍珠",
+      "word": "pearl",
+      "ipa": "/pɝl/",
+      "graphemes": [
+        "p",
+        "ear",
+        "l"
+      ],
+      "phonemes": [
+        "/p",
+        "ɝ",
+        "l/"
+      ],
+      "phonics": [
+        "/p",
+        "er",
+        "l/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "ear 這裡發 /ɝ/（像 learn）。"
     }
   ]
 }

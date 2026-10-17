@@ -1065,6 +1065,96 @@
         0
       ],
       "hint": "swim + er，重複 m；er 發 /ɚ/。"
+    },
+    {
+      "number": "⚽ 運動",
+      "word": "sport",
+      "ipa": "/spɔrt/",
+      "graphemes": [
+        "s",
+        "p",
+        "or",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ɔr",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "or",
+        "t/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 子音群；or 發 /ɔr/。"
+    },
+    {
+      "number": "🏀 三分球",
+      "word": "three-pointer",
+      "ipa": "/ˈθriˈpɔɪntɚ/",
+      "graphemes": [
+        "th",
+        "r",
+        "ee",
+        "-",
+        "p",
+        "oi",
+        "n",
+        "t",
+        "er"
+      ],
+      "phonemes": [
+        "/'θ",
+        "r",
+        "i",
+        "-",
+        "'p",
+        "ɔɪ",
+        "n",
+        "t",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'th",
+        "r",
+        "ē",
+        "-",
+        "'p",
+        "oi",
+        "n",
+        "t",
+        "er/"
+      ],
+      "tags": [
+        "digraph",
+        "cluster",
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "three + pointer；oi 發 /ɔɪ/，er 發 /ɚ/。"
     }
   ]
 }

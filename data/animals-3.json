@@ -1109,6 +1109,108 @@
         0
       ],
       "hint": "ow 發 /aʊ/。"
+    },
+    {
+      "number": "🐄 獸群",
+      "word": "herd",
+      "ipa": "/hɝd/",
+      "graphemes": [
+        "h",
+        "er",
+        "d"
+      ],
+      "phonemes": [
+        "/h",
+        "ɝ",
+        "d/"
+      ],
+      "phonics": [
+        "/h",
+        "er",
+        "d/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "er 發 /ɝ/。"
+    },
+    {
+      "number": "🐦 牛椋鳥",
+      "word": "oxpecker",
+      "ipa": "/ˈɑksˌpɛkɚ/",
+      "graphemes": [
+        "o",
+        "x",
+        "p",
+        "e",
+        "ck",
+        "er"
+      ],
+      "phonemes": [
+        "/'ɑ",
+        "ks",
+        "p",
+        "ɛ",
+        "k",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ŏ",
+        "ks",
+        "p",
+        "ĕ",
+        "k",
+        "er/"
+      ],
+      "tags": [
+        "closed",
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ox + pecker；x 發 /ks/，ck 發 /k/。"
+    },
+    {
+      "number": "🪳 跳蚤",
+      "word": "flea",
+      "ipa": "/fli/",
+      "graphemes": [
+        "f",
+        "l",
+        "ea"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "i/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ē/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 子音群；ea 發 /i/。"
     }
   ]
 }

@@ -720,6 +720,90 @@
         0
       ],
       "hint": "重音在 id-；第二個 i 發 /i/；o 弱化。"
+    },
+    {
+      "number": "🔁 翻譯",
+      "word": "translate",
+      "ipa": "/ˈtrænsleɪt/",
+      "graphemes": [
+        "t",
+        "r",
+        "a",
+        "n",
+        "s",
+        "l",
+        "a",
+        "t",
+        "e"
+      ],
+      "phonemes": [
+        "/'t",
+        "r",
+        "æ",
+        "n",
+        "s",
+        "l",
+        "eɪ",
+        "t",
+        "-/"
+      ],
+      "phonics": [
+        "/'t",
+        "r",
+        "ă",
+        "n",
+        "s",
+        "l",
+        "ā",
+        "t",
+        "-/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "trans- 字首；字尾 a_e 發 /eɪ/。"
+    },
+    {
+      "number": "📝 名詞",
+      "word": "noun",
+      "ipa": "/naʊn/",
+      "graphemes": [
+        "n",
+        "ou",
+        "n"
+      ],
+      "phonemes": [
+        "/n",
+        "aʊ",
+        "n/"
+      ],
+      "phonics": [
+        "/n",
+        "ow",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ou 發 /aʊ/。"
     }
   ]
 }

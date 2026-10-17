@@ -985,6 +985,94 @@
         0
       ],
       "hint": "重音在 -reer；a 弱化；eer 發 /ɪr/。"
+    },
+    {
+      "number": "🧑‍🔬 專家",
+      "word": "expert",
+      "ipa": "/ˈɛkspɝt/",
+      "graphemes": [
+        "e",
+        "x",
+        "p",
+        "er",
+        "t"
+      ],
+      "phonemes": [
+        "/'ɛ",
+        "ks",
+        "p",
+        "ɝ",
+        "t/"
+      ],
+      "phonics": [
+        "/'ĕ",
+        "ks",
+        "p",
+        "er",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "x 發 /ks/；er 發 /ɝ/。"
+    },
+    {
+      "number": "⏱️ 兼職的",
+      "word": "part-time",
+      "ipa": "/ˈpɑrtˈtaɪm/",
+      "graphemes": [
+        "p",
+        "ar",
+        "t",
+        "-",
+        "t",
+        "i",
+        "m",
+        "e"
+      ],
+      "phonemes": [
+        "/'p",
+        "ɑr",
+        "t",
+        "-",
+        "'t",
+        "aɪ",
+        "m",
+        "-/"
+      ],
+      "phonics": [
+        "/'p",
+        "ɑr",
+        "t",
+        "-",
+        "'t",
+        "ī",
+        "m",
+        "-/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "part + time；i_e 發 /aɪ/。"
     }
   ]
 }

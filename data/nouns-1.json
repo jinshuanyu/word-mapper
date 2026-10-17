@@ -1309,6 +1309,128 @@
         0
       ],
       "hint": "st 子音群。"
+    },
+    {
+      "number": "🚁 救援",
+      "word": "rescue",
+      "ipa": "/ˈrɛskju/",
+      "graphemes": [
+        "r",
+        "e",
+        "s",
+        "c",
+        "ue"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɛ",
+        "s",
+        "k",
+        "ju/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĕ",
+        "s",
+        "k",
+        "yū/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "sc 發 /sk/；ue 發 /ju/。"
+    },
+    {
+      "number": "🌾 收穫",
+      "word": "harvest",
+      "ipa": "/ˈhɑrvɪst/",
+      "graphemes": [
+        "h",
+        "ar",
+        "v",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/'h",
+        "ɑr",
+        "v",
+        "ɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/'h",
+        "ɑr",
+        "v",
+        "ĭ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "rcontrolled",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "ar 發 /ɑr/；e 弱讀 /ɪ/。"
+    },
+    {
+      "number": "📅 計畫表",
+      "word": "schedule",
+      "ipa": "/ˈskɛdʒʊl/",
+      "graphemes": [
+        "s",
+        "ch",
+        "e",
+        "d",
+        "u",
+        "le"
+      ],
+      "phonemes": [
+        "/'s",
+        "k",
+        "ɛ",
+        "dʒ",
+        "ʊ",
+        "l/"
+      ],
+      "phonics": [
+        "/'s",
+        "k",
+        "ĕ",
+        "j",
+        "oo",
+        "l/"
+      ],
+      "tags": [
+        "irregular",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "ch 發 /k/；d 在 u 前發 /dʒ/。"
     }
   ]
 }

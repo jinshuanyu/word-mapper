@@ -876,6 +876,93 @@
         0
       ],
       "hint": "under + water；重音在 wa-；water 的 a 發 /ɔ/。"
+    },
+    {
+      "number": "🏕️ 戶外的",
+      "word": "outdoor",
+      "ipa": "/ˈaʊtˈdɔr/",
+      "graphemes": [
+        "ou",
+        "t",
+        "d",
+        "oor"
+      ],
+      "phonemes": [
+        "/'aʊ",
+        "t",
+        "'d",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/'ow",
+        "t",
+        "'d",
+        "or/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "out + door；oor 發 /ɔr/。"
+    },
+    {
+      "number": "🪶 原住民的",
+      "word": "indigenous",
+      "ipa": "/ɪnˈdɪdʒənəs/",
+      "graphemes": [
+        "i",
+        "n",
+        "d",
+        "i",
+        "g",
+        "e",
+        "n",
+        "ou",
+        "s"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "'d",
+        "ɪ",
+        "dʒ",
+        "ə",
+        "n",
+        "ə",
+        "s/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "'d",
+        "ĭ",
+        "j",
+        "ə",
+        "n",
+        "ə",
+        "s/"
+      ],
+      "tags": [
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      "hint": "重音在 -dig-；g 在 e 前發 /dʒ/；ou 弱化成 /ə/。"
     }
   ]
 }

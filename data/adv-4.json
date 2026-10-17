@@ -233,6 +233,49 @@
         0
       ],
       "hint": "any + way；a 發 /ɛ/；y 發 /i/；ay 發 /eɪ/。"
+    },
+    {
+      "number": "🔄 作為替代",
+      "word": "instead",
+      "ipa": "/ɪnˈstɛd/",
+      "graphemes": [
+        "i",
+        "n",
+        "s",
+        "t",
+        "ea",
+        "d"
+      ],
+      "phonemes": [
+        "/ɪ",
+        "n",
+        "'s",
+        "t",
+        "ɛ",
+        "d/"
+      ],
+      "phonics": [
+        "/ĭ",
+        "n",
+        "'s",
+        "t",
+        "ĕ",
+        "d/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "ea 這裡發短音 /ɛ/（像 head）。"
     }
   ]
 }

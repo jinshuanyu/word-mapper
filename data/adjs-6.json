@@ -1117,6 +1117,53 @@
         0
       ],
       "hint": "scare + y（去 e）；a 在 r 前發 /ɛ/；y 字尾發 /i/。"
+    },
+    {
+      "number": "🙏 感謝的",
+      "word": "thankful",
+      "ipa": "/ˈθæŋkfəl/",
+      "graphemes": [
+        "th",
+        "a",
+        "n",
+        "k",
+        "f",
+        "u",
+        "l"
+      ],
+      "phonemes": [
+        "/'θ",
+        "æ",
+        "ŋ",
+        "k",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "phonics": [
+        "/'th",
+        "ă",
+        "ŋ",
+        "k",
+        "f",
+        "ə",
+        "l/"
+      ],
+      "tags": [
+        "digraph",
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "thank + ful；n 在 k 前發 /ŋ/；-ful 的 u 弱化。"
     }
   ]
 }
