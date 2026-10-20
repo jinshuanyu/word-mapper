@@ -1166,6 +1166,35 @@
         0
       ],
       "hint": "sk 子音群；CVC 短母音。"
+    },
+    {
+      "number": "🫕 沾",
+      "word": "dip",
+      "ipa": "/dɪp/",
+      "graphemes": [
+        "d",
+        "i",
+        "p"
+      ],
+      "phonemes": [
+        "/d",
+        "ɪ",
+        "p/"
+      ],
+      "phonics": [
+        "/d",
+        "ĭ",
+        "p/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "CVC；i 發短母音 /ɪ/（ĭ）。"
     }
   ]
 }

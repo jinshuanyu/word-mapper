@@ -1192,6 +1192,50 @@
         0
       ],
       "hint": "sight + seeing；igh 發 /aɪ/；ee 發 /i/。"
+    },
+    {
+      "number": "⛺ 露營",
+      "word": "camping",
+      "ipa": "/ˈkæmpɪŋ/",
+      "graphemes": [
+        "c",
+        "a",
+        "m",
+        "p",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'k",
+        "æ",
+        "m",
+        "p",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'k",
+        "ă",
+        "m",
+        "p",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "camp + ing；ng 發 /ŋ/。go camping 去露營。"
     }
   ]
 }

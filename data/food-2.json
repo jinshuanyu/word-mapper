@@ -1277,6 +1277,87 @@
         0
       ],
       "hint": "dumpling 的複數；ng 發 /ŋ/；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🥚 蛋（複數）",
+      "word": "eggs",
+      "ipa": "/ɛɡz/",
+      "graphemes": [
+        "e",
+        "gg",
+        "s"
+      ],
+      "phonemes": [
+        "/ɛ",
+        "ɡ",
+        "z/"
+      ],
+      "phonics": [
+        "/ĕ",
+        "ɡ",
+        "z/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0
+      ],
+      "hint": "egg 的複數；gg 只發一個 /ɡ/，字尾 s 發 /z/。"
+    },
+    {
+      "number": "🍔 漢堡（複數）",
+      "word": "hamburgers",
+      "ipa": "/ˈhæmbɝɡɚz/",
+      "graphemes": [
+        "h",
+        "a",
+        "m",
+        "b",
+        "ur",
+        "g",
+        "er",
+        "s"
+      ],
+      "phonemes": [
+        "/'h",
+        "æ",
+        "m",
+        "b",
+        "ɝ",
+        "ɡ",
+        "ɚ",
+        "z/"
+      ],
+      "phonics": [
+        "/'h",
+        "ă",
+        "m",
+        "b",
+        "er",
+        "ɡ",
+        "er",
+        "z/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "hamburger 的複數；ur、er 都是 r 母音；字尾 s 發 /z/。"
     }
   ]
 }

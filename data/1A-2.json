@@ -1359,6 +1359,35 @@
         0
       ],
       "hint": "fl 子音群；oa 發 /oʊ/。"
+    },
+    {
+      "number": "🤚 輕拍",
+      "word": "pat",
+      "ipa": "/pæt/",
+      "graphemes": [
+        "p",
+        "a",
+        "t"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "t/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "CVC；a 發短母音 /æ/（ă）。"
     }
   ]
 }

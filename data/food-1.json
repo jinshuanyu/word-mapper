@@ -1528,6 +1528,157 @@
         0
       ],
       "hint": "重音在 pom-；e 弱化；字尾 o 發 /oʊ/。"
+    },
+    {
+      "number": "🍊 柳橙（複數）",
+      "word": "oranges",
+      "ipa": "/ˈɔrɪndʒɪz/",
+      "graphemes": [
+        "or",
+        "a",
+        "n",
+        "ge",
+        "s"
+      ],
+      "phonemes": [
+        "/'ɔr",
+        "ɪ",
+        "n",
+        "dʒ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'or",
+        "ĭ",
+        "n",
+        "-j",
+        "ĭz/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "orange 的複數；ge 後的 s 發 /ɪz/。"
+    },
+    {
+      "number": "🍓 草莓（複數）",
+      "word": "strawberries",
+      "ipa": "/ˈstrɔbɛriz/",
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "aw",
+        "b",
+        "e",
+        "rr",
+        "ie",
+        "s"
+      ],
+      "phonemes": [
+        "/'s",
+        "t",
+        "r",
+        "ɔ",
+        "b",
+        "ɛ",
+        "r",
+        "i",
+        "z/"
+      ],
+      "phonics": [
+        "/'s",
+        "t",
+        "r",
+        "aw",
+        "b",
+        "ĕ",
+        "r",
+        "ē",
+        "z/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "strawberry 的 y 改 ie 加 s；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🍉 西瓜（複數）",
+      "word": "watermelons",
+      "ipa": "/ˈwɑtɚmɛlənz/",
+      "graphemes": [
+        "w",
+        "a",
+        "t",
+        "er",
+        "m",
+        "e",
+        "l",
+        "o",
+        "n",
+        "s"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɑ",
+        "t",
+        "ɚ",
+        "m",
+        "ɛ",
+        "l",
+        "ə",
+        "n",
+        "z/"
+      ],
+      "phonics": [
+        "/'w",
+        "ŏ",
+        "t",
+        "er",
+        "m",
+        "ĕ",
+        "l",
+        "ə",
+        "n",
+        "z/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "watermelon 的複數；w 後的 a 發 /ɑ/；字尾 s 發 /z/。"
     }
   ]
 }

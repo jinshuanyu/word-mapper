@@ -948,6 +948,35 @@
         0
       ],
       "hint": "n 在 k 前發 /ŋ/。stinky tofu 臭豆腐。"
+    },
+    {
+      "number": "🍊 剝（皮）",
+      "word": "peel",
+      "ipa": "/pil/",
+      "graphemes": [
+        "p",
+        "ee",
+        "l"
+      ],
+      "phonemes": [
+        "/p",
+        "i",
+        "l/"
+      ],
+      "phonics": [
+        "/p",
+        "ē",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ee 發 /i/。peel the pomelo 剝柚子。"
     }
   ]
 }

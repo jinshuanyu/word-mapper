@@ -1476,6 +1476,40 @@
         0
       ],
       "hint": "重音在 mer-；rr 重複字母；y 字尾發 /i/。"
+    },
+    {
+      "number": "🎉 節慶",
+      "word": "fest",
+      "ipa": "/fɛst/",
+      "graphemes": [
+        "f",
+        "e",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/f",
+        "ɛ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/f",
+        "ĕ",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "closed",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "festival 的簡稱；st 字尾子音群。"
     }
   ]
 }

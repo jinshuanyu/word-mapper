@@ -965,6 +965,35 @@
         0
       ],
       "hint": "are 發 /ɛr/（像 care）。"
+    },
+    {
+      "number": "↩️ 急轉",
+      "word": "zag",
+      "ipa": "/zæɡ/",
+      "graphemes": [
+        "z",
+        "a",
+        "g"
+      ],
+      "phonemes": [
+        "/z",
+        "æ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/z",
+        "ă",
+        "ɡ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "CVC；zigzag 的 zag。"
     }
   ]
 }

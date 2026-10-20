@@ -679,6 +679,88 @@
         0
       ],
       "hint": "字母唸法 R-O-C；Republic of China 縮寫。"
+    },
+    {
+      "number": "🇻🇳 越南",
+      "word": "Vietnam",
+      "ipa": "/ˌviɛtˈnɑm/",
+      "graphemes": [
+        "V",
+        "i",
+        "e",
+        "t",
+        "n",
+        "a",
+        "m"
+      ],
+      "phonemes": [
+        "/v",
+        "i",
+        "ɛ",
+        "t",
+        "'n",
+        "ɑ",
+        "m/"
+      ],
+      "phonics": [
+        "/v",
+        "ē",
+        "ĕ",
+        "t",
+        "'n",
+        "ŏ",
+        "m/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -nam；i 發 /i/，e 發 /ɛ/，兩個音節分開唸。"
+    },
+    {
+      "number": "🇰🇷 韓國",
+      "word": "Korea",
+      "ipa": "/kəˈriə/",
+      "graphemes": [
+        "K",
+        "o",
+        "r",
+        "e",
+        "a"
+      ],
+      "phonemes": [
+        "/k",
+        "ə",
+        "'r",
+        "i",
+        "ə/"
+      ],
+      "phonics": [
+        "/k",
+        "ə",
+        "'r",
+        "ē",
+        "ə/"
+      ],
+      "tags": [
+        "open"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "hint": "重音在 -re-；o 和字尾 a 都弱化成 /ə/。"
     }
   ]
 }

@@ -1291,6 +1291,35 @@
         1
       ],
       "hint": "iew 發 /ju/，跟 few 同韻。"
+    },
+    {
+      "number": "🕳️ 獸穴",
+      "word": "den",
+      "ipa": "/dɛn/",
+      "graphemes": [
+        "d",
+        "e",
+        "n"
+      ],
+      "phonemes": [
+        "/d",
+        "ɛ",
+        "n/"
+      ],
+      "phonics": [
+        "/d",
+        "ĕ",
+        "n/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "CVC；e 發短母音 /ɛ/（ĕ）。"
     }
   ]
 }

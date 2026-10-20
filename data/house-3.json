@@ -1278,6 +1278,35 @@
         0
       ],
       "hint": "tr 子音群；sh 發 /ʃ/。"
+    },
+    {
+      "number": "🛢️ 大桶",
+      "word": "vat",
+      "ipa": "/væt/",
+      "graphemes": [
+        "v",
+        "a",
+        "t"
+      ],
+      "phonemes": [
+        "/v",
+        "æ",
+        "t/"
+      ],
+      "phonics": [
+        "/v",
+        "ă",
+        "t/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "CVC；a 發短母音 /æ/（ă）。"
     }
   ]
 }

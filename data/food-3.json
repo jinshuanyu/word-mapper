@@ -877,6 +877,90 @@
         0
       ],
       "hint": "u 發短母音 /ʌ/。"
+    },
+    {
+      "number": "🍪 餅乾（複數）",
+      "word": "cookies",
+      "ipa": "/ˈkʊkiz/",
+      "graphemes": [
+        "c",
+        "oo",
+        "k",
+        "ie",
+        "s"
+      ],
+      "phonemes": [
+        "/'k",
+        "ʊ",
+        "k",
+        "i",
+        "z/"
+      ],
+      "phonics": [
+        "/'k",
+        "oo",
+        "k",
+        "ē",
+        "z/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "cookie 的複數；ie 發 /i/，字尾 s 發 /z/。"
+    },
+    {
+      "number": "🥮 月餅",
+      "word": "mooncake",
+      "ipa": "/ˈmunkeɪk/",
+      "graphemes": [
+        "m",
+        "oo",
+        "n",
+        "c",
+        "a",
+        "k",
+        "e"
+      ],
+      "phonemes": [
+        "/'m",
+        "u",
+        "n",
+        "k",
+        "eɪ",
+        "k",
+        "-/"
+      ],
+      "phonics": [
+        "/'m",
+        "oo",
+        "n",
+        "k",
+        "ā",
+        "k",
+        "-/"
+      ],
+      "tags": [
+        "vowel_team",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "moon + cake 連寫；oo 發 /u/，a_e 發 /eɪ/。"
     }
   ]
 }

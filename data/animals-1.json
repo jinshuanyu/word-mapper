@@ -1133,6 +1133,40 @@
         false
       ],
       "hint": "oo 發長母音 u /u/。"
+    },
+    {
+      "number": "🐶 狗（複數）",
+      "word": "dogs",
+      "ipa": "/dɔɡz/",
+      "graphemes": [
+        "d",
+        "o",
+        "g",
+        "s"
+      ],
+      "phonemes": [
+        "/d",
+        "ɑ",
+        "ɡ",
+        "z/"
+      ],
+      "phonics": [
+        "/d",
+        "ŏ",
+        "ɡ",
+        "z/"
+      ],
+      "tags": [
+        "cvc",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dog 的複數；字尾 s 發 /z/。"
     }
   ]
 }
