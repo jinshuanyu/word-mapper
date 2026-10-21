@@ -425,7 +425,7 @@
         false,
         false,
         false,
-        true
+        false
       ],
       "hint": "spot 的過去分詞，-ed 在 /t/ 後加一個音節，發 /ɪd/。"
     },
@@ -510,7 +510,7 @@
         false,
         false,
         false,
-        true
+        false
       ],
       "hint": "stripe 的過去分詞，-ed 在 /p/ 後讀 /t/。"
     },
