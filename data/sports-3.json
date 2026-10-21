@@ -1620,6 +1620,82 @@
         0
       ],
       "hint": "game 的複數；a_e 發 /eɪ/，字尾 s 發 /z/。"
+    },
+    {
+      "number": "🎵 直笛",
+      "word": "recorder",
+      "ipa": "/rɪˈkɔrdɚ/",
+      "graphemes": [
+        "r",
+        "e",
+        "c",
+        "or",
+        "d",
+        "er"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "'k",
+        "ɔr",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "'k",
+        "or",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "重音在 -cor-；第一個 e 弱讀 /ɪ/。"
+    },
+    {
+      "number": "🎶 歌（複數）",
+      "word": "songs",
+      "ipa": "/sɔŋz/",
+      "graphemes": [
+        "s",
+        "o",
+        "ng",
+        "s"
+      ],
+      "phonemes": [
+        "/s",
+        "ɔ",
+        "ŋ",
+        "z/"
+      ],
+      "phonics": [
+        "/s",
+        "aw",
+        "ŋ",
+        "z/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "song 的複數；ng 發 /ŋ/，字尾 s 發 /z/。"
     }
   ]
 }

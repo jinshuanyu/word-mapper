@@ -1211,6 +1211,56 @@
         0
       ],
       "hint": "fl 子音群；ea 發 /i/。"
+    },
+    {
+      "number": "🦫 土撥鼠",
+      "word": "groundhog",
+      "ipa": "/ˈɡraʊndˌhɔɡ/",
+      "graphemes": [
+        "g",
+        "r",
+        "ou",
+        "n",
+        "d",
+        "h",
+        "o",
+        "g"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "aʊ",
+        "n",
+        "d",
+        "h",
+        "ɔ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ow",
+        "n",
+        "d",
+        "h",
+        "aw",
+        "ɡ/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "ground + hog；ou 發 /aʊ/。Groundhog Day 土撥鼠日。"
     }
   ]
 }

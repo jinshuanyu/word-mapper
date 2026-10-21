@@ -1307,6 +1307,48 @@
         0
       ],
       "hint": "CVC；a 發短母音 /æ/（ă）。"
+    },
+    {
+      "number": "🧺 要洗的衣物",
+      "word": "laundry",
+      "ipa": "/ˈlɔndri/",
+      "graphemes": [
+        "l",
+        "au",
+        "n",
+        "d",
+        "r",
+        "y"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɔ",
+        "n",
+        "d",
+        "r",
+        "i/"
+      ],
+      "phonics": [
+        "/'l",
+        "aw",
+        "n",
+        "d",
+        "r",
+        "ē/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "au 發 /ɔ/；y 字尾發 /i/。do the laundry 洗衣服。"
     }
   ]
 }

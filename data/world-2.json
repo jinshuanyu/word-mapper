@@ -761,6 +761,48 @@
         1
       ],
       "hint": "重音在 -re-；o 和字尾 a 都弱化成 /ə/。"
+    },
+    {
+      "number": "🇸🇬 新加坡",
+      "word": "Singapore",
+      "ipa": "/ˈsɪŋəˌpɔr/",
+      "graphemes": [
+        "S",
+        "i",
+        "ng",
+        "a",
+        "p",
+        "ore"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɪ",
+        "ŋ",
+        "ə",
+        "p",
+        "ɔr/"
+      ],
+      "phonics": [
+        "/'s",
+        "ĭ",
+        "ŋ",
+        "ə",
+        "p",
+        "or/"
+      ],
+      "tags": [
+        "digraph",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "ng 發 /ŋ/；a 弱化；ore 發 /ɔr/。"
     }
   ]
 }

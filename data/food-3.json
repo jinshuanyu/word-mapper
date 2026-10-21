@@ -961,6 +961,84 @@
         0
       ],
       "hint": "moon + cake 連寫；oo 發 /u/，a_e 發 /eɪ/。"
+    },
+    {
+      "number": "🍰 蛋糕（複數）",
+      "word": "cakes",
+      "ipa": "/keɪks/",
+      "graphemes": [
+        "c",
+        "a",
+        "k",
+        "e",
+        "s"
+      ],
+      "phonemes": [
+        "/k",
+        "eɪ",
+        "k",
+        "-",
+        "s/"
+      ],
+      "phonics": [
+        "/k",
+        "ā",
+        "k",
+        "-",
+        "s/"
+      ],
+      "tags": [
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cake 的複數；k 後的 s 發 /s/。"
+    },
+    {
+      "number": "🍪 點心（複數）",
+      "word": "snacks",
+      "ipa": "/snæks/",
+      "graphemes": [
+        "s",
+        "n",
+        "a",
+        "ck",
+        "s"
+      ],
+      "phonemes": [
+        "/s",
+        "n",
+        "æ",
+        "k",
+        "s/"
+      ],
+      "phonics": [
+        "/s",
+        "n",
+        "ă",
+        "k",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "snack 的複數；ck 發 /k/。"
     }
   ]
 }

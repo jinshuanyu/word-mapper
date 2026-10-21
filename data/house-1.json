@@ -1284,6 +1284,35 @@
         0
       ],
       "hint": "ig-loo 兩個音節；oo 發長音 /u/。"
+    },
+    {
+      "number": "🌿 草坪",
+      "word": "lawn",
+      "ipa": "/lɔn/",
+      "graphemes": [
+        "l",
+        "aw",
+        "n"
+      ],
+      "phonemes": [
+        "/l",
+        "ɔ",
+        "n/"
+      ],
+      "phonics": [
+        "/l",
+        "aw",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "aw 發 /ɔ/。"
     }
   ]
 }

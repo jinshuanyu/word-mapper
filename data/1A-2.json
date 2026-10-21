@@ -1388,6 +1388,156 @@
         0
       ],
       "hint": "CVC；a 發短母音 /æ/（ă）。"
+    },
+    {
+      "number": "🧶 編織",
+      "word": "knit",
+      "ipa": "/nɪt/",
+      "graphemes": [
+        "k",
+        "n",
+        "i",
+        "t"
+      ],
+      "phonemes": [
+        "/-",
+        "n",
+        "ɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/-",
+        "n",
+        "ĭ",
+        "t/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "cvc"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "kn 的 k 不發音（像 knife）。"
+    },
+    {
+      "number": "🛬 著陸（過去式）",
+      "word": "landed",
+      "ipa": "/ˈlændɪd/",
+      "graphemes": [
+        "l",
+        "a",
+        "n",
+        "d",
+        "ed"
+      ],
+      "phonemes": [
+        "/'l",
+        "æ",
+        "n",
+        "d",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/'l",
+        "ă",
+        "n",
+        "d",
+        "ĭd/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "land + ed；d 後的 ed 發 /ɪd/，多一個音節。"
+    },
+    {
+      "number": "📢 大叫（過去式）",
+      "word": "shouted",
+      "ipa": "/ˈʃaʊtɪd/",
+      "graphemes": [
+        "sh",
+        "ou",
+        "t",
+        "ed"
+      ],
+      "phonemes": [
+        "/'ʃ",
+        "aʊ",
+        "t",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/'sh",
+        "ow",
+        "t",
+        "ĭd/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "shout + ed；t 後的 ed 發 /ɪd/。"
+    },
+    {
+      "number": "🏠 拜訪（過去式）",
+      "word": "visited",
+      "ipa": "/ˈvɪzɪtɪd/",
+      "graphemes": [
+        "v",
+        "i",
+        "s",
+        "i",
+        "t",
+        "ed"
+      ],
+      "phonemes": [
+        "/'v",
+        "ɪ",
+        "z",
+        "ɪ",
+        "t",
+        "ɪd/"
+      ],
+      "phonics": [
+        "/'v",
+        "ĭ",
+        "z",
+        "ĭ",
+        "t",
+        "ĭd/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "visit + ed；t 後的 ed 發 /ɪd/。"
     }
   ]
 }

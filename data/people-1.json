@@ -1255,6 +1255,40 @@
         0
       ],
       "hint": "cos(tume) + player；s 發 /z/。"
+    },
+    {
+      "number": "🛡️ 騎士",
+      "word": "knight",
+      "ipa": "/naɪt/",
+      "graphemes": [
+        "k",
+        "n",
+        "igh",
+        "t"
+      ],
+      "phonemes": [
+        "/-",
+        "n",
+        "aɪ",
+        "t/"
+      ],
+      "phonics": [
+        "/-",
+        "n",
+        "ī",
+        "t/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "irregular"
+      ],
+      "hearts": [
+        1,
+        0,
+        1,
+        0
+      ],
+      "hint": "kn 的 k 不發音；igh 發 /aɪ/，跟 night 同音。"
     }
   ]
 }

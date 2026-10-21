@@ -588,6 +588,40 @@
         0
       ],
       "hint": "萬聖節討糖用語；ck 發 /k/；ea 發 /i/。"
+    },
+    {
+      "number": "😇 聖人",
+      "word": "saint",
+      "ipa": "/seɪnt/",
+      "graphemes": [
+        "s",
+        "ai",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "eɪ",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/s",
+        "ā",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ai 發 /eɪ/。Saint Patrick's Day 聖派翠克節。"
     }
   ]
 }

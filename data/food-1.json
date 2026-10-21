@@ -1679,6 +1679,265 @@
         0
       ],
       "hint": "watermelon 的複數；w 後的 a 發 /ɑ/；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🍎 蘋果（複數）",
+      "word": "apples",
+      "ipa": "/ˈæplz/",
+      "graphemes": [
+        "a",
+        "pp",
+        "le",
+        "s"
+      ],
+      "phonemes": [
+        "/'æ",
+        "p",
+        "əl",
+        "z/"
+      ],
+      "phonics": [
+        "/'ă",
+        "p",
+        "əl",
+        "z/"
+      ],
+      "tags": [
+        "closed",
+        "cle",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "apple 的複數；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🍌 香蕉（複數）",
+      "word": "bananas",
+      "ipa": "/bəˈnænəz/",
+      "graphemes": [
+        "b",
+        "a",
+        "n",
+        "a",
+        "n",
+        "a",
+        "s"
+      ],
+      "phonemes": [
+        "/b",
+        "ə",
+        "'n",
+        "æ",
+        "n",
+        "ə",
+        "z/"
+      ],
+      "phonics": [
+        "/b",
+        "ə",
+        "'n",
+        "ă",
+        "n",
+        "ə",
+        "z/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "banana 的複數；重音在 -na-，頭尾 a 弱化。"
+    },
+    {
+      "number": "🍇 葡萄（複數）",
+      "word": "grapes",
+      "ipa": "/ɡreɪps/",
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "p",
+        "e",
+        "s"
+      ],
+      "phonemes": [
+        "/ɡ",
+        "r",
+        "eɪ",
+        "p",
+        "-",
+        "s/"
+      ],
+      "phonics": [
+        "/ɡ",
+        "r",
+        "ā",
+        "p",
+        "-",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "grape 的複數；p 後的 s 發 /s/。"
+    },
+    {
+      "number": "🍈 芭樂（複數）",
+      "word": "guavas",
+      "ipa": "/ˈɡwɑvəz/",
+      "graphemes": [
+        "g",
+        "u",
+        "a",
+        "v",
+        "a",
+        "s"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "w",
+        "ɑ",
+        "v",
+        "ə",
+        "z/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "w",
+        "ŏ",
+        "v",
+        "ə",
+        "z/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "guava 的複數；u 發 /w/。"
+    },
+    {
+      "number": "🥭 木瓜（複數）",
+      "word": "papayas",
+      "ipa": "/pəˈpaɪəz/",
+      "graphemes": [
+        "p",
+        "a",
+        "p",
+        "ay",
+        "a",
+        "s"
+      ],
+      "phonemes": [
+        "/p",
+        "ə",
+        "'p",
+        "aɪ",
+        "ə",
+        "z/"
+      ],
+      "phonics": [
+        "/p",
+        "ə",
+        "'p",
+        "ī",
+        "ə",
+        "z/"
+      ],
+      "tags": [
+        "irregular",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "papaya 的複數；ay 這裡發 /aɪ/。"
+    },
+    {
+      "number": "🍍 鳳梨（複數）",
+      "word": "pineapples",
+      "ipa": "/ˈpaɪnæplz/",
+      "graphemes": [
+        "p",
+        "i",
+        "n",
+        "e",
+        "a",
+        "pp",
+        "le",
+        "s"
+      ],
+      "phonemes": [
+        "/'p",
+        "aɪ",
+        "n",
+        "-",
+        "æ",
+        "p",
+        "əl",
+        "z/"
+      ],
+      "phonics": [
+        "/'p",
+        "ī",
+        "n",
+        "-",
+        "ă",
+        "p",
+        "əl",
+        "z/"
+      ],
+      "tags": [
+        "magic_e",
+        "cle",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "pine + apples；i_e 發 /aɪ/。"
     }
   ]
 }

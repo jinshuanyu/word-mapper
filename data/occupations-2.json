@@ -1002,6 +1002,40 @@
         0
       ],
       "hint": "重音在最後；u 弱化；eer 發 /ɪr/。"
+    },
+    {
+      "number": "🧵 裁縫師",
+      "word": "tailor",
+      "ipa": "/ˈteɪlɚ/",
+      "graphemes": [
+        "t",
+        "ai",
+        "l",
+        "or"
+      ],
+      "phonemes": [
+        "/'t",
+        "eɪ",
+        "l",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'t",
+        "ā",
+        "l",
+        "er/"
+      ],
+      "tags": [
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "ai 發 /eɪ/；字尾 or 弱化成 /ɚ/。"
     }
   ]
 }

@@ -994,6 +994,161 @@
         0
       ],
       "hint": "CVC；zigzag 的 zag。"
+    },
+    {
+      "number": "🧹 整理（過去式）",
+      "word": "cleaned",
+      "ipa": "/klind/",
+      "graphemes": [
+        "c",
+        "l",
+        "ea",
+        "n",
+        "ed"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "i",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ē",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "clean + ed；n 後的 ed 發 /d/。"
+    },
+    {
+      "number": "🎮 玩耍（過去式）",
+      "word": "played",
+      "ipa": "/pleɪd/",
+      "graphemes": [
+        "p",
+        "l",
+        "ay",
+        "ed"
+      ],
+      "phonemes": [
+        "/p",
+        "l",
+        "eɪ",
+        "d/"
+      ],
+      "phonics": [
+        "/p",
+        "l",
+        "ā",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "play + ed；母音後的 ed 發 /d/。"
+    },
+    {
+      "number": "🎧 聆聽（過去式）",
+      "word": "listened",
+      "ipa": "/ˈlɪsənd/",
+      "graphemes": [
+        "l",
+        "i",
+        "s",
+        "t",
+        "e",
+        "n",
+        "ed"
+      ],
+      "phonemes": [
+        "/'l",
+        "ɪ",
+        "s",
+        "-",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/'l",
+        "ĭ",
+        "s",
+        "-",
+        "ə",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "closed",
+        "silent_consonant",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ],
+      "hint": "listen + ed；t 不發音，ed 發 /d/。"
+    },
+    {
+      "number": "🌧️ 下雨（過去式）",
+      "word": "rained",
+      "ipa": "/reɪnd/",
+      "graphemes": [
+        "r",
+        "ai",
+        "n",
+        "ed"
+      ],
+      "phonemes": [
+        "/r",
+        "eɪ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/r",
+        "ā",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "rain + ed；n 後的 ed 發 /d/。"
     }
   ]
 }

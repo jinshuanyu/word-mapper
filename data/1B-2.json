@@ -1195,6 +1195,254 @@
         0
       ],
       "hint": "CVC；i 發短母音 /ɪ/（ĭ）。"
+    },
+    {
+      "number": "🏀 彈跳",
+      "word": "bounce",
+      "ipa": "/baʊns/",
+      "graphemes": [
+        "b",
+        "ou",
+        "n",
+        "ce"
+      ],
+      "phonemes": [
+        "/b",
+        "aʊ",
+        "n",
+        "s/"
+      ],
+      "phonics": [
+        "/b",
+        "ow",
+        "n",
+        "s/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "ou 發 /aʊ/；ce 發 /s/。"
+    },
+    {
+      "number": "🚀 發射升空",
+      "word": "launch",
+      "ipa": "/lɔntʃ/",
+      "graphemes": [
+        "l",
+        "au",
+        "n",
+        "ch"
+      ],
+      "phonemes": [
+        "/l",
+        "ɔ",
+        "n",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/l",
+        "aw",
+        "n",
+        "ch/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "au 發 /ɔ/；ch 發 /tʃ/。"
+    },
+    {
+      "number": "🎁 包",
+      "word": "wrap",
+      "ipa": "/ræp/",
+      "graphemes": [
+        "w",
+        "r",
+        "a",
+        "p"
+      ],
+      "phonemes": [
+        "/-",
+        "r",
+        "æ",
+        "p/"
+      ],
+      "phonics": [
+        "/-",
+        "r",
+        "ă",
+        "p/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "cvc"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "wr 的 w 不發音（像 write）。"
+    },
+    {
+      "number": "🍳 烹煮（過去式）",
+      "word": "cooked",
+      "ipa": "/kʊkt/",
+      "graphemes": [
+        "c",
+        "oo",
+        "k",
+        "ed"
+      ],
+      "phonemes": [
+        "/k",
+        "ʊ",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/k",
+        "oo",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "cook + ed；k 後的 ed 發 /t/。"
+    },
+    {
+      "number": "🙋 幫忙（過去式）",
+      "word": "helped",
+      "ipa": "/hɛlpt/",
+      "graphemes": [
+        "h",
+        "e",
+        "l",
+        "p",
+        "ed"
+      ],
+      "phonemes": [
+        "/h",
+        "ɛ",
+        "l",
+        "p",
+        "t/"
+      ],
+      "phonics": [
+        "/h",
+        "ĕ",
+        "l",
+        "p",
+        "t/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "hint": "help + ed；p 後的 ed 發 /t/。"
+    },
+    {
+      "number": "📺 觀看（過去式）",
+      "word": "watched",
+      "ipa": "/wɑtʃt/",
+      "graphemes": [
+        "w",
+        "a",
+        "tch",
+        "ed"
+      ],
+      "phonemes": [
+        "/w",
+        "ɑ",
+        "tʃ",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "ŏ",
+        "ch",
+        "t/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        1
+      ],
+      "hint": "watch + ed；ch 後的 ed 發 /t/。"
+    },
+    {
+      "number": "🚶 走路（過去式）",
+      "word": "walked",
+      "ipa": "/wɔkt/",
+      "graphemes": [
+        "w",
+        "a",
+        "l",
+        "k",
+        "ed"
+      ],
+      "phonemes": [
+        "/w",
+        "ɔ",
+        "-",
+        "k",
+        "t/"
+      ],
+      "phonics": [
+        "/w",
+        "aw",
+        "-",
+        "k",
+        "t/"
+      ],
+      "tags": [
+        "irregular",
+        "silent_consonant",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0,
+        1
+      ],
+      "hint": "walk + ed；l 不發音，ed 發 /t/。"
     }
   ]
 }

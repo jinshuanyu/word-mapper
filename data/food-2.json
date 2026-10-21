@@ -1358,6 +1358,162 @@
         0
       ],
       "hint": "hamburger 的複數；ur、er 都是 r 母音；字尾 s 發 /z/。"
+    },
+    {
+      "number": "🍔 起司漢堡",
+      "word": "cheeseburger",
+      "ipa": "/ˈtʃizˌbɝɡɚ/",
+      "graphemes": [
+        "ch",
+        "ee",
+        "s",
+        "e",
+        "b",
+        "ur",
+        "g",
+        "er"
+      ],
+      "phonemes": [
+        "/'tʃ",
+        "i",
+        "z",
+        "-",
+        "b",
+        "ɝ",
+        "ɡ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'ch",
+        "ē",
+        "z",
+        "-",
+        "b",
+        "er",
+        "ɡ",
+        "er/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cheese + burger；s 發 /z/，e 不發音。"
+    },
+    {
+      "number": "🍛 咖哩",
+      "word": "curry",
+      "ipa": "/ˈkɝi/",
+      "graphemes": [
+        "c",
+        "urr",
+        "y"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɝ",
+        "i/"
+      ],
+      "phonics": [
+        "/'k",
+        "er",
+        "ē/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "urr 發 /ɝ/；y 字尾發 /i/。"
+    },
+    {
+      "number": "🫘 黃豆（複數）",
+      "word": "soybeans",
+      "ipa": "/ˈsɔɪbinz/",
+      "graphemes": [
+        "s",
+        "oy",
+        "b",
+        "ea",
+        "n",
+        "s"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɔɪ",
+        "b",
+        "i",
+        "n",
+        "z/"
+      ],
+      "phonics": [
+        "/'s",
+        "oi",
+        "b",
+        "ē",
+        "n",
+        "z/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "soy + beans；oy 發 /ɔɪ/，ea 發 /i/。"
+    },
+    {
+      "number": "🍳 蛋黃",
+      "word": "yolk",
+      "ipa": "/joʊk/",
+      "graphemes": [
+        "y",
+        "o",
+        "l",
+        "k"
+      ],
+      "phonemes": [
+        "/j",
+        "oʊ",
+        "-",
+        "k/"
+      ],
+      "phonics": [
+        "/y",
+        "ō",
+        "-",
+        "k/"
+      ],
+      "tags": [
+        "silent_consonant",
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "l 不發音（像 folk）；o 發 /oʊ/。"
     }
   ]
 }

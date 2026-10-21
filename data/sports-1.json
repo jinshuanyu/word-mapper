@@ -1155,6 +1155,50 @@
         0
       ],
       "hint": "three + pointer；oi 發 /ɔɪ/，er 發 /ɚ/。"
+    },
+    {
+      "number": "🏊 游泳",
+      "word": "swimming",
+      "ipa": "/ˈswɪmɪŋ/",
+      "graphemes": [
+        "s",
+        "w",
+        "i",
+        "mm",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'s",
+        "w",
+        "ɪ",
+        "m",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'s",
+        "w",
+        "ĭ",
+        "m",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "swim 重複 m 再加 ing。go swimming 去游泳。"
     }
   ]
 }

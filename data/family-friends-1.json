@@ -1120,6 +1120,74 @@
         0
       ],
       "hint": "parent 的複數；a 在 r 前發 /ɛ/，第二個 e 弱化。"
+    },
+    {
+      "number": "👴👵 祖父母",
+      "word": "grandparents",
+      "ipa": "/ˈɡrændˌpɛrənts/",
+      "graphemes": [
+        "g",
+        "r",
+        "a",
+        "n",
+        "d",
+        "p",
+        "a",
+        "r",
+        "e",
+        "n",
+        "t",
+        "s"
+      ],
+      "phonemes": [
+        "/'ɡ",
+        "r",
+        "æ",
+        "n",
+        "d",
+        "p",
+        "ɛ",
+        "r",
+        "ə",
+        "n",
+        "t",
+        "s/"
+      ],
+      "phonics": [
+        "/'ɡ",
+        "r",
+        "ă",
+        "n",
+        "d",
+        "p",
+        "ĕ",
+        "r",
+        "ə",
+        "n",
+        "t",
+        "s/"
+      ],
+      "tags": [
+        "cluster",
+        "closed",
+        "rcontrolled",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "grand + parents；par- 的 a 發 /ɛ/。"
     }
   ]
 }

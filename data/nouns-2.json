@@ -1286,6 +1286,60 @@
         1
       ],
       "hint": "第一個 or 發 /ɔr/，第二個弱化成 /ɚ/。"
+    },
+    {
+      "number": "🎢 娛樂",
+      "word": "amusement",
+      "ipa": "/əˈmjuzmənt/",
+      "graphemes": [
+        "a",
+        "m",
+        "u",
+        "s",
+        "e",
+        "m",
+        "e",
+        "n",
+        "t"
+      ],
+      "phonemes": [
+        "/ə",
+        "'m",
+        "ju",
+        "z",
+        "-",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "phonics": [
+        "/ə",
+        "'m",
+        "yū",
+        "z",
+        "-",
+        "m",
+        "ə",
+        "n",
+        "t/"
+      ],
+      "tags": [
+        "magic_e",
+        "suffix"
+      ],
+      "hearts": [
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "amuse + ment；u_e 發 /ju/，s 發 /z/。amusement park 遊樂園。"
     }
   ]
 }

@@ -820,6 +820,57 @@
         0
       ],
       "hint": "ee 發 /i/。"
+    },
+    {
+      "number": "🏞️ 河邊",
+      "word": "riverside",
+      "ipa": "/ˈrɪvɚˌsaɪd/",
+      "graphemes": [
+        "r",
+        "i",
+        "v",
+        "er",
+        "s",
+        "i",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/'r",
+        "ɪ",
+        "v",
+        "ɚ",
+        "s",
+        "aɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/'r",
+        "ĭ",
+        "v",
+        "er",
+        "s",
+        "ī",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "closed",
+        "rcontrolled",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "river + side；i_e 發 /aɪ/。riverside park 河濱公園。"
     }
   ]
 }

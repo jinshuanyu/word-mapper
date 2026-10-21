@@ -1320,6 +1320,39 @@
         0
       ],
       "hint": "CVC；e 發短母音 /ɛ/（ĕ）。"
+    },
+    {
+      "number": "💚 玉",
+      "word": "jade",
+      "ipa": "/dʒeɪd/",
+      "graphemes": [
+        "j",
+        "a",
+        "d",
+        "e"
+      ],
+      "phonemes": [
+        "/dʒ",
+        "eɪ",
+        "d",
+        "-/"
+      ],
+      "phonics": [
+        "/j",
+        "ā",
+        "d",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "a_e 發 /eɪ/。Jade Rabbit 玉兔。"
     }
   ]
 }
