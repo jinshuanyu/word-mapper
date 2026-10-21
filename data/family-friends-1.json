@@ -1124,7 +1124,7 @@
     {
       "number": "👴👵 祖父母",
       "word": "grandparents",
-      "ipa": "/ˈɡrændˌpɛrənts/",
+      "ipa": "/ˈɡrænˌpɛrənts/",
       "graphemes": [
         "g",
         "r",
@@ -1144,7 +1144,7 @@
         "r",
         "æ",
         "n",
-        "d",
+        "-",
         "p",
         "ɛ",
         "r",
@@ -1158,7 +1158,7 @@
         "r",
         "ă",
         "n",
-        "d",
+        "-",
         "p",
         "ĕ",
         "r",
@@ -1170,6 +1170,7 @@
       "tags": [
         "cluster",
         "closed",
+        "silent_consonant",
         "rcontrolled",
         "suffix"
       ],
@@ -1178,7 +1179,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         1,
         0,
@@ -1187,7 +1188,7 @@
         0,
         0
       ],
-      "hint": "grand + parents；par- 的 a 發 /ɛ/。"
+      "hint": "grand + parents；d 不發音（像 grandpa）；par- 的 a 發 /ɛ/。"
     }
   ]
 }
