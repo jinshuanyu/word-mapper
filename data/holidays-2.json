@@ -622,6 +622,83 @@
         0
       ],
       "hint": "ai 發 /eɪ/。Saint Patrick's Day 聖派翠克節。"
+    },
+    {
+      "number": "🧧 香包",
+      "word": "sachet",
+      "ipa": "/sæˈʃeɪ/",
+      "graphemes": [
+        "s",
+        "a",
+        "ch",
+        "e",
+        "t"
+      ],
+      "phonemes": [
+        "/s",
+        "æ",
+        "'ʃ",
+        "eɪ",
+        "-/"
+      ],
+      "phonics": [
+        "/s",
+        "ă",
+        "'sh",
+        "ā",
+        "-/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph",
+        "silent_consonant"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "hint": "來自法文：ch 發 /ʃ/，字尾 et 發 /eɪ/、t 不發音。"
+    },
+    {
+      "number": "🍙 粽子",
+      "word": "zongzi",
+      "ipa": "/ˈzɔŋzi/",
+      "graphemes": [
+        "z",
+        "o",
+        "ng",
+        "z",
+        "i"
+      ],
+      "phonemes": [
+        "/'z",
+        "ɔ",
+        "ŋ",
+        "z",
+        "i/"
+      ],
+      "phonics": [
+        "/'z",
+        "aw",
+        "ŋ",
+        "z",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "中文拼音；ng 發 /ŋ/，字尾 i 發 /i/。"
     }
   ]
 }

@@ -1236,6 +1236,50 @@
         0
       ],
       "hint": "camp + ing；ng 發 /ŋ/。go camping 去露營。"
+    },
+    {
+      "number": "🥚 尋找（彩蛋）",
+      "word": "hunting",
+      "ipa": "/ˈhʌntɪŋ/",
+      "graphemes": [
+        "h",
+        "u",
+        "n",
+        "t",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'h",
+        "ʌ",
+        "n",
+        "t",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'h",
+        "ŭ",
+        "n",
+        "t",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "closed",
+        "cluster",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "hunt + ing；ng 發 /ŋ/。go egg hunting 找彩蛋。"
     }
   ]
 }
