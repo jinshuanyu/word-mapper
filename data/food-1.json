@@ -3,7 +3,7 @@
     {
       "number": "🍎 蘋果",
       "word": "apple",
-      "ipa": "/ˈæpl/",
+      "ipa": "/ˈæpəl/",
       "graphemes": [
         "a",
         "pp",
@@ -794,7 +794,7 @@
     {
       "number": "🍍 鳳梨",
       "word": "pineapple",
-      "ipa": "/ˈpaɪnæpl/",
+      "ipa": "/ˈpaɪnæpəl/",
       "graphemes": [
         "p",
         "i",
@@ -1683,7 +1683,7 @@
     {
       "number": "🍎 蘋果（複數）",
       "word": "apples",
-      "ipa": "/ˈæplz/",
+      "ipa": "/ˈæpəlz/",
       "graphemes": [
         "a",
         "pp",
@@ -1891,7 +1891,7 @@
     {
       "number": "🍍 鳳梨（複數）",
       "word": "pineapples",
-      "ipa": "/ˈpaɪnæplz/",
+      "ipa": "/ˈpaɪnæpəlz/",
       "graphemes": [
         "p",
         "i",
