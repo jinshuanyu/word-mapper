@@ -1514,6 +1514,169 @@
         0
       ],
       "hint": "l 不發音（像 folk）；o 發 /oʊ/。"
+    },
+    {
+      "number": "🍣 壽司",
+      "word": "sushi",
+      "ipa": "/ˈsuʃi/",
+      "graphemes": [
+        "s",
+        "u",
+        "sh",
+        "i"
+      ],
+      "phonemes": [
+        "/'s",
+        "u",
+        "ʃ",
+        "i/"
+      ],
+      "phonics": [
+        "/'s",
+        "oo",
+        "sh",
+        "ē/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "日文借字；u 發 /u/，字尾 i 發 /i/。"
+    },
+    {
+      "number": "🍚 韓式拌飯",
+      "word": "bibimbap",
+      "ipa": "/ˈbibɪmˌbɑp/",
+      "graphemes": [
+        "b",
+        "i",
+        "b",
+        "i",
+        "m",
+        "b",
+        "a",
+        "p"
+      ],
+      "phonemes": [
+        "/'b",
+        "i",
+        "b",
+        "ɪ",
+        "m",
+        "b",
+        "ɑ",
+        "p/"
+      ],
+      "phonics": [
+        "/'b",
+        "ē",
+        "b",
+        "ĭ",
+        "m",
+        "b",
+        "ŏ",
+        "p/"
+      ],
+      "tags": [
+        "irregular"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "韓文借字；第一個 i 發 /i/，a 發 /ɑ/。"
+    },
+    {
+      "number": "🌮 墨西哥夾餅（複數）",
+      "word": "tacos",
+      "ipa": "/ˈtɑkoʊz/",
+      "graphemes": [
+        "t",
+        "a",
+        "c",
+        "o",
+        "s"
+      ],
+      "phonemes": [
+        "/'t",
+        "ɑ",
+        "k",
+        "oʊ",
+        "z/"
+      ],
+      "phonics": [
+        "/'t",
+        "ŏ",
+        "k",
+        "ō",
+        "z/"
+      ],
+      "tags": [
+        "open",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "hint": "taco 的複數；a 發 /ɑ/，字尾 o 發 /oʊ/。"
+    },
+    {
+      "number": "🌭 香腸（複數）",
+      "word": "sausages",
+      "ipa": "/ˈsɔsɪdʒɪz/",
+      "graphemes": [
+        "s",
+        "au",
+        "s",
+        "a",
+        "ge",
+        "s"
+      ],
+      "phonemes": [
+        "/'s",
+        "ɔ",
+        "s",
+        "ɪ",
+        "dʒ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'s",
+        "aw",
+        "s",
+        "ĭ",
+        "-j",
+        "ĭz/"
+      ],
+      "tags": [
+        "vowel_team",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "hint": "sausage 的複數；au 發 /ɔ/，a 弱讀 /ɪ/，ge 後的 s 發 /ɪz/。"
     }
   ]
 }
