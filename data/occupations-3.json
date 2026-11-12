@@ -1073,6 +1073,41 @@
         0
       ],
       "hint": "part + time；i_e 發 /aɪ/。"
+    },
+    {
+      "number": "👥 員工；全體職員",
+      "word": "staff",
+      "ipa": "/stæf/",
+      "graphemes": [
+        "s",
+        "t",
+        "a",
+        "ff"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "æ",
+        "f/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ă",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群；a 發短母音 ă；ff 為 floss 重複字母。"
     }
   ]
 }

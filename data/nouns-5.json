@@ -1353,6 +1353,71 @@
         0
       ],
       "hint": "a_e 發 /eɪ/。Jade Rabbit 玉兔。"
+    },
+    {
+      "number": "🐥 絨毛",
+      "word": "fluff",
+      "ipa": "/flʌf/",
+      "graphemes": [
+        "f",
+        "l",
+        "u",
+        "ff"
+      ],
+      "phonemes": [
+        "/f",
+        "l",
+        "ʌ",
+        "f/"
+      ],
+      "phonics": [
+        "/f",
+        "l",
+        "ŭ",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fl 子音群；u 發短母音 ŭ；ff 為 floss 重複字母。"
+    },
+    {
+      "number": "🧶 細毛；絨毛",
+      "word": "fuzz",
+      "ipa": "/fʌz/",
+      "graphemes": [
+        "f",
+        "u",
+        "zz"
+      ],
+      "phonemes": [
+        "/f",
+        "ʌ",
+        "z/"
+      ],
+      "phonics": [
+        "/f",
+        "ŭ",
+        "z/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 ŭ；zz 為 floss 重複字母，發單音 /z/。"
     }
   ]
 }

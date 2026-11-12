@@ -4,166 +4,545 @@
       "number": "🌫 霧",
       "word": "fog",
       "ipa": "/fɑɡ/",
-      "graphemes": ["f", "o", "g"],
-      "phonemes": ["/f", "ɑ", "ɡ/"],
-      "phonics": ["/f", "ŏ", "ɡ/"],
-      "tags": ["cvc"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "f",
+        "o",
+        "g"
+      ],
+      "phonemes": [
+        "/f",
+        "ɑ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/f",
+        "ŏ",
+        "ɡ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "🌫 有霧的",
       "word": "foggy",
       "ipa": "/ˈfɑɡi/",
-      "graphemes": ["f", "o", "gg", "y"],
-      "phonemes": ["/'f", "ɑ", "ɡ", "i/"],
-      "phonics": ["/'f", "ŏ", "ɡ", "ē/"],
-      "tags": ["closed", "suffix"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "f",
+        "o",
+        "gg",
+        "y"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɑ",
+        "ɡ",
+        "i/"
+      ],
+      "phonics": [
+        "/'f",
+        "ŏ",
+        "ɡ",
+        "ē/"
+      ],
+      "tags": [
+        "closed",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "字尾 y 發 /i/。"
     },
     {
       "number": "☁️ 雲",
       "word": "cloud",
       "ipa": "/klaʊd/",
-      "graphemes": ["c", "l", "ou", "d"],
-      "phonemes": ["/k", "l", "aʊ", "d/"],
-      "phonics": ["/k", "l", "ow", "d/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "c",
+        "l",
+        "ou",
+        "d"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "aʊ",
+        "d/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ow",
+        "d/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ou 對應 /aʊ/。"
     },
     {
       "number": "💨 風",
       "word": "wind",
       "ipa": "/wɪnd/",
-      "graphemes": ["w", "i", "n", "d"],
-      "phonemes": ["/w", "ɪ", "n", "d/"],
-      "phonics": ["/w", "ĭ", "n", "d/"],
-      "tags": ["cvc","cluster"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "w",
+        "i",
+        "n",
+        "d"
+      ],
+      "phonemes": [
+        "/w",
+        "ɪ",
+        "n",
+        "d/"
+      ],
+      "phonics": [
+        "/w",
+        "ĭ",
+        "n",
+        "d/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": ""
     },
     {
       "number": "⛈ 暴風",
       "word": "storm",
       "ipa": "/stɔrm/",
-      "graphemes": ["s", "t", "or", "m"],
-      "phonemes": ["/s", "t", "ɔr", "m/"],
-      "phonics": ["/s", "t", "or", "m/"],
-      "tags": ["cluster", "rcontrolled"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "t",
+        "or",
+        "m"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɔr",
+        "m/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "or",
+        "m/"
+      ],
+      "tags": [
+        "cluster",
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "or 發 /ɔr/。"
     },
     {
       "number": "⚡ 雷聲",
       "word": "thunder",
       "ipa": "/ˈθʌndɚ/",
-      "graphemes": ["th", "u", "n", "d", "er"],
-      "phonemes": ["/'θ", "ʌ", "n", "d", "ɚ/"],
-      "phonics": ["/'th", "ŭ", "n", "d", "er/"],
-      "tags": ["digraph", "closed"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "th",
+        "u",
+        "n",
+        "d",
+        "er"
+      ],
+      "phonemes": [
+        "/'θ",
+        "ʌ",
+        "n",
+        "d",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'th",
+        "ŭ",
+        "n",
+        "d",
+        "er/"
+      ],
+      "tags": [
+        "digraph",
+        "closed"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "th 為清音 /θ/；er 對應 /er/。"
     },
     {
       "number": "⚡ 閃電",
       "word": "lightning",
       "ipa": "/ˈlaɪtnɪŋ/",
-      "graphemes": ["l", "igh", "t", "n", "i", "ng"],
-      "phonemes": ["/'l", "aɪ", "t", "n", "ɪ", "ŋ/"],
-      "phonics": ["/'l", "ī", "t", "n", "ĭ", "ŋ/"],
-      "tags": ["digraph"],
-      "hearts": [0, 1, 0, 0, 0, 0],
+      "graphemes": [
+        "l",
+        "igh",
+        "t",
+        "n",
+        "i",
+        "ng"
+      ],
+      "phonemes": [
+        "/'l",
+        "aɪ",
+        "t",
+        "n",
+        "ɪ",
+        "ŋ/"
+      ],
+      "phonics": [
+        "/'l",
+        "ī",
+        "t",
+        "n",
+        "ĭ",
+        "ŋ/"
+      ],
+      "tags": [
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "igh 對應 /aɪ/（用 ī 表示）；ng 發 /ŋ/。"
     },
     {
       "number": "🌈 彩虹",
       "word": "rainbow",
       "ipa": "/ˈreɪnboʊ/",
-      "graphemes": ["r", "ai", "n", "b", "ow"],
-      "phonemes": ["/'r", "eɪ", "n", "b", "oʊ/"],
-      "phonics": ["/'r", "ā", "n", "b", "ō/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0, 0, 0],
+      "graphemes": [
+        "r",
+        "ai",
+        "n",
+        "b",
+        "ow"
+      ],
+      "phonemes": [
+        "/'r",
+        "eɪ",
+        "n",
+        "b",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/'r",
+        "ā",
+        "n",
+        "b",
+        "ō/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "ai 發 /eɪ/；ow 在此發 /oʊ/。"
     },
     {
       "number": "🚿 陣雨",
       "word": "shower",
       "ipa": "/ˈʃaʊɚ/",
-      "graphemes": ["sh", "ow", "er"],
-      "phonemes": ["/'ʃ", "aʊ", "ɚ/"],
-      "phonics": ["/'sh", "ow", "er/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "sh",
+        "ow",
+        "er"
+      ],
+      "phonemes": [
+        "/'ʃ",
+        "aʊ",
+        "ɚ/"
+      ],
+      "phonics": [
+        "/'sh",
+        "ow",
+        "er/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "sh 發 /ʃ/；ow 對應 /aʊ/；er 對應 /er/。"
     },
     {
       "number": "❄️ 雪",
       "word": "snow",
       "ipa": "/snoʊ/",
-      "graphemes": ["s", "n", "ow"],
-      "phonemes": ["/s", "n", "oʊ/"],
-      "phonics": ["/s", "n", "ō/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "s",
+        "n",
+        "ow"
+      ],
+      "phonemes": [
+        "/s",
+        "n",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/s",
+        "n",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ow 在此發 /oʊ/（ō）。"
     },
     {
       "number": "⛄ 雪人",
       "word": "snowman",
       "ipa": "/ˈsnoʊmæn/",
-      "graphemes": ["s", "n", "ow", "m", "a", "n"],
-      "phonemes": ["/'s", "n", "oʊ", "m", "æ", "n/"],
-      "phonics": ["/'s", "n", "ō", "m", "ă", "n/"],
-      "tags": ["cluster","vowel_team"],
-      "hearts": [0, 0, 0, 0, 0, 0],
+      "graphemes": [
+        "s",
+        "n",
+        "ow",
+        "m",
+        "a",
+        "n"
+      ],
+      "phonemes": [
+        "/'s",
+        "n",
+        "oʊ",
+        "m",
+        "æ",
+        "n/"
+      ],
+      "phonics": [
+        "/'s",
+        "n",
+        "ō",
+        "m",
+        "ă",
+        "n/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "snow 的 ow 發 /oʊ/；man 的 a 發 /æ/。"
     },
     {
       "number": "🌀 颱風",
       "word": "typhoon",
       "ipa": "/taɪˈfun/",
-      "graphemes": ["t", "y", "ph", "oo", "n"],
-      "phonemes": ["/t", "aɪ", "'f", "u", "n/"],
-      "phonics": ["/t", "ī", "'f", "oo", "n/"],
-      "tags": ["digraph", "vowel_team"],
-      "hearts": [0, 1, 0, 0, 0],
+      "graphemes": [
+        "t",
+        "y",
+        "ph",
+        "oo",
+        "n"
+      ],
+      "phonemes": [
+        "/t",
+        "aɪ",
+        "'f",
+        "u",
+        "n/"
+      ],
+      "phonics": [
+        "/t",
+        "ī",
+        "'f",
+        "oo",
+        "n/"
+      ],
+      "tags": [
+        "digraph",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
       "hint": "y 在此對應 /aɪ/（用 ī 表示）；ph 發 /f/；oo 發 /u/。"
     },
     {
       "number": "🌬 吹",
       "word": "blow",
       "ipa": "/bloʊ/",
-      "graphemes": ["b", "l", "ow"],
-      "phonemes": ["/b", "l", "oʊ/"],
-      "phonics": ["/b", "l", "ō/"],
-      "tags": ["cluster", "vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "b",
+        "l",
+        "ow"
+      ],
+      "phonemes": [
+        "/b",
+        "l",
+        "oʊ/"
+      ],
+      "phonics": [
+        "/b",
+        "l",
+        "ō/"
+      ],
+      "tags": [
+        "cluster",
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ow 在此發 /oʊ/（ō）。"
     },
     {
       "number": "🌧 下雨",
       "word": "rain",
       "ipa": "/reɪn/",
-      "graphemes": ["r", "ai", "n"],
-      "phonemes": ["/r", "eɪ", "n/"],
-      "phonics": ["/r", "ā", "n/"],
-      "tags": ["vowel_team"],
-      "hearts": [0, 0, 0],
+      "graphemes": [
+        "r",
+        "ai",
+        "n"
+      ],
+      "phonemes": [
+        "/r",
+        "eɪ",
+        "n/"
+      ],
+      "phonics": [
+        "/r",
+        "ā",
+        "n/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
       "hint": "ai 發 /eɪ/（ā）。"
     },
     {
       "number": "✨ 發光",
       "word": "shine",
       "ipa": "/ʃaɪn/",
-      "graphemes": ["sh", "i", "n", "e"],
-      "phonemes": ["/ʃ", "aɪ", "n", "-/"],
-      "phonics": ["/sh", "ī", "n", "-/"],
-      "tags": ["digraph", "magic_e"],
-      "hearts": [0, 0, 0, 0],
+      "graphemes": [
+        "sh",
+        "i",
+        "n",
+        "e"
+      ],
+      "phonemes": [
+        "/ʃ",
+        "aɪ",
+        "n",
+        "-/"
+      ],
+      "phonics": [
+        "/sh",
+        "ī",
+        "n",
+        "-/"
+      ],
+      "tags": [
+        "digraph",
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
       "hint": "i_e 對應 /aɪ/（用 ī 表示）；e 不發音。"
+    },
+    {
+      "number": "💨 一吹；一陣煙",
+      "word": "puff",
+      "ipa": "/pʌf/",
+      "graphemes": [
+        "p",
+        "u",
+        "ff"
+      ],
+      "phonemes": [
+        "/p",
+        "ʌ",
+        "f/"
+      ],
+      "phonics": [
+        "/p",
+        "ŭ",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 ŭ；ff 為 floss 重複字母，發單音 /f/。"
     }
   ]
 }

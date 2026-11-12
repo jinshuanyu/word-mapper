@@ -926,6 +926,76 @@
         0
       ],
       "hint": "addict + ion；a 弱化；dd 只發一個 /d/。"
+    },
+    {
+      "number": "👃 吸鼻子；嗅",
+      "word": "sniff",
+      "ipa": "/snɪf/",
+      "graphemes": [
+        "s",
+        "n",
+        "i",
+        "ff"
+      ],
+      "phonemes": [
+        "/s",
+        "n",
+        "ɪ",
+        "f/"
+      ],
+      "phonics": [
+        "/s",
+        "n",
+        "ĭ",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sn 子音群；i 發短母音 ĭ；ff 為 floss 重複字母。"
+    },
+    {
+      "number": "🦴 僵硬的",
+      "word": "stiff",
+      "ipa": "/stɪf/",
+      "graphemes": [
+        "s",
+        "t",
+        "i",
+        "ff"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɪ",
+        "f/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ĭ",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群；i 發短母音 ĭ；ff 為 floss 重複字母。"
     }
   ]
 }

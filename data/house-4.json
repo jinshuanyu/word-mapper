@@ -1146,6 +1146,70 @@
         0
       ],
       "hint": "e_e 發 /i/，不唸「咪咪」。"
+    },
+    {
+      "number": "🎒 東西；物品",
+      "word": "stuff",
+      "ipa": "/stʌf/",
+      "graphemes": [
+        "s",
+        "t",
+        "u",
+        "ff"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ʌ",
+        "f/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ŭ",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群；u 發短母音 ŭ；ff 為 floss 重複字母，發單音 /f/。"
+    },
+    {
+      "number": "🌀 線圈；一捲",
+      "word": "coil",
+      "ipa": "/kɔɪl/",
+      "graphemes": [
+        "c",
+        "oi",
+        "l"
+      ],
+      "phonemes": [
+        "/k",
+        "ɔɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/k",
+        "oi",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/。"
     }
   ]
 }

@@ -576,6 +576,40 @@
         0
       ],
       "hint": "ea 發長母音 /i/。"
+    },
+    {
+      "number": "💧 潮濕的；濕潤的",
+      "word": "moist",
+      "ipa": "/mɔɪst/",
+      "graphemes": [
+        "m",
+        "oi",
+        "s",
+        "t"
+      ],
+      "phonemes": [
+        "/m",
+        "ɔɪ",
+        "s",
+        "t/"
+      ],
+      "phonics": [
+        "/m",
+        "oi",
+        "s",
+        "t/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/；字尾 st 子音群。"
     }
   ]
 }

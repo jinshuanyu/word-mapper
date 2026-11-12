@@ -1261,6 +1261,36 @@
         0
       ],
       "hint": "ground + hog；ou 發 /aʊ/。Groundhog Day 土撥鼠日。"
+    },
+    {
+      "number": "🐝 嗡嗡叫",
+      "word": "buzz",
+      "ipa": "/bʌz/",
+      "graphemes": [
+        "b",
+        "u",
+        "zz"
+      ],
+      "phonemes": [
+        "/b",
+        "ʌ",
+        "z/"
+      ],
+      "phonics": [
+        "/b",
+        "ŭ",
+        "z/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 ŭ；zz 為 floss 重複字母，發單音 /z/。"
     }
   ]
 }

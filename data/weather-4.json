@@ -871,6 +871,41 @@
         0
       ],
       "hint": "river + side；i_e 發 /aɪ/。riverside park 河濱公園。"
+    },
+    {
+      "number": "🏔️ 懸崖",
+      "word": "cliff",
+      "ipa": "/klɪf/",
+      "graphemes": [
+        "c",
+        "l",
+        "i",
+        "ff"
+      ],
+      "phonemes": [
+        "/k",
+        "l",
+        "ɪ",
+        "f/"
+      ],
+      "phonics": [
+        "/k",
+        "l",
+        "ĭ",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "cl 子音群；i 發短母音 ĭ；ff 為 floss 重複字母。"
     }
   ]
 }

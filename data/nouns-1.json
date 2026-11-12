@@ -1431,6 +1431,35 @@
         0
       ],
       "hint": "ch 發 /k/；d 在 u 前發 /dʒ/。"
+    },
+    {
+      "number": "💪 辛苦工作",
+      "word": "toil",
+      "ipa": "/tɔɪl/",
+      "graphemes": [
+        "t",
+        "oi",
+        "l"
+      ],
+      "phonemes": [
+        "/t",
+        "ɔɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/t",
+        "oi",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/。"
     }
   ]
 }

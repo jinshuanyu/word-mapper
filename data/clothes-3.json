@@ -933,6 +933,36 @@
         0
       ],
       "hint": "ear 這裡發 /ɝ/（像 learn）。"
+    },
+    {
+      "number": "👔 袖口",
+      "word": "cuff",
+      "ipa": "/kʌf/",
+      "graphemes": [
+        "c",
+        "u",
+        "ff"
+      ],
+      "phonemes": [
+        "/k",
+        "ʌ",
+        "f/"
+      ],
+      "phonics": [
+        "/k",
+        "ŭ",
+        "f/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 ŭ；ff 為 floss 重複字母，發單音 /f/。"
     }
   ]
 }

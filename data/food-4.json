@@ -1200,6 +1200,36 @@
         0
       ],
       "hint": "兩個音節都發 /koʊ/；oa 發 /oʊ/。"
+    },
+    {
+      "number": "🥤 冒泡；嘶嘶聲",
+      "word": "fizz",
+      "ipa": "/fɪz/",
+      "graphemes": [
+        "f",
+        "i",
+        "zz"
+      ],
+      "phonemes": [
+        "/f",
+        "ɪ",
+        "z/"
+      ],
+      "phonics": [
+        "/f",
+        "ĭ",
+        "z/"
+      ],
+      "tags": [
+        "cvc",
+        "floss"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "i 發短母音 ĭ；zz 為 floss 重複字母，發單音 /z/。"
     }
   ]
 }

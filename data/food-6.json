@@ -977,6 +977,40 @@
         0
       ],
       "hint": "ee 發 /i/。peel the pomelo 剝柚子。"
+    },
+    {
+      "number": "🍌 腐壞；寵壞",
+      "word": "spoil",
+      "ipa": "/spɔɪl/",
+      "graphemes": [
+        "s",
+        "p",
+        "oi",
+        "l"
+      ],
+      "phonemes": [
+        "/s",
+        "p",
+        "ɔɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/s",
+        "p",
+        "oi",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sp 子音群；oi 發 /ɔɪ/。"
     }
   ]
 }

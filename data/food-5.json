@@ -802,6 +802,35 @@
         0
       ],
       "hint": "dish 的複數：sh 後加 es，發 /ɪz/。"
+    },
+    {
+      "number": "🥫 鋁箔紙",
+      "word": "foil",
+      "ipa": "/fɔɪl/",
+      "graphemes": [
+        "f",
+        "oi",
+        "l"
+      ],
+      "phonemes": [
+        "/f",
+        "ɔɪ",
+        "l/"
+      ],
+      "phonics": [
+        "/f",
+        "oi",
+        "l/"
+      ],
+      "tags": [
+        "vowel_team"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "oi 發 /ɔɪ/。"
     }
   ]
 }
