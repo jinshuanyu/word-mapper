@@ -1340,6 +1340,76 @@
         0
       ],
       "hint": "amuse + ment；u_e 發 /ju/，s 發 /z/。amusement park 遊樂園。"
+    },
+    {
+      "number": "💋 親吻（複數）",
+      "word": "kisses",
+      "ipa": "/ˈkɪsɪz/",
+      "graphemes": [
+        "k",
+        "i",
+        "ss",
+        "es"
+      ],
+      "phonemes": [
+        "/'k",
+        "ɪ",
+        "s",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'k",
+        "ĭ",
+        "s",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "kiss 的複數：ss 後加 es，多一個音節發 /ɪz/。"
+    },
+    {
+      "number": "🌟 願望（複數）",
+      "word": "wishes",
+      "ipa": "/ˈwɪʃɪz/",
+      "graphemes": [
+        "w",
+        "i",
+        "sh",
+        "es"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɪ",
+        "ʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'w",
+        "ĭ",
+        "sh",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "wish 的複數：sh 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

@@ -1044,6 +1044,41 @@
         0
       ],
       "hint": "cr 子音群；a 發短母音。cram school 補習班。"
+    },
+    {
+      "number": "❓ 測驗（複數）",
+      "word": "quizzes",
+      "ipa": "/ˈkwɪzɪz/",
+      "graphemes": [
+        "qu",
+        "i",
+        "zz",
+        "es"
+      ],
+      "phonemes": [
+        "/'kw",
+        "ɪ",
+        "z",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'kw",
+        "ĭ",
+        "z",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "quiz 的複數：先重複 z 再加 es（quizzes），多一個音節發 /ɪz/。"
     }
   ]
 }

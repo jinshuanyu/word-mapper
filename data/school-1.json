@@ -918,6 +918,46 @@
         0
       ],
       "hint": "laboratory 的縮寫；CVC 短母音。"
+    },
+    {
+      "number": "🏫 班級（複數）",
+      "word": "classes",
+      "ipa": "/ˈklæsɪz/",
+      "graphemes": [
+        "c",
+        "l",
+        "a",
+        "ss",
+        "es"
+      ],
+      "phonemes": [
+        "/'k",
+        "l",
+        "æ",
+        "s",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'k",
+        "l",
+        "ă",
+        "s",
+        "ĭz/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "class 的複數：ss 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

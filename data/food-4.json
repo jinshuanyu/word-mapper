@@ -1230,6 +1230,46 @@
         0
       ],
       "hint": "i 發短母音 ĭ；zz 為 floss 重複字母，發單音 /z/。"
+    },
+    {
+      "number": "🍱 午餐（複數）",
+      "word": "lunches",
+      "ipa": "/ˈlʌntʃɪz/",
+      "graphemes": [
+        "l",
+        "u",
+        "n",
+        "ch",
+        "es"
+      ],
+      "phonemes": [
+        "/'l",
+        "ʌ",
+        "n",
+        "tʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'l",
+        "ŭ",
+        "n",
+        "ch",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "lunch 的複數：ch 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

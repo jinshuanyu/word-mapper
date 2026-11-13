@@ -1938,6 +1938,41 @@
         0
       ],
       "hint": "pine + apples；i_e 發 /aɪ/。"
+    },
+    {
+      "number": "🍑 桃子（複數）",
+      "word": "peaches",
+      "ipa": "/ˈpitʃɪz/",
+      "graphemes": [
+        "p",
+        "ea",
+        "ch",
+        "es"
+      ],
+      "phonemes": [
+        "/'p",
+        "i",
+        "tʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'p",
+        "ē",
+        "ch",
+        "ĭz/"
+      ],
+      "tags": [
+        "vowel_team",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "peach 的複數：ch 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

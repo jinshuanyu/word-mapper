@@ -1512,6 +1512,46 @@
         1
       ],
       "hint": "i 在重音節發 /ĭ/。"
+    },
+    {
+      "number": "🪑 長椅（複數）",
+      "word": "benches",
+      "ipa": "/ˈbɛntʃɪz/",
+      "graphemes": [
+        "b",
+        "e",
+        "n",
+        "ch",
+        "es"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɛ",
+        "n",
+        "tʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'b",
+        "ĕ",
+        "n",
+        "ch",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph",
+        "cluster",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "bench 的複數：ch 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

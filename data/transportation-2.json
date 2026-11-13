@@ -1313,6 +1313,40 @@
         0
       ],
       "hint": "cross + roads；o 發 /ɔ/，oa 發 /oʊ/。at a crossroads 面臨抉擇。"
+    },
+    {
+      "number": "🚌 公車（複數）",
+      "word": "buses",
+      "ipa": "/ˈbʌsɪz/",
+      "graphemes": [
+        "b",
+        "u",
+        "s",
+        "es"
+      ],
+      "phonemes": [
+        "/'b",
+        "ʌ",
+        "s",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŭ",
+        "s",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "bus 的複數：s 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

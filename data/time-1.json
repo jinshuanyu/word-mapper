@@ -644,6 +644,41 @@
         0
       ],
       "hint": "重音在 -larm；a 弱化；ar 發 /ɑr/。"
+    },
+    {
+      "number": "⌚ 手錶（複數）",
+      "word": "watches",
+      "ipa": "/ˈwɑtʃɪz/",
+      "graphemes": [
+        "w",
+        "a",
+        "tch",
+        "es"
+      ],
+      "phonemes": [
+        "/'w",
+        "ɑ",
+        "tʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'w",
+        "ŏ",
+        "ch",
+        "ĭz/"
+      ],
+      "tags": [
+        "irregular",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        1,
+        1,
+        0
+      ],
+      "hint": "watch 的複數：ch 後加 es，多一個音節發 /ɪz/；a 在 w 後發 /ŏ/。"
     }
   ]
 }

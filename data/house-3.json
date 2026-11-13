@@ -1349,6 +1349,80 @@
         0
       ],
       "hint": "au 發 /ɔ/；y 字尾發 /i/。do the laundry 洗衣服。"
+    },
+    {
+      "number": "📦 盒子（複數）",
+      "word": "boxes",
+      "ipa": "/ˈbɑksɪz/",
+      "graphemes": [
+        "b",
+        "o",
+        "x",
+        "es"
+      ],
+      "phonemes": [
+        "/'b",
+        "ɑ",
+        "ks",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'b",
+        "ŏ",
+        "ks",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "box 的複數：x 後加 es，多一個音節發 /ɪz/。"
+    },
+    {
+      "number": "🪥 刷子（複數）",
+      "word": "brushes",
+      "ipa": "/ˈbrʌʃɪz/",
+      "graphemes": [
+        "b",
+        "r",
+        "u",
+        "sh",
+        "es"
+      ],
+      "phonemes": [
+        "/'b",
+        "r",
+        "ʌ",
+        "ʃ",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'b",
+        "r",
+        "ŭ",
+        "sh",
+        "ĭz/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "brush 的複數：sh 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

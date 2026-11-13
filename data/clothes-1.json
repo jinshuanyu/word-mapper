@@ -892,6 +892,46 @@
         0
       ],
       "hint": "字母 T + shirt；sh 發 /ʃ/；ir 發 /ɝ/。"
+    },
+    {
+      "number": "👗 洋裝（複數）",
+      "word": "dresses",
+      "ipa": "/ˈdrɛsɪz/",
+      "graphemes": [
+        "d",
+        "r",
+        "e",
+        "ss",
+        "es"
+      ],
+      "phonemes": [
+        "/'d",
+        "r",
+        "ɛ",
+        "s",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'d",
+        "r",
+        "ĕ",
+        "s",
+        "ĭz/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "floss",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dress 的複數：ss 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }

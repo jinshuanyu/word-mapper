@@ -1291,6 +1291,40 @@
         0
       ],
       "hint": "u 發短母音 ŭ；zz 為 floss 重複字母，發單音 /z/。"
+    },
+    {
+      "number": "🦊 狐狸（複數）",
+      "word": "foxes",
+      "ipa": "/ˈfɑksɪz/",
+      "graphemes": [
+        "f",
+        "o",
+        "x",
+        "es"
+      ],
+      "phonemes": [
+        "/'f",
+        "ɑ",
+        "ks",
+        "ɪz/"
+      ],
+      "phonics": [
+        "/'f",
+        "ŏ",
+        "ks",
+        "ĭz/"
+      ],
+      "tags": [
+        "cvc",
+        "suffix"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fox 的複數：x 後加 es，多一個音節發 /ɪz/。"
     }
   ]
 }
