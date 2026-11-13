@@ -453,6 +453,39 @@
       "hint": "fl 混合音；ow 發 /aʊ/。"
     },
     {
+      "number": "🌹 玫瑰",
+      "word": "rose",
+      "ipa": "/roʊz/",
+      "graphemes": [
+        "r",
+        "o",
+        "s",
+        "e"
+      ],
+      "phonemes": [
+        "/r",
+        "oʊ",
+        "z",
+        "-/"
+      ],
+      "phonics": [
+        "/r",
+        "ō",
+        "z",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "hint": "o_e 魔法 e，o 發長音 ō；s 發 /z/，字尾 e 不發音。"
+    },
+    {
       "number": "🌿 草",
       "word": "grass",
       "ipa": "/ɡræs/",
