@@ -991,6 +991,40 @@
         0
       ],
       "hint": "check + out；ch 發 /tʃ/；ck 發 /k/；ou 發 /aʊ/。"
+    },
+    {
+      "number": "⛸️ 溜冰場",
+      "word": "rink",
+      "ipa": "/rɪŋk/",
+      "graphemes": [
+        "r",
+        "i",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "nk 前的 n 發 /ŋ/；i 發短母音 ĭ。"
     }
   ]
 }

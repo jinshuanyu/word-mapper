@@ -1314,6 +1314,40 @@
         0
       ],
       "hint": "重音在 -ven-；o 弱化；tion 發 /ʃən/。"
+    },
+    {
+      "number": "🏅 名次；等級",
+      "word": "rank",
+      "ipa": "/ræŋk/",
+      "graphemes": [
+        "r",
+        "a",
+        "n",
+        "k"
+      ],
+      "phonemes": [
+        "/r",
+        "æ",
+        "ŋ",
+        "k/"
+      ],
+      "phonics": [
+        "/r",
+        "ă",
+        "ŋ",
+        "k/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "nk 前的 n 發 /ŋ/；a 發短母音 ă。"
     }
   ]
 }

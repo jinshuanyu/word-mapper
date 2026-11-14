@@ -1458,6 +1458,69 @@
         0
       ],
       "hint": "st 子音群；短母音後面的 /tʃ/ 拼成 tch。"
+    },
+    {
+      "number": "💧 滴；滴水",
+      "word": "drip",
+      "ipa": "/drɪp/",
+      "graphemes": [
+        "d",
+        "r",
+        "i",
+        "p"
+      ],
+      "phonemes": [
+        "/d",
+        "r",
+        "ɪ",
+        "p/"
+      ],
+      "phonics": [
+        "/d",
+        "r",
+        "ĭ",
+        "p/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "dr 子音群；i 發短母音 ĭ。"
+    },
+    {
+      "number": "🧶 小地毯",
+      "word": "rug",
+      "ipa": "/rʌɡ/",
+      "graphemes": [
+        "r",
+        "u",
+        "g"
+      ],
+      "phonemes": [
+        "/r",
+        "ʌ",
+        "ɡ/"
+      ],
+      "phonics": [
+        "/r",
+        "ŭ",
+        "ɡ/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 ŭ。"
     }
   ]
 }

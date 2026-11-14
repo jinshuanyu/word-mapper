@@ -1666,6 +1666,39 @@
         0
       ],
       "hint": "good 的最高級；st 字尾子音群。"
+    },
+    {
+      "number": "💧 純的；純粹的",
+      "word": "pure",
+      "ipa": "/pjʊr/",
+      "graphemes": [
+        "p",
+        "u",
+        "r",
+        "e"
+      ],
+      "phonemes": [
+        "/p",
+        "jʊ",
+        "r",
+        "-/"
+      ],
+      "phonics": [
+        "/p",
+        "yoo",
+        "r",
+        "-/"
+      ],
+      "tags": [
+        "magic_e"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "u_e：u 發 /jʊ/（yoo），字尾 e 不發音；跟 cure、sure 同一組。"
     }
   ]
 }

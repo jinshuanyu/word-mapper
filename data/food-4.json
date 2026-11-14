@@ -1270,6 +1270,35 @@
         0
       ],
       "hint": "lunch 的複數：ch 後加 es，多一個音節發 /ɪz/。"
+    },
+    {
+      "number": "🥃 蘭姆酒",
+      "word": "rum",
+      "ipa": "/rʌm/",
+      "graphemes": [
+        "r",
+        "u",
+        "m"
+      ],
+      "phonemes": [
+        "/r",
+        "ʌ",
+        "m/"
+      ],
+      "phonics": [
+        "/r",
+        "ŭ",
+        "m/"
+      ],
+      "tags": [
+        "cvc"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "u 發短母音 ŭ。"
     }
   ]
 }
