@@ -1199,6 +1199,36 @@
         0
       ],
       "hint": "swim 重複 m 再加 ing。go swimming 去游泳。"
+    },
+    {
+      "number": "⚾ 投球",
+      "word": "pitch",
+      "ipa": "/pɪtʃ/",
+      "graphemes": [
+        "p",
+        "i",
+        "tch"
+      ],
+      "phonemes": [
+        "/p",
+        "ɪ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/p",
+        "ĭ",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /tʃ/ 拼成 tch；i 發短母音 ĭ。"
     }
   ]
 }

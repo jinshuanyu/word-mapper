@@ -963,6 +963,36 @@
         0
       ],
       "hint": "u 發短母音 ŭ；ff 為 floss 重複字母，發單音 /f/。"
+    },
+    {
+      "number": "🩹 補丁；貼布",
+      "word": "patch",
+      "ipa": "/pætʃ/",
+      "graphemes": [
+        "p",
+        "a",
+        "tch"
+      ],
+      "phonemes": [
+        "/p",
+        "æ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/p",
+        "ă",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /tʃ/ 拼成 tch；a 發短母音 ă。"
     }
   ]
 }

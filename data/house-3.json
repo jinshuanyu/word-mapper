@@ -1423,6 +1423,41 @@
         0
       ],
       "hint": "brush 的複數：sh 後加 es，多一個音節發 /ɪz/。"
+    },
+    {
+      "number": "🪡 縫一針",
+      "word": "stitch",
+      "ipa": "/stɪtʃ/",
+      "graphemes": [
+        "s",
+        "t",
+        "i",
+        "tch"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "ɪ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "ĭ",
+        "ch/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "st 子音群；短母音後面的 /tʃ/ 拼成 tch。"
     }
   ]
 }

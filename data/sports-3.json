@@ -1696,6 +1696,41 @@
         0
       ],
       "hint": "song 的複數；ng 發 /ŋ/，字尾 s 發 /z/。"
+    },
+    {
+      "number": "✏️ 素描",
+      "word": "sketch",
+      "ipa": "/skɛtʃ/",
+      "graphemes": [
+        "s",
+        "k",
+        "e",
+        "tch"
+      ],
+      "phonemes": [
+        "/s",
+        "k",
+        "ɛ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/s",
+        "k",
+        "ĕ",
+        "ch/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sk 子音群；短母音後面的 /tʃ/ 拼成 tch。"
     }
   ]
 }

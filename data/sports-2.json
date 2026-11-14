@@ -1280,6 +1280,45 @@
         0
       ],
       "hint": "hunt + ing；ng 發 /ŋ/。go egg hunting 找彩蛋。"
+    },
+    {
+      "number": "🙆 伸展",
+      "word": "stretch",
+      "ipa": "/strɛtʃ/",
+      "graphemes": [
+        "s",
+        "t",
+        "r",
+        "e",
+        "tch"
+      ],
+      "phonemes": [
+        "/s",
+        "t",
+        "r",
+        "ɛ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/s",
+        "t",
+        "r",
+        "ĕ",
+        "ch/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "str 三子音群；短母音後面的 /tʃ/ 拼成 tch。"
     }
   ]
 }

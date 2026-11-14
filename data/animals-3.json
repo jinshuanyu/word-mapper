@@ -1325,6 +1325,66 @@
         0
       ],
       "hint": "fox 的複數：x 後加 es，多一個音節發 /ɪz/。"
+    },
+    {
+      "number": "🐕 去撿回來",
+      "word": "fetch",
+      "ipa": "/fɛtʃ/",
+      "graphemes": [
+        "f",
+        "e",
+        "tch"
+      ],
+      "phonemes": [
+        "/f",
+        "ɛ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/f",
+        "ĕ",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /tʃ/ 拼成 tch；e 發短母音 ĕ。"
+    },
+    {
+      "number": "🐣 孵化",
+      "word": "hatch",
+      "ipa": "/hætʃ/",
+      "graphemes": [
+        "h",
+        "a",
+        "tch"
+      ],
+      "phonemes": [
+        "/h",
+        "æ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/h",
+        "ă",
+        "ch/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /tʃ/ 拼成 tch；a 發短母音 ă。"
     }
   ]
 }

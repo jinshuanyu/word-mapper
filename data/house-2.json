@@ -1552,6 +1552,41 @@
         0
       ],
       "hint": "bench 的複數：ch 後加 es，多一個音節發 /ɪz/。"
+    },
+    {
+      "number": "🔘 開關",
+      "word": "switch",
+      "ipa": "/swɪtʃ/",
+      "graphemes": [
+        "s",
+        "w",
+        "i",
+        "tch"
+      ],
+      "phonemes": [
+        "/s",
+        "w",
+        "ɪ",
+        "tʃ/"
+      ],
+      "phonics": [
+        "/s",
+        "w",
+        "ĭ",
+        "ch/"
+      ],
+      "tags": [
+        "cluster",
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "sw 子音群；短母音後面的 /tʃ/ 拼成 tch。"
     }
   ]
 }
