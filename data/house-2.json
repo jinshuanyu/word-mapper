@@ -1587,6 +1587,40 @@
         0
       ],
       "hint": "sw 子音群；短母音後面的 /tʃ/ 拼成 tch。"
+    },
+    {
+      "number": "🚪 鉸鏈",
+      "word": "hinge",
+      "ipa": "/hɪndʒ/",
+      "graphemes": [
+        "h",
+        "i",
+        "n",
+        "ge"
+      ],
+      "phonemes": [
+        "/h",
+        "ɪ",
+        "n",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/h",
+        "ĭ",
+        "n",
+        "-j/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "n 後面的 /dʒ/ 拼成 ge；i 發短母音 ĭ，字尾 e 不發音。"
     }
   ]
 }

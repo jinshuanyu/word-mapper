@@ -906,6 +906,36 @@
         0
       ],
       "hint": "cl 子音群；i 發短母音 ĭ；ff 為 floss 重複字母。"
+    },
+    {
+      "number": "⛰️ 山脊",
+      "word": "ridge",
+      "ipa": "/rɪdʒ/",
+      "graphemes": [
+        "r",
+        "i",
+        "dge"
+      ],
+      "phonemes": [
+        "/r",
+        "ɪ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/r",
+        "ĭ",
+        "-j/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /dʒ/ 拼成 dge；i 發短母音 ĭ。"
     }
   ]
 }

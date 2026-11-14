@@ -771,6 +771,44 @@
         0
       ],
       "hint": "appear + ance；ear 發 /ɪr/；兩個 a 都弱化。"
+    },
+    {
+      "number": "💇 瀏海",
+      "word": "fringe",
+      "ipa": "/frɪndʒ/",
+      "graphemes": [
+        "f",
+        "r",
+        "i",
+        "n",
+        "ge"
+      ],
+      "phonemes": [
+        "/f",
+        "r",
+        "ɪ",
+        "n",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/f",
+        "r",
+        "ĭ",
+        "n",
+        "-j/"
+      ],
+      "tags": [
+        "cvc",
+        "cluster"
+      ],
+      "hearts": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "hint": "fr 子音群；n 後面的 /dʒ/ 拼成 ge，字尾 e 不發音。"
     }
   ]
 }

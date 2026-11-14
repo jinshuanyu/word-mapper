@@ -1460,6 +1460,60 @@
         0
       ],
       "hint": "oi 發 /ɔɪ/。"
+    },
+    {
+      "number": "💪 衝動；催促",
+      "word": "urge",
+      "ipa": "/ɝdʒ/",
+      "graphemes": [
+        "ur",
+        "ge"
+      ],
+      "phonemes": [
+        "/ɝ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/er",
+        "-j/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0
+      ],
+      "hint": "ur 發捲舌音 /ɝ/；r 後面的 /dʒ/ 拼成 ge，字尾 e 不發音。"
+    },
+    {
+      "number": "🔨 鍛造；打造",
+      "word": "forge",
+      "ipa": "/fɔrdʒ/",
+      "graphemes": [
+        "f",
+        "or",
+        "ge"
+      ],
+      "phonemes": [
+        "/f",
+        "ɔr",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/f",
+        "or",
+        "-j/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "or 發 /ɔr/；r 後面的 /dʒ/ 拼成 ge，字尾 e 不發音。"
     }
   ]
 }

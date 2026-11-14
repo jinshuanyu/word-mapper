@@ -1313,6 +1313,36 @@
         0
       ],
       "hint": "aw 發 /ɔ/。"
+    },
+    {
+      "number": "🏡 小屋；山莊",
+      "word": "lodge",
+      "ipa": "/lɑdʒ/",
+      "graphemes": [
+        "l",
+        "o",
+        "dge"
+      ],
+      "phonemes": [
+        "/l",
+        "ɑ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/l",
+        "ŏ",
+        "-j/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /dʒ/ 拼成 dge；o 發短母音 ŏ。"
     }
   ]
 }

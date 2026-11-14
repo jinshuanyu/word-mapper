@@ -1418,6 +1418,66 @@
         0
       ],
       "hint": "u 發短母音 ŭ；zz 為 floss 重複字母，發單音 /z/。"
+    },
+    {
+      "number": "🪪 徽章；名牌",
+      "word": "badge",
+      "ipa": "/bædʒ/",
+      "graphemes": [
+        "b",
+        "a",
+        "dge"
+      ],
+      "phonemes": [
+        "/b",
+        "æ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/b",
+        "ă",
+        "-j/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /dʒ/ 拼成 dge；a 發短母音 ă。"
+    },
+    {
+      "number": "🧀 楔形塊",
+      "word": "wedge",
+      "ipa": "/wɛdʒ/",
+      "graphemes": [
+        "w",
+        "e",
+        "dge"
+      ],
+      "phonemes": [
+        "/w",
+        "ɛ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/w",
+        "ĕ",
+        "-j/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /dʒ/ 拼成 dge；e 發短母音 ĕ。"
     }
   ]
 }

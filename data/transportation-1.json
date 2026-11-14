@@ -945,6 +945,35 @@
         0
       ],
       "hint": "j 發 /dʒ/。"
+    },
+    {
+      "number": "🚢 駁船",
+      "word": "barge",
+      "ipa": "/bɑrdʒ/",
+      "graphemes": [
+        "b",
+        "ar",
+        "ge"
+      ],
+      "phonemes": [
+        "/b",
+        "ɑr",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/b",
+        "ɑr",
+        "-j/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "ar 發 /ɑr/；r 後面的 /dʒ/ 拼成 ge，字尾 e 不發音。"
     }
   ]
 }

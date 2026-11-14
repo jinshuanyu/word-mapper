@@ -1347,6 +1347,35 @@
         0
       ],
       "hint": "bus 的複數：s 後加 es，多一個音節發 /ɪz/。"
+    },
+    {
+      "number": "🔀 併入；合併",
+      "word": "merge",
+      "ipa": "/mɝdʒ/",
+      "graphemes": [
+        "m",
+        "er",
+        "ge"
+      ],
+      "phonemes": [
+        "/m",
+        "ɝ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/m",
+        "er",
+        "-j/"
+      ],
+      "tags": [
+        "rcontrolled"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "er 發捲舌音 /ɝ/；r 後面的 /dʒ/ 拼成 ge，字尾 e 不發音。"
     }
   ]
 }

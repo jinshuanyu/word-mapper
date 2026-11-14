@@ -817,6 +817,36 @@
         0
       ],
       "hint": "i_e 發長母音 /aɪ/。"
+    },
+    {
+      "number": "🌳 樹籬",
+      "word": "hedge",
+      "ipa": "/hɛdʒ/",
+      "graphemes": [
+        "h",
+        "e",
+        "dge"
+      ],
+      "phonemes": [
+        "/h",
+        "ɛ",
+        "dʒ/"
+      ],
+      "phonics": [
+        "/h",
+        "ĕ",
+        "-j/"
+      ],
+      "tags": [
+        "cvc",
+        "digraph"
+      ],
+      "hearts": [
+        0,
+        0,
+        0
+      ],
+      "hint": "短母音後面的 /dʒ/ 拼成 dge；e 發短母音 ĕ。"
     }
   ]
 }
